@@ -5239,6 +5239,7 @@
 23	_site/assets/js/search-data.json	/^  },"23": {$/;"	o
 24	_site/assets/js/search-data.json	/^  },"24": {$/;"	o
 25	_site/assets/js/search-data.json	/^  },"25": {$/;"	o
+26	_site/assets/js/search-data.json	/^  },"26": {$/;"	o
 3	_site/assets/js/search-data.json	/^  },"3": {$/;"	o
 4	_site/assets/js/search-data.json	/^  },"4": {$/;"	o
 5	_site/assets/js/search-data.json	/^  },"5": {$/;"	o
@@ -5392,11 +5393,13 @@ TODO for this page:	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-
 TODO for this page:	_site/policies/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 TODO for this page:	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 TODO for this page:	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
+TODO for this page:	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 TODO for this page:	_site/venue/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 TODO for this page:	organizers.md	/^# TODO for this page:$/;"	c
 TODO for this page:	policies.md	/^# TODO for this page:$/;"	c
 TODO for this page:	speakers.md	/^# TODO for this page:$/;"	c
 TODO for this page:	sponsors.md	/^# TODO for this page:$/;"	c
+TODO for this page:	tutorials.md	/^# TODO for this page:$/;"	c
 TODO for this page:	venue.md	/^# TODO for this page:$/;"	c
 Table of contents	_layouts/minimal_backup.html	/^        <h2 class="text-delta">Table of contents<\/h2>$/;"	i
 Talk Details	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
@@ -5555,10 +5558,11 @@ content	_site/assets/js/search-data.json	/^    "content": "--> Misha Belkin . UC
 content	_site/assets/js/search-data.json	/^    "content": ". | Can include it on the homepage too | . ",$/;"	s	object:14
 content	_site/assets/js/search-data.json	/^    "content": ". | Come up with what the deadlines will be (dates) | Make a ticking clock .js (/;"	s	object:2
 content	_site/assets/js/search-data.json	/^    "content": ". | DEI? | Code of conduct? | Review\/author guide? | . ",$/;"	s	object:7
+content	_site/assets/js/search-data.json	/^    "content": ". | Do we want to offer our existing course? | Do we want a call? | . ",$/;"	s	object:22
 content	_site/assets/js/search-data.json	/^    "content": ". | List of ACs (single blind policy) | Subject areas | Procedures for the CfP…/;"	s	object:16
 content	_site/assets/js/search-data.json	/^    "content": ". | New splash | New Logo | Text teaser about the conference (”content”) . |/;"	s	object:0
 content	_site/assets/js/search-data.json	/^    "content": ". | Organizers | ACs | Reviewers | Advisory Committee | . ",$/;"	s	object:4
-content	_site/assets/js/search-data.json	/^    "content": ". | Thinking this can be made a general travel\/logistics page | HKU info | Can /;"	s	object:24
+content	_site/assets/js/search-data.json	/^    "content": ". | Thinking this can be made a general travel\/logistics page | HKU info | Can /;"	s	object:25
 content	_site/assets/js/search-data.json	/^    "content": ". | Update the speakers | . ",$/;"	s	object:9
 content	_site/assets/js/search-data.json	/^    "content": "Accepted works will be expected to present a poster describing the work in-perso/;"	s	object:18
 content	_site/assets/js/search-data.json	/^    "content": "Clicking a speaker’s photo will jump to their talk information below. <!-- ",$/;"	s	object:10
@@ -5566,13 +5570,13 @@ content	_site/assets/js/search-data.json	/^    "content": "Conference on Learnin
 content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:13
 content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:15
 content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:21
-content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:23
-content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:25
+content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:24
+content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:26
 content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:3
 content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:6
 content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:8
 content	_site/assets/js/search-data.json	/^    "content": "Misha Belkin . UC San Diego . Title: Why do neural models need so many parameter/;"	s	object:12
-content	_site/assets/js/search-data.json	/^    "content": "The first day of the workshop features tutorial presentations from a subset of t/;"	s	object:22
+content	_site/assets/js/search-data.json	/^    "content": "The first day of the workshop features tutorial presentations from a subset of t/;"	s	object:23
 content	_site/assets/js/search-data.json	/^    "content": "Topics of interest include, but are not limited to, connections between low-dime/;"	s	object:19
 content	_site/assets/js/search-data.json	/^    "content": "We aim to showcase: . | The latest research innovations at all stages of the res/;"	s	object:20
 content	_site/assets/js/search-data.json	/^    "content": "We will use OpenReview to manage submissions. Submit your work here: . https:\/\//;"	s	object:17
@@ -5677,8 +5681,9 @@ doc	_site/assets/js/search-data.json	/^    "doc": "Sponsors",$/;"	s	object:14
 doc	_site/assets/js/search-data.json	/^    "doc": "Sponsors",$/;"	s	object:15
 doc	_site/assets/js/search-data.json	/^    "doc": "Tutorials",$/;"	s	object:22
 doc	_site/assets/js/search-data.json	/^    "doc": "Tutorials",$/;"	s	object:23
-doc	_site/assets/js/search-data.json	/^    "doc": "Venue",$/;"	s	object:24
+doc	_site/assets/js/search-data.json	/^    "doc": "Tutorials",$/;"	s	object:24
 doc	_site/assets/js/search-data.json	/^    "doc": "Venue",$/;"	s	object:25
+doc	_site/assets/js/search-data.json	/^    "doc": "Venue",$/;"	s	object:26
 edit-this-page	_layouts/minimal_backup.html	/^                  <a href="{{ site.gh_edit_repository }}\/{{ site.gh_edit_view_mode }}\/{{ site./;"	I
 external	_sass/custom/custom_backup.scss	/^      &.external > svg {$/;"	c
 fanny-yang	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -5973,10 +5978,11 @@ relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#logistic
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#submission-guidelines"$/;"	s	object:20
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#todo-for-this-page"$/;"	s	object:16
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#topics-of-interest"$/;"	s	object:19
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/tutorials\/"$/;"	s	object:23
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/tutorials\/#tutorials"$/;"	s	object:22
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/venue\/"$/;"	s	object:25
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/venue\/#todo-for-this-page"$/;"	s	object:24
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/tutorials\/"$/;"	s	object:24
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/tutorials\/#todo-for-this-page"$/;"	s	object:22
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/tutorials\/#tutorials"$/;"	s	object:23
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/venue\/"$/;"	s	object:26
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/venue\/#todo-for-this-page"$/;"	s	object:25
 removeEvent	_site/assets/js/just-the-docs.js	/^jtd.removeEvent = function(el, type, handler) {$/;"	f	function:jtd
 rené-vidal	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 rina-panigrahy	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -6250,15 +6256,16 @@ title	_site/assets/js/search-data.json	/^    "title": "TODO FOR THIS PAGE",$/;"	
 title	_site/assets/js/search-data.json	/^    "title": "TODO FOR THIS PAGE",$/;"	s	object:2
 title	_site/assets/js/search-data.json	/^    "title": "TODO for this page:",$/;"	s	object:0
 title	_site/assets/js/search-data.json	/^    "title": "TODO for this page:",$/;"	s	object:14
-title	_site/assets/js/search-data.json	/^    "title": "TODO for this page:",$/;"	s	object:24
+title	_site/assets/js/search-data.json	/^    "title": "TODO for this page:",$/;"	s	object:22
+title	_site/assets/js/search-data.json	/^    "title": "TODO for this page:",$/;"	s	object:25
 title	_site/assets/js/search-data.json	/^    "title": "TODO for this page:",$/;"	s	object:4
 title	_site/assets/js/search-data.json	/^    "title": "TODO for this page:",$/;"	s	object:7
 title	_site/assets/js/search-data.json	/^    "title": "TODO for this page:",$/;"	s	object:9
 title	_site/assets/js/search-data.json	/^    "title": "Talk Details",$/;"	s	object:12
 title	_site/assets/js/search-data.json	/^    "title": "Topics of Interest",$/;"	s	object:19
-title	_site/assets/js/search-data.json	/^    "title": "Tutorials",$/;"	s	object:22
 title	_site/assets/js/search-data.json	/^    "title": "Tutorials",$/;"	s	object:23
-title	_site/assets/js/search-data.json	/^    "title": "Venue",$/;"	s	object:25
+title	_site/assets/js/search-data.json	/^    "title": "Tutorials",$/;"	s	object:24
+title	_site/assets/js/search-data.json	/^    "title": "Venue",$/;"	s	object:26
 title-a-key-principle-underlying-deep-networks-compositional-sparsity	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-beyond-classic-image-priors-deep-reinforcement-learning-and-disentangling-for-image-restoration	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-deep-learning-meets-nonparametric-regression-are-weight-decayed-dnns-locally-adaptive	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -6286,6 +6293,7 @@ todo-for-this-page	_site/policies/index.html	/^<!DOCTYPE html><html lang="en-US"
 todo-for-this-page	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 todo-for-this-page	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 todo-for-this-page	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+todo-for-this-page	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 todo-for-this-page	_site/venue/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 tomaso-poggio	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 top	_site/deadlines/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -6346,10 +6354,11 @@ url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#logistics-for-
 url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#submission-guidelines",$/;"	s	object:20
 url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#todo-for-this-page",$/;"	s	object:16
 url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#topics-of-interest",$/;"	s	object:19
-url	_site/assets/js/search-data.json	/^    "url": "\/tutorials\/",$/;"	s	object:23
-url	_site/assets/js/search-data.json	/^    "url": "\/tutorials\/#tutorials",$/;"	s	object:22
-url	_site/assets/js/search-data.json	/^    "url": "\/venue\/",$/;"	s	object:25
-url	_site/assets/js/search-data.json	/^    "url": "\/venue\/#todo-for-this-page",$/;"	s	object:24
+url	_site/assets/js/search-data.json	/^    "url": "\/tutorials\/",$/;"	s	object:24
+url	_site/assets/js/search-data.json	/^    "url": "\/tutorials\/#todo-for-this-page",$/;"	s	object:22
+url	_site/assets/js/search-data.json	/^    "url": "\/tutorials\/#tutorials",$/;"	s	object:23
+url	_site/assets/js/search-data.json	/^    "url": "\/venue\/",$/;"	s	object:26
+url	_site/assets/js/search-data.json	/^    "url": "\/venue\/#todo-for-this-page",$/;"	s	object:25
 weijie-su	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 yi-ma	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 yu-xiang-wang	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
