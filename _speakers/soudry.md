@@ -1,0 +1,9 @@
+---
+name: Daniel Soudry
+role: Speaker
+website: https://sites.google.com/site/danielsoudry/
+affiliation: Technion
+photo: soudry.png
+talk: On catastrophic forgetting in linear regression and the implicit bias of minima stability
+abstract: 'This is a two-part talk.  1) Deep neural nets typically forget old tasks when trained on new tasks. This phenomenon, called “catastrophic forgetting” is not well understood, even in the most basic setting of linear regression. Therefore, we study catastrophic forgetting when fitting an overparameterized linear model to a sequence of tasks with different input distributions. We analyze how much the model forgets the true labels of earlier tasks after training on subsequent tasks, obtaining exact expressions and bounds. In particular, when T tasks in d dimensions are presented cyclically for k iterations, we prove an upper bound of T^2 * min{1/sqrt(k), d/k} on the forgetting. This stands in contrast to the convergence to the offline solution, which can be arbitrarily slow according to existing alternating projection results. We further show that the T^2 factor can be lifted when tasks are presented in a random ordering.  2) We prove that the tendency of SGD to converge to dynamically stable (“flat”) minima leads to a step-size dependent bound on the smoothness of the learned function, in shallow ReLU nets. This implies that, although these networks are universal approximators, stable shallow networks are not. Namely, there is a function (that can be realized as a stable two hidden-layer ReLU network) but that cannot be approximated by stable single hidden-layer ReLU networks trained with a non-vanishing step size. Moreover, we prove that if a function is sufficiently smooth (Sobolev) then it can be approximated arbitrarily well using single hidden-layer ReLU networks that correspond to stable solutions of gradient descent.'
+---

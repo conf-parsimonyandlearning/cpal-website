@@ -1,0 +1,110 @@
+// Just the Class dependencies
+@import 'card';
+
+// Just the Class styles
+@import 'announcement';
+@import 'module';
+@import 'calendar';
+@import 'organizer';
+@import 'speaker';
+
+// change sizes
+// need to fix this...
+$content-width-0: 1200px;
+
+// custom class for splash
+
+.splash {
+  position: relative;
+
+  img {
+    border-radius: 20px;
+    max-width: 100%;
+    height: auto;
+    opacity: 0.5;
+  }
+
+  .topleft {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+
+    @include fs-7;
+    font-weight: 500;
+    color: $body-heading-color;
+  }
+
+  .bottomright {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+
+    @include fs-7;
+    font-weight: 500;
+    color: $body-heading-color;
+  }
+
+}
+
+// custom class for sponsor images, like splash but no overlay
+
+.sponsor {
+  position: relative;
+
+  img {
+    border-radius: 20px;
+    max-width: 100%;
+    height: auto;
+    opacity: 1.0;
+  }
+
+}
+
+// Overrides
+code {
+  font-size: 14px;
+  padding: 0.2em 0.4em;
+  border: none;
+}
+
+details {
+  margin: 0 40px 1em;
+}
+
+iframe,
+summary {
+  max-width: 100%;
+}
+
+summary {
+  @extend .btn, .btn-outline;
+}
+
+.main-content-wrap {
+  max-width: $content-width;
+  margin: auto;
+}
+
+.main-content {
+  dl {
+    display: block;
+    grid-template-columns: none;
+  }
+
+  dt {
+    font-weight: 700;
+    text-align: start;
+
+    &::after {
+      content: normal;
+    }
+  }
+
+  dd {
+    font-weight: normal;
+
+    + dt {
+      margin-top: 1em;
+    }
+  }
+}
