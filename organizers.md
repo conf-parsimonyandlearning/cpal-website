@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Organizers
-description: A listing of the conference program committee.
+title: Program Committee
+description: A listing of the members of the conference program committee.
 nav_order: 9
 ---
 
