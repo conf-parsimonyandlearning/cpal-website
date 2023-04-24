@@ -81,7 +81,6 @@ DEPENDENCIES
   jekyll-liquify
   jekyll-remote-theme
   jekyll-seo-tag
-  kramdown-parser-gfm
   webrick (~> 1.7)
 
 BUNDLED WITH
