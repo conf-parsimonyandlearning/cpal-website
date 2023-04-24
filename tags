@@ -15,22 +15,6 @@
 #edit-this-page	_site/assets/css/just-the-docs-dark.css	/^  #edit-this-page,$/;"	i
 #edit-this-page	_site/assets/css/just-the-docs-default.css	/^  #edit-this-page,$/;"	i
 #edit-this-page	_site/assets/css/just-the-docs-light.css	/^  #edit-this-page,$/;"	i
-#toctitle	_site/assets/css/just-the-docs-dark.css	/^  #toctitle {$/;"	i
-#toctitle	_site/assets/css/just-the-docs-dark.css	/^#toctitle {$/;"	i
-#toctitle	_site/assets/css/just-the-docs-default.css	/^  #toctitle {$/;"	i
-#toctitle	_site/assets/css/just-the-docs-default.css	/^#toctitle {$/;"	i
-#toctitle	_site/assets/css/just-the-docs-light.css	/^  #toctitle {$/;"	i
-#toctitle	_site/assets/css/just-the-docs-light.css	/^#toctitle {$/;"	i
-(external link)	_site/cfp/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-(external link)	_site/deadlines/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-(external link)	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-(external link)	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-(external link)	_site/policies/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-(external link)	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-(external link)	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-(external link)	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-(external link)	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-(external link)	_site/venue/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 *	_site/assets/css/just-the-docs-dark.css	/^* {$/;"	s
 *	_site/assets/css/just-the-docs-default.css	/^* {$/;"	s
 *	_site/assets/css/just-the-docs-light.css	/^* {$/;"	s
@@ -436,21 +420,15 @@
 .calendar ul.calendar-timeline	_site/assets/css/just-the-docs-default.css	/^.calendar ul.calendar-timeline,$/;"	c
 .calendar ul.calendar-timeline	_site/assets/css/just-the-docs-light.css	/^.calendar ul.calendar-timeline {$/;"	c
 .calendar ul.calendar-timeline	_site/assets/css/just-the-docs-light.css	/^.calendar ul.calendar-timeline,$/;"	c
-.code-example	_site/assets/css/just-the-docs-dark.css	/^.code-example,$/;"	c
-.code-example	_site/assets/css/just-the-docs-default.css	/^.code-example,$/;"	c
-.code-example	_site/assets/css/just-the-docs-light.css	/^.code-example,$/;"	c
-.code-example + .content	_site/assets/css/just-the-docs-dark.css	/^.code-example + .content,$/;"	c
-.code-example + .content	_site/assets/css/just-the-docs-default.css	/^.code-example + .content,$/;"	c
-.code-example + .content	_site/assets/css/just-the-docs-light.css	/^.code-example + .content,$/;"	c
+.code-example	_site/assets/css/just-the-docs-dark.css	/^.code-example {$/;"	c
+.code-example	_site/assets/css/just-the-docs-default.css	/^.code-example {$/;"	c
+.code-example	_site/assets/css/just-the-docs-light.css	/^.code-example {$/;"	c
 .code-example + .highlighter-rouge	_site/assets/css/just-the-docs-dark.css	/^.code-example + .highlighter-rouge,$/;"	c
 .code-example + .highlighter-rouge	_site/assets/css/just-the-docs-default.css	/^.code-example + .highlighter-rouge,$/;"	c
 .code-example + .highlighter-rouge	_site/assets/css/just-the-docs-light.css	/^.code-example + .highlighter-rouge,$/;"	c
-.code-example + .sectionbody .listingblock	_site/assets/css/just-the-docs-dark.css	/^.code-example + .sectionbody .listingblock,$/;"	c
-.code-example + .sectionbody .listingblock	_site/assets/css/just-the-docs-default.css	/^.code-example + .sectionbody .listingblock,$/;"	c
-.code-example + .sectionbody .listingblock	_site/assets/css/just-the-docs-light.css	/^.code-example + .sectionbody .listingblock,$/;"	c
-.code-example + figure.highlight	_site/assets/css/just-the-docs-dark.css	/^.code-example + figure.highlight,$/;"	c
-.code-example + figure.highlight	_site/assets/css/just-the-docs-default.css	/^.code-example + figure.highlight,$/;"	c
-.code-example + figure.highlight	_site/assets/css/just-the-docs-light.css	/^.code-example + figure.highlight,$/;"	c
+.code-example + figure.highlight	_site/assets/css/just-the-docs-dark.css	/^.code-example + figure.highlight {$/;"	c
+.code-example + figure.highlight	_site/assets/css/just-the-docs-default.css	/^.code-example + figure.highlight {$/;"	c
+.code-example + figure.highlight	_site/assets/css/just-the-docs-light.css	/^.code-example + figure.highlight {$/;"	c
 .d-block	_site/assets/css/just-the-docs-dark.css	/^.d-block {$/;"	c
 .d-block	_site/assets/css/just-the-docs-default.css	/^.d-block {$/;"	c
 .d-block	_site/assets/css/just-the-docs-light.css	/^.d-block {$/;"	c
@@ -631,9 +609,6 @@
 .fw-700	_site/assets/css/just-the-docs-dark.css	/^.fw-700, .calendar .calendar-event .name {$/;"	c
 .fw-700	_site/assets/css/just-the-docs-default.css	/^.fw-700, .calendar .calendar-event .name {$/;"	c
 .fw-700	_site/assets/css/just-the-docs-light.css	/^.fw-700, .calendar .calendar-event .name {$/;"	c
-.highlight	_site/assets/css/just-the-docs-dark.css	/^.highlight,$/;"	c
-.highlight	_site/assets/css/just-the-docs-default.css	/^.highlight,$/;"	c
-.highlight	_site/assets/css/just-the-docs-light.css	/^.highlight,$/;"	c
 .highlight .bp	_site/assets/css/just-the-docs-dark.css	/^.highlight .bp {$/;"	c
 .highlight .bp	_site/assets/css/just-the-docs-default.css	/^.highlight .bp {$/;"	c
 .highlight .bp	_site/assets/css/just-the-docs-light.css	/^.highlight .bp {$/;"	c
@@ -655,24 +630,39 @@
 .highlight .err	_site/assets/css/just-the-docs-dark.css	/^.highlight .err {$/;"	c
 .highlight .err	_site/assets/css/just-the-docs-default.css	/^.highlight .err {$/;"	c
 .highlight .err	_site/assets/css/just-the-docs-light.css	/^.highlight .err {$/;"	c
+.highlight .g	_site/assets/css/just-the-docs-dark.css	/^.highlight .g {$/;"	c
+.highlight .g	_site/assets/css/just-the-docs-default.css	/^.highlight .g {$/;"	c
+.highlight .g	_site/assets/css/just-the-docs-light.css	/^.highlight .g {$/;"	c
 .highlight .gd	_site/assets/css/just-the-docs-dark.css	/^.highlight .gd {$/;"	c
 .highlight .gd	_site/assets/css/just-the-docs-default.css	/^.highlight .gd {$/;"	c
 .highlight .gd	_site/assets/css/just-the-docs-light.css	/^.highlight .gd {$/;"	c
 .highlight .ge	_site/assets/css/just-the-docs-dark.css	/^.highlight .ge {$/;"	c
 .highlight .ge	_site/assets/css/just-the-docs-default.css	/^.highlight .ge {$/;"	c
 .highlight .ge	_site/assets/css/just-the-docs-light.css	/^.highlight .ge {$/;"	c
+.highlight .gh	_site/assets/css/just-the-docs-dark.css	/^.highlight .gh {$/;"	c
+.highlight .gh	_site/assets/css/just-the-docs-default.css	/^.highlight .gh {$/;"	c
+.highlight .gh	_site/assets/css/just-the-docs-light.css	/^.highlight .gh {$/;"	c
 .highlight .gi	_site/assets/css/just-the-docs-dark.css	/^.highlight .gi {$/;"	c
 .highlight .gi	_site/assets/css/just-the-docs-default.css	/^.highlight .gi {$/;"	c
 .highlight .gi	_site/assets/css/just-the-docs-light.css	/^.highlight .gi {$/;"	c
+.highlight .go	_site/assets/css/just-the-docs-dark.css	/^.highlight .go {$/;"	c
+.highlight .go	_site/assets/css/just-the-docs-default.css	/^.highlight .go {$/;"	c
+.highlight .go	_site/assets/css/just-the-docs-light.css	/^.highlight .go {$/;"	c
+.highlight .gp	_site/assets/css/just-the-docs-dark.css	/^.highlight .gp {$/;"	c
+.highlight .gp	_site/assets/css/just-the-docs-default.css	/^.highlight .gp {$/;"	c
+.highlight .gp	_site/assets/css/just-the-docs-light.css	/^.highlight .gp {$/;"	c
+.highlight .gr	_site/assets/css/just-the-docs-dark.css	/^.highlight .gr {$/;"	c
+.highlight .gr	_site/assets/css/just-the-docs-default.css	/^.highlight .gr {$/;"	c
+.highlight .gr	_site/assets/css/just-the-docs-light.css	/^.highlight .gr {$/;"	c
 .highlight .gs	_site/assets/css/just-the-docs-dark.css	/^.highlight .gs {$/;"	c
 .highlight .gs	_site/assets/css/just-the-docs-default.css	/^.highlight .gs {$/;"	c
 .highlight .gs	_site/assets/css/just-the-docs-light.css	/^.highlight .gs {$/;"	c
+.highlight .gt	_site/assets/css/just-the-docs-dark.css	/^.highlight .gt {$/;"	c
+.highlight .gt	_site/assets/css/just-the-docs-default.css	/^.highlight .gt {$/;"	c
+.highlight .gt	_site/assets/css/just-the-docs-light.css	/^.highlight .gt {$/;"	c
 .highlight .gu	_site/assets/css/just-the-docs-dark.css	/^.highlight .gu {$/;"	c
 .highlight .gu	_site/assets/css/just-the-docs-default.css	/^.highlight .gu {$/;"	c
 .highlight .gu	_site/assets/css/just-the-docs-light.css	/^.highlight .gu {$/;"	c
-.highlight .hll	_site/assets/css/just-the-docs-dark.css	/^.highlight .hll {$/;"	c
-.highlight .hll	_site/assets/css/just-the-docs-default.css	/^.highlight .hll {$/;"	c
-.highlight .hll	_site/assets/css/just-the-docs-light.css	/^.highlight .hll {$/;"	c
 .highlight .il	_site/assets/css/just-the-docs-dark.css	/^.highlight .il {$/;"	c
 .highlight .il	_site/assets/css/just-the-docs-default.css	/^.highlight .il {$/;"	c
 .highlight .il	_site/assets/css/just-the-docs-light.css	/^.highlight .il {$/;"	c
@@ -700,12 +690,6 @@
 .highlight .l	_site/assets/css/just-the-docs-dark.css	/^.highlight .l {$/;"	c
 .highlight .l	_site/assets/css/just-the-docs-default.css	/^.highlight .l {$/;"	c
 .highlight .l	_site/assets/css/just-the-docs-light.css	/^.highlight .l {$/;"	c
-.highlight .language-json .kc	_site/assets/css/just-the-docs-dark.css	/^.highlight .language-json .kc {$/;"	c
-.highlight .language-json .kc	_site/assets/css/just-the-docs-default.css	/^.highlight .language-json .kc {$/;"	c
-.highlight .language-json .kc	_site/assets/css/just-the-docs-light.css	/^.highlight .language-json .kc {$/;"	c
-.highlight .language-json .w + .s2	_site/assets/css/just-the-docs-dark.css	/^.highlight .language-json .w + .s2 {$/;"	c
-.highlight .language-json .w + .s2	_site/assets/css/just-the-docs-default.css	/^.highlight .language-json .w + .s2 {$/;"	c
-.highlight .language-json .w + .s2	_site/assets/css/just-the-docs-light.css	/^.highlight .language-json .w + .s2 {$/;"	c
 .highlight .ld	_site/assets/css/just-the-docs-dark.css	/^.highlight .ld {$/;"	c
 .highlight .ld	_site/assets/css/just-the-docs-default.css	/^.highlight .ld {$/;"	c
 .highlight .ld	_site/assets/css/just-the-docs-light.css	/^.highlight .ld {$/;"	c
@@ -844,9 +828,9 @@
 .highlight .w	_site/assets/css/just-the-docs-dark.css	/^.highlight .w {$/;"	c
 .highlight .w	_site/assets/css/just-the-docs-default.css	/^.highlight .w {$/;"	c
 .highlight .w	_site/assets/css/just-the-docs-light.css	/^.highlight .w {$/;"	c
-.highlight pre	_site/assets/css/just-the-docs-dark.css	/^.highlight pre {$/;"	s
-.highlight pre	_site/assets/css/just-the-docs-default.css	/^.highlight pre {$/;"	s
-.highlight pre	_site/assets/css/just-the-docs-light.css	/^.highlight pre {$/;"	s
+.highlight .x	_site/assets/css/just-the-docs-dark.css	/^.highlight .x {$/;"	c
+.highlight .x	_site/assets/css/just-the-docs-default.css	/^.highlight .x {$/;"	c
+.highlight .x	_site/assets/css/just-the-docs-light.css	/^.highlight .x {$/;"	c
 .icon	_site/assets/css/just-the-docs-dark.css	/^.icon {$/;"	c
 .icon	_site/assets/css/just-the-docs-default.css	/^.icon {$/;"	c
 .icon	_site/assets/css/just-the-docs-light.css	/^.icon {$/;"	c
@@ -889,21 +873,6 @@
 .list-style-none li::before	_site/assets/css/just-the-docs-dark.css	/^.list-style-none li::before {$/;"	s
 .list-style-none li::before	_site/assets/css/just-the-docs-default.css	/^.list-style-none li::before {$/;"	s
 .list-style-none li::before	_site/assets/css/just-the-docs-light.css	/^.list-style-none li::before {$/;"	s
-.listingblock > .title	_site/assets/css/just-the-docs-dark.css	/^.listingblock > .title {$/;"	c
-.listingblock > .title	_site/assets/css/just-the-docs-default.css	/^.listingblock > .title {$/;"	c
-.listingblock > .title	_site/assets/css/just-the-docs-light.css	/^.listingblock > .title {$/;"	c
-.listingblock > .title + .content	_site/assets/css/just-the-docs-dark.css	/^.listingblock > .title + .content,$/;"	c
-.listingblock > .title + .content	_site/assets/css/just-the-docs-default.css	/^.listingblock > .title + .content,$/;"	c
-.listingblock > .title + .content	_site/assets/css/just-the-docs-light.css	/^.listingblock > .title + .content,$/;"	c
-.listingblock > .title + .highlighter-rouge	_site/assets/css/just-the-docs-dark.css	/^.listingblock > .title + .highlighter-rouge,$/;"	c
-.listingblock > .title + .highlighter-rouge	_site/assets/css/just-the-docs-default.css	/^.listingblock > .title + .highlighter-rouge,$/;"	c
-.listingblock > .title + .highlighter-rouge	_site/assets/css/just-the-docs-light.css	/^.listingblock > .title + .highlighter-rouge,$/;"	c
-.listingblock > .title + .sectionbody .listingblock	_site/assets/css/just-the-docs-dark.css	/^.listingblock > .title + .sectionbody .listingblock,$/;"	c
-.listingblock > .title + .sectionbody .listingblock	_site/assets/css/just-the-docs-default.css	/^.listingblock > .title + .sectionbody .listingblock,$/;"	c
-.listingblock > .title + .sectionbody .listingblock	_site/assets/css/just-the-docs-light.css	/^.listingblock > .title + .sectionbody .listingblock,$/;"	c
-.listingblock > .title + figure.highlight	_site/assets/css/just-the-docs-dark.css	/^.listingblock > .title + figure.highlight {$/;"	c
-.listingblock > .title + figure.highlight	_site/assets/css/just-the-docs-default.css	/^.listingblock > .title + figure.highlight {$/;"	c
-.listingblock > .title + figure.highlight	_site/assets/css/just-the-docs-light.css	/^.listingblock > .title + figure.highlight {$/;"	c
 .ls-0	_site/assets/css/just-the-docs-dark.css	/^.ls-0 {$/;"	c
 .ls-0	_site/assets/css/just-the-docs-default.css	/^.ls-0 {$/;"	c
 .ls-0	_site/assets/css/just-the-docs-light.css	/^.ls-0 {$/;"	c
@@ -1117,27 +1086,6 @@
 .main-content	_site/assets/css/just-the-docs-dark.css	/^.main-content {$/;"	c
 .main-content	_site/assets/css/just-the-docs-default.css	/^.main-content {$/;"	c
 .main-content	_site/assets/css/just-the-docs-light.css	/^.main-content {$/;"	c
-.main-content #toctitle	_site/assets/css/just-the-docs-dark.css	/^.main-content #toctitle {$/;"	i
-.main-content #toctitle	_site/assets/css/just-the-docs-default.css	/^.main-content #toctitle {$/;"	i
-.main-content #toctitle	_site/assets/css/just-the-docs-light.css	/^.main-content #toctitle {$/;"	i
-.main-content #toctitle + .code-example	_site/assets/css/just-the-docs-dark.css	/^.main-content #toctitle + .code-example,$/;"	c
-.main-content #toctitle + .code-example	_site/assets/css/just-the-docs-default.css	/^.main-content #toctitle + .code-example,$/;"	c
-.main-content #toctitle + .code-example	_site/assets/css/just-the-docs-light.css	/^.main-content #toctitle + .code-example,$/;"	c
-.main-content #toctitle + .highlighter-rouge	_site/assets/css/just-the-docs-dark.css	/^.main-content #toctitle + .highlighter-rouge,$/;"	c
-.main-content #toctitle + .highlighter-rouge	_site/assets/css/just-the-docs-default.css	/^.main-content #toctitle + .highlighter-rouge,$/;"	c
-.main-content #toctitle + .highlighter-rouge	_site/assets/css/just-the-docs-light.css	/^.main-content #toctitle + .highlighter-rouge,$/;"	c
-.main-content #toctitle + .sectionbody .listingblock	_site/assets/css/just-the-docs-dark.css	/^.main-content #toctitle + .sectionbody .listingblock {$/;"	c
-.main-content #toctitle + .sectionbody .listingblock	_site/assets/css/just-the-docs-default.css	/^.main-content #toctitle + .sectionbody .listingblock {$/;"	c
-.main-content #toctitle + .sectionbody .listingblock	_site/assets/css/just-the-docs-light.css	/^.main-content #toctitle + .sectionbody .listingblock {$/;"	c
-.main-content #toctitle + .table-wrapper	_site/assets/css/just-the-docs-dark.css	/^.main-content #toctitle + .table-wrapper,$/;"	c
-.main-content #toctitle + .table-wrapper	_site/assets/css/just-the-docs-default.css	/^.main-content #toctitle + .table-wrapper,$/;"	c
-.main-content #toctitle + .table-wrapper	_site/assets/css/just-the-docs-light.css	/^.main-content #toctitle + .table-wrapper,$/;"	c
-.main-content #toctitle + p:not(.label)	_site/assets/css/just-the-docs-dark.css	/^.main-content #toctitle + p:not(.label) {$/;"	c
-.main-content #toctitle + p:not(.label)	_site/assets/css/just-the-docs-default.css	/^.main-content #toctitle + p:not(.label) {$/;"	c
-.main-content #toctitle + p:not(.label)	_site/assets/css/just-the-docs-light.css	/^.main-content #toctitle + p:not(.label) {$/;"	c
-.main-content #toctitle + table	_site/assets/css/just-the-docs-dark.css	/^.main-content #toctitle + table,$/;"	s
-.main-content #toctitle + table	_site/assets/css/just-the-docs-default.css	/^.main-content #toctitle + table,$/;"	s
-.main-content #toctitle + table	_site/assets/css/just-the-docs-light.css	/^.main-content #toctitle + table,$/;"	s
 .main-content .anchor-heading	_site/assets/css/just-the-docs-dark.css	/^  .main-content .anchor-heading {$/;"	c
 .main-content .anchor-heading	_site/assets/css/just-the-docs-dark.css	/^.main-content .anchor-heading {$/;"	c
 .main-content .anchor-heading	_site/assets/css/just-the-docs-default.css	/^  .main-content .anchor-heading {$/;"	c
@@ -1147,9 +1095,6 @@
 .main-content .anchor-heading svg	_site/assets/css/just-the-docs-dark.css	/^.main-content .anchor-heading svg {$/;"	s
 .main-content .anchor-heading svg	_site/assets/css/just-the-docs-default.css	/^.main-content .anchor-heading svg {$/;"	s
 .main-content .anchor-heading svg	_site/assets/css/just-the-docs-light.css	/^.main-content .anchor-heading svg {$/;"	s
-.main-content .anchor-heading:focus svg	_site/assets/css/just-the-docs-dark.css	/^.main-content .anchor-heading:focus svg,$/;"	s
-.main-content .anchor-heading:focus svg	_site/assets/css/just-the-docs-default.css	/^.main-content .anchor-heading:focus svg,$/;"	s
-.main-content .anchor-heading:focus svg	_site/assets/css/just-the-docs-light.css	/^.main-content .anchor-heading:focus svg,$/;"	s
 .main-content .anchor-heading:hover svg	_site/assets/css/just-the-docs-dark.css	/^.main-content .anchor-heading:hover svg,$/;"	s
 .main-content .anchor-heading:hover svg	_site/assets/css/just-the-docs-default.css	/^.main-content .anchor-heading:hover svg,$/;"	s
 .main-content .anchor-heading:hover svg	_site/assets/css/just-the-docs-light.css	/^.main-content .anchor-heading:hover svg,$/;"	s
@@ -1243,45 +1188,18 @@
 .main-content .table-wrapper	_site/assets/css/just-the-docs-dark.css	/^.main-content .table-wrapper {$/;"	c
 .main-content .table-wrapper	_site/assets/css/just-the-docs-default.css	/^.main-content .table-wrapper {$/;"	c
 .main-content .table-wrapper	_site/assets/css/just-the-docs-light.css	/^.main-content .table-wrapper {$/;"	c
+.main-content .task-list	_site/assets/css/just-the-docs-dark.css	/^.main-content .task-list {$/;"	c
+.main-content .task-list	_site/assets/css/just-the-docs-default.css	/^.main-content .task-list {$/;"	c
+.main-content .task-list	_site/assets/css/just-the-docs-light.css	/^.main-content .task-list {$/;"	c
+.main-content .task-list-item	_site/assets/css/just-the-docs-dark.css	/^.main-content .task-list-item {$/;"	c
+.main-content .task-list-item	_site/assets/css/just-the-docs-default.css	/^.main-content .task-list-item {$/;"	c
+.main-content .task-list-item	_site/assets/css/just-the-docs-light.css	/^.main-content .task-list-item {$/;"	c
 .main-content .task-list-item-checkbox	_site/assets/css/just-the-docs-dark.css	/^.main-content .task-list-item-checkbox {$/;"	c
 .main-content .task-list-item-checkbox	_site/assets/css/just-the-docs-default.css	/^.main-content .task-list-item-checkbox {$/;"	c
 .main-content .task-list-item-checkbox	_site/assets/css/just-the-docs-light.css	/^.main-content .task-list-item-checkbox {$/;"	c
 .main-content .task-list-item::before	_site/assets/css/just-the-docs-dark.css	/^.main-content .task-list-item::before {$/;"	c
 .main-content .task-list-item::before	_site/assets/css/just-the-docs-default.css	/^.main-content .task-list-item::before {$/;"	c
 .main-content .task-list-item::before	_site/assets/css/just-the-docs-light.css	/^.main-content .task-list-item::before {$/;"	c
-.main-content > .sect1:first-child > h2	_site/assets/css/just-the-docs-dark.css	/^.main-content > .sect1:first-child > h2,$/;"	s
-.main-content > .sect1:first-child > h2	_site/assets/css/just-the-docs-default.css	/^.main-content > .sect1:first-child > h2,$/;"	s
-.main-content > .sect1:first-child > h2	_site/assets/css/just-the-docs-light.css	/^.main-content > .sect1:first-child > h2,$/;"	s
-.main-content > .sect2:first-child > h3	_site/assets/css/just-the-docs-dark.css	/^.main-content > .sect2:first-child > h3,$/;"	s
-.main-content > .sect2:first-child > h3	_site/assets/css/just-the-docs-default.css	/^.main-content > .sect2:first-child > h3,$/;"	s
-.main-content > .sect2:first-child > h3	_site/assets/css/just-the-docs-light.css	/^.main-content > .sect2:first-child > h3,$/;"	s
-.main-content > .sect3:first-child > h4	_site/assets/css/just-the-docs-dark.css	/^.main-content > .sect3:first-child > h4,$/;"	s
-.main-content > .sect3:first-child > h4	_site/assets/css/just-the-docs-default.css	/^.main-content > .sect3:first-child > h4,$/;"	s
-.main-content > .sect3:first-child > h4	_site/assets/css/just-the-docs-light.css	/^.main-content > .sect3:first-child > h4,$/;"	s
-.main-content > .sect4:first-child > h5	_site/assets/css/just-the-docs-dark.css	/^.main-content > .sect4:first-child > h5,$/;"	s
-.main-content > .sect4:first-child > h5	_site/assets/css/just-the-docs-default.css	/^.main-content > .sect4:first-child > h5,$/;"	s
-.main-content > .sect4:first-child > h5	_site/assets/css/just-the-docs-light.css	/^.main-content > .sect4:first-child > h5,$/;"	s
-.main-content > .sect5:first-child > h6	_site/assets/css/just-the-docs-dark.css	/^.main-content > .sect5:first-child > h6 {$/;"	s
-.main-content > .sect5:first-child > h6	_site/assets/css/just-the-docs-default.css	/^.main-content > .sect5:first-child > h6 {$/;"	s
-.main-content > .sect5:first-child > h6	_site/assets/css/just-the-docs-light.css	/^.main-content > .sect5:first-child > h6 {$/;"	s
-.main-content > h1:first-child	_site/assets/css/just-the-docs-dark.css	/^.main-content > h1:first-child,$/;"	s
-.main-content > h1:first-child	_site/assets/css/just-the-docs-default.css	/^.main-content > h1:first-child,$/;"	s
-.main-content > h1:first-child	_site/assets/css/just-the-docs-light.css	/^.main-content > h1:first-child,$/;"	s
-.main-content > h2:first-child	_site/assets/css/just-the-docs-dark.css	/^.main-content > h2:first-child,$/;"	s
-.main-content > h2:first-child	_site/assets/css/just-the-docs-default.css	/^.main-content > h2:first-child,$/;"	s
-.main-content > h2:first-child	_site/assets/css/just-the-docs-light.css	/^.main-content > h2:first-child,$/;"	s
-.main-content > h3:first-child	_site/assets/css/just-the-docs-dark.css	/^.main-content > h3:first-child,$/;"	s
-.main-content > h3:first-child	_site/assets/css/just-the-docs-default.css	/^.main-content > h3:first-child,$/;"	s
-.main-content > h3:first-child	_site/assets/css/just-the-docs-light.css	/^.main-content > h3:first-child,$/;"	s
-.main-content > h4:first-child	_site/assets/css/just-the-docs-dark.css	/^.main-content > h4:first-child,$/;"	s
-.main-content > h4:first-child	_site/assets/css/just-the-docs-default.css	/^.main-content > h4:first-child,$/;"	s
-.main-content > h4:first-child	_site/assets/css/just-the-docs-light.css	/^.main-content > h4:first-child,$/;"	s
-.main-content > h5:first-child	_site/assets/css/just-the-docs-dark.css	/^.main-content > h5:first-child,$/;"	s
-.main-content > h5:first-child	_site/assets/css/just-the-docs-default.css	/^.main-content > h5:first-child,$/;"	s
-.main-content > h5:first-child	_site/assets/css/just-the-docs-light.css	/^.main-content > h5:first-child,$/;"	s
-.main-content > h6:first-child	_site/assets/css/just-the-docs-dark.css	/^.main-content > h6:first-child,$/;"	s
-.main-content > h6:first-child	_site/assets/css/just-the-docs-default.css	/^.main-content > h6:first-child,$/;"	s
-.main-content > h6:first-child	_site/assets/css/just-the-docs-light.css	/^.main-content > h6:first-child,$/;"	s
 .main-content a	_site/assets/css/just-the-docs-dark.css	/^.main-content a {$/;"	s
 .main-content a	_site/assets/css/just-the-docs-default.css	/^.main-content a {$/;"	s
 .main-content a	_site/assets/css/just-the-docs-light.css	/^.main-content a {$/;"	s
@@ -1378,18 +1296,18 @@
 .main-content h1 + .highlighter-rouge	_site/assets/css/just-the-docs-dark.css	/^.main-content h1 + .highlighter-rouge,$/;"	c
 .main-content h1 + .highlighter-rouge	_site/assets/css/just-the-docs-default.css	/^.main-content h1 + .highlighter-rouge,$/;"	c
 .main-content h1 + .highlighter-rouge	_site/assets/css/just-the-docs-light.css	/^.main-content h1 + .highlighter-rouge,$/;"	c
-.main-content h1 + .sectionbody .listingblock	_site/assets/css/just-the-docs-dark.css	/^.main-content h1 + .sectionbody .listingblock,$/;"	c
-.main-content h1 + .sectionbody .listingblock	_site/assets/css/just-the-docs-default.css	/^.main-content h1 + .sectionbody .listingblock,$/;"	c
-.main-content h1 + .sectionbody .listingblock	_site/assets/css/just-the-docs-light.css	/^.main-content h1 + .sectionbody .listingblock,$/;"	c
 .main-content h1 + .table-wrapper	_site/assets/css/just-the-docs-dark.css	/^.main-content h1 + .table-wrapper,$/;"	c
 .main-content h1 + .table-wrapper	_site/assets/css/just-the-docs-default.css	/^.main-content h1 + .table-wrapper,$/;"	c
 .main-content h1 + .table-wrapper	_site/assets/css/just-the-docs-light.css	/^.main-content h1 + .table-wrapper,$/;"	c
-.main-content h1 + p:not(.label)	_site/assets/css/just-the-docs-dark.css	/^.main-content h1 + p:not(.label),$/;"	c
-.main-content h1 + p:not(.label)	_site/assets/css/just-the-docs-default.css	/^.main-content h1 + p:not(.label),$/;"	c
-.main-content h1 + p:not(.label)	_site/assets/css/just-the-docs-light.css	/^.main-content h1 + p:not(.label),$/;"	c
+.main-content h1 + p	_site/assets/css/just-the-docs-dark.css	/^.main-content h1 + p,$/;"	s
+.main-content h1 + p	_site/assets/css/just-the-docs-default.css	/^.main-content h1 + p,$/;"	s
+.main-content h1 + p	_site/assets/css/just-the-docs-light.css	/^.main-content h1 + p,$/;"	s
 .main-content h1 + table	_site/assets/css/just-the-docs-dark.css	/^.main-content h1 + table,$/;"	s
 .main-content h1 + table	_site/assets/css/just-the-docs-default.css	/^.main-content h1 + table,$/;"	s
 .main-content h1 + table	_site/assets/css/just-the-docs-light.css	/^.main-content h1 + table,$/;"	s
+.main-content h1:first-child	_site/assets/css/just-the-docs-dark.css	/^.main-content h1:first-child,$/;"	s
+.main-content h1:first-child	_site/assets/css/just-the-docs-default.css	/^.main-content h1:first-child,$/;"	s
+.main-content h1:first-child	_site/assets/css/just-the-docs-light.css	/^.main-content h1:first-child,$/;"	s
 .main-content h1:first-of-type	_site/assets/css/just-the-docs-dark.css	/^.main-content h1:first-of-type {$/;"	s
 .main-content h1:first-of-type	_site/assets/css/just-the-docs-default.css	/^.main-content h1:first-of-type {$/;"	s
 .main-content h1:first-of-type	_site/assets/css/just-the-docs-light.css	/^.main-content h1:first-of-type {$/;"	s
@@ -1405,18 +1323,18 @@
 .main-content h2 + .highlighter-rouge	_site/assets/css/just-the-docs-dark.css	/^.main-content h2 + .highlighter-rouge,$/;"	c
 .main-content h2 + .highlighter-rouge	_site/assets/css/just-the-docs-default.css	/^.main-content h2 + .highlighter-rouge,$/;"	c
 .main-content h2 + .highlighter-rouge	_site/assets/css/just-the-docs-light.css	/^.main-content h2 + .highlighter-rouge,$/;"	c
-.main-content h2 + .sectionbody .listingblock	_site/assets/css/just-the-docs-dark.css	/^.main-content h2 + .sectionbody .listingblock,$/;"	c
-.main-content h2 + .sectionbody .listingblock	_site/assets/css/just-the-docs-default.css	/^.main-content h2 + .sectionbody .listingblock,$/;"	c
-.main-content h2 + .sectionbody .listingblock	_site/assets/css/just-the-docs-light.css	/^.main-content h2 + .sectionbody .listingblock,$/;"	c
 .main-content h2 + .table-wrapper	_site/assets/css/just-the-docs-dark.css	/^.main-content h2 + .table-wrapper,$/;"	c
 .main-content h2 + .table-wrapper	_site/assets/css/just-the-docs-default.css	/^.main-content h2 + .table-wrapper,$/;"	c
 .main-content h2 + .table-wrapper	_site/assets/css/just-the-docs-light.css	/^.main-content h2 + .table-wrapper,$/;"	c
-.main-content h2 + p:not(.label)	_site/assets/css/just-the-docs-dark.css	/^.main-content h2 + p:not(.label),$/;"	c
-.main-content h2 + p:not(.label)	_site/assets/css/just-the-docs-default.css	/^.main-content h2 + p:not(.label),$/;"	c
-.main-content h2 + p:not(.label)	_site/assets/css/just-the-docs-light.css	/^.main-content h2 + p:not(.label),$/;"	c
+.main-content h2 + p	_site/assets/css/just-the-docs-dark.css	/^.main-content h2 + p,$/;"	s
+.main-content h2 + p	_site/assets/css/just-the-docs-default.css	/^.main-content h2 + p,$/;"	s
+.main-content h2 + p	_site/assets/css/just-the-docs-light.css	/^.main-content h2 + p,$/;"	s
 .main-content h2 + table	_site/assets/css/just-the-docs-dark.css	/^.main-content h2 + table,$/;"	s
 .main-content h2 + table	_site/assets/css/just-the-docs-default.css	/^.main-content h2 + table,$/;"	s
 .main-content h2 + table	_site/assets/css/just-the-docs-light.css	/^.main-content h2 + table,$/;"	s
+.main-content h2:first-child	_site/assets/css/just-the-docs-dark.css	/^.main-content h2:first-child,$/;"	s
+.main-content h2:first-child	_site/assets/css/just-the-docs-default.css	/^.main-content h2:first-child,$/;"	s
+.main-content h2:first-child	_site/assets/css/just-the-docs-light.css	/^.main-content h2:first-child,$/;"	s
 .main-content h2:hover > .anchor-heading svg	_site/assets/css/just-the-docs-dark.css	/^.main-content h2:hover > .anchor-heading svg,$/;"	s
 .main-content h2:hover > .anchor-heading svg	_site/assets/css/just-the-docs-default.css	/^.main-content h2:hover > .anchor-heading svg,$/;"	s
 .main-content h2:hover > .anchor-heading svg	_site/assets/css/just-the-docs-light.css	/^.main-content h2:hover > .anchor-heading svg,$/;"	s
@@ -1429,18 +1347,18 @@
 .main-content h3 + .highlighter-rouge	_site/assets/css/just-the-docs-dark.css	/^.main-content h3 + .highlighter-rouge,$/;"	c
 .main-content h3 + .highlighter-rouge	_site/assets/css/just-the-docs-default.css	/^.main-content h3 + .highlighter-rouge,$/;"	c
 .main-content h3 + .highlighter-rouge	_site/assets/css/just-the-docs-light.css	/^.main-content h3 + .highlighter-rouge,$/;"	c
-.main-content h3 + .sectionbody .listingblock	_site/assets/css/just-the-docs-dark.css	/^.main-content h3 + .sectionbody .listingblock,$/;"	c
-.main-content h3 + .sectionbody .listingblock	_site/assets/css/just-the-docs-default.css	/^.main-content h3 + .sectionbody .listingblock,$/;"	c
-.main-content h3 + .sectionbody .listingblock	_site/assets/css/just-the-docs-light.css	/^.main-content h3 + .sectionbody .listingblock,$/;"	c
 .main-content h3 + .table-wrapper	_site/assets/css/just-the-docs-dark.css	/^.main-content h3 + .table-wrapper,$/;"	c
 .main-content h3 + .table-wrapper	_site/assets/css/just-the-docs-default.css	/^.main-content h3 + .table-wrapper,$/;"	c
 .main-content h3 + .table-wrapper	_site/assets/css/just-the-docs-light.css	/^.main-content h3 + .table-wrapper,$/;"	c
-.main-content h3 + p:not(.label)	_site/assets/css/just-the-docs-dark.css	/^.main-content h3 + p:not(.label),$/;"	c
-.main-content h3 + p:not(.label)	_site/assets/css/just-the-docs-default.css	/^.main-content h3 + p:not(.label),$/;"	c
-.main-content h3 + p:not(.label)	_site/assets/css/just-the-docs-light.css	/^.main-content h3 + p:not(.label),$/;"	c
+.main-content h3 + p	_site/assets/css/just-the-docs-dark.css	/^.main-content h3 + p,$/;"	s
+.main-content h3 + p	_site/assets/css/just-the-docs-default.css	/^.main-content h3 + p,$/;"	s
+.main-content h3 + p	_site/assets/css/just-the-docs-light.css	/^.main-content h3 + p,$/;"	s
 .main-content h3 + table	_site/assets/css/just-the-docs-dark.css	/^.main-content h3 + table,$/;"	s
 .main-content h3 + table	_site/assets/css/just-the-docs-default.css	/^.main-content h3 + table,$/;"	s
 .main-content h3 + table	_site/assets/css/just-the-docs-light.css	/^.main-content h3 + table,$/;"	s
+.main-content h3:first-child	_site/assets/css/just-the-docs-dark.css	/^.main-content h3:first-child,$/;"	s
+.main-content h3:first-child	_site/assets/css/just-the-docs-default.css	/^.main-content h3:first-child,$/;"	s
+.main-content h3:first-child	_site/assets/css/just-the-docs-light.css	/^.main-content h3:first-child,$/;"	s
 .main-content h3:hover > .anchor-heading svg	_site/assets/css/just-the-docs-dark.css	/^.main-content h3:hover > .anchor-heading svg,$/;"	s
 .main-content h3:hover > .anchor-heading svg	_site/assets/css/just-the-docs-default.css	/^.main-content h3:hover > .anchor-heading svg,$/;"	s
 .main-content h3:hover > .anchor-heading svg	_site/assets/css/just-the-docs-light.css	/^.main-content h3:hover > .anchor-heading svg,$/;"	s
@@ -1453,18 +1371,18 @@
 .main-content h4 + .highlighter-rouge	_site/assets/css/just-the-docs-dark.css	/^.main-content h4 + .highlighter-rouge,$/;"	c
 .main-content h4 + .highlighter-rouge	_site/assets/css/just-the-docs-default.css	/^.main-content h4 + .highlighter-rouge,$/;"	c
 .main-content h4 + .highlighter-rouge	_site/assets/css/just-the-docs-light.css	/^.main-content h4 + .highlighter-rouge,$/;"	c
-.main-content h4 + .sectionbody .listingblock	_site/assets/css/just-the-docs-dark.css	/^.main-content h4 + .sectionbody .listingblock,$/;"	c
-.main-content h4 + .sectionbody .listingblock	_site/assets/css/just-the-docs-default.css	/^.main-content h4 + .sectionbody .listingblock,$/;"	c
-.main-content h4 + .sectionbody .listingblock	_site/assets/css/just-the-docs-light.css	/^.main-content h4 + .sectionbody .listingblock,$/;"	c
 .main-content h4 + .table-wrapper	_site/assets/css/just-the-docs-dark.css	/^.main-content h4 + .table-wrapper,$/;"	c
 .main-content h4 + .table-wrapper	_site/assets/css/just-the-docs-default.css	/^.main-content h4 + .table-wrapper,$/;"	c
 .main-content h4 + .table-wrapper	_site/assets/css/just-the-docs-light.css	/^.main-content h4 + .table-wrapper,$/;"	c
-.main-content h4 + p:not(.label)	_site/assets/css/just-the-docs-dark.css	/^.main-content h4 + p:not(.label),$/;"	c
-.main-content h4 + p:not(.label)	_site/assets/css/just-the-docs-default.css	/^.main-content h4 + p:not(.label),$/;"	c
-.main-content h4 + p:not(.label)	_site/assets/css/just-the-docs-light.css	/^.main-content h4 + p:not(.label),$/;"	c
+.main-content h4 + p	_site/assets/css/just-the-docs-dark.css	/^.main-content h4 + p,$/;"	s
+.main-content h4 + p	_site/assets/css/just-the-docs-default.css	/^.main-content h4 + p,$/;"	s
+.main-content h4 + p	_site/assets/css/just-the-docs-light.css	/^.main-content h4 + p,$/;"	s
 .main-content h4 + table	_site/assets/css/just-the-docs-dark.css	/^.main-content h4 + table,$/;"	s
 .main-content h4 + table	_site/assets/css/just-the-docs-default.css	/^.main-content h4 + table,$/;"	s
 .main-content h4 + table	_site/assets/css/just-the-docs-light.css	/^.main-content h4 + table,$/;"	s
+.main-content h4:first-child	_site/assets/css/just-the-docs-dark.css	/^.main-content h4:first-child,$/;"	s
+.main-content h4:first-child	_site/assets/css/just-the-docs-default.css	/^.main-content h4:first-child,$/;"	s
+.main-content h4:first-child	_site/assets/css/just-the-docs-light.css	/^.main-content h4:first-child,$/;"	s
 .main-content h4:hover > .anchor-heading svg	_site/assets/css/just-the-docs-dark.css	/^.main-content h4:hover > .anchor-heading svg,$/;"	s
 .main-content h4:hover > .anchor-heading svg	_site/assets/css/just-the-docs-default.css	/^.main-content h4:hover > .anchor-heading svg,$/;"	s
 .main-content h4:hover > .anchor-heading svg	_site/assets/css/just-the-docs-light.css	/^.main-content h4:hover > .anchor-heading svg,$/;"	s
@@ -1477,42 +1395,42 @@
 .main-content h5 + .highlighter-rouge	_site/assets/css/just-the-docs-dark.css	/^.main-content h5 + .highlighter-rouge,$/;"	c
 .main-content h5 + .highlighter-rouge	_site/assets/css/just-the-docs-default.css	/^.main-content h5 + .highlighter-rouge,$/;"	c
 .main-content h5 + .highlighter-rouge	_site/assets/css/just-the-docs-light.css	/^.main-content h5 + .highlighter-rouge,$/;"	c
-.main-content h5 + .sectionbody .listingblock	_site/assets/css/just-the-docs-dark.css	/^.main-content h5 + .sectionbody .listingblock,$/;"	c
-.main-content h5 + .sectionbody .listingblock	_site/assets/css/just-the-docs-default.css	/^.main-content h5 + .sectionbody .listingblock,$/;"	c
-.main-content h5 + .sectionbody .listingblock	_site/assets/css/just-the-docs-light.css	/^.main-content h5 + .sectionbody .listingblock,$/;"	c
 .main-content h5 + .table-wrapper	_site/assets/css/just-the-docs-dark.css	/^.main-content h5 + .table-wrapper,$/;"	c
 .main-content h5 + .table-wrapper	_site/assets/css/just-the-docs-default.css	/^.main-content h5 + .table-wrapper,$/;"	c
 .main-content h5 + .table-wrapper	_site/assets/css/just-the-docs-light.css	/^.main-content h5 + .table-wrapper,$/;"	c
-.main-content h5 + p:not(.label)	_site/assets/css/just-the-docs-dark.css	/^.main-content h5 + p:not(.label),$/;"	c
-.main-content h5 + p:not(.label)	_site/assets/css/just-the-docs-default.css	/^.main-content h5 + p:not(.label),$/;"	c
-.main-content h5 + p:not(.label)	_site/assets/css/just-the-docs-light.css	/^.main-content h5 + p:not(.label),$/;"	c
+.main-content h5 + p	_site/assets/css/just-the-docs-dark.css	/^.main-content h5 + p,$/;"	s
+.main-content h5 + p	_site/assets/css/just-the-docs-default.css	/^.main-content h5 + p,$/;"	s
+.main-content h5 + p	_site/assets/css/just-the-docs-light.css	/^.main-content h5 + p,$/;"	s
 .main-content h5 + table	_site/assets/css/just-the-docs-dark.css	/^.main-content h5 + table,$/;"	s
 .main-content h5 + table	_site/assets/css/just-the-docs-default.css	/^.main-content h5 + table,$/;"	s
 .main-content h5 + table	_site/assets/css/just-the-docs-light.css	/^.main-content h5 + table,$/;"	s
+.main-content h5:first-child	_site/assets/css/just-the-docs-dark.css	/^.main-content h5:first-child,$/;"	s
+.main-content h5:first-child	_site/assets/css/just-the-docs-default.css	/^.main-content h5:first-child,$/;"	s
+.main-content h5:first-child	_site/assets/css/just-the-docs-light.css	/^.main-content h5:first-child,$/;"	s
 .main-content h5:hover > .anchor-heading svg	_site/assets/css/just-the-docs-dark.css	/^.main-content h5:hover > .anchor-heading svg,$/;"	s
 .main-content h5:hover > .anchor-heading svg	_site/assets/css/just-the-docs-default.css	/^.main-content h5:hover > .anchor-heading svg,$/;"	s
 .main-content h5:hover > .anchor-heading svg	_site/assets/css/just-the-docs-light.css	/^.main-content h5:hover > .anchor-heading svg,$/;"	s
-.main-content h6	_site/assets/css/just-the-docs-dark.css	/^.main-content h6,$/;"	s
-.main-content h6	_site/assets/css/just-the-docs-default.css	/^.main-content h6,$/;"	s
-.main-content h6	_site/assets/css/just-the-docs-light.css	/^.main-content h6,$/;"	s
+.main-content h6	_site/assets/css/just-the-docs-dark.css	/^.main-content h6 {$/;"	s
+.main-content h6	_site/assets/css/just-the-docs-default.css	/^.main-content h6 {$/;"	s
+.main-content h6	_site/assets/css/just-the-docs-light.css	/^.main-content h6 {$/;"	s
 .main-content h6 + .code-example	_site/assets/css/just-the-docs-dark.css	/^.main-content h6 + .code-example,$/;"	c
 .main-content h6 + .code-example	_site/assets/css/just-the-docs-default.css	/^.main-content h6 + .code-example,$/;"	c
 .main-content h6 + .code-example	_site/assets/css/just-the-docs-light.css	/^.main-content h6 + .code-example,$/;"	c
-.main-content h6 + .highlighter-rouge	_site/assets/css/just-the-docs-dark.css	/^.main-content h6 + .highlighter-rouge,$/;"	c
-.main-content h6 + .highlighter-rouge	_site/assets/css/just-the-docs-default.css	/^.main-content h6 + .highlighter-rouge,$/;"	c
-.main-content h6 + .highlighter-rouge	_site/assets/css/just-the-docs-light.css	/^.main-content h6 + .highlighter-rouge,$/;"	c
-.main-content h6 + .sectionbody .listingblock	_site/assets/css/just-the-docs-dark.css	/^.main-content h6 + .sectionbody .listingblock,$/;"	c
-.main-content h6 + .sectionbody .listingblock	_site/assets/css/just-the-docs-default.css	/^.main-content h6 + .sectionbody .listingblock,$/;"	c
-.main-content h6 + .sectionbody .listingblock	_site/assets/css/just-the-docs-light.css	/^.main-content h6 + .sectionbody .listingblock,$/;"	c
+.main-content h6 + .highlighter-rouge	_site/assets/css/just-the-docs-dark.css	/^.main-content h6 + .highlighter-rouge {$/;"	c
+.main-content h6 + .highlighter-rouge	_site/assets/css/just-the-docs-default.css	/^.main-content h6 + .highlighter-rouge {$/;"	c
+.main-content h6 + .highlighter-rouge	_site/assets/css/just-the-docs-light.css	/^.main-content h6 + .highlighter-rouge {$/;"	c
 .main-content h6 + .table-wrapper	_site/assets/css/just-the-docs-dark.css	/^.main-content h6 + .table-wrapper,$/;"	c
 .main-content h6 + .table-wrapper	_site/assets/css/just-the-docs-default.css	/^.main-content h6 + .table-wrapper,$/;"	c
 .main-content h6 + .table-wrapper	_site/assets/css/just-the-docs-light.css	/^.main-content h6 + .table-wrapper,$/;"	c
-.main-content h6 + p:not(.label)	_site/assets/css/just-the-docs-dark.css	/^.main-content h6 + p:not(.label),$/;"	c
-.main-content h6 + p:not(.label)	_site/assets/css/just-the-docs-default.css	/^.main-content h6 + p:not(.label),$/;"	c
-.main-content h6 + p:not(.label)	_site/assets/css/just-the-docs-light.css	/^.main-content h6 + p:not(.label),$/;"	c
+.main-content h6 + p	_site/assets/css/just-the-docs-dark.css	/^.main-content h6 + p {$/;"	s
+.main-content h6 + p	_site/assets/css/just-the-docs-default.css	/^.main-content h6 + p {$/;"	s
+.main-content h6 + p	_site/assets/css/just-the-docs-light.css	/^.main-content h6 + p {$/;"	s
 .main-content h6 + table	_site/assets/css/just-the-docs-dark.css	/^.main-content h6 + table,$/;"	s
 .main-content h6 + table	_site/assets/css/just-the-docs-default.css	/^.main-content h6 + table,$/;"	s
 .main-content h6 + table	_site/assets/css/just-the-docs-light.css	/^.main-content h6 + table,$/;"	s
+.main-content h6:first-child	_site/assets/css/just-the-docs-dark.css	/^.main-content h6:first-child {$/;"	s
+.main-content h6:first-child	_site/assets/css/just-the-docs-default.css	/^.main-content h6:first-child {$/;"	s
+.main-content h6:first-child	_site/assets/css/just-the-docs-light.css	/^.main-content h6:first-child {$/;"	s
 .main-content h6:hover > .anchor-heading svg	_site/assets/css/just-the-docs-dark.css	/^.main-content h6:hover > .anchor-heading svg {$/;"	s
 .main-content h6:hover > .anchor-heading svg	_site/assets/css/just-the-docs-default.css	/^.main-content h6:hover > .anchor-heading svg {$/;"	s
 .main-content h6:hover > .anchor-heading svg	_site/assets/css/just-the-docs-light.css	/^.main-content h6:hover > .anchor-heading svg {$/;"	s
@@ -1534,9 +1452,9 @@
 .main-content ol > li ol	_site/assets/css/just-the-docs-dark.css	/^.main-content ol > li ol {$/;"	s
 .main-content ol > li ol	_site/assets/css/just-the-docs-default.css	/^.main-content ol > li ol {$/;"	s
 .main-content ol > li ol	_site/assets/css/just-the-docs-light.css	/^.main-content ol > li ol {$/;"	s
-.main-content ol > li ol > li::before	_site/assets/css/just-the-docs-dark.css	/^.main-content ol > li ol > li::before {$/;"	s
-.main-content ol > li ol > li::before	_site/assets/css/just-the-docs-default.css	/^.main-content ol > li ol > li::before {$/;"	s
-.main-content ol > li ol > li::before	_site/assets/css/just-the-docs-light.css	/^.main-content ol > li ol > li::before {$/;"	s
+.main-content ol > li ol li::before	_site/assets/css/just-the-docs-dark.css	/^.main-content ol > li ol li::before {$/;"	s
+.main-content ol > li ol li::before	_site/assets/css/just-the-docs-default.css	/^.main-content ol > li ol li::before {$/;"	s
+.main-content ol > li ol li::before	_site/assets/css/just-the-docs-light.css	/^.main-content ol > li ol li::before {$/;"	s
 .main-content ol > li::before	_site/assets/css/just-the-docs-dark.css	/^  .main-content ol > li::before {$/;"	s
 .main-content ol > li::before	_site/assets/css/just-the-docs-dark.css	/^.main-content ol > li::before {$/;"	s
 .main-content ol > li::before	_site/assets/css/just-the-docs-default.css	/^  .main-content ol > li::before {$/;"	s
@@ -3148,9 +3066,6 @@
 .nav-list .nav-list-item .nav-list-link.active	_site/assets/css/just-the-docs-default.css	/^.nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {$/;"	c
 .nav-list .nav-list-item .nav-list-link.active	_site/assets/css/just-the-docs-light.css	/^.nav-list .nav-list-item .nav-list-link.active {$/;"	c
 .nav-list .nav-list-item .nav-list-link.active	_site/assets/css/just-the-docs-light.css	/^.nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {$/;"	c
-.nav-list .nav-list-item .nav-list-link.external > svg	_site/assets/css/just-the-docs-dark.css	/^.nav-list .nav-list-item .nav-list-link.external > svg {$/;"	s
-.nav-list .nav-list-item .nav-list-link.external > svg	_site/assets/css/just-the-docs-default.css	/^.nav-list .nav-list-item .nav-list-link.external > svg {$/;"	s
-.nav-list .nav-list-item .nav-list-link.external > svg	_site/assets/css/just-the-docs-light.css	/^.nav-list .nav-list-item .nav-list-link.external > svg {$/;"	s
 .nav-list .nav-list-item .nav-list-link:hover	_site/assets/css/just-the-docs-dark.css	/^.nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {$/;"	c
 .nav-list .nav-list-item .nav-list-link:hover	_site/assets/css/just-the-docs-default.css	/^.nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {$/;"	c
 .nav-list .nav-list-item .nav-list-link:hover	_site/assets/css/just-the-docs-light.css	/^.nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {$/;"	c
@@ -3172,18 +3087,6 @@
 .nav-list .nav-list-item.active > .nav-list-expander svg	_site/assets/css/just-the-docs-dark.css	/^.nav-list .nav-list-item.active > .nav-list-expander svg {$/;"	s
 .nav-list .nav-list-item.active > .nav-list-expander svg	_site/assets/css/just-the-docs-default.css	/^.nav-list .nav-list-item.active > .nav-list-expander svg {$/;"	s
 .nav-list .nav-list-item.active > .nav-list-expander svg	_site/assets/css/just-the-docs-light.css	/^.nav-list .nav-list-item.active > .nav-list-expander svg {$/;"	s
-.nav-list.nav-category-list > .nav-list-item	_site/assets/css/just-the-docs-dark.css	/^.nav-list.nav-category-list > .nav-list-item {$/;"	c
-.nav-list.nav-category-list > .nav-list-item	_site/assets/css/just-the-docs-default.css	/^.nav-list.nav-category-list > .nav-list-item {$/;"	c
-.nav-list.nav-category-list > .nav-list-item	_site/assets/css/just-the-docs-light.css	/^.nav-list.nav-category-list > .nav-list-item {$/;"	c
-.nav-list.nav-category-list > .nav-list-item > .nav-list	_site/assets/css/just-the-docs-dark.css	/^.nav-list.nav-category-list > .nav-list-item > .nav-list {$/;"	c
-.nav-list.nav-category-list > .nav-list-item > .nav-list	_site/assets/css/just-the-docs-default.css	/^.nav-list.nav-category-list > .nav-list-item > .nav-list {$/;"	c
-.nav-list.nav-category-list > .nav-list-item > .nav-list	_site/assets/css/just-the-docs-light.css	/^.nav-list.nav-category-list > .nav-list-item > .nav-list {$/;"	c
-.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-expander	_site/assets/css/just-the-docs-dark.css	/^.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-expander {$/;"	c
-.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-expander	_site/assets/css/just-the-docs-default.css	/^.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-expander {$/;"	c
-.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-expander	_site/assets/css/just-the-docs-light.css	/^.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-expander {$/;"	c
-.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-link	_site/assets/css/just-the-docs-dark.css	/^.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-link {$/;"	c
-.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-link	_site/assets/css/just-the-docs-default.css	/^.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-link {$/;"	c
-.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-link	_site/assets/css/just-the-docs-light.css	/^.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-link {$/;"	c
 .organizer	_site/assets/css/just-the-docs-dark.css	/^.organizer {$/;"	c
 .organizer	_site/assets/css/just-the-docs-default.css	/^.organizer {$/;"	c
 .organizer	_site/assets/css/just-the-docs-light.css	/^.organizer {$/;"	c
@@ -4879,12 +4782,12 @@
 .text-alpha	_site/assets/css/just-the-docs-default.css	/^.text-alpha {$/;"	c
 .text-alpha	_site/assets/css/just-the-docs-light.css	/^  .text-alpha {$/;"	c
 .text-alpha	_site/assets/css/just-the-docs-light.css	/^.text-alpha {$/;"	c
-.text-beta	_site/assets/css/just-the-docs-dark.css	/^  .text-beta,$/;"	c
-.text-beta	_site/assets/css/just-the-docs-dark.css	/^.text-beta,$/;"	c
-.text-beta	_site/assets/css/just-the-docs-default.css	/^  .text-beta,$/;"	c
-.text-beta	_site/assets/css/just-the-docs-default.css	/^.text-beta,$/;"	c
-.text-beta	_site/assets/css/just-the-docs-light.css	/^  .text-beta,$/;"	c
-.text-beta	_site/assets/css/just-the-docs-light.css	/^.text-beta,$/;"	c
+.text-beta	_site/assets/css/just-the-docs-dark.css	/^  .text-beta {$/;"	c
+.text-beta	_site/assets/css/just-the-docs-dark.css	/^.text-beta {$/;"	c
+.text-beta	_site/assets/css/just-the-docs-default.css	/^  .text-beta {$/;"	c
+.text-beta	_site/assets/css/just-the-docs-default.css	/^.text-beta {$/;"	c
+.text-beta	_site/assets/css/just-the-docs-light.css	/^  .text-beta {$/;"	c
+.text-beta	_site/assets/css/just-the-docs-light.css	/^.text-beta {$/;"	c
 .text-blue-000	_site/assets/css/just-the-docs-dark.css	/^.text-blue-000 {$/;"	c
 .text-blue-000	_site/assets/css/just-the-docs-default.css	/^.text-blue-000 {$/;"	c
 .text-blue-000	_site/assets/css/just-the-docs-light.css	/^.text-blue-000 {$/;"	c
@@ -5108,9 +5011,9 @@
 ::-webkit-search-decoration	_site/assets/css/just-the-docs-dark.css	/^[type=search]::-webkit-search-decoration {$/;"	s
 ::-webkit-search-decoration	_site/assets/css/just-the-docs-default.css	/^[type=search]::-webkit-search-decoration {$/;"	s
 ::-webkit-search-decoration	_site/assets/css/just-the-docs-light.css	/^[type=search]::-webkit-search-decoration {$/;"	s
-:not(pre	_site/assets/css/just-the-docs-dark.css	/^:not(pre, figure) > code {$/;"	s
-:not(pre	_site/assets/css/just-the-docs-default.css	/^:not(pre, figure) > code {$/;"	s
-:not(pre	_site/assets/css/just-the-docs-light.css	/^:not(pre, figure) > code {$/;"	s
+::selection	_site/assets/css/just-the-docs-dark.css	/^::selection {$/;"	s
+::selection	_site/assets/css/just-the-docs-default.css	/^::selection {$/;"	s
+::selection	_site/assets/css/just-the-docs-light.css	/^::selection {$/;"	s
 Advancing Machine Learning for Imaging – Regularization and Robustness	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Advisory Committee	_includes/organizers.html	/^<h2>Advisory Committee<\/h2>$/;"	i
 Advisory Committee	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
@@ -5119,9 +5022,6 @@ AnonymousFunction44e4342b0100	_site/assets/js/just-the-docs.js	/^  else document
 AnonymousFunction44e4342b0200	_site/assets/js/just-the-docs.js	/^  jtd.addEvent(document, 'click', function(e){$/;"	f
 AnonymousFunction44e4342b0300	_site/assets/js/just-the-docs.js	/^  jtd.addEvent(menuButton, 'click', function(e){$/;"	f
 AnonymousFunction44e4342b0400	_site/assets/js/just-the-docs.js	/^jtd.onReady(function(){$/;"	f
-AnonymousFunction44e4342b0500	_site/assets/js/just-the-docs.js	/^jtd.onReady(function(){$/;"	f
-AnonymousFunction44e4342b0600	_site/assets/js/just-the-docs.js	/^    copyButton.addEventListener('click', function () {$/;"	f
-AnonymousFunction44e4342b0700	_site/assets/js/just-the-docs.js	/^        timeout = setTimeout(function () {$/;"	f	function:AnonymousFunction44e4342b0600
 Area Chairs	_includes/organizers.html	/^<h2>Area Chairs<\/h2>$/;"	i
 Area Chairs	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Atlas Wang	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5133,26 +5033,6 @@ Call for Papers	README.md	/^# Call for Papers$/;"	c
 Call for Papers	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Call for Papers | Conference on Learning and Parsimony (CLAP)	_site/cfp/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Chong You	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Copied	_site/cfp/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Copied	_site/deadlines/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Copied	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Copied	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Copied	_site/policies/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Copied	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Copied	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Copied	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Copied	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Copied	_site/venue/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Copy	_site/cfp/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Copy	_site/deadlines/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Copy	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Copy	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Copy	_site/policies/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Copy	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Copy	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Copy	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Copy	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Copy	_site/venue/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Dan Alistarh	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Dan Alistarh	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Dan Alistarh	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5160,6 +5040,16 @@ Design Deep Networks for Pursuing Low-Dimensional Structures	_site/tutorials/ind
 Dilin Wang	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Dimitris Papailiopoulos	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Dimitris Papailiopoulos	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Document	_site/cfp/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Document	_site/deadlines/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Document	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Document	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Document	_site/policies/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Document	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Document	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Document	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Document	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Document	_site/venue/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Elena Mocanu	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Eric P. Xing	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Expand	_site/cfp/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5253,6 +5143,16 @@ Saiprasad Ravishankar	_site/organizers/index.html	/^<!DOCTYPE html><html lang="e
 Saiprasad Ravishankar	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Sam Buchanan	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Sam Buchanan	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Search	_site/cfp/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Search	_site/deadlines/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Search	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Search	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Search	_site/policies/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Search	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Search	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Search	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Search	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Search	_site/venue/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Sijia Liu	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Simon Du	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Sparsity Neural Networks – Practice and Theory	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5305,15 +5205,6 @@ Zhihui Zhu	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head>
 a	_site/assets/css/just-the-docs-dark.css	/^a {$/;"	s
 a	_site/assets/css/just-the-docs-default.css	/^a {$/;"	s
 a	_site/assets/css/just-the-docs-light.css	/^a {$/;"	s
-a.skip-to-main	_site/assets/css/just-the-docs-dark.css	/^a.skip-to-main {$/;"	c
-a.skip-to-main	_site/assets/css/just-the-docs-default.css	/^a.skip-to-main {$/;"	c
-a.skip-to-main	_site/assets/css/just-the-docs-light.css	/^a.skip-to-main {$/;"	c
-a.skip-to-main:active	_site/assets/css/just-the-docs-dark.css	/^a.skip-to-main:active {$/;"	c
-a.skip-to-main:active	_site/assets/css/just-the-docs-default.css	/^a.skip-to-main:active {$/;"	c
-a.skip-to-main:active	_site/assets/css/just-the-docs-light.css	/^a.skip-to-main:active {$/;"	c
-a.skip-to-main:focus	_site/assets/css/just-the-docs-dark.css	/^a.skip-to-main:focus,$/;"	c
-a.skip-to-main:focus	_site/assets/css/just-the-docs-default.css	/^a.skip-to-main:focus,$/;"	c
-a.skip-to-main:focus	_site/assets/css/just-the-docs-light.css	/^a.skip-to-main:focus,$/;"	c
 a:not([class] )	_site/assets/css/just-the-docs-dark.css	/^a:not([class]) {$/;"	s
 a:not([class] )	_site/assets/css/just-the-docs-default.css	/^a:not([class]) {$/;"	s
 a:not([class] )	_site/assets/css/just-the-docs-light.css	/^a:not([class]) {$/;"	s
@@ -5344,11 +5235,8 @@ b	_site/assets/css/just-the-docs-dark.css	/^b,$/;"	s
 b	_site/assets/css/just-the-docs-default.css	/^b,$/;"	s
 b	_site/assets/css/just-the-docs-light.css	/^b,$/;"	s
 back-to-top	_layouts/minimal_backup.html	/^            <p><a href="#top" id="back-to-top">{{ site.back_to_top_text }}<\/a><\/p>$/;"	I
-blockquote	_site/assets/css/just-the-docs-dark.css	/^blockquote {$/;"	s
 blockquote	_site/assets/css/just-the-docs-dark.css	/^blockquote,$/;"	s
-blockquote	_site/assets/css/just-the-docs-default.css	/^blockquote {$/;"	s
 blockquote	_site/assets/css/just-the-docs-default.css	/^blockquote,$/;"	s
-blockquote	_site/assets/css/just-the-docs-light.css	/^blockquote {$/;"	s
 blockquote	_site/assets/css/just-the-docs-light.css	/^blockquote,$/;"	s
 body	_site/assets/css/just-the-docs-dark.css	/^  body {$/;"	s
 body	_site/assets/css/just-the-docs-dark.css	/^body {$/;"	s
@@ -5399,9 +5287,6 @@ code	_site/assets/css/just-the-docs-default.css	/^code {$/;"	s
 code	_site/assets/css/just-the-docs-default.css	/^code,$/;"	s
 code	_site/assets/css/just-the-docs-light.css	/^code {$/;"	s
 code	_site/assets/css/just-the-docs-light.css	/^code,$/;"	s
-code.language-mermaid	_site/assets/css/just-the-docs-dark.css	/^code.language-mermaid {$/;"	c
-code.language-mermaid	_site/assets/css/just-the-docs-default.css	/^code.language-mermaid {$/;"	c
-code.language-mermaid	_site/assets/css/just-the-docs-light.css	/^code.language-mermaid {$/;"	c
 content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:0
 content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:10
 content	_site/assets/js/search-data.json	/^    "content": "--> Dan Alistarh . IST Austria\/Neural Magic . Tom Goldstein . University of Mar/;"	s	object:26
@@ -5452,66 +5337,18 @@ details	_site/assets/css/just-the-docs-light.css	/^details {$/;"	s
 div	_site/assets/css/just-the-docs-dark.css	/^div,$/;"	s
 div	_site/assets/css/just-the-docs-default.css	/^div,$/;"	s
 div	_site/assets/css/just-the-docs-light.css	/^div,$/;"	s
-div.highlighter-rouge	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge,$/;"	c
-div.highlighter-rouge	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge,$/;"	c
-div.highlighter-rouge	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge,$/;"	c
-div.highlighter-rouge > button	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge > button,$/;"	s
-div.highlighter-rouge > button	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge > button,$/;"	s
-div.highlighter-rouge > button	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge > button,$/;"	s
-div.highlighter-rouge > button svg	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge > button svg,$/;"	s
-div.highlighter-rouge > button svg	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge > button svg,$/;"	s
-div.highlighter-rouge > button svg	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge > button svg,$/;"	s
-div.highlighter-rouge > button:active	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge > button:active,$/;"	s
-div.highlighter-rouge > button:active	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge > button:active,$/;"	s
-div.highlighter-rouge > button:active	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge > button:active,$/;"	s
-div.highlighter-rouge > button:focus	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge > button:focus,$/;"	s
-div.highlighter-rouge > button:focus	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge > button:focus,$/;"	s
-div.highlighter-rouge > button:focus	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge > button:focus,$/;"	s
+div.highlighter-rouge	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge {$/;"	c
+div.highlighter-rouge	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge {$/;"	c
+div.highlighter-rouge	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge {$/;"	c
 div.highlighter-rouge code	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge code {$/;"	s
 div.highlighter-rouge code	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge code {$/;"	s
 div.highlighter-rouge code	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge code {$/;"	s
-div.highlighter-rouge div.highlight	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge div.highlight {$/;"	c
-div.highlighter-rouge div.highlight	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge div.highlight {$/;"	c
-div.highlighter-rouge div.highlight	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge div.highlight {$/;"	c
+div.highlighter-rouge div.highlight	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge div.highlight,$/;"	c
+div.highlighter-rouge div.highlight	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge div.highlight,$/;"	c
+div.highlighter-rouge div.highlight	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge div.highlight,$/;"	c
 div.highlighter-rouge pre.highlight	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge pre.highlight,$/;"	c
 div.highlighter-rouge pre.highlight	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge pre.highlight,$/;"	c
 div.highlighter-rouge pre.highlight	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge pre.highlight,$/;"	c
-div.highlighter-rouge:hover > button	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge:hover > button,$/;"	s
-div.highlighter-rouge:hover > button	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge:hover > button,$/;"	s
-div.highlighter-rouge:hover > button	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge:hover > button,$/;"	s
-div.listingblock	_site/assets/css/just-the-docs-dark.css	/^div.listingblock {$/;"	c
-div.listingblock	_site/assets/css/just-the-docs-default.css	/^div.listingblock {$/;"	c
-div.listingblock	_site/assets/css/just-the-docs-light.css	/^div.listingblock {$/;"	c
-div.listingblock > div.content	_site/assets/css/just-the-docs-dark.css	/^div.listingblock > div.content,$/;"	c
-div.listingblock > div.content	_site/assets/css/just-the-docs-default.css	/^div.listingblock > div.content,$/;"	c
-div.listingblock > div.content	_site/assets/css/just-the-docs-light.css	/^div.listingblock > div.content,$/;"	c
-div.listingblock > div.content > button	_site/assets/css/just-the-docs-dark.css	/^div.listingblock > div.content > button,$/;"	s
-div.listingblock > div.content > button	_site/assets/css/just-the-docs-default.css	/^div.listingblock > div.content > button,$/;"	s
-div.listingblock > div.content > button	_site/assets/css/just-the-docs-light.css	/^div.listingblock > div.content > button,$/;"	s
-div.listingblock > div.content > button svg	_site/assets/css/just-the-docs-dark.css	/^div.listingblock > div.content > button svg,$/;"	s
-div.listingblock > div.content > button svg	_site/assets/css/just-the-docs-default.css	/^div.listingblock > div.content > button svg,$/;"	s
-div.listingblock > div.content > button svg	_site/assets/css/just-the-docs-light.css	/^div.listingblock > div.content > button svg,$/;"	s
-div.listingblock > div.content > button:active	_site/assets/css/just-the-docs-dark.css	/^div.listingblock > div.content > button:active,$/;"	s
-div.listingblock > div.content > button:active	_site/assets/css/just-the-docs-default.css	/^div.listingblock > div.content > button:active,$/;"	s
-div.listingblock > div.content > button:active	_site/assets/css/just-the-docs-light.css	/^div.listingblock > div.content > button:active,$/;"	s
-div.listingblock > div.content > button:focus	_site/assets/css/just-the-docs-dark.css	/^div.listingblock > div.content > button:focus,$/;"	s
-div.listingblock > div.content > button:focus	_site/assets/css/just-the-docs-default.css	/^div.listingblock > div.content > button:focus,$/;"	s
-div.listingblock > div.content > button:focus	_site/assets/css/just-the-docs-light.css	/^div.listingblock > div.content > button:focus,$/;"	s
-div.listingblock > div.content:hover > button	_site/assets/css/just-the-docs-dark.css	/^div.listingblock > div.content:hover > button,$/;"	s
-div.listingblock > div.content:hover > button	_site/assets/css/just-the-docs-default.css	/^div.listingblock > div.content:hover > button,$/;"	s
-div.listingblock > div.content:hover > button	_site/assets/css/just-the-docs-light.css	/^div.listingblock > div.content:hover > button,$/;"	s
-div.listingblock code	_site/assets/css/just-the-docs-dark.css	/^div.listingblock code {$/;"	s
-div.listingblock code	_site/assets/css/just-the-docs-default.css	/^div.listingblock code {$/;"	s
-div.listingblock code	_site/assets/css/just-the-docs-light.css	/^div.listingblock code {$/;"	s
-div.listingblock div.content	_site/assets/css/just-the-docs-dark.css	/^div.listingblock div.content {$/;"	c
-div.listingblock div.content	_site/assets/css/just-the-docs-default.css	/^div.listingblock div.content {$/;"	c
-div.listingblock div.content	_site/assets/css/just-the-docs-light.css	/^div.listingblock div.content {$/;"	c
-div.listingblock div.content > pre	_site/assets/css/just-the-docs-dark.css	/^div.listingblock div.content > pre,$/;"	s
-div.listingblock div.content > pre	_site/assets/css/just-the-docs-default.css	/^div.listingblock div.content > pre,$/;"	s
-div.listingblock div.content > pre	_site/assets/css/just-the-docs-light.css	/^div.listingblock div.content > pre,$/;"	s
-div.opaque	_site/assets/css/just-the-docs-dark.css	/^div.opaque {$/;"	c
-div.opaque	_site/assets/css/just-the-docs-default.css	/^div.opaque {$/;"	c
-div.opaque	_site/assets/css/just-the-docs-light.css	/^div.opaque {$/;"	c
 dl	_site/assets/css/just-the-docs-dark.css	/^dl,$/;"	s
 dl	_site/assets/css/just-the-docs-default.css	/^dl,$/;"	s
 dl	_site/assets/css/just-the-docs-light.css	/^dl,$/;"	s
@@ -5567,33 +5404,15 @@ fieldset	_site/assets/css/just-the-docs-light.css	/^fieldset,$/;"	s
 figure	_site/assets/css/just-the-docs-dark.css	/^figure,$/;"	s
 figure	_site/assets/css/just-the-docs-default.css	/^figure,$/;"	s
 figure	_site/assets/css/just-the-docs-light.css	/^figure,$/;"	s
-figure) > code	_site/assets/css/just-the-docs-dark.css	/^:not(pre, figure) > code {$/;"	s
-figure) > code	_site/assets/css/just-the-docs-default.css	/^:not(pre, figure) > code {$/;"	s
-figure) > code	_site/assets/css/just-the-docs-light.css	/^:not(pre, figure) > code {$/;"	s
 figure.highlight	_site/assets/css/just-the-docs-dark.css	/^figure.highlight {$/;"	c
 figure.highlight	_site/assets/css/just-the-docs-default.css	/^figure.highlight {$/;"	c
 figure.highlight	_site/assets/css/just-the-docs-light.css	/^figure.highlight {$/;"	c
-figure.highlight :not(pre) > code	_site/assets/css/just-the-docs-dark.css	/^figure.highlight :not(pre) > code {$/;"	s
-figure.highlight :not(pre) > code	_site/assets/css/just-the-docs-default.css	/^figure.highlight :not(pre) > code {$/;"	s
-figure.highlight :not(pre) > code	_site/assets/css/just-the-docs-light.css	/^figure.highlight :not(pre) > code {$/;"	s
-figure.highlight > button	_site/assets/css/just-the-docs-dark.css	/^figure.highlight > button {$/;"	s
-figure.highlight > button	_site/assets/css/just-the-docs-default.css	/^figure.highlight > button {$/;"	s
-figure.highlight > button	_site/assets/css/just-the-docs-light.css	/^figure.highlight > button {$/;"	s
-figure.highlight > button svg	_site/assets/css/just-the-docs-dark.css	/^figure.highlight > button svg {$/;"	s
-figure.highlight > button svg	_site/assets/css/just-the-docs-default.css	/^figure.highlight > button svg {$/;"	s
-figure.highlight > button svg	_site/assets/css/just-the-docs-light.css	/^figure.highlight > button svg {$/;"	s
-figure.highlight > button:active	_site/assets/css/just-the-docs-dark.css	/^figure.highlight > button:active {$/;"	s
-figure.highlight > button:active	_site/assets/css/just-the-docs-default.css	/^figure.highlight > button:active {$/;"	s
-figure.highlight > button:active	_site/assets/css/just-the-docs-light.css	/^figure.highlight > button:active {$/;"	s
-figure.highlight > button:focus	_site/assets/css/just-the-docs-dark.css	/^figure.highlight > button:focus {$/;"	s
-figure.highlight > button:focus	_site/assets/css/just-the-docs-default.css	/^figure.highlight > button:focus {$/;"	s
-figure.highlight > button:focus	_site/assets/css/just-the-docs-light.css	/^figure.highlight > button:focus {$/;"	s
+figure.highlight code	_site/assets/css/just-the-docs-dark.css	/^figure.highlight code {$/;"	s
+figure.highlight code	_site/assets/css/just-the-docs-default.css	/^figure.highlight code {$/;"	s
+figure.highlight code	_site/assets/css/just-the-docs-light.css	/^figure.highlight code {$/;"	s
 figure.highlight pre	_site/assets/css/just-the-docs-dark.css	/^figure.highlight pre,$/;"	s
 figure.highlight pre	_site/assets/css/just-the-docs-default.css	/^figure.highlight pre,$/;"	s
 figure.highlight pre	_site/assets/css/just-the-docs-light.css	/^figure.highlight pre,$/;"	s
-figure.highlight:hover > button	_site/assets/css/just-the-docs-dark.css	/^figure.highlight:hover > button {$/;"	s
-figure.highlight:hover > button	_site/assets/css/just-the-docs-default.css	/^figure.highlight:hover > button {$/;"	s
-figure.highlight:hover > button	_site/assets/css/just-the-docs-light.css	/^figure.highlight:hover > button {$/;"	s
 form	_site/assets/css/just-the-docs-dark.css	/^form,$/;"	s
 form	_site/assets/css/just-the-docs-default.css	/^form,$/;"	s
 form	_site/assets/css/just-the-docs-light.css	/^form,$/;"	s
@@ -5635,10 +5454,13 @@ h5	_site/assets/css/just-the-docs-default.css	/^h5,$/;"	s
 h5	_site/assets/css/just-the-docs-light.css	/^  h5,$/;"	s
 h5	_site/assets/css/just-the-docs-light.css	/^h5,$/;"	s
 h6	_site/assets/css/just-the-docs-dark.css	/^  h6,$/;"	s
+h6	_site/assets/css/just-the-docs-dark.css	/^h6 {$/;"	s
 h6	_site/assets/css/just-the-docs-dark.css	/^h6,$/;"	s
 h6	_site/assets/css/just-the-docs-default.css	/^  h6,$/;"	s
+h6	_site/assets/css/just-the-docs-default.css	/^h6 {$/;"	s
 h6	_site/assets/css/just-the-docs-default.css	/^h6,$/;"	s
 h6	_site/assets/css/just-the-docs-light.css	/^  h6,$/;"	s
+h6	_site/assets/css/just-the-docs-light.css	/^h6 {$/;"	s
 h6	_site/assets/css/just-the-docs-light.css	/^h6,$/;"	s
 hidden	_site/assets/css/just-the-docs-dark.css	/^[hidden] {$/;"	s
 hidden	_site/assets/css/just-the-docs-default.css	/^[hidden] {$/;"	s
@@ -5663,11 +5485,11 @@ img	_site/assets/css/just-the-docs-dark.css	/^img {$/;"	s
 img	_site/assets/css/just-the-docs-default.css	/^img {$/;"	s
 img	_site/assets/css/just-the-docs-light.css	/^img {$/;"	s
 initNav	_site/assets/js/just-the-docs.js	/^function initNav() {$/;"	f
-input	_site/assets/css/just-the-docs-dark.css	/^input {$/;"	s
+input	_site/assets/css/just-the-docs-dark.css	/^input { \/* 1 *\/$/;"	s
 input	_site/assets/css/just-the-docs-dark.css	/^input,$/;"	s
-input	_site/assets/css/just-the-docs-default.css	/^input {$/;"	s
+input	_site/assets/css/just-the-docs-default.css	/^input { \/* 1 *\/$/;"	s
 input	_site/assets/css/just-the-docs-default.css	/^input,$/;"	s
-input	_site/assets/css/just-the-docs-light.css	/^input {$/;"	s
+input	_site/assets/css/just-the-docs-light.css	/^input { \/* 1 *\/$/;"	s
 input	_site/assets/css/just-the-docs-light.css	/^input,$/;"	s
 introduction-to-low-dimensional-models	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 invited-speakers	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -5761,6 +5583,7 @@ nonconvex-optimization-of-low-dimensional-models	_site/tutorials/index.html	/^<!
 noscript .table-wrapper	_site/assets/css/just-the-docs-dark.css	/^noscript .table-wrapper {$/;"	c
 noscript .table-wrapper	_site/assets/css/just-the-docs-default.css	/^noscript .table-wrapper {$/;"	c
 noscript .table-wrapper	_site/assets/css/just-the-docs-light.css	/^noscript .table-wrapper {$/;"	c
+nsd4b0bd230101	_site/assets/images/search.svg	/^<svg width="28" height="28" viewBox="0 0 28 28" xmlns="http:\/\/www.w3.org\/2000\/svg"><title>Se/;"	n	uri:http://www.w3.org/2000/svg
 number	_site/assets/css/just-the-docs-dark.css	/^[type=number]::-webkit-inner-spin-button,$/;"	s
 number	_site/assets/css/just-the-docs-dark.css	/^[type=number]::-webkit-outer-spin-button {$/;"	s
 number	_site/assets/css/just-the-docs-default.css	/^[type=number]::-webkit-inner-spin-button,$/;"	s
@@ -5790,11 +5613,8 @@ pre	_site/assets/css/just-the-docs-default.css	/^pre,$/;"	s
 pre	_site/assets/css/just-the-docs-light.css	/^pre {$/;"	s
 pre	_site/assets/css/just-the-docs-light.css	/^pre,$/;"	s
 pre.highlight	_site/assets/css/just-the-docs-dark.css	/^  pre.highlight {$/;"	c
-pre.highlight	_site/assets/css/just-the-docs-dark.css	/^pre.highlight {$/;"	c
 pre.highlight	_site/assets/css/just-the-docs-default.css	/^  pre.highlight {$/;"	c
-pre.highlight	_site/assets/css/just-the-docs-default.css	/^pre.highlight {$/;"	c
 pre.highlight	_site/assets/css/just-the-docs-light.css	/^  pre.highlight {$/;"	c
-pre.highlight	_site/assets/css/just-the-docs-light.css	/^pre.highlight {$/;"	c
 program-committee	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 progress	_site/assets/css/just-the-docs-dark.css	/^progress {$/;"	s
 progress	_site/assets/css/just-the-docs-default.css	/^progress {$/;"	s
@@ -5856,7 +5676,6 @@ reset	_site/assets/css/just-the-docs-light.css	/^[type=reset]::-moz-focus-inner,
 samp	_site/assets/css/just-the-docs-dark.css	/^samp {$/;"	s
 samp	_site/assets/css/just-the-docs-default.css	/^samp {$/;"	s
 samp	_site/assets/css/just-the-docs-light.css	/^samp {$/;"	s
-scrollNav	_site/assets/js/just-the-docs.js	/^function scrollNav() {$/;"	f
 search	_site/assets/css/just-the-docs-dark.css	/^[type=search] {$/;"	s
 search	_site/assets/css/just-the-docs-dark.css	/^[type=search]::-webkit-search-decoration {$/;"	s
 search	_site/assets/css/just-the-docs-default.css	/^[type=search] {$/;"	s
@@ -5864,11 +5683,11 @@ search	_site/assets/css/just-the-docs-default.css	/^[type=search]::-webkit-searc
 search	_site/assets/css/just-the-docs-light.css	/^[type=search] {$/;"	s
 search	_site/assets/css/just-the-docs-light.css	/^[type=search]::-webkit-search-decoration {$/;"	s
 section	_sass/custom/calendar.scss	/^    &.section {$/;"	c
-select	_site/assets/css/just-the-docs-dark.css	/^select {$/;"	s
+select	_site/assets/css/just-the-docs-dark.css	/^select { \/* 1 *\/$/;"	s
 select	_site/assets/css/just-the-docs-dark.css	/^select,$/;"	s
-select	_site/assets/css/just-the-docs-default.css	/^select {$/;"	s
+select	_site/assets/css/just-the-docs-default.css	/^select { \/* 1 *\/$/;"	s
 select	_site/assets/css/just-the-docs-default.css	/^select,$/;"	s
-select	_site/assets/css/just-the-docs-light.css	/^select {$/;"	s
+select	_site/assets/css/just-the-docs-light.css	/^select { \/* 1 *\/$/;"	s
 select	_site/assets/css/just-the-docs-light.css	/^select,$/;"	s
 setTheme	_site/assets/js/just-the-docs.js	/^jtd.setTheme = function(theme) {$/;"	f	function:jtd
 side-bar	_sass/custom/custom_backup.scss	/^.side-bar {$/;"	c
@@ -6008,46 +5827,16 @@ svg-arrow-right	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><h
 svg-arrow-right	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-arrow-right	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-arrow-right	_site/venue/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-copied	_site/cfp/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-copied	_site/deadlines/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-copied	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-copied	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-copied	_site/policies/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-copied	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-copied	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-copied	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-copied	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-copied	_site/venue/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-copy	_site/cfp/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-copy	_site/deadlines/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-copy	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-copy	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-copy	_site/policies/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-copy	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-copy	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-copy	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-copy	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-copy	_site/venue/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-external-link	_site/cfp/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-external-link	_site/deadlines/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-external-link	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-external-link	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-external-link	_site/policies/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-external-link	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-external-link	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-external-link	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-external-link	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-external-link	_site/venue/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-external-link-title	_site/cfp/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-external-link-title	_site/deadlines/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-external-link-title	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-external-link-title	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-external-link-title	_site/policies/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-external-link-title	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-external-link-title	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-external-link-title	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-external-link-title	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-external-link-title	_site/venue/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-doc	_site/cfp/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-doc	_site/deadlines/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-doc	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-doc	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-doc	_site/policies/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-doc	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-doc	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-doc	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-doc	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-doc	_site/venue/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-link	_layouts/minimal_backup.html	/^    <symbol id="svg-link" viewBox="0 0 24 24">$/;"	I
 svg-link	_site/cfp/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-link	_site/deadlines/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -6069,6 +5858,16 @@ svg-menu	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><me
 svg-menu	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-menu	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-menu	_site/venue/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-search	_site/cfp/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-search	_site/deadlines/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-search	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-search	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-search	_site/policies/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-search	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-search	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-search	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-search	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-search	_site/venue/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 table	_site/assets/css/just-the-docs-dark.css	/^table {$/;"	s
 table	_site/assets/css/just-the-docs-dark.css	/^table,$/;"	s
 table	_site/assets/css/just-the-docs-default.css	/^table {$/;"	s
@@ -6218,47 +6017,47 @@ type	_site/assets/css/just-the-docs-light.css	/^[type=submit]::-moz-focus-inner 
 ul	_site/assets/css/just-the-docs-dark.css	/^ul,$/;"	s
 ul	_site/assets/css/just-the-docs-default.css	/^ul,$/;"	s
 ul	_site/assets/css/just-the-docs-light.css	/^ul,$/;"	s
-url	_site/assets/js/search-data.json	/^    "url": "\/",$/;"	s	object:3
-url	_site/assets/js/search-data.json	/^    "url": "\/",$/;"	s	object:5
-url	_site/assets/js/search-data.json	/^    "url": "\/#call-for-papers",$/;"	s	object:0
-url	_site/assets/js/search-data.json	/^    "url": "\/#invited-speakers",$/;"	s	object:2
-url	_site/assets/js/search-data.json	/^    "url": "\/#key-dates-and-deadlines",$/;"	s	object:1
-url	_site/assets/js/search-data.json	/^    "url": "\/#todo-for-this-page",$/;"	s	object:4
-url	_site/assets/js/search-data.json	/^    "url": "\/cfp\/",$/;"	s	object:7
-url	_site/assets/js/search-data.json	/^    "url": "\/cfp\/#todo-for-this-page",$/;"	s	object:6
-url	_site/assets/js/search-data.json	/^    "url": "\/deadlines\/",$/;"	s	object:9
-url	_site/assets/js/search-data.json	/^    "url": "\/deadlines\/#key-dates-and-deadlines",$/;"	s	object:8
-url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/",$/;"	s	object:11
-url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/",$/;"	s	object:12
-url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/",$/;"	s	object:13
-url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/",$/;"	s	object:14
-url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/",$/;"	s	object:15
-url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/",$/;"	s	object:16
-url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/",$/;"	s	object:17
-url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/",$/;"	s	object:18
-url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/",$/;"	s	object:19
-url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/",$/;"	s	object:20
-url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/",$/;"	s	object:21
-url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/",$/;"	s	object:22
-url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/#program-committee",$/;"	s	object:10
-url	_site/assets/js/search-data.json	/^    "url": "\/policies\/",$/;"	s	object:24
-url	_site/assets/js/search-data.json	/^    "url": "\/policies\/#todo-for-this-page",$/;"	s	object:23
-url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/",$/;"	s	object:26
-url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/",$/;"	s	object:27
-url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/#invited-speakers",$/;"	s	object:25
-url	_site/assets/js/search-data.json	/^    "url": "\/sponsors\/",$/;"	s	object:29
-url	_site/assets/js/search-data.json	/^    "url": "\/sponsors\/#todo-for-this-page",$/;"	s	object:28
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/",$/;"	s	object:35
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#how-to-submit-your-work",$/;"	s	object:31
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#logistics-for-accepted-papers",$/;"	s	object:32
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#submission-guidelines",$/;"	s	object:34
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#todo-for-this-page",$/;"	s	object:30
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#topics-of-interest",$/;"	s	object:33
-url	_site/assets/js/search-data.json	/^    "url": "\/tutorials\/",$/;"	s	object:38
-url	_site/assets/js/search-data.json	/^    "url": "\/tutorials\/#todo-for-this-page",$/;"	s	object:36
-url	_site/assets/js/search-data.json	/^    "url": "\/tutorials\/#tutorials",$/;"	s	object:37
-url	_site/assets/js/search-data.json	/^    "url": "\/venue\/",$/;"	s	object:40
-url	_site/assets/js/search-data.json	/^    "url": "\/venue\/#todo-for-this-page",$/;"	s	object:39
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/",$/;"	s	object:3
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/",$/;"	s	object:5
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/#call-for-papers",$/;"	s	object:0
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/#invited-speakers",$/;"	s	object:2
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/#key-dates-and-deadlines",$/;"	s	object:1
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/#todo-for-this-page",$/;"	s	object:4
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/cfp\/",$/;"	s	object:7
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/cfp\/#todo-for-this-page",$/;"	s	object:6
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/deadlines\/",$/;"	s	object:9
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/deadlines\/#key-dates-and-deadlines",$/;"	s	object:8
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/organizers\/",$/;"	s	object:11
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/organizers\/",$/;"	s	object:12
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/organizers\/",$/;"	s	object:13
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/organizers\/",$/;"	s	object:14
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/organizers\/",$/;"	s	object:15
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/organizers\/",$/;"	s	object:16
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/organizers\/",$/;"	s	object:17
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/organizers\/",$/;"	s	object:18
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/organizers\/",$/;"	s	object:19
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/organizers\/",$/;"	s	object:20
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/organizers\/",$/;"	s	object:21
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/organizers\/",$/;"	s	object:22
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/organizers\/#program-committee",$/;"	s	object:10
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/policies\/",$/;"	s	object:24
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/policies\/#todo-for-this-page",$/;"	s	object:23
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/speakers\/",$/;"	s	object:26
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/speakers\/",$/;"	s	object:27
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/speakers\/#invited-speakers",$/;"	s	object:25
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/sponsors\/",$/;"	s	object:29
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/sponsors\/#todo-for-this-page",$/;"	s	object:28
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/submission\/",$/;"	s	object:35
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/submission\/#how-to-submit-your-work",$/;"	s	object:31
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/submission\/#logistics-for-accepted-papers",$/;"	s	object:32
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/submission\/#submission-guidelines",$/;"	s	object:34
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/submission\/#todo-for-this-page",$/;"	s	object:30
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/submission\/#topics-of-interest",$/;"	s	object:33
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/tutorials\/",$/;"	s	object:38
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/tutorials\/#todo-for-this-page",$/;"	s	object:36
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/tutorials\/#tutorials",$/;"	s	object:37
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/venue\/",$/;"	s	object:40
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/venue\/#todo-for-this-page",$/;"	s	object:39
 {% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/organizer.html	/^    <\/h3>$/;"	j
 {% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/speaker.html	/^    <\/h3>$/;"	j
 {{ day.name }}	_layouts/calendar.html	/^      <h2 class="calendar-header">{{ day.name }}<\/h2>$/;"	i
