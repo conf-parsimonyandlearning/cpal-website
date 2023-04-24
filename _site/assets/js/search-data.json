@@ -1,242 +1,263 @@
 {"0": {
     "doc": "Home",
+    "title": "Key Dates and Deadlines",
+    "content": ". | May 5th, 2023: Conference announcement + CFP | . | Somewhere in June/July, 1-2 more rounds of CFPs | . | August 14th, 2023: Abstract Submission Deadline | August 28th, 2023: Submission Deadline | October 14th, 2023: 2-Week Rebuttal Stage Starts | October 27th, 2023: Rebuttal Stage Ends, Authors-Reviewers Discussion Stage Starts | November 5th, 2023: Authors-Reviewers Discussion Stage Ends | November 20th, 2023: Final Decisions Released | November 30th, 2023: Camera Ready Deadline | January 3rd, 2024: Conference Starts | . ",
+    "url": "/#key-dates-and-deadlines",
+    
+    "relUrl": "/#key-dates-and-deadlines"
+  },"1": {
+    "doc": "Home",
+    "title": "Invited Speakers",
+    "content": "<!-- ",
+    "url": "/#invited-speakers",
+    
+    "relUrl": "/#invited-speakers"
+  },"2": {
+    "doc": "Home",
+    "title": "Confirmed Distinguished Speakers",
+    "content": "--> Dan Alistarh . IST Austria/Neural Magic . Tom Goldstein . University of Maryland . Dimitris Papailiopoulos . University of Wisconsin-Madison . Jong Chul Ye . KAIST . ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"3": {
+    "doc": "Home",
     "title": "TODO for this page:",
     "content": ". | New splash | New Logo | Text teaser about the conference (”content”) . | Ideas/topics | “Quirks” (the single-blind reviewing? …) | . | Location and date of conf; submission deadline (link to deadlines page) | Possibly confirmed invited speakers? | Sponsors at the end | . ",
     "url": "/#todo-for-this-page",
     
     "relUrl": "/#todo-for-this-page"
-  },"1": {
+  },"4": {
     "doc": "Home",
     "title": "Home",
     "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",
     "url": "/",
     
     "relUrl": "/"
-  },"2": {
+  },"5": {
     "doc": "Key Dates",
     "title": "Key Dates and Deadlines",
     "content": ". | May 5th, 2023: Conference announcement + CFP | . | Somewhere in June/July, 1-2 more rounds of CFPs | . | August 14th, 2023: Abstract Submission Deadline | August 28th, 2023: Submission Deadline | October 14th, 2023: 2-Week Rebuttal Stage Starts | October 27th, 2023: Rebuttal Stage Ends, Authors-Reviewers Discussion Stage Starts | November 5th, 2023: Authors-Reviewers Discussion Stage Ends | November 20th, 2023: Final Decisions Released | November 30th, 2023: Camera Ready Deadline | January 3rd, 2024: Conference Starts | . ",
     "url": "/deadlines/#key-dates-and-deadlines",
     
     "relUrl": "/deadlines/#key-dates-and-deadlines"
-  },"3": {
+  },"6": {
     "doc": "Key Dates",
     "title": "Key Dates",
     "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",
     "url": "/deadlines/",
     
     "relUrl": "/deadlines/"
-  },"4": {
+  },"7": {
     "doc": "Program Committee",
     "title": "Program Committee",
     "content": " ",
     "url": "/organizers/#program-committee",
     
     "relUrl": "/organizers/#program-committee"
-  },"5": {
+  },"8": {
     "doc": "Program Committee",
     "title": "General Chairs",
     "content": "Gitta Kutyniok . LMU Munich . General Chair . Yi Ma . UC Berkeley . General Chair . Harry Shum . HKUST . General Chair . René Vidal . UPenn . General Chair . ",
     "url": "/organizers/",
     
     "relUrl": "/organizers/"
-  },"6": {
+  },"9": {
     "doc": "Program Committee",
     "title": "Program Chairs",
     "content": "Yuejie Chi . Carnegie Mellon University . Program Chair . Qing Qu . University of Michigan . Program Chair . Atlas Wang . UT Austin . Program Chair . ",
     "url": "/organizers/",
     
     "relUrl": "/organizers/"
-  },"7": {
+  },"10": {
     "doc": "Program Committee",
     "title": "Local Chairs",
     "content": "Yanchao Yang . HKU . Local Chair . Man-Chung Yue . HKU . Local Chair . ",
     "url": "/organizers/",
     
     "relUrl": "/organizers/"
-  },"8": {
+  },"11": {
     "doc": "Program Committee",
     "title": "Publication Chairs",
     "content": "Zhihui Zhu . Ohio State University . Publication Chair . ",
     "url": "/organizers/",
     
     "relUrl": "/organizers/"
-  },"9": {
+  },"12": {
     "doc": "Program Committee",
     "title": "Industry Liaison Chairs",
     "content": "Dan Alistarh . IST Austria/Neural Magic . Industry Liaison Chair . Dilin Wang . Meta . Industry Liaison Chair . Chong You . Google NYC . Industry Liaison Chair . ",
     "url": "/organizers/",
     
     "relUrl": "/organizers/"
-  },"10": {
+  },"13": {
     "doc": "Program Committee",
     "title": "Panel Chairs",
     "content": "Sijia Liu . Michigan State University . Panel Chair . Jeremias Sulam . Johns Hopkins University . Panel Chair . ",
     "url": "/organizers/",
     
     "relUrl": "/organizers/"
-  },"11": {
+  },"14": {
     "doc": "Program Committee",
     "title": "Tutorial Chairs",
     "content": "Saiprasad Ravishankar . Michigan State University . Tutorial Chair . John Wright . Columbia University . Tutorial Chair . ",
     "url": "/organizers/",
     
     "relUrl": "/organizers/"
-  },"12": {
+  },"15": {
     "doc": "Program Committee",
     "title": "Publicity Chairs",
     "content": "Yani Ioannou . University of Calgary . Publicity Chair . Liyue Shen . University of Michigan . Publicity Chair . ",
     "url": "/organizers/",
     
     "relUrl": "/organizers/"
-  },"13": {
+  },"16": {
     "doc": "Program Committee",
     "title": "Web Chairs",
     "content": "Sam Buchanan . TTIC . Web Chair . ",
     "url": "/organizers/",
     
     "relUrl": "/organizers/"
-  },"14": {
+  },"17": {
     "doc": "Program Committee",
     "title": "Area Chairs",
     "content": "Babak Ehteshami Bejnordi . Qualcomm . Area Chair . Beidi Chen . Meta/Carnegie Mellon University . Area Chair . Tianlong Chen . UT Austin . Area Chair . Yuxin Chen . UPenn . Area Chair . Yubei Chen . NYU/Meta . Area Chair . Ivan Dokmanić . University of Basel . Area Chair . Simon Du . University of Washington . Area Chair . Qi Lei . NYU . Area Chair . Xiao Li . CUHK Shenzhen . Area Chair . Elena Mocanu . University of Twente . Area Chair . Greg Ongie . Marquette University . Area Chair . Mahdi Soltanolkotabi . USC . Area Chair . Peng Wang . University of Michigan . Area Chair . Yu-Xiang Wang . UC Santa Barbara . Area Chair . Bihan Wen . Nanyang Technological University . Area Chair . Fanny Yang . ETH Zurich . Area Chair . Yuqian Zhang . Rutgers University . Area Chair . ",
     "url": "/organizers/",
     
     "relUrl": "/organizers/"
-  },"15": {
+  },"18": {
     "doc": "Program Committee",
     "title": "Advisory Committee",
     "content": "Alex Dimakis . UT Austin . Advisory Committee . Michael Elad . Technion . Advisory Committee . Eric P. Xing . MBZUAI/Carnegie Mellon University . Advisory Committee . Tong Zhang . HKUST . Advisory Committee . ",
     "url": "/organizers/",
     
     "relUrl": "/organizers/"
-  },"16": {
+  },"19": {
     "doc": "Program Committee",
     "title": "Program Committee",
     "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",
     "url": "/organizers/",
     
     "relUrl": "/organizers/"
-  },"17": {
+  },"20": {
     "doc": "Policies",
     "title": "TODO for this page:",
     "content": ". | DEI? | Code of conduct? | Review/author guide? | . ",
     "url": "/policies/#todo-for-this-page",
     
     "relUrl": "/policies/#todo-for-this-page"
-  },"18": {
+  },"21": {
     "doc": "Policies",
     "title": "Policies",
     "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",
     "url": "/policies/",
     
     "relUrl": "/policies/"
-  },"19": {
+  },"22": {
     "doc": "Invited Speakers",
     "title": "Invited Speakers",
     "content": "<!-- ",
     "url": "/speakers/#invited-speakers",
     
     "relUrl": "/speakers/#invited-speakers"
-  },"20": {
+  },"23": {
     "doc": "Invited Speakers",
     "title": "Confirmed Distinguished Speakers",
     "content": "--> Dan Alistarh . IST Austria/Neural Magic . Tom Goldstein . University of Maryland . Dimitris Papailiopoulos . University of Wisconsin-Madison . Jong Chul Ye . KAIST . ",
     "url": "/speakers/",
     
     "relUrl": "/speakers/"
-  },"21": {
+  },"24": {
     "doc": "Invited Speakers",
     "title": "Invited Speakers",
     "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",
     "url": "/speakers/",
     
     "relUrl": "/speakers/"
-  },"22": {
+  },"25": {
     "doc": "Sponsors",
     "title": "TODO for this page:",
     "content": ". | Can include it on the homepage too | . ",
     "url": "/sponsors/#todo-for-this-page",
     
     "relUrl": "/sponsors/#todo-for-this-page"
-  },"23": {
+  },"26": {
     "doc": "Sponsors",
     "title": "Sponsors",
     "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",
     "url": "/sponsors/",
     
     "relUrl": "/sponsors/"
-  },"24": {
+  },"27": {
     "doc": "Call for Papers",
     "title": "TODO FOR THIS PAGE",
     "content": ". | List of ACs (single blind policy) | Subject areas | Procedures for the CfP… . | guidelines for submitting (see next header too) | formatting/style | . | OpenReview | Award info (committee?) | Information about presenting the papers (in-person; poster/spotlight/awards; …) | . ",
     "url": "/submission/#todo-for-this-page",
     
     "relUrl": "/submission/#todo-for-this-page"
-  },"25": {
+  },"28": {
     "doc": "Call for Papers",
     "title": "How to Submit Your Work",
     "content": "We will use OpenReview to manage submissions. Submit your work here: . https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop . See the submission guidelines and topics of interest. ",
     "url": "/submission/#how-to-submit-your-work",
     
     "relUrl": "/submission/#how-to-submit-your-work"
-  },"26": {
+  },"29": {
     "doc": "Call for Papers",
     "title": "Logistics for Accepted Papers",
     "content": "Accepted works will be expected to present a poster describing the work in-person at the workshop. Travel grants are available to support authors of accepted papers: see the travel page for details. A small subset of the top accepted papers will be recommended for inclusion in a future special issue of the IEEE Journal of Selected Topics in Signal Processing. ",
     "url": "/submission/#logistics-for-accepted-papers",
     
     "relUrl": "/submission/#logistics-for-accepted-papers"
-  },"27": {
+  },"30": {
     "doc": "Call for Papers",
     "title": "Topics of Interest",
     "content": "Topics of interest include, but are not limited to, connections between low-dimensional models and the theory, architectures, algorithms, and applications of deep neural networks: . | Theory: approximation, generalization, robustness, compact and structured representations | Optimization: Benign non-convex optimization, implicit bias analysis, convergence guarantees | Architectures: compact/model-based/neuro-inspired/invariant neural networks | Algorithms: pruning, sparse training, robust training | Applications: generative models, resource/data-efficient learning, inverse problems | . ",
     "url": "/submission/#topics-of-interest",
     
     "relUrl": "/submission/#topics-of-interest"
-  },"28": {
+  },"31": {
     "doc": "Call for Papers",
     "title": "Submission Guidelines",
     "content": "We aim to showcase: . | The latest research innovations at all stages of the research process, from work-in-progress to recently published papers | Position or survey papers on any topics relevant to this workshop (see the call above) | . Concretely, we ask members of the community to submit a conference-style paper (from four to eight pages, with extra pages for references) describing the work. Please also upload a short (250 word) abstract to OpenReview. Do not anonymize submissions. Papers should be written using the NeurIPS 2022 style files, available here. OpenReview submissions may also include any of the following supplemental materials that describe the work in further detail. | A poster (in PDF form) presenting results of work-in-progress. | A link to a blog post (e.g., distill.pub, Medium) describing results. | Appendices with detailed derivations and additional experiments. | . This workshop is non-archival, and it will not have proceedings. We permit under-review or concurrent submissions. Reviewing will be performed in a single-blind fashion (authors should not anonymize their submissions). ",
     "url": "/submission/#submission-guidelines",
     
     "relUrl": "/submission/#submission-guidelines"
-  },"29": {
+  },"32": {
     "doc": "Call for Papers",
     "title": "Call for Papers",
     "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",
     "url": "/submission/",
     
     "relUrl": "/submission/"
-  },"30": {
+  },"33": {
     "doc": "Tutorials",
     "title": "TODO for this page:",
     "content": ". | Do we want to offer our existing course? | Do we want a call? | . ",
     "url": "/tutorials/#todo-for-this-page",
     
     "relUrl": "/tutorials/#todo-for-this-page"
-  },"31": {
+  },"34": {
     "doc": "Tutorials",
     "title": "Tutorials",
     "content": "The first day of the workshop features tutorial presentations from a subset of the organizers. These tutorials present an up-to-date account of the intersection between low-dimensional modeling and deep learning in an accessible format. The tutorials are summarized below. See the schedule for the precise times of each tutorial. Some of the tutorials draw on material from an ICASSP 2022 short course. Introduction to Low-Dimensional Models . John Wright . Columbia University . The first session will introduce fundamental properties and theoretical results for sensing, processing, analyzing, and learning low-dimensional structures from high-dimensional data. We will first discuss classical low-dimensional models, such as sparse recovery and low-rank matrix sensing, and motivate these models by applications in medical imaging, collaborative filtering, face recognition, and beyond. Based on convex relaxation, we will characterize the conditions, in terms of sample/data complexity, under which the inverse problems of recovering such low-dimensional structures become tractable and can be solved efficiently, with guaranteed correctness or accuracy. Nonconvex Optimization of Low-Dimensional Models . Yuqian Zhang . Rutgers University . We will transit from sensing to learning low-dimensional structures, such as dictionary learning, sparse blind deconvolution, and dual principal component analysis. Problems associated with learning low-dimensional models from sample data are often nonconvex: either they do not have tractable convex relaxations or the nonconvex formulation is preferred due to physical or computational constraints (such as limited memory). To deal with these challenges, we will introduce a systematic approach of analyzing the corresponding nonconvex landscapes from a geometry and symmetry perspective. The resulting approach leads to provable globally convergent nonconvex optimization methods. Learning Low-Dimensional Structure via Deep Networks . Sam Buchanan . TTIC . We will discuss the contemporary topic of using deep models for computing with nonlinear data, introducing strong conceptual connections between low-dimensional structures in data and deep models. We will then consider a mathematical model problem that attempts to capture these aspects of practice, and show how low-dimensional structure in data and tasks influences the resources (statistical, architectural) required to achieve a given performance level. Our discussion will revolve around basic tradeoffs between these resources and theoretical guarantees of performance. Learned Representations and Low-Dimensional Structures . Zhihui Zhu . Ohio State University . Continuing our exploration of deep models for nonlinear data, we will begin to delve into learned representations, network architectures, regularizations, and beyond. We will see how the tools for nonconvexity developed previously shed light on the learned representations produced by deep networks, through connections to matrix factorization. We will observe how algorithms that interact with data will expose additional connections to low-dimensional models, through implicit regularization of the network parameters. Design Deep Networks for Pursuing Low-Dimensional Structures . Yi Ma . UC Berkeley . Based upon the previous discussion on the connection between low-dimensional structures and deep models, in this section, we will discuss principles for designing deep networks through the lens of learning good low-dimensional representation for (potentially nonlinear) low-dimensional structures. We will see how unrolling iterative optimization algorithms for low-dimensional problems (such as the sparsifying algorithms) naturally lead to deep neural networks. We will then show how modern deep layered architectures, linear (convolution) operators, and nonlinear activations, and even all parameters can be derived from the principle of learning a compact linear discriminative representation for nonlinear low-dimensional structures within the data. We will show how so learned representations can bring tremendous benefits in tasks such as learning generative models, noise stability, and incremental learning. Sparsity Neural Networks – Practice and Theory . Atlas Wang . UT Austin . We discuss the role of sparsity in general neural network architectures, and shed light on how sparsity interacts with deep learning under the overparameterization regime, for both practitioners and theorists. A sparse neural network (NN) has most of its parameters set to zero and is traditionally considered as the product of NN compression (i.e., pruning). Yet recently, sparsity has exposed itself as an important bridge for modeling the underlying low dimensionality of NNs, for understanding their generalization, optimization dynamics, implicit regularization, expressivity, and robustness. Deep NNs learned with sparsity-aware priors have also demonstrated significantly improved performances through a full stack of applied work on algorithms, systems, and hardware. In this talk, I plan to cover recent progress on the practical, theoretical, and scientific aspects of sparse NNs. I will try scratching the surface of three aspects – (1) practically, why one should love a sparse NN, beyond just a post-training NN compression tool; (2) theoretically, what are some guarantees that one can expect from sparse NNs; and (3) what is future prospect of exploiting sparsity in NNs. Advancing Machine Learning for Imaging – Regularization and Robustness . Saiprasad Ravishankar . Michigan State University . In this talk, we present our work on improving machine learning for image reconstruction on three fronts – i) learning regularizers, ii) learning with no training data, and iii) ensuring robustness to perturbations in learning-based schemes. First, we present an approach for supervised learning of sparsity-promoting regularizers, where the parameters of the regularizer are learned to minimize reconstruction error on a paired training set. Training involves a challenging bilevel optimization problem with a nonsmooth lower-level objective. We derive an expression for the gradient of the training loss using the implicit closed-form solution of the lower-level variational problem, and provide an accompanying exact gradient descent algorithm (dubbed BLORC). Our experiments show that the gradient computation is efficient and BLORC learns meaningful operators for effective denoising. Second, we investigate the deep image prior (DIP) scheme that recovers an image by fitting an overparameterized neural network directly to the image’s corrupted measurements. To address DIP’s overfitting and performance issues, recent work proposed using a reference image as the network input. However, obtaining the reference often requires supervision. Hence, we propose a self-guided scheme that uses only undersampled measurements to estimate both the network weights and input image. We exploit regularization requiring the network to be a powerful denoiser. Our self-guided method gives significantly improved reconstructions for MRI with limited measurements compared to recent schemes, while using no training data. Finally, recent studies have shown that trained deep reconstruction models could be over-sensitive to tiny input perturbations, which cause unstable, low-quality reconstructed images. To address this issue, we propose Smoothed Unrolling (SMUG), which incorporates a randomized smoothing-based robust learning operation into a deep unrolling architecture and improves the robustness of MRI reconstruction with respect to diverse perturbations. ",
     "url": "/tutorials/#tutorials",
     
     "relUrl": "/tutorials/#tutorials"
-  },"32": {
+  },"35": {
     "doc": "Tutorials",
     "title": "Tutorials",
     "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",
     "url": "/tutorials/",
     
     "relUrl": "/tutorials/"
-  },"33": {
+  },"36": {
     "doc": "Venue",
     "title": "TODO for this page:",
     "content": ". | Thinking this can be made a general travel/logistics page | HKU info | Can put it later | . ",
     "url": "/venue/#todo-for-this-page",
     
     "relUrl": "/venue/#todo-for-this-page"
-  },"34": {
+  },"37": {
     "doc": "Venue",
     "title": "Venue",
     "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",

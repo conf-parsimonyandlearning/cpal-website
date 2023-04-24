@@ -2450,7 +2450,7 @@ div.opaque { background-color: #27262b; }
 .speaker p, .speaker .speaker-name { margin: 0.25rem !important; }
 
 .splash { position: relative; }
-.splash img { border-radius: 20px; max-width: 100%; height: auto; opacity: 0.5; }
+.splash img { border-radius: 20px; max-width: 100%; height: auto; opacity: 0.0; }
 .splash .topleft { position: absolute; top: 8px; left: 16px; font-size: 24px !important; line-height: 1.25; font-weight: 500; color: #f5f6fa; }
 @media (width >= 31.25rem) { .splash .topleft { font-size: 32px !important; } }
 .splash .bottomright { position: absolute; bottom: 8px; right: 16px; font-size: 24px !important; line-height: 1.25; font-weight: 500; color: #f5f6fa; }
