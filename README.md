@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Home
 permalink: /
 nav_order: 0
@@ -7,10 +7,10 @@ nav_order: 0
 
 {% include splash.html %}
 
+# Call for Papers
+
 # Key Dates and Deadlines
 
-- May 5th, 2023: Conference announcement + CFP
-- - Somewhere in June/July, 1-2 more rounds of CFPs
 - August 14th, 2023: Abstract Submission Deadline
 - August 28th, 2023: Submission Deadline
 - October 14th, 2023: 2-Week Rebuttal Stage Starts
@@ -26,7 +26,6 @@ nav_order: 0
 
 # TODO for this page:
 
-- New splash
 - New Logo
 - Text teaser about the conference (”content”)
     - Ideas/topics
