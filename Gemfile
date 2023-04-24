@@ -5,7 +5,7 @@ gem "jekyll", "=3.9.0"
 gem "rake"
 # gem "webrick", "~> 1.7"
 gem "webrick"#, "~> 1.7"
-gem "just-the-docs", "0.4.0"
+gem "just-the-docs"
 # gem "jekyll-remote-theme"
 gem "jekyll-seo-tag"
 gem 'jekyll-liquify'
