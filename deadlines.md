@@ -7,7 +7,15 @@ nav_order: 1
 
 {% include splash.html %}
 
-# TODO FOR THIS PAGE
+# Key Dates and Deadlines
 
-- Come up with what the deadlines will be (dates)
-- Make a ticking clock .js (?) like on neurips.cc
+- May 5th, 2023: Conference announcement + CFP
+- - Somewhere in June/July, 1-2 more rounds of CFPs
+- August 14th, 2023: Abstract Submission Deadline
+- August 28th, 2023: Submission Deadline
+- October 14th, 2023: 2-Week Rebuttal Stage Starts
+- October 27th, 2023: Rebuttal Stage Ends, Authors-Reviewers Discussion Stage Starts
+- November 5th, 2023: Authors-Reviewers Discussion Stage Ends
+- November 20th, 2023: Final Decisions Released
+- November 30th, 2023: Camera Ready Deadline
+- January 3rd, 2024: Conference Starts

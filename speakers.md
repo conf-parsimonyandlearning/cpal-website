@@ -8,14 +8,13 @@ nav_order: 2
 {% include splash.html %}
 
 
-# TODO for this page:
-- Update the speakers
+# Invited Speakers
 
-# Confirmed Speakers
-
-Clicking a speaker's photo will jump to their talk information below.
+<!-- Clicking a speaker's photo will jump to their talk information below. -->
 
 {% include speakers.html %}
+
+<!--
 
 # Talk Details
 
@@ -33,3 +32,4 @@ Clicking a speaker's photo will jump to their talk information below.
 
 {% endfor %}
 
+-->

@@ -1,8 +1,138 @@
+<h2>General Chairs</h2>
+
 <div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
   flex-start;">
 
-  {% assign organizers = site.organizers %}
-  {% for organizer in organizers %}
+  {% assign gcs = site.organizers | where: 'role', 'General Chair' %}
+  {% for organizer in gcs %}
+  {{ organizer }}
+  {% endfor %}
+
+</div>
+
+<h2>Program Chairs</h2>
+
+<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
+  flex-start;">
+
+  {% assign pcs = site.organizers | where: 'role', 'Program Chair' %}
+  {% for organizer in pcs %}
+  {{ organizer }}
+  {% endfor %}
+
+</div>
+
+
+<h2>Local Chairs</h2>
+
+<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
+  flex-start;">
+
+  {% assign lcs = site.organizers | where: 'role', 'Local Chair' %}
+  {% for organizer in lcs %}
+  {{ organizer }}
+  {% endfor %}
+
+</div>
+
+<h2>Publication Chairs</h2>
+
+<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
+  flex-start;">
+
+  {% assign pubcs = site.organizers | where: 'role', 'Publication Chair' %}
+  {% for organizer in pubcs %}
+  {{ organizer }}
+  {% endfor %}
+
+</div>
+
+<h2>Industry Liaison Chairs</h2>
+
+<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
+  flex-start;">
+
+  {% assign spcs = site.organizers | where: 'role', 'Industry Liaison Chair' %}
+  {% for organizer in spcs %}
+  {{ organizer }}
+  {% endfor %}
+
+</div>
+
+
+
+<h2>Panel Chairs</h2>
+
+<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
+  flex-start;">
+
+  {% assign pancs = site.organizers | where: 'role', 'Panel Chair' %}
+  {% for organizer in pancs %}
+  {{ organizer }}
+  {% endfor %}
+
+</div>
+
+
+<h2>Tutorial Chairs</h2>
+
+<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
+  flex-start;">
+
+  {% assign tutcs = site.organizers | where: 'role', 'Tutorial Chair' %}
+  {% for organizer in tutcs %}
+  {{ organizer }}
+  {% endfor %}
+
+</div>
+
+
+<h2>Publicity Chairs</h2>
+
+<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
+  flex-start;">
+
+  {% assign publiccs = site.organizers | where: 'role', 'Publicity Chair' %}
+  {% for organizer in publiccs %}
+  {{ organizer }}
+  {% endfor %}
+
+</div>
+
+<h2>Web Chairs</h2>
+
+<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
+  flex-start;">
+
+  {% assign wcs = site.organizers | where: 'role', 'Web Chair' %}
+  {% for organizer in wcs %}
+  {{ organizer }}
+  {% endfor %}
+
+</div>
+
+
+
+<h2>Area Chairs</h2>
+
+<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
+  flex-start;">
+
+  {% assign acs = site.organizers | where: 'role', 'Area Chair' %}
+  {% for organizer in acs %}
+  {{ organizer }}
+  {% endfor %}
+
+</div>
+
+
+<h2>Advisory Committee</h2>
+
+<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
+  flex-start;">
+
+  {% assign advs = site.organizers | where: 'role', 'Advisory Committee' %}
+  {% for organizer in advs %}
   {{ organizer }}
   {% endfor %}
 

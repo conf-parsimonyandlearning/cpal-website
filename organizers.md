@@ -7,13 +7,7 @@ nav_order: 9
 
 {% include splash.html %}
 
-# TODO for this page:
-- Organizers
-- ACs
-- Reviewers
-- Advisory Committee
-
-# Organizers
+# Program Committee
 
 {% include organizers.html %}
 
