@@ -3,6 +3,7 @@ layout: page
 title: Sponsors
 description: Organizations generously sponsoring the conference
 nav_order: 10
+nav_exclude: true
 ---
 
 {% include splash.html %}

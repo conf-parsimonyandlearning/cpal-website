@@ -2,7 +2,7 @@
 layout: page
 title: Invited Speakers
 description: Details of invited speakers at the conference
-nav_order: 2
+nav_order: 3
 ---
 
 {% include splash.html %}

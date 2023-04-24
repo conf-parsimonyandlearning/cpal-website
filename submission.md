@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Call for Papers
-description: Call for papers and submission information
-nav_order: 1
+title: Submission Guidelines
+description: Conference paper submission guidelines 
+nav_order: 2
+nav_exclude: true
 ---
 
 {% include splash.html %}

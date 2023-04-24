@@ -3,6 +3,7 @@ layout: page
 title: Venue
 description: Information about the host and sponsors of the workshop
 nav_order: 10
+nav_exclude: true
 ---
 
 {% include splash.html %}
