@@ -59,26 +59,13 @@ jtd.getTheme = function() {
 
 jtd.setTheme = function(theme) {
   var cssFile = document.querySelector('[rel="stylesheet"]');
-  cssFile.setAttribute('href', '/assets/css/just-the-docs-' + theme + '.css');
-}
-
-// Scroll site-nav to ensure the link to the current page is visible
-
-function scrollNav() {
-  const href = document.location.pathname;
-  const siteNav = document.getElementById('site-nav');
-  const targetLink = siteNav.querySelector('a[href="' + href + '"], a[href="' + href + '/"]');
-  if(targetLink){
-    const rect = targetLink.getBoundingClientRect();
-    siteNav.scrollBy(0, rect.top - 3*rect.height);
-  }
+  cssFile.setAttribute('href', 'http://localhost:4000/assets/css/just-the-docs-' + theme + '.css');
 }
 
 // Document ready
 
 jtd.onReady(function(){
   initNav();
-  scrollNav();
 });
 
 })(window.jtd = window.jtd || {});
