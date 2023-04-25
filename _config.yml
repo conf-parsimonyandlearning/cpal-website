@@ -29,7 +29,7 @@ color_scheme: light
 search_enabled: false
 heading_anchors: true
 permalink: pretty
-logo: "/assets/images/logo1.png"
+logo: "/assets/images/tmp1.svg"
 aux_links:
   #  Submissions:
   #    - 'https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop'
