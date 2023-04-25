@@ -5477,6 +5477,8 @@ content	_site/assets/js/search-data.json	/^    "content": "Yuejie Chi . Carnegie
 content	_site/assets/js/search-data.json	/^    "content": "Zhihui Zhu . Ohio State University . Publication Chair . ",$/;"	s	object:14
 content-width-0	_sass/custom/custom.scss	/^$content-width-0: 1200px;$/;"	v
 content-width-0	_sass/custom/custom_backup.scss	/^$content-width-0: 1200px;$/;"	v
+defs2	_site/assets/images/tmp1.svg	/^     id="defs2" \/>$/;"	i
+defs2	assets/images/tmp1.svg	/^     id="defs2" \/>$/;"	i
 design-deep-networks-for-pursuing-low-dimensional-structures	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 details	_site/assets/css/just-the-docs-dark.css	/^details {$/;"	s
 details	_site/assets/css/just-the-docs-default.css	/^details {$/;"	s
@@ -5629,6 +5631,8 @@ figure.highlight:hover > button	_site/assets/css/just-the-docs-light.css	/^  fig
 form	_site/assets/css/just-the-docs-dark.css	/^form,$/;"	s
 form	_site/assets/css/just-the-docs-default.css	/^form,$/;"	s
 form	_site/assets/css/just-the-docs-light.css	/^form,$/;"	s
+g12	_site/assets/images/tmp1.svg	/^     transform="translate(-120.78476,-246.21021)">$/;"	i
+g12	assets/images/tmp1.svg	/^     transform="translate(-120.78476,-246.21021)">$/;"	i
 getTheme	_site/assets/js/just-the-docs.js	/^jtd.getTheme = function() {$/;"	f	function:jtd
 h1	_site/assets/css/just-the-docs-dark.css	/^    h1,$/;"	s
 h1	_site/assets/css/just-the-docs-dark.css	/^h1 {$/;"	s
@@ -5695,6 +5699,8 @@ img	_site/assets/css/just-the-docs-dark.css	/^img {$/;"	s
 img	_site/assets/css/just-the-docs-default.css	/^img {$/;"	s
 img	_site/assets/css/just-the-docs-light.css	/^img {$/;"	s
 initNav	_site/assets/js/just-the-docs.js	/^function initNav() {$/;"	f
+inkscape	_site/assets/images/tmp1.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	assets/images/tmp1.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
 input	_site/assets/css/just-the-docs-dark.css	/^input {$/;"	s
 input	_site/assets/css/just-the-docs-dark.css	/^input,$/;"	s
 input	_site/assets/css/just-the-docs-default.css	/^input {$/;"	s
@@ -5777,6 +5783,8 @@ module	_sass/custom/module.scss	/^.main-content .module,$/;"	c
 module	_sass/custom/module.scss	/^.module {$/;"	c
 module-item	_sass/custom/module.scss	/^    %module-item {$/;"	P
 name	_sass/custom/calendar.scss	/^    .name {$/;"	c
+namedview16	_site/assets/images/tmp1.svg	/^     showgrid="false" \/>$/;"	i
+namedview16	assets/images/tmp1.svg	/^     showgrid="false" \/>$/;"	i
 nav-category	_sass/custom/custom_backup.scss	/^.nav-category {$/;"	c
 nav-list	_sass/custom/custom_backup.scss	/^      > .nav-list {$/;"	c
 nav-list	_sass/custom/custom_backup.scss	/^    > .nav-list {$/;"	c
@@ -5794,7 +5802,9 @@ noscript .table-wrapper	_site/assets/css/just-the-docs-dark.css	/^noscript .tabl
 noscript .table-wrapper	_site/assets/css/just-the-docs-default.css	/^noscript .table-wrapper {$/;"	c
 noscript .table-wrapper	_site/assets/css/just-the-docs-light.css	/^noscript .table-wrapper {$/;"	c
 ns647beeeb0101	assets/images/tmp0.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" version="1.1" width="600" height="600">$/;"	n	uri:http://www.w3.org/2000/svg
+ns648e076c0101	assets/images/tmp1.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
 ns79c5870e0101	_site/assets/images/tmp0.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" version="1.1" width="600" height="600">$/;"	n	uri:http://www.w3.org/2000/svg
+ns79d79f8f0101	_site/assets/images/tmp1.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
 office-hours	_sass/custom/calendar.scss	/^    &.office-hours {$/;"	c
 ol	_site/assets/css/just-the-docs-dark.css	/^ol,$/;"	s
 ol	_site/assets/css/just-the-docs-default.css	/^ol,$/;"	s
@@ -5811,6 +5821,14 @@ organizer-pronouns	_sass/custom/organizer.scss	/^  .organizer-pronouns {$/;"	c
 p	_site/assets/css/just-the-docs-dark.css	/^p {$/;"	s
 p	_site/assets/css/just-the-docs-default.css	/^p {$/;"	s
 p	_site/assets/css/just-the-docs-light.css	/^p {$/;"	s
+path10	_site/assets/images/tmp1.svg	/^       id="path10" \/>$/;"	i
+path10	assets/images/tmp1.svg	/^       id="path10" \/>$/;"	i
+path4	_site/assets/images/tmp1.svg	/^       id="path4" \/>$/;"	i
+path4	assets/images/tmp1.svg	/^       id="path4" \/>$/;"	i
+path6	_site/assets/images/tmp1.svg	/^       id="path6" \/>$/;"	i
+path6	assets/images/tmp1.svg	/^       id="path6" \/>$/;"	i
+path8	_site/assets/images/tmp1.svg	/^       id="path8" \/>$/;"	i
+path8	assets/images/tmp1.svg	/^       id="path8" \/>$/;"	i
 pre	_site/assets/css/just-the-docs-dark.css	/^pre {$/;"	s
 pre	_site/assets/css/just-the-docs-dark.css	/^pre,$/;"	s
 pre	_site/assets/css/just-the-docs-default.css	/^pre {$/;"	s
@@ -5903,6 +5921,8 @@ site-title	_sass/custom/custom_backup.scss	/^.site-title {$/;"	c
 small	_site/assets/css/just-the-docs-dark.css	/^small {$/;"	s
 small	_site/assets/css/just-the-docs-default.css	/^small {$/;"	s
 small	_site/assets/css/just-the-docs-light.css	/^small {$/;"	s
+sodipodi	_site/assets/images/tmp1.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	assets/images/tmp1.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
 sparsity-neural-networks--practice-and-theory	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 speaker	_sass/custom/speaker.scss	/^.speaker {$/;"	c
 speaker-image	_sass/custom/speaker.scss	/^  .speaker-image {$/;"	c
@@ -6005,6 +6025,8 @@ summary:hover	_site/assets/css/just-the-docs-light.css	/^  .btn:hover, summary:h
 sup	_site/assets/css/just-the-docs-dark.css	/^sup {$/;"	s
 sup	_site/assets/css/just-the-docs-default.css	/^sup {$/;"	s
 sup	_site/assets/css/just-the-docs-light.css	/^sup {$/;"	s
+svg	_site/assets/images/tmp1.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	assets/images/tmp1.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
 svg-arrow-right	_site/cfp/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-arrow-right	_site/deadlines/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-arrow-right	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -6076,6 +6098,8 @@ svg-menu	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><me
 svg-menu	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-menu	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-menu	_site/venue/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg14	_site/assets/images/tmp1.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	i
+svg14	assets/images/tmp1.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	i
 table	_site/assets/css/just-the-docs-dark.css	/^table {$/;"	s
 table	_site/assets/css/just-the-docs-dark.css	/^table,$/;"	s
 table	_site/assets/css/just-the-docs-default.css	/^table {$/;"	s
