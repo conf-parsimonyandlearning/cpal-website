@@ -57,7 +57,7 @@
   },"8": {
     "doc": "Key Dates",
     "title": "Key Dates and Deadlines",
-    "content": ". | May 5th, 2023: Conference announcement + CFP | . | Somewhere in June/July, 1-2 more rounds of CFPs | . | August 14th, 2023: Abstract Submission Deadline | August 28th, 2023: Submission Deadline | October 14th, 2023: 2-Week Rebuttal Stage Starts | October 27th, 2023: Rebuttal Stage Ends, Authors-Reviewers Discussion Stage Starts | November 5th, 2023: Authors-Reviewers Discussion Stage Ends | November 20th, 2023: Final Decisions Released | November 30th, 2023: Camera Ready Deadline | January 3rd, 2024: Conference Starts | . ",
+    "content": ". | August 14th, 2023: Abstract Submission Deadline | August 28th, 2023: Submission Deadline | October 14th, 2023: 2-Week Rebuttal Stage Starts | October 27th, 2023: Rebuttal Stage Ends, Authors-Reviewers Discussion Stage Starts | November 5th, 2023: Authors-Reviewers Discussion Stage Ends | November 20th, 2023: Final Decisions Released | November 30th, 2023: Camera Ready Deadline | January 3rd, 2024: Conference Starts | . ",
     "url": "/deadlines/#key-dates-and-deadlines",
     
     "relUrl": "/deadlines/#key-dates-and-deadlines"
@@ -78,7 +78,7 @@
   },"11": {
     "doc": "Program Committee",
     "title": "General Chairs",
-    "content": "Gitta Kutyniok . LMU Munich . General Chair . Yi Ma . UC Berkeley . General Chair . Harry Shum . HKUST . General Chair . René Vidal . UPenn . General Chair . ",
+    "content": "Gitta Kutyniok . LMU Munich . General Chair . Yi Ma . UC Berkeley . General Chair . Harry Shum . HKUST/IDEA . General Chair . René Vidal . UPenn . General Chair . ",
     "url": "/organizers/",
     
     "relUrl": "/organizers/"
@@ -141,14 +141,14 @@
   },"20": {
     "doc": "Program Committee",
     "title": "Area Chairs",
-    "content": "Babak Ehteshami Bejnordi . Qualcomm . Area Chair . Beidi Chen . Meta/Carnegie Mellon University . Area Chair . Tianlong Chen . UT Austin . Area Chair . Yuxin Chen . UPenn . Area Chair . Yubei Chen . NYU/Meta . Area Chair . Ivan Dokmanić . University of Basel . Area Chair . Simon Du . University of Washington . Area Chair . Qi Lei . NYU . Area Chair . Xiao Li . CUHK Shenzhen . Area Chair . Elena Mocanu . University of Twente . Area Chair . Greg Ongie . Marquette University . Area Chair . Mahdi Soltanolkotabi . USC . Area Chair . Peng Wang . University of Michigan . Area Chair . Yu-Xiang Wang . UC Santa Barbara . Area Chair . Bihan Wen . Nanyang Technological University . Area Chair . Fanny Yang . ETH Zurich . Area Chair . Yuqian Zhang . Rutgers University . Area Chair . ",
+    "content": "Babak Ehteshami Bejnordi . Qualcomm . Area Chair . Beidi Chen . Meta/Carnegie Mellon University . Area Chair . Tianlong Chen . UT Austin . Area Chair . Yubei Chen . NYU/Meta . Area Chair . Yuxin Chen . UPenn . Area Chair . Ivan Dokmanić . University of Basel . Area Chair . Simon Du . University of Washington . Area Chair . Utku Evci . Google Brain . Area Chair . Qi Lei . NYU . Area Chair . Xiao Li . CUHK Shenzhen . Area Chair . Elena Mocanu . University of Twente . Area Chair . Greg Ongie . Marquette University . Area Chair . Mahdi Soltanolkotabi . USC . Area Chair . Peng Wang . University of Michigan . Area Chair . Yu-Xiang Wang . UC Santa Barbara . Area Chair . Bihan Wen . Nanyang Technological University . Area Chair . Fanny Yang . ETH Zurich . Area Chair . Yuqian Zhang . Rutgers University . Area Chair . ",
     "url": "/organizers/",
     
     "relUrl": "/organizers/"
   },"21": {
     "doc": "Program Committee",
     "title": "Advisory Committee",
-    "content": "Alex Dimakis . UT Austin . Advisory Committee . Michael Elad . Technion . Advisory Committee . Eric P. Xing . MBZUAI/Carnegie Mellon University . Advisory Committee . Tong Zhang . HKUST . Advisory Committee . ",
+    "content": "Alex Dimakis . UT Austin . Advisory Committee . Michael Elad . Technion . Advisory Committee . Yi Ma . UC Berkeley . Advisory Committee . Stefano Soatto . UCLA . Advisory Committee . Eric P. Xing . MBZUAI/Carnegie Mellon University . Advisory Committee . Tong Zhang . HKUST . Advisory Committee . ",
     "url": "/organizers/",
     
     "relUrl": "/organizers/"

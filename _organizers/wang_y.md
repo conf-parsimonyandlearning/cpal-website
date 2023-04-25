@@ -3,5 +3,5 @@ name: Yu-Xiang Wang
 role: Area Chair
 website: https://sites.cs.ucsb.edu/~yuxiangw/
 affiliation: UC Santa Barbara
-photo: 
+photo: wang.jpeg
 ---

@@ -9,8 +9,6 @@ nav_order: 1
 
 # Key Dates and Deadlines
 
-- May 5th, 2023: Conference announcement + CFP
-- - Somewhere in June/July, 1-2 more rounds of CFPs
 - August 14th, 2023: Abstract Submission Deadline
 - August 28th, 2023: Submission Deadline
 - October 14th, 2023: 2-Week Rebuttal Stage Starts

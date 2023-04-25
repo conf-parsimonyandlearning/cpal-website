@@ -655,40 +655,24 @@
 .highlight .err	_site/assets/css/just-the-docs-dark.css	/^.highlight .err {$/;"	c
 .highlight .err	_site/assets/css/just-the-docs-default.css	/^.highlight .err {$/;"	c
 .highlight .err	_site/assets/css/just-the-docs-light.css	/^.highlight .err {$/;"	c
-.highlight .g	_site/assets/css/just-the-docs-dark.css	/^.highlight .g {$/;"	c
-.highlight .g	_site/assets/css/just-the-docs-default.css	/^.highlight .g {$/;"	c
-.highlight .g	_site/assets/css/just-the-docs-light.css	/^.highlight .g {$/;"	c
 .highlight .gd	_site/assets/css/just-the-docs-dark.css	/^.highlight .gd {$/;"	c
 .highlight .gd	_site/assets/css/just-the-docs-default.css	/^.highlight .gd {$/;"	c
 .highlight .gd	_site/assets/css/just-the-docs-light.css	/^.highlight .gd {$/;"	c
 .highlight .ge	_site/assets/css/just-the-docs-dark.css	/^.highlight .ge {$/;"	c
 .highlight .ge	_site/assets/css/just-the-docs-default.css	/^.highlight .ge {$/;"	c
 .highlight .ge	_site/assets/css/just-the-docs-light.css	/^.highlight .ge {$/;"	c
-.highlight .gh	_site/assets/css/just-the-docs-dark.css	/^.highlight .gh {$/;"	c
-.highlight .gh	_site/assets/css/just-the-docs-default.css	/^.highlight .gh {$/;"	c
-.highlight .gh	_site/assets/css/just-the-docs-light.css	/^.highlight .gh {$/;"	c
 .highlight .gi	_site/assets/css/just-the-docs-dark.css	/^.highlight .gi {$/;"	c
 .highlight .gi	_site/assets/css/just-the-docs-default.css	/^.highlight .gi {$/;"	c
 .highlight .gi	_site/assets/css/just-the-docs-light.css	/^.highlight .gi {$/;"	c
-.highlight .go	_site/assets/css/just-the-docs-dark.css	/^.highlight .go {$/;"	c
-.highlight .go	_site/assets/css/just-the-docs-default.css	/^.highlight .go {$/;"	c
-.highlight .go	_site/assets/css/just-the-docs-light.css	/^.highlight .go {$/;"	c
-.highlight .gp	_site/assets/css/just-the-docs-dark.css	/^.highlight .gp {$/;"	c
-.highlight .gp	_site/assets/css/just-the-docs-default.css	/^.highlight .gp {$/;"	c
-.highlight .gp	_site/assets/css/just-the-docs-light.css	/^.highlight .gp {$/;"	c
-.highlight .gr	_site/assets/css/just-the-docs-dark.css	/^.highlight .gr {$/;"	c
-.highlight .gr	_site/assets/css/just-the-docs-default.css	/^.highlight .gr {$/;"	c
-.highlight .gr	_site/assets/css/just-the-docs-light.css	/^.highlight .gr {$/;"	c
 .highlight .gs	_site/assets/css/just-the-docs-dark.css	/^.highlight .gs {$/;"	c
 .highlight .gs	_site/assets/css/just-the-docs-default.css	/^.highlight .gs {$/;"	c
 .highlight .gs	_site/assets/css/just-the-docs-light.css	/^.highlight .gs {$/;"	c
-.highlight .gt	_site/assets/css/just-the-docs-dark.css	/^.highlight .gt {$/;"	c
-.highlight .gt	_site/assets/css/just-the-docs-default.css	/^.highlight .gt {$/;"	c
-.highlight .gt	_site/assets/css/just-the-docs-light.css	/^.highlight .gt {$/;"	c
 .highlight .gu	_site/assets/css/just-the-docs-dark.css	/^.highlight .gu {$/;"	c
 .highlight .gu	_site/assets/css/just-the-docs-default.css	/^.highlight .gu {$/;"	c
 .highlight .gu	_site/assets/css/just-the-docs-light.css	/^.highlight .gu {$/;"	c
 .highlight .hll	_site/assets/css/just-the-docs-dark.css	/^.highlight .hll {$/;"	c
+.highlight .hll	_site/assets/css/just-the-docs-default.css	/^.highlight .hll {$/;"	c
+.highlight .hll	_site/assets/css/just-the-docs-light.css	/^.highlight .hll {$/;"	c
 .highlight .il	_site/assets/css/just-the-docs-dark.css	/^.highlight .il {$/;"	c
 .highlight .il	_site/assets/css/just-the-docs-default.css	/^.highlight .il {$/;"	c
 .highlight .il	_site/assets/css/just-the-docs-light.css	/^.highlight .il {$/;"	c
@@ -716,6 +700,12 @@
 .highlight .l	_site/assets/css/just-the-docs-dark.css	/^.highlight .l {$/;"	c
 .highlight .l	_site/assets/css/just-the-docs-default.css	/^.highlight .l {$/;"	c
 .highlight .l	_site/assets/css/just-the-docs-light.css	/^.highlight .l {$/;"	c
+.highlight .language-json .kc	_site/assets/css/just-the-docs-dark.css	/^.highlight .language-json .kc {$/;"	c
+.highlight .language-json .kc	_site/assets/css/just-the-docs-default.css	/^.highlight .language-json .kc {$/;"	c
+.highlight .language-json .kc	_site/assets/css/just-the-docs-light.css	/^.highlight .language-json .kc {$/;"	c
+.highlight .language-json .w + .s2	_site/assets/css/just-the-docs-dark.css	/^.highlight .language-json .w + .s2 {$/;"	c
+.highlight .language-json .w + .s2	_site/assets/css/just-the-docs-default.css	/^.highlight .language-json .w + .s2 {$/;"	c
+.highlight .language-json .w + .s2	_site/assets/css/just-the-docs-light.css	/^.highlight .language-json .w + .s2 {$/;"	c
 .highlight .ld	_site/assets/css/just-the-docs-dark.css	/^.highlight .ld {$/;"	c
 .highlight .ld	_site/assets/css/just-the-docs-default.css	/^.highlight .ld {$/;"	c
 .highlight .ld	_site/assets/css/just-the-docs-light.css	/^.highlight .ld {$/;"	c
@@ -854,9 +844,6 @@
 .highlight .w	_site/assets/css/just-the-docs-dark.css	/^.highlight .w {$/;"	c
 .highlight .w	_site/assets/css/just-the-docs-default.css	/^.highlight .w {$/;"	c
 .highlight .w	_site/assets/css/just-the-docs-light.css	/^.highlight .w {$/;"	c
-.highlight .x	_site/assets/css/just-the-docs-dark.css	/^.highlight .x {$/;"	c
-.highlight .x	_site/assets/css/just-the-docs-default.css	/^.highlight .x {$/;"	c
-.highlight .x	_site/assets/css/just-the-docs-light.css	/^.highlight .x {$/;"	c
 .highlight pre	_site/assets/css/just-the-docs-dark.css	/^.highlight pre {$/;"	s
 .highlight pre	_site/assets/css/just-the-docs-default.css	/^.highlight pre {$/;"	s
 .highlight pre	_site/assets/css/just-the-docs-light.css	/^.highlight pre {$/;"	s
@@ -5163,9 +5150,6 @@
 ::-webkit-search-decoration	_site/assets/css/just-the-docs-dark.css	/^[type="search"]::-webkit-search-decoration {$/;"	s
 ::-webkit-search-decoration	_site/assets/css/just-the-docs-default.css	/^[type="search"]::-webkit-search-decoration {$/;"	s
 ::-webkit-search-decoration	_site/assets/css/just-the-docs-light.css	/^[type="search"]::-webkit-search-decoration {$/;"	s
-::selection	_site/assets/css/just-the-docs-dark.css	/^::selection {$/;"	s
-::selection	_site/assets/css/just-the-docs-default.css	/^::selection {$/;"	s
-::selection	_site/assets/css/just-the-docs-light.css	/^::selection {$/;"	s
 :not(pre	_site/assets/css/just-the-docs-dark.css	/^:not(pre, figure) > code {$/;"	s
 :not(pre	_site/assets/css/just-the-docs-default.css	/^:not(pre, figure) > code {$/;"	s
 :not(pre	_site/assets/css/just-the-docs-light.css	/^:not(pre, figure) > code {$/;"	s
@@ -5315,6 +5299,7 @@ Sijia Liu	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head>
 Simon Du	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Sparsity Neural Networks – Practice and Theory	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Sponsors | Conference on Learning and Parsimony (CLAP)	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Stefano Soatto	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Submission Guidelines	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Submission Guidelines	submission.md	/^# Submission Guidelines$/;"	c
 Submission Guidelines | Conference on Learning and Parsimony (CLAP)	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5344,6 +5329,7 @@ Tutorial Chairs	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US">
 Tutorials	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Tutorials	tutorials.md	/^# Tutorials$/;"	c
 Tutorials | Conference on Learning and Parsimony (CLAP)	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Utku Evci	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Venue | Conference on Learning and Parsimony (CLAP)	_site/venue/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Web Chairs	_includes/organizers.html	/^<h2>Web Chairs<\/h2>$/;"	i
 Web Chairs	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
@@ -5453,11 +5439,11 @@ content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:10
 content	_site/assets/js/search-data.json	/^    "content": "--> Dan Alistarh . IST Austria\/Neural Magic . Tom Goldstein . University of Mar/;"	s	object:26
 content	_site/assets/js/search-data.json	/^    "content": "--> Dan Alistarh . IST Austria\/Neural Magic . Tom Goldstein . University of Mar/;"	s	object:3
 content	_site/assets/js/search-data.json	/^    "content": ". | August 14th, 2023: Abstract Submission Deadline | August 28th, 2023: Submiss/;"	s	object:1
+content	_site/assets/js/search-data.json	/^    "content": ". | August 14th, 2023: Abstract Submission Deadline | August 28th, 2023: Submiss/;"	s	object:8
 content	_site/assets/js/search-data.json	/^    "content": ". | Can include it on the homepage too | . ",$/;"	s	object:28
 content	_site/assets/js/search-data.json	/^    "content": ". | DEI? | Code of conduct? | Review\/author guide? | . ",$/;"	s	object:23
 content	_site/assets/js/search-data.json	/^    "content": ". | Do we want to offer our existing course? | Do we want a call? | . ",$/;"	s	object:36
 content	_site/assets/js/search-data.json	/^    "content": ". | List of ACs (single blind policy) | Subject areas | Procedures for the CfP…/;"	s	object:30
-content	_site/assets/js/search-data.json	/^    "content": ". | May 5th, 2023: Conference announcement + CFP | . | Somewhere in June\/July, /;"	s	object:8
 content	_site/assets/js/search-data.json	/^    "content": ". | New Logo | Text teaser about the conference (”content”) . | Ideas\/topic/;"	s	object:4
 content	_site/assets/js/search-data.json	/^    "content": ". | Subject areas | CfP Text | Latex Template | Submission guidelines to be rele/;"	s	object:6
 content	_site/assets/js/search-data.json	/^    "content": ". | Thinking this can be made a general travel\/logistics page | HKU info | Can /;"	s	object:39
@@ -5513,18 +5499,21 @@ div.highlighter-rouge > button:active	_site/assets/css/just-the-docs-light.css	/
 div.highlighter-rouge > button:focus	_site/assets/css/just-the-docs-dark.css	/^    div.highlighter-rouge > button:focus,$/;"	s
 div.highlighter-rouge > button:focus	_site/assets/css/just-the-docs-default.css	/^    div.highlighter-rouge > button:focus,$/;"	s
 div.highlighter-rouge > button:focus	_site/assets/css/just-the-docs-light.css	/^    div.highlighter-rouge > button:focus,$/;"	s
-div.highlighter-rouge code	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge code,$/;"	s
-div.highlighter-rouge code	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge code,$/;"	s
-div.highlighter-rouge code	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge code,$/;"	s
-div.highlighter-rouge div.highlight	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge div.highlight,$/;"	c
-div.highlighter-rouge div.highlight	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge div.highlight,$/;"	c
-div.highlighter-rouge div.highlight	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge div.highlight,$/;"	c
+div.highlighter-rouge code	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge code {$/;"	s
+div.highlighter-rouge code	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge code {$/;"	s
+div.highlighter-rouge code	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge code {$/;"	s
+div.highlighter-rouge div.highlight	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge div.highlight {$/;"	c
+div.highlighter-rouge div.highlight	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge div.highlight {$/;"	c
+div.highlighter-rouge div.highlight	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge div.highlight {$/;"	c
 div.highlighter-rouge pre.highlight	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge pre.highlight,$/;"	c
 div.highlighter-rouge pre.highlight	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge pre.highlight,$/;"	c
 div.highlighter-rouge pre.highlight	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge pre.highlight,$/;"	c
 div.highlighter-rouge:hover > button	_site/assets/css/just-the-docs-dark.css	/^  div.highlighter-rouge:hover > button,$/;"	s
 div.highlighter-rouge:hover > button	_site/assets/css/just-the-docs-default.css	/^  div.highlighter-rouge:hover > button,$/;"	s
 div.highlighter-rouge:hover > button	_site/assets/css/just-the-docs-light.css	/^  div.highlighter-rouge:hover > button,$/;"	s
+div.listingblock	_site/assets/css/just-the-docs-dark.css	/^div.listingblock {$/;"	c
+div.listingblock	_site/assets/css/just-the-docs-default.css	/^div.listingblock {$/;"	c
+div.listingblock	_site/assets/css/just-the-docs-light.css	/^div.listingblock {$/;"	c
 div.listingblock > div.content	_site/assets/css/just-the-docs-dark.css	/^div.listingblock > div.content,$/;"	c
 div.listingblock > div.content	_site/assets/css/just-the-docs-default.css	/^div.listingblock > div.content,$/;"	c
 div.listingblock > div.content	_site/assets/css/just-the-docs-light.css	/^div.listingblock > div.content,$/;"	c
@@ -5543,15 +5532,15 @@ div.listingblock > div.content > button:focus	_site/assets/css/just-the-docs-lig
 div.listingblock > div.content:hover > button	_site/assets/css/just-the-docs-dark.css	/^  div.listingblock > div.content:hover > button,$/;"	s
 div.listingblock > div.content:hover > button	_site/assets/css/just-the-docs-default.css	/^  div.listingblock > div.content:hover > button,$/;"	s
 div.listingblock > div.content:hover > button	_site/assets/css/just-the-docs-light.css	/^  div.listingblock > div.content:hover > button,$/;"	s
-div.listingblock code	_site/assets/css/just-the-docs-dark.css	/^div.listingblock code {$/;"	s
-div.listingblock code	_site/assets/css/just-the-docs-default.css	/^div.listingblock code {$/;"	s
-div.listingblock code	_site/assets/css/just-the-docs-light.css	/^div.listingblock code {$/;"	s
-div.listingblock div.highlight	_site/assets/css/just-the-docs-dark.css	/^div.listingblock div.highlight {$/;"	c
-div.listingblock div.highlight	_site/assets/css/just-the-docs-default.css	/^div.listingblock div.highlight {$/;"	c
-div.listingblock div.highlight	_site/assets/css/just-the-docs-light.css	/^div.listingblock div.highlight {$/;"	c
-div.listingblock pre.highlight	_site/assets/css/just-the-docs-dark.css	/^div.listingblock pre.highlight,$/;"	c
-div.listingblock pre.highlight	_site/assets/css/just-the-docs-default.css	/^div.listingblock pre.highlight,$/;"	c
-div.listingblock pre.highlight	_site/assets/css/just-the-docs-light.css	/^div.listingblock pre.highlight,$/;"	c
+div.listingblock code	_site/assets/css/just-the-docs-dark.css	/^  div.listingblock code {$/;"	s
+div.listingblock code	_site/assets/css/just-the-docs-default.css	/^  div.listingblock code {$/;"	s
+div.listingblock code	_site/assets/css/just-the-docs-light.css	/^  div.listingblock code {$/;"	s
+div.listingblock div.content	_site/assets/css/just-the-docs-dark.css	/^  div.listingblock div.content {$/;"	c
+div.listingblock div.content	_site/assets/css/just-the-docs-default.css	/^  div.listingblock div.content {$/;"	c
+div.listingblock div.content	_site/assets/css/just-the-docs-light.css	/^  div.listingblock div.content {$/;"	c
+div.listingblock div.content > pre	_site/assets/css/just-the-docs-dark.css	/^  div.listingblock div.content > pre,$/;"	s
+div.listingblock div.content > pre	_site/assets/css/just-the-docs-default.css	/^  div.listingblock div.content > pre,$/;"	s
+div.listingblock div.content > pre	_site/assets/css/just-the-docs-light.css	/^  div.listingblock div.content > pre,$/;"	s
 div.opaque	_site/assets/css/just-the-docs-dark.css	/^div.opaque {$/;"	c
 div.opaque	_site/assets/css/just-the-docs-default.css	/^div.opaque {$/;"	c
 div.opaque	_site/assets/css/just-the-docs-light.css	/^div.opaque {$/;"	c
@@ -5804,7 +5793,6 @@ nonconvex-optimization-of-low-dimensional-models	_site/tutorials/index.html	/^<!
 noscript .table-wrapper	_site/assets/css/just-the-docs-dark.css	/^noscript .table-wrapper {$/;"	c
 noscript .table-wrapper	_site/assets/css/just-the-docs-default.css	/^noscript .table-wrapper {$/;"	c
 noscript .table-wrapper	_site/assets/css/just-the-docs-light.css	/^noscript .table-wrapper {$/;"	c
-nsd4b0bd230101	_site/assets/images/search.svg	/^<svg width="28" height="28" viewBox="0 0 28 28" xmlns="http:\/\/www.w3.org\/2000\/svg"><title>Se/;"	n	uri:http://www.w3.org/2000/svg
 office-hours	_sass/custom/calendar.scss	/^    &.office-hours {$/;"	c
 ol	_site/assets/css/just-the-docs-dark.css	/^ol,$/;"	s
 ol	_site/assets/css/just-the-docs-default.css	/^ol,$/;"	s
