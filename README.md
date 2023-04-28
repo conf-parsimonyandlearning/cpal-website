@@ -20,7 +20,7 @@ nav_order: 0
 - November 30th, 2023: Camera Ready Deadline
 - January 3rd, 2024: Conference Starts
 
-# Invited Speakers
+# Keynote Speakers
 
 {% include speakers.html %}
 

@@ -5227,8 +5227,6 @@ How to Submit Your Work	submission.md	/^# How to Submit Your Work$/;"	c
 Industry Liaison Chairs	_includes/organizers.html	/^<h2>Industry Liaison Chairs<\/h2>$/;"	i
 Industry Liaison Chairs	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Introduction to Low-Dimensional Models	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Invited Speakers	README.md	/^# Invited Speakers$/;"	c
-Invited Speakers	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Invited Speakers	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Invited Speakers	speakers.md	/^# Invited Speakers$/;"	c
 Ivan Dokmanić	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5242,6 +5240,8 @@ Key Dates and Deadlines	_site/deadlines/index.html	/^<!DOCTYPE html><html lang="
 Key Dates and Deadlines	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Key Dates and Deadlines	deadlines.md	/^# Key Dates and Deadlines$/;"	c
 Key Dates | Conference on Learning and Parsimony (CLAP)	_site/deadlines/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Keynote Speakers	README.md	/^# Keynote Speakers$/;"	c
+Keynote Speakers	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Keynote Speakers | Conference on Learning and Parsimony (CLAP)	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Learned Representations and Low-Dimensional Structures	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Learning Low-Dimensional Structure via Deep Networks	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5709,13 +5709,13 @@ input	_site/assets/css/just-the-docs-default.css	/^input,$/;"	s
 input	_site/assets/css/just-the-docs-light.css	/^input {$/;"	s
 input	_site/assets/css/just-the-docs-light.css	/^input,$/;"	s
 introduction-to-low-dimensional-models	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-invited-speakers	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 invited-speakers	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 kbd	_site/assets/css/just-the-docs-dark.css	/^kbd,$/;"	s
 kbd	_site/assets/css/just-the-docs-default.css	/^kbd,$/;"	s
 kbd	_site/assets/css/just-the-docs-light.css	/^kbd,$/;"	s
 key-dates-and-deadlines	_site/deadlines/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 key-dates-and-deadlines	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+keynote-speakers	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 label	_sass/custom/card.scss	/^  .label {$/;"	c
 learned-representations-and-low-dimensional-structures	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 learning-low-dimensional-structure-via-deep-networks	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -5849,8 +5849,8 @@ progress	_site/assets/css/just-the-docs-light.css	/^progress {$/;"	s
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/"$/;"	s	object:3
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/"$/;"	s	object:5
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#call-for-papers"$/;"	s	object:0
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#invited-speakers"$/;"	s	object:2
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#key-dates-and-deadlines"$/;"	s	object:1
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#keynote-speakers"$/;"	s	object:2
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#todo-for-this-page"$/;"	s	object:4
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/cfp\/"$/;"	s	object:7
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/cfp\/#todo-for-this-page"$/;"	s	object:6
@@ -6151,11 +6151,11 @@ title	_site/assets/js/search-data.json	/^    "title": "General Chairs",$/;"	s	ob
 title	_site/assets/js/search-data.json	/^    "title": "Home",$/;"	s	object:5
 title	_site/assets/js/search-data.json	/^    "title": "How to Submit Your Work",$/;"	s	object:31
 title	_site/assets/js/search-data.json	/^    "title": "Industry Liaison Chairs",$/;"	s	object:15
-title	_site/assets/js/search-data.json	/^    "title": "Invited Speakers",$/;"	s	object:2
 title	_site/assets/js/search-data.json	/^    "title": "Invited Speakers",$/;"	s	object:25
 title	_site/assets/js/search-data.json	/^    "title": "Key Dates and Deadlines",$/;"	s	object:1
 title	_site/assets/js/search-data.json	/^    "title": "Key Dates and Deadlines",$/;"	s	object:8
 title	_site/assets/js/search-data.json	/^    "title": "Key Dates",$/;"	s	object:9
+title	_site/assets/js/search-data.json	/^    "title": "Keynote Speakers",$/;"	s	object:2
 title	_site/assets/js/search-data.json	/^    "title": "Keynote Speakers",$/;"	s	object:27
 title	_site/assets/js/search-data.json	/^    "title": "Local Chairs",$/;"	s	object:13
 title	_site/assets/js/search-data.json	/^    "title": "Logistics for Accepted Papers",$/;"	s	object:32
@@ -6253,8 +6253,8 @@ ul	_site/assets/css/just-the-docs-light.css	/^ul,$/;"	s
 url	_site/assets/js/search-data.json	/^    "url": "\/",$/;"	s	object:3
 url	_site/assets/js/search-data.json	/^    "url": "\/",$/;"	s	object:5
 url	_site/assets/js/search-data.json	/^    "url": "\/#call-for-papers",$/;"	s	object:0
-url	_site/assets/js/search-data.json	/^    "url": "\/#invited-speakers",$/;"	s	object:2
 url	_site/assets/js/search-data.json	/^    "url": "\/#key-dates-and-deadlines",$/;"	s	object:1
+url	_site/assets/js/search-data.json	/^    "url": "\/#keynote-speakers",$/;"	s	object:2
 url	_site/assets/js/search-data.json	/^    "url": "\/#todo-for-this-page",$/;"	s	object:4
 url	_site/assets/js/search-data.json	/^    "url": "\/cfp\/",$/;"	s	object:7
 url	_site/assets/js/search-data.json	/^    "url": "\/cfp\/#todo-for-this-page",$/;"	s	object:6

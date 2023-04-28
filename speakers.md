@@ -8,7 +8,7 @@ nav_order: 3
 {% include splash.html %}
 
 
-# Invited Speakers
+# Keynote Speakers
 
 <!-- Clicking a speaker's photo will jump to their talk information below. -->
 

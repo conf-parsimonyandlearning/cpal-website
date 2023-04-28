@@ -14,11 +14,11 @@
     "relUrl": "/#key-dates-and-deadlines"
   },"2": {
     "doc": "Home",
-    "title": "Invited Speakers",
+    "title": "Keynote Speakers",
     "content": "<!-- ",
-    "url": "/#invited-speakers",
+    "url": "/#keynote-speakers",
     
-    "relUrl": "/#invited-speakers"
+    "relUrl": "/#keynote-speakers"
   },"3": {
     "doc": "Home",
     "title": "Confirmed Distinguished Speakers",
@@ -175,11 +175,11 @@
     "relUrl": "/policies/"
   },"25": {
     "doc": "Keynote Speakers",
-    "title": "Invited Speakers",
+    "title": "Keynote Speakers",
     "content": "<!-- ",
-    "url": "/speakers/#invited-speakers",
+    "url": "/speakers/#keynote-speakers",
     
-    "relUrl": "/speakers/#invited-speakers"
+    "relUrl": "/speakers/#keynote-speakers"
   },"26": {
     "doc": "Keynote Speakers",
     "title": "Confirmed Distinguished Speakers",
