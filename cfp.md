@@ -7,9 +7,3 @@ nav_order: 2
 
 {% include splash.html %}
 
-# TODO FOR THIS PAGE
-
-- Subject areas
-- CfP Text
-- Latex Template
-- Submission guidelines to be released shortly

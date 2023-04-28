@@ -5112,7 +5112,6 @@
 38	_site/assets/js/search-data.json	/^  },"38": {$/;"	o
 39	_site/assets/js/search-data.json	/^  },"39": {$/;"	o
 4	_site/assets/js/search-data.json	/^  },"4": {$/;"	o
-40	_site/assets/js/search-data.json	/^  },"40": {$/;"	o
 5	_site/assets/js/search-data.json	/^  },"5": {$/;"	o
 6	_site/assets/js/search-data.json	/^  },"6": {$/;"	o
 7	_site/assets/js/search-data.json	/^  },"7": {$/;"	o
@@ -5227,8 +5226,6 @@ How to Submit Your Work	submission.md	/^# How to Submit Your Work$/;"	c
 Industry Liaison Chairs	_includes/organizers.html	/^<h2>Industry Liaison Chairs<\/h2>$/;"	i
 Industry Liaison Chairs	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Introduction to Low-Dimensional Models	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Invited Speakers	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
-Invited Speakers	speakers.md	/^# Invited Speakers$/;"	c
 Ivan Dokmanić	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Jeremias Sulam	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 John Wright	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5242,6 +5239,8 @@ Key Dates and Deadlines	deadlines.md	/^# Key Dates and Deadlines$/;"	c
 Key Dates | Conference on Learning and Parsimony (CLAP)	_site/deadlines/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Keynote Speakers	README.md	/^# Keynote Speakers$/;"	c
 Keynote Speakers	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
+Keynote Speakers	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
+Keynote Speakers	speakers.md	/^# Keynote Speakers$/;"	c
 Keynote Speakers | Conference on Learning and Parsimony (CLAP)	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Learned Representations and Low-Dimensional Structures	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Learning Low-Dimensional Structure via Deep Networks	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5308,8 +5307,6 @@ TODO FOR THIS PAGE	_site/cfp/index.html	/^<!DOCTYPE html><html lang="en-US"><hea
 TODO FOR THIS PAGE	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 TODO FOR THIS PAGE	cfp.md	/^# TODO FOR THIS PAGE$/;"	c
 TODO FOR THIS PAGE	submission.md	/^# TODO FOR THIS PAGE$/;"	c
-TODO for this page:	README.md	/^# TODO for this page:$/;"	c
-TODO for this page:	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 TODO for this page:	_site/policies/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 TODO for this page:	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 TODO for this page:	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
@@ -5436,46 +5433,45 @@ code.language-mermaid	_site/assets/css/just-the-docs-dark.css	/^code.language-me
 code.language-mermaid	_site/assets/css/just-the-docs-default.css	/^code.language-mermaid {$/;"	c
 code.language-mermaid	_site/assets/css/just-the-docs-light.css	/^code.language-mermaid {$/;"	c
 content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:0
-content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:10
-content	_site/assets/js/search-data.json	/^    "content": "--> Dan Alistarh . IST Austria\/Neural Magic . Tom Goldstein . University of Mar/;"	s	object:26
+content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:9
+content	_site/assets/js/search-data.json	/^    "content": "--> Dan Alistarh . IST Austria\/Neural Magic . Tom Goldstein . University of Mar/;"	s	object:25
 content	_site/assets/js/search-data.json	/^    "content": "--> Dan Alistarh . IST Austria\/Neural Magic . Tom Goldstein . University of Mar/;"	s	object:3
 content	_site/assets/js/search-data.json	/^    "content": ". | August 14th, 2023: Abstract Submission Deadline | August 28th, 2023: Submiss/;"	s	object:1
-content	_site/assets/js/search-data.json	/^    "content": ". | August 14th, 2023: Abstract Submission Deadline | August 28th, 2023: Submiss/;"	s	object:8
-content	_site/assets/js/search-data.json	/^    "content": ". | Can include it on the homepage too | . ",$/;"	s	object:28
-content	_site/assets/js/search-data.json	/^    "content": ". | DEI? | Code of conduct? | Review\/author guide? | . ",$/;"	s	object:23
-content	_site/assets/js/search-data.json	/^    "content": ". | Do we want to offer our existing course? | Do we want a call? | . ",$/;"	s	object:36
-content	_site/assets/js/search-data.json	/^    "content": ". | List of ACs (single blind policy) | Subject areas | Procedures for the CfP…/;"	s	object:30
-content	_site/assets/js/search-data.json	/^    "content": ". | New Logo | Text teaser about the conference (”content”) . | Ideas\/topic/;"	s	object:4
-content	_site/assets/js/search-data.json	/^    "content": ". | Subject areas | CfP Text | Latex Template | Submission guidelines to be rele/;"	s	object:6
-content	_site/assets/js/search-data.json	/^    "content": ". | Thinking this can be made a general travel\/logistics page | HKU info | Can /;"	s	object:39
+content	_site/assets/js/search-data.json	/^    "content": ". | August 14th, 2023: Abstract Submission Deadline | August 28th, 2023: Submiss/;"	s	object:7
+content	_site/assets/js/search-data.json	/^    "content": ". | Can include it on the homepage too | . ",$/;"	s	object:27
+content	_site/assets/js/search-data.json	/^    "content": ". | DEI? | Code of conduct? | Review\/author guide? | . ",$/;"	s	object:22
+content	_site/assets/js/search-data.json	/^    "content": ". | Do we want to offer our existing course? | Do we want a call? | . ",$/;"	s	object:35
+content	_site/assets/js/search-data.json	/^    "content": ". | List of ACs (single blind policy) | Subject areas | Procedures for the CfP…/;"	s	object:29
+content	_site/assets/js/search-data.json	/^    "content": ". | Subject areas | CfP Text | Latex Template | Submission guidelines to be rele/;"	s	object:5
+content	_site/assets/js/search-data.json	/^    "content": ". | Thinking this can be made a general travel\/logistics page | HKU info | Can /;"	s	object:38
 content	_site/assets/js/search-data.json	/^    "content": "<!-- ",$/;"	s	object:2
-content	_site/assets/js/search-data.json	/^    "content": "<!-- ",$/;"	s	object:25
-content	_site/assets/js/search-data.json	/^    "content": "Accepted works will be expected to present a poster describing the work in-perso/;"	s	object:32
-content	_site/assets/js/search-data.json	/^    "content": "Alex Dimakis . UT Austin . Advisory Committee . Michael Elad . Technion . Adviso/;"	s	object:21
-content	_site/assets/js/search-data.json	/^    "content": "Babak Ehteshami Bejnordi . Qualcomm . Area Chair . Beidi Chen . Meta\/Carnegie M/;"	s	object:20
-content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:22
-content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:24
-content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:27
-content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:29
-content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:35
-content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:38
-content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:40
-content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:5
-content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:7
-content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:9
-content	_site/assets/js/search-data.json	/^    "content": "Dan Alistarh . IST Austria\/Neural Magic . Industry Liaison Chair . Dilin Wang ./;"	s	object:15
-content	_site/assets/js/search-data.json	/^    "content": "Gitta Kutyniok . LMU Munich . General Chair . Yi Ma . UC Berkeley . General Chai/;"	s	object:11
-content	_site/assets/js/search-data.json	/^    "content": "Saiprasad Ravishankar . Michigan State University . Tutorial Chair . John Wright/;"	s	object:17
-content	_site/assets/js/search-data.json	/^    "content": "Sam Buchanan . TTIC . Web Chair . ",$/;"	s	object:19
-content	_site/assets/js/search-data.json	/^    "content": "Sijia Liu . Michigan State University . Panel Chair . Jeremias Sulam . Johns Hop/;"	s	object:16
-content	_site/assets/js/search-data.json	/^    "content": "The first day of the workshop features tutorial presentations from a subset of t/;"	s	object:37
-content	_site/assets/js/search-data.json	/^    "content": "Topics of interest include, but are not limited to, connections between low-dime/;"	s	object:33
-content	_site/assets/js/search-data.json	/^    "content": "We aim to showcase: . | The latest research innovations at all stages of the res/;"	s	object:34
-content	_site/assets/js/search-data.json	/^    "content": "We will use OpenReview to manage submissions. Submit your work here: . https:\/\//;"	s	object:31
-content	_site/assets/js/search-data.json	/^    "content": "Yanchao Yang . HKU . Local Chair . Man-Chung Yue . HKU . Local Chair . ",$/;"	s	object:13
-content	_site/assets/js/search-data.json	/^    "content": "Yani Ioannou . University of Calgary . Publicity Chair . Liyue Shen . University/;"	s	object:18
-content	_site/assets/js/search-data.json	/^    "content": "Yuejie Chi . Carnegie Mellon University . Program Chair . Qing Qu . University o/;"	s	object:12
-content	_site/assets/js/search-data.json	/^    "content": "Zhihui Zhu . Ohio State University . Publication Chair . ",$/;"	s	object:14
+content	_site/assets/js/search-data.json	/^    "content": "<!-- ",$/;"	s	object:24
+content	_site/assets/js/search-data.json	/^    "content": "Accepted works will be expected to present a poster describing the work in-perso/;"	s	object:31
+content	_site/assets/js/search-data.json	/^    "content": "Alex Dimakis . UT Austin . Advisory Committee . Michael Elad . Technion . Adviso/;"	s	object:20
+content	_site/assets/js/search-data.json	/^    "content": "Babak Ehteshami Bejnordi . Qualcomm . Area Chair . Beidi Chen . Meta\/Carnegie M/;"	s	object:19
+content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:21
+content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:23
+content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:26
+content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:28
+content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:34
+content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:37
+content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:39
+content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:4
+content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:6
+content	_site/assets/js/search-data.json	/^    "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",$/;"	s	object:8
+content	_site/assets/js/search-data.json	/^    "content": "Dan Alistarh . IST Austria\/Neural Magic . Industry Liaison Chair . Dilin Wang ./;"	s	object:14
+content	_site/assets/js/search-data.json	/^    "content": "Gitta Kutyniok . LMU Munich . General Chair . Yi Ma . UC Berkeley . General Chai/;"	s	object:10
+content	_site/assets/js/search-data.json	/^    "content": "Saiprasad Ravishankar . Michigan State University . Tutorial Chair . John Wright/;"	s	object:16
+content	_site/assets/js/search-data.json	/^    "content": "Sam Buchanan . TTIC . Web Chair . ",$/;"	s	object:18
+content	_site/assets/js/search-data.json	/^    "content": "Sijia Liu . Michigan State University . Panel Chair . Jeremias Sulam . Johns Hop/;"	s	object:15
+content	_site/assets/js/search-data.json	/^    "content": "The first day of the workshop features tutorial presentations from a subset of t/;"	s	object:36
+content	_site/assets/js/search-data.json	/^    "content": "Topics of interest include, but are not limited to, connections between low-dime/;"	s	object:32
+content	_site/assets/js/search-data.json	/^    "content": "We aim to showcase: . | The latest research innovations at all stages of the res/;"	s	object:33
+content	_site/assets/js/search-data.json	/^    "content": "We will use OpenReview to manage submissions. Submit your work here: . https:\/\//;"	s	object:30
+content	_site/assets/js/search-data.json	/^    "content": "Yanchao Yang . HKU . Local Chair . Man-Chung Yue . HKU . Local Chair . ",$/;"	s	object:12
+content	_site/assets/js/search-data.json	/^    "content": "Yani Ioannou . University of Calgary . Publicity Chair . Liyue Shen . University/;"	s	object:17
+content	_site/assets/js/search-data.json	/^    "content": "Yuejie Chi . Carnegie Mellon University . Program Chair . Qing Qu . University o/;"	s	object:11
+content	_site/assets/js/search-data.json	/^    "content": "Zhihui Zhu . Ohio State University . Publication Chair . ",$/;"	s	object:13
 content-width-0	_sass/custom/custom.scss	/^$content-width-0: 1200px;$/;"	v
 content-width-0	_sass/custom/custom_backup.scss	/^$content-width-0: 1200px;$/;"	v
 defs2	_site/assets/images/tmp1.svg	/^     id="defs2" \/>$/;"	i
@@ -5550,21 +5546,20 @@ div.opaque	_site/assets/css/just-the-docs-light.css	/^div.opaque {$/;"	c
 dl	_site/assets/css/just-the-docs-dark.css	/^dl,$/;"	s
 dl	_site/assets/css/just-the-docs-default.css	/^dl,$/;"	s
 dl	_site/assets/css/just-the-docs-light.css	/^dl,$/;"	s
+doc	_site/assets/js/search-data.json	/^    "doc": "Call for Papers",$/;"	s	object:5
 doc	_site/assets/js/search-data.json	/^    "doc": "Call for Papers",$/;"	s	object:6
-doc	_site/assets/js/search-data.json	/^    "doc": "Call for Papers",$/;"	s	object:7
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:0
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:1
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:2
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:3
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:4
-doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:5
+doc	_site/assets/js/search-data.json	/^    "doc": "Key Dates",$/;"	s	object:7
 doc	_site/assets/js/search-data.json	/^    "doc": "Key Dates",$/;"	s	object:8
-doc	_site/assets/js/search-data.json	/^    "doc": "Key Dates",$/;"	s	object:9
+doc	_site/assets/js/search-data.json	/^    "doc": "Keynote Speakers",$/;"	s	object:24
 doc	_site/assets/js/search-data.json	/^    "doc": "Keynote Speakers",$/;"	s	object:25
 doc	_site/assets/js/search-data.json	/^    "doc": "Keynote Speakers",$/;"	s	object:26
-doc	_site/assets/js/search-data.json	/^    "doc": "Keynote Speakers",$/;"	s	object:27
+doc	_site/assets/js/search-data.json	/^    "doc": "Policies",$/;"	s	object:22
 doc	_site/assets/js/search-data.json	/^    "doc": "Policies",$/;"	s	object:23
-doc	_site/assets/js/search-data.json	/^    "doc": "Policies",$/;"	s	object:24
 doc	_site/assets/js/search-data.json	/^    "doc": "Program Committee",$/;"	s	object:10
 doc	_site/assets/js/search-data.json	/^    "doc": "Program Committee",$/;"	s	object:11
 doc	_site/assets/js/search-data.json	/^    "doc": "Program Committee",$/;"	s	object:12
@@ -5577,20 +5572,20 @@ doc	_site/assets/js/search-data.json	/^    "doc": "Program Committee",$/;"	s	obj
 doc	_site/assets/js/search-data.json	/^    "doc": "Program Committee",$/;"	s	object:19
 doc	_site/assets/js/search-data.json	/^    "doc": "Program Committee",$/;"	s	object:20
 doc	_site/assets/js/search-data.json	/^    "doc": "Program Committee",$/;"	s	object:21
-doc	_site/assets/js/search-data.json	/^    "doc": "Program Committee",$/;"	s	object:22
+doc	_site/assets/js/search-data.json	/^    "doc": "Program Committee",$/;"	s	object:9
+doc	_site/assets/js/search-data.json	/^    "doc": "Sponsors",$/;"	s	object:27
 doc	_site/assets/js/search-data.json	/^    "doc": "Sponsors",$/;"	s	object:28
-doc	_site/assets/js/search-data.json	/^    "doc": "Sponsors",$/;"	s	object:29
+doc	_site/assets/js/search-data.json	/^    "doc": "Submission Guidelines",$/;"	s	object:29
 doc	_site/assets/js/search-data.json	/^    "doc": "Submission Guidelines",$/;"	s	object:30
 doc	_site/assets/js/search-data.json	/^    "doc": "Submission Guidelines",$/;"	s	object:31
 doc	_site/assets/js/search-data.json	/^    "doc": "Submission Guidelines",$/;"	s	object:32
 doc	_site/assets/js/search-data.json	/^    "doc": "Submission Guidelines",$/;"	s	object:33
 doc	_site/assets/js/search-data.json	/^    "doc": "Submission Guidelines",$/;"	s	object:34
-doc	_site/assets/js/search-data.json	/^    "doc": "Submission Guidelines",$/;"	s	object:35
+doc	_site/assets/js/search-data.json	/^    "doc": "Tutorials",$/;"	s	object:35
 doc	_site/assets/js/search-data.json	/^    "doc": "Tutorials",$/;"	s	object:36
 doc	_site/assets/js/search-data.json	/^    "doc": "Tutorials",$/;"	s	object:37
-doc	_site/assets/js/search-data.json	/^    "doc": "Tutorials",$/;"	s	object:38
+doc	_site/assets/js/search-data.json	/^    "doc": "Venue",$/;"	s	object:38
 doc	_site/assets/js/search-data.json	/^    "doc": "Venue",$/;"	s	object:39
-doc	_site/assets/js/search-data.json	/^    "doc": "Venue",$/;"	s	object:40
 edit-this-page	_layouts/minimal_backup.html	/^                  <a href="{{ site.gh_edit_repository }}\/{{ site.gh_edit_view_mode }}\/{{ site./;"	I
 external	_sass/custom/custom_backup.scss	/^      &.external > svg {$/;"	c
 fieldset	_site/assets/css/just-the-docs-dark.css	/^fieldset {$/;"	s
@@ -5709,13 +5704,13 @@ input	_site/assets/css/just-the-docs-default.css	/^input,$/;"	s
 input	_site/assets/css/just-the-docs-light.css	/^input {$/;"	s
 input	_site/assets/css/just-the-docs-light.css	/^input,$/;"	s
 introduction-to-low-dimensional-models	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-invited-speakers	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 kbd	_site/assets/css/just-the-docs-dark.css	/^kbd,$/;"	s
 kbd	_site/assets/css/just-the-docs-default.css	/^kbd,$/;"	s
 kbd	_site/assets/css/just-the-docs-light.css	/^kbd,$/;"	s
 key-dates-and-deadlines	_site/deadlines/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 key-dates-and-deadlines	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 keynote-speakers	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+keynote-speakers	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 label	_sass/custom/card.scss	/^  .label {$/;"	c
 learned-representations-and-low-dimensional-structures	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 learning-low-dimensional-structure-via-deep-networks	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -5847,15 +5842,15 @@ progress	_site/assets/css/just-the-docs-dark.css	/^progress {$/;"	s
 progress	_site/assets/css/just-the-docs-default.css	/^progress {$/;"	s
 progress	_site/assets/css/just-the-docs-light.css	/^progress {$/;"	s
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/"$/;"	s	object:3
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/"$/;"	s	object:5
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/"$/;"	s	object:4
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#call-for-papers"$/;"	s	object:0
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#key-dates-and-deadlines"$/;"	s	object:1
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#keynote-speakers"$/;"	s	object:2
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#todo-for-this-page"$/;"	s	object:4
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/cfp\/"$/;"	s	object:7
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/cfp\/#todo-for-this-page"$/;"	s	object:6
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/deadlines\/"$/;"	s	object:9
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/deadlines\/#key-dates-and-deadlines"$/;"	s	object:8
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/cfp\/"$/;"	s	object:6
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/cfp\/#todo-for-this-page"$/;"	s	object:5
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/deadlines\/"$/;"	s	object:8
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/deadlines\/#key-dates-and-deadlines"$/;"	s	object:7
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/organizers\/"$/;"	s	object:10
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/organizers\/"$/;"	s	object:11
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/organizers\/"$/;"	s	object:12
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/organizers\/"$/;"	s	object:13
@@ -5867,26 +5862,25 @@ relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/organizers\/"$/;"	s	o
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/organizers\/"$/;"	s	object:19
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/organizers\/"$/;"	s	object:20
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/organizers\/"$/;"	s	object:21
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/organizers\/"$/;"	s	object:22
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/organizers\/#program-committee"$/;"	s	object:10
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/policies\/"$/;"	s	object:24
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/policies\/#todo-for-this-page"$/;"	s	object:23
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/organizers\/#program-committee"$/;"	s	object:9
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/policies\/"$/;"	s	object:23
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/policies\/#todo-for-this-page"$/;"	s	object:22
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/"$/;"	s	object:25
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/"$/;"	s	object:26
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/"$/;"	s	object:27
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/#invited-speakers"$/;"	s	object:25
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/sponsors\/"$/;"	s	object:29
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/sponsors\/#todo-for-this-page"$/;"	s	object:28
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/"$/;"	s	object:35
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#how-to-submit-your-work"$/;"	s	object:31
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#logistics-for-accepted-papers"$/;"	s	object:32
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#submission-guidelines"$/;"	s	object:34
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#todo-for-this-page"$/;"	s	object:30
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#topics-of-interest"$/;"	s	object:33
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/tutorials\/"$/;"	s	object:38
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/tutorials\/#todo-for-this-page"$/;"	s	object:36
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/tutorials\/#tutorials"$/;"	s	object:37
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/venue\/"$/;"	s	object:40
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/venue\/#todo-for-this-page"$/;"	s	object:39
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/#keynote-speakers"$/;"	s	object:24
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/sponsors\/"$/;"	s	object:28
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/sponsors\/#todo-for-this-page"$/;"	s	object:27
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/"$/;"	s	object:34
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#how-to-submit-your-work"$/;"	s	object:30
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#logistics-for-accepted-papers"$/;"	s	object:31
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#submission-guidelines"$/;"	s	object:33
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#todo-for-this-page"$/;"	s	object:29
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#topics-of-interest"$/;"	s	object:32
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/tutorials\/"$/;"	s	object:37
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/tutorials\/#todo-for-this-page"$/;"	s	object:35
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/tutorials\/#tutorials"$/;"	s	object:36
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/venue\/"$/;"	s	object:39
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/venue\/#todo-for-this-page"$/;"	s	object:38
 removeEvent	_site/assets/js/just-the-docs.js	/^jtd.removeEvent = function(el, type, handler) {$/;"	f	function:jtd
 samp	_site/assets/css/just-the-docs-dark.css	/^samp {$/;"	s
 samp	_site/assets/css/just-the-docs-default.css	/^samp {$/;"	s
@@ -6141,49 +6135,47 @@ thead th	_site/assets/css/just-the-docs-dark.css	/^thead th {$/;"	s
 thead th	_site/assets/css/just-the-docs-default.css	/^thead th {$/;"	s
 thead th	_site/assets/css/just-the-docs-light.css	/^thead th {$/;"	s
 time	_sass/custom/calendar.scss	/^    .time,$/;"	c
-title	_site/assets/js/search-data.json	/^    "title": "Advisory Committee",$/;"	s	object:21
-title	_site/assets/js/search-data.json	/^    "title": "Area Chairs",$/;"	s	object:20
+title	_site/assets/js/search-data.json	/^    "title": "Advisory Committee",$/;"	s	object:20
+title	_site/assets/js/search-data.json	/^    "title": "Area Chairs",$/;"	s	object:19
 title	_site/assets/js/search-data.json	/^    "title": "Call for Papers",$/;"	s	object:0
-title	_site/assets/js/search-data.json	/^    "title": "Call for Papers",$/;"	s	object:7
-title	_site/assets/js/search-data.json	/^    "title": "Confirmed Distinguished Speakers",$/;"	s	object:26
+title	_site/assets/js/search-data.json	/^    "title": "Call for Papers",$/;"	s	object:6
+title	_site/assets/js/search-data.json	/^    "title": "Confirmed Distinguished Speakers",$/;"	s	object:25
 title	_site/assets/js/search-data.json	/^    "title": "Confirmed Distinguished Speakers",$/;"	s	object:3
-title	_site/assets/js/search-data.json	/^    "title": "General Chairs",$/;"	s	object:11
-title	_site/assets/js/search-data.json	/^    "title": "Home",$/;"	s	object:5
-title	_site/assets/js/search-data.json	/^    "title": "How to Submit Your Work",$/;"	s	object:31
-title	_site/assets/js/search-data.json	/^    "title": "Industry Liaison Chairs",$/;"	s	object:15
-title	_site/assets/js/search-data.json	/^    "title": "Invited Speakers",$/;"	s	object:25
+title	_site/assets/js/search-data.json	/^    "title": "General Chairs",$/;"	s	object:10
+title	_site/assets/js/search-data.json	/^    "title": "Home",$/;"	s	object:4
+title	_site/assets/js/search-data.json	/^    "title": "How to Submit Your Work",$/;"	s	object:30
+title	_site/assets/js/search-data.json	/^    "title": "Industry Liaison Chairs",$/;"	s	object:14
 title	_site/assets/js/search-data.json	/^    "title": "Key Dates and Deadlines",$/;"	s	object:1
-title	_site/assets/js/search-data.json	/^    "title": "Key Dates and Deadlines",$/;"	s	object:8
-title	_site/assets/js/search-data.json	/^    "title": "Key Dates",$/;"	s	object:9
+title	_site/assets/js/search-data.json	/^    "title": "Key Dates and Deadlines",$/;"	s	object:7
+title	_site/assets/js/search-data.json	/^    "title": "Key Dates",$/;"	s	object:8
 title	_site/assets/js/search-data.json	/^    "title": "Keynote Speakers",$/;"	s	object:2
-title	_site/assets/js/search-data.json	/^    "title": "Keynote Speakers",$/;"	s	object:27
-title	_site/assets/js/search-data.json	/^    "title": "Local Chairs",$/;"	s	object:13
-title	_site/assets/js/search-data.json	/^    "title": "Logistics for Accepted Papers",$/;"	s	object:32
-title	_site/assets/js/search-data.json	/^    "title": "Panel Chairs",$/;"	s	object:16
-title	_site/assets/js/search-data.json	/^    "title": "Policies",$/;"	s	object:24
-title	_site/assets/js/search-data.json	/^    "title": "Program Chairs",$/;"	s	object:12
-title	_site/assets/js/search-data.json	/^    "title": "Program Committee",$/;"	s	object:10
-title	_site/assets/js/search-data.json	/^    "title": "Program Committee",$/;"	s	object:22
-title	_site/assets/js/search-data.json	/^    "title": "Publication Chairs",$/;"	s	object:14
-title	_site/assets/js/search-data.json	/^    "title": "Publicity Chairs",$/;"	s	object:18
-title	_site/assets/js/search-data.json	/^    "title": "Sponsors",$/;"	s	object:29
+title	_site/assets/js/search-data.json	/^    "title": "Keynote Speakers",$/;"	s	object:24
+title	_site/assets/js/search-data.json	/^    "title": "Keynote Speakers",$/;"	s	object:26
+title	_site/assets/js/search-data.json	/^    "title": "Local Chairs",$/;"	s	object:12
+title	_site/assets/js/search-data.json	/^    "title": "Logistics for Accepted Papers",$/;"	s	object:31
+title	_site/assets/js/search-data.json	/^    "title": "Panel Chairs",$/;"	s	object:15
+title	_site/assets/js/search-data.json	/^    "title": "Policies",$/;"	s	object:23
+title	_site/assets/js/search-data.json	/^    "title": "Program Chairs",$/;"	s	object:11
+title	_site/assets/js/search-data.json	/^    "title": "Program Committee",$/;"	s	object:21
+title	_site/assets/js/search-data.json	/^    "title": "Program Committee",$/;"	s	object:9
+title	_site/assets/js/search-data.json	/^    "title": "Publication Chairs",$/;"	s	object:13
+title	_site/assets/js/search-data.json	/^    "title": "Publicity Chairs",$/;"	s	object:17
+title	_site/assets/js/search-data.json	/^    "title": "Sponsors",$/;"	s	object:28
+title	_site/assets/js/search-data.json	/^    "title": "Submission Guidelines",$/;"	s	object:33
 title	_site/assets/js/search-data.json	/^    "title": "Submission Guidelines",$/;"	s	object:34
-title	_site/assets/js/search-data.json	/^    "title": "Submission Guidelines",$/;"	s	object:35
-title	_site/assets/js/search-data.json	/^    "title": "TODO FOR THIS PAGE",$/;"	s	object:30
-title	_site/assets/js/search-data.json	/^    "title": "TODO FOR THIS PAGE",$/;"	s	object:6
-title	_site/assets/js/search-data.json	/^    "title": "TODO for this page:",$/;"	s	object:23
-title	_site/assets/js/search-data.json	/^    "title": "TODO for this page:",$/;"	s	object:28
-title	_site/assets/js/search-data.json	/^    "title": "TODO for this page:",$/;"	s	object:36
-title	_site/assets/js/search-data.json	/^    "title": "TODO for this page:",$/;"	s	object:39
-title	_site/assets/js/search-data.json	/^    "title": "TODO for this page:",$/;"	s	object:4
-title	_site/assets/js/search-data.json	/^    "title": "Topics of Interest",$/;"	s	object:33
-title	_site/assets/js/search-data.json	/^    "title": "Tutorial Chairs",$/;"	s	object:17
+title	_site/assets/js/search-data.json	/^    "title": "TODO FOR THIS PAGE",$/;"	s	object:29
+title	_site/assets/js/search-data.json	/^    "title": "TODO FOR THIS PAGE",$/;"	s	object:5
+title	_site/assets/js/search-data.json	/^    "title": "TODO for this page:",$/;"	s	object:22
+title	_site/assets/js/search-data.json	/^    "title": "TODO for this page:",$/;"	s	object:27
+title	_site/assets/js/search-data.json	/^    "title": "TODO for this page:",$/;"	s	object:35
+title	_site/assets/js/search-data.json	/^    "title": "TODO for this page:",$/;"	s	object:38
+title	_site/assets/js/search-data.json	/^    "title": "Topics of Interest",$/;"	s	object:32
+title	_site/assets/js/search-data.json	/^    "title": "Tutorial Chairs",$/;"	s	object:16
+title	_site/assets/js/search-data.json	/^    "title": "Tutorials",$/;"	s	object:36
 title	_site/assets/js/search-data.json	/^    "title": "Tutorials",$/;"	s	object:37
-title	_site/assets/js/search-data.json	/^    "title": "Tutorials",$/;"	s	object:38
-title	_site/assets/js/search-data.json	/^    "title": "Venue",$/;"	s	object:40
-title	_site/assets/js/search-data.json	/^    "title": "Web Chairs",$/;"	s	object:19
+title	_site/assets/js/search-data.json	/^    "title": "Venue",$/;"	s	object:39
+title	_site/assets/js/search-data.json	/^    "title": "Web Chairs",$/;"	s	object:18
 todo-for-this-page	_site/cfp/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-todo-for-this-page	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 todo-for-this-page	_site/policies/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 todo-for-this-page	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 todo-for-this-page	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -6251,15 +6243,15 @@ ul	_site/assets/css/just-the-docs-dark.css	/^ul,$/;"	s
 ul	_site/assets/css/just-the-docs-default.css	/^ul,$/;"	s
 ul	_site/assets/css/just-the-docs-light.css	/^ul,$/;"	s
 url	_site/assets/js/search-data.json	/^    "url": "\/",$/;"	s	object:3
-url	_site/assets/js/search-data.json	/^    "url": "\/",$/;"	s	object:5
+url	_site/assets/js/search-data.json	/^    "url": "\/",$/;"	s	object:4
 url	_site/assets/js/search-data.json	/^    "url": "\/#call-for-papers",$/;"	s	object:0
 url	_site/assets/js/search-data.json	/^    "url": "\/#key-dates-and-deadlines",$/;"	s	object:1
 url	_site/assets/js/search-data.json	/^    "url": "\/#keynote-speakers",$/;"	s	object:2
-url	_site/assets/js/search-data.json	/^    "url": "\/#todo-for-this-page",$/;"	s	object:4
-url	_site/assets/js/search-data.json	/^    "url": "\/cfp\/",$/;"	s	object:7
-url	_site/assets/js/search-data.json	/^    "url": "\/cfp\/#todo-for-this-page",$/;"	s	object:6
-url	_site/assets/js/search-data.json	/^    "url": "\/deadlines\/",$/;"	s	object:9
-url	_site/assets/js/search-data.json	/^    "url": "\/deadlines\/#key-dates-and-deadlines",$/;"	s	object:8
+url	_site/assets/js/search-data.json	/^    "url": "\/cfp\/",$/;"	s	object:6
+url	_site/assets/js/search-data.json	/^    "url": "\/cfp\/#todo-for-this-page",$/;"	s	object:5
+url	_site/assets/js/search-data.json	/^    "url": "\/deadlines\/",$/;"	s	object:8
+url	_site/assets/js/search-data.json	/^    "url": "\/deadlines\/#key-dates-and-deadlines",$/;"	s	object:7
+url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/",$/;"	s	object:10
 url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/",$/;"	s	object:11
 url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/",$/;"	s	object:12
 url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/",$/;"	s	object:13
@@ -6271,26 +6263,25 @@ url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/",$/;"	s	object
 url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/",$/;"	s	object:19
 url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/",$/;"	s	object:20
 url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/",$/;"	s	object:21
-url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/",$/;"	s	object:22
-url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/#program-committee",$/;"	s	object:10
-url	_site/assets/js/search-data.json	/^    "url": "\/policies\/",$/;"	s	object:24
-url	_site/assets/js/search-data.json	/^    "url": "\/policies\/#todo-for-this-page",$/;"	s	object:23
+url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/#program-committee",$/;"	s	object:9
+url	_site/assets/js/search-data.json	/^    "url": "\/policies\/",$/;"	s	object:23
+url	_site/assets/js/search-data.json	/^    "url": "\/policies\/#todo-for-this-page",$/;"	s	object:22
+url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/",$/;"	s	object:25
 url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/",$/;"	s	object:26
-url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/",$/;"	s	object:27
-url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/#invited-speakers",$/;"	s	object:25
-url	_site/assets/js/search-data.json	/^    "url": "\/sponsors\/",$/;"	s	object:29
-url	_site/assets/js/search-data.json	/^    "url": "\/sponsors\/#todo-for-this-page",$/;"	s	object:28
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/",$/;"	s	object:35
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#how-to-submit-your-work",$/;"	s	object:31
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#logistics-for-accepted-papers",$/;"	s	object:32
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#submission-guidelines",$/;"	s	object:34
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#todo-for-this-page",$/;"	s	object:30
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#topics-of-interest",$/;"	s	object:33
-url	_site/assets/js/search-data.json	/^    "url": "\/tutorials\/",$/;"	s	object:38
-url	_site/assets/js/search-data.json	/^    "url": "\/tutorials\/#todo-for-this-page",$/;"	s	object:36
-url	_site/assets/js/search-data.json	/^    "url": "\/tutorials\/#tutorials",$/;"	s	object:37
-url	_site/assets/js/search-data.json	/^    "url": "\/venue\/",$/;"	s	object:40
-url	_site/assets/js/search-data.json	/^    "url": "\/venue\/#todo-for-this-page",$/;"	s	object:39
+url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/#keynote-speakers",$/;"	s	object:24
+url	_site/assets/js/search-data.json	/^    "url": "\/sponsors\/",$/;"	s	object:28
+url	_site/assets/js/search-data.json	/^    "url": "\/sponsors\/#todo-for-this-page",$/;"	s	object:27
+url	_site/assets/js/search-data.json	/^    "url": "\/submission\/",$/;"	s	object:34
+url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#how-to-submit-your-work",$/;"	s	object:30
+url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#logistics-for-accepted-papers",$/;"	s	object:31
+url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#submission-guidelines",$/;"	s	object:33
+url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#todo-for-this-page",$/;"	s	object:29
+url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#topics-of-interest",$/;"	s	object:32
+url	_site/assets/js/search-data.json	/^    "url": "\/tutorials\/",$/;"	s	object:37
+url	_site/assets/js/search-data.json	/^    "url": "\/tutorials\/#todo-for-this-page",$/;"	s	object:35
+url	_site/assets/js/search-data.json	/^    "url": "\/tutorials\/#tutorials",$/;"	s	object:36
+url	_site/assets/js/search-data.json	/^    "url": "\/venue\/",$/;"	s	object:39
+url	_site/assets/js/search-data.json	/^    "url": "\/venue\/#todo-for-this-page",$/;"	s	object:38
 {% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/organizer.html	/^    <\/h3>$/;"	j
 {% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/speaker.html	/^    <\/h3>$/;"	j
 {{ day.name }}	_layouts/calendar.html	/^      <h2 class="calendar-header">{{ day.name }}<\/h2>$/;"	i
