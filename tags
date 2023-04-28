@@ -5231,7 +5231,6 @@ Invited Speakers	README.md	/^# Invited Speakers$/;"	c
 Invited Speakers	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Invited Speakers	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Invited Speakers	speakers.md	/^# Invited Speakers$/;"	c
-Invited Speakers | Conference on Learning and Parsimony (CLAP)	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Ivan Dokmanić	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Jeremias Sulam	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 John Wright	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5243,6 +5242,7 @@ Key Dates and Deadlines	_site/deadlines/index.html	/^<!DOCTYPE html><html lang="
 Key Dates and Deadlines	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Key Dates and Deadlines	deadlines.md	/^# Key Dates and Deadlines$/;"	c
 Key Dates | Conference on Learning and Parsimony (CLAP)	_site/deadlines/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Keynote Speakers | Conference on Learning and Parsimony (CLAP)	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Learned Representations and Low-Dimensional Structures	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Learning Low-Dimensional Structure via Deep Networks	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Link	_layouts/minimal_backup.html	/^      <title>Link<\/title>$/;"	j
@@ -5297,6 +5297,7 @@ Sam Buchanan	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><he
 Sam Buchanan	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Sijia Liu	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Simon Du	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Souvik Kundu	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Sparsity Neural Networks – Practice and Theory	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Sponsors | Conference on Learning and Parsimony (CLAP)	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Stefano Soatto	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5557,11 +5558,11 @@ doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:2
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:3
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:4
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:5
-doc	_site/assets/js/search-data.json	/^    "doc": "Invited Speakers",$/;"	s	object:25
-doc	_site/assets/js/search-data.json	/^    "doc": "Invited Speakers",$/;"	s	object:26
-doc	_site/assets/js/search-data.json	/^    "doc": "Invited Speakers",$/;"	s	object:27
 doc	_site/assets/js/search-data.json	/^    "doc": "Key Dates",$/;"	s	object:8
 doc	_site/assets/js/search-data.json	/^    "doc": "Key Dates",$/;"	s	object:9
+doc	_site/assets/js/search-data.json	/^    "doc": "Keynote Speakers",$/;"	s	object:25
+doc	_site/assets/js/search-data.json	/^    "doc": "Keynote Speakers",$/;"	s	object:26
+doc	_site/assets/js/search-data.json	/^    "doc": "Keynote Speakers",$/;"	s	object:27
 doc	_site/assets/js/search-data.json	/^    "doc": "Policies",$/;"	s	object:23
 doc	_site/assets/js/search-data.json	/^    "doc": "Policies",$/;"	s	object:24
 doc	_site/assets/js/search-data.json	/^    "doc": "Program Committee",$/;"	s	object:10
@@ -6152,10 +6153,10 @@ title	_site/assets/js/search-data.json	/^    "title": "How to Submit Your Work",
 title	_site/assets/js/search-data.json	/^    "title": "Industry Liaison Chairs",$/;"	s	object:15
 title	_site/assets/js/search-data.json	/^    "title": "Invited Speakers",$/;"	s	object:2
 title	_site/assets/js/search-data.json	/^    "title": "Invited Speakers",$/;"	s	object:25
-title	_site/assets/js/search-data.json	/^    "title": "Invited Speakers",$/;"	s	object:27
 title	_site/assets/js/search-data.json	/^    "title": "Key Dates and Deadlines",$/;"	s	object:1
 title	_site/assets/js/search-data.json	/^    "title": "Key Dates and Deadlines",$/;"	s	object:8
 title	_site/assets/js/search-data.json	/^    "title": "Key Dates",$/;"	s	object:9
+title	_site/assets/js/search-data.json	/^    "title": "Keynote Speakers",$/;"	s	object:27
 title	_site/assets/js/search-data.json	/^    "title": "Local Chairs",$/;"	s	object:13
 title	_site/assets/js/search-data.json	/^    "title": "Logistics for Accepted Papers",$/;"	s	object:32
 title	_site/assets/js/search-data.json	/^    "title": "Panel Chairs",$/;"	s	object:16

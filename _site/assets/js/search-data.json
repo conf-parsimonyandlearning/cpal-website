@@ -174,22 +174,22 @@
     
     "relUrl": "/policies/"
   },"25": {
-    "doc": "Invited Speakers",
+    "doc": "Keynote Speakers",
     "title": "Invited Speakers",
     "content": "<!-- ",
     "url": "/speakers/#invited-speakers",
     
     "relUrl": "/speakers/#invited-speakers"
   },"26": {
-    "doc": "Invited Speakers",
+    "doc": "Keynote Speakers",
     "title": "Confirmed Distinguished Speakers",
     "content": "--> Dan Alistarh . IST Austria/Neural Magic . Tom Goldstein . University of Maryland . Dimitris Papailiopoulos . University of Wisconsin-Madison . Jong Chul Ye . KAIST . ",
     "url": "/speakers/",
     
     "relUrl": "/speakers/"
   },"27": {
-    "doc": "Invited Speakers",
-    "title": "Invited Speakers",
+    "doc": "Keynote Speakers",
+    "title": "Keynote Speakers",
     "content": "Conference on Learning and Parsimony (CLAP) January 2024,&nbsp;HKU ",
     "url": "/speakers/",
     

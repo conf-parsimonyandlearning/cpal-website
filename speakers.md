@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Invited Speakers
-description: Details of invited speakers at the conference
+title: Keynote Speakers
+description: Details of keynote speakers at the conference
 nav_order: 3
 ---
 
