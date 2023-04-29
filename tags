@@ -5080,6 +5080,26 @@
 0	_site/assets/js/search-data.json	/^{"0": {$/;"	o
 1	_site/assets/js/search-data.json	/^  },"1": {$/;"	o
 10	_site/assets/js/search-data.json	/^  },"10": {$/;"	o
+100	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+100	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+100	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+100	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+102	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+102	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+102	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+102	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+103	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+103	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+103	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+103	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+104	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+104	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+104	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+104	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+105	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+105	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+105	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+105	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
 11	_site/assets/js/search-data.json	/^  },"11": {$/;"	o
 12	_site/assets/js/search-data.json	/^  },"12": {$/;"	o
 13	_site/assets/js/search-data.json	/^  },"13": {$/;"	o
@@ -5118,8 +5138,40 @@
 8	_sass/custom/custom_backup.scss	/^          rgba($feedback-color, 0.8) 80%,$/;"	c
 8	_site/assets/js/search-data.json	/^  },"8": {$/;"	o
 9	_site/assets/js/search-data.json	/^  },"9": {$/;"	o
-9fffb855-e1d2-4a99-bae3-7a8746bfb4ab	_site/assets/images/logo.svg	/^     id="9fffb855-e1d2-4a99-bae3-7a8746bfb4ab">$/;"	i
-9fffb855-e1d2-4a99-bae3-7a8746bfb4ab	assets/images/logo.svg	/^     id="9fffb855-e1d2-4a99-bae3-7a8746bfb4ab">$/;"	i
+92	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+92	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+92	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+92	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+93	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+93	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+93	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+93	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+94	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+94	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+94	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+94	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+95	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+95	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+95	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+95	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+96	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+96	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+96	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+96	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+97	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+97	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+97	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+97	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+98	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+98	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+98	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+98	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+99	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+99	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+99	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	d
+99	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+9fffb855-e1d2-4a99-bae3-7a8746bfb4ab	_site/assets/images/logo_text.svg	/^     id="9fffb855-e1d2-4a99-bae3-7a8746bfb4ab">$/;"	i
+9fffb855-e1d2-4a99-bae3-7a8746bfb4ab	assets/images/logo_text.svg	/^     id="9fffb855-e1d2-4a99-bae3-7a8746bfb4ab">$/;"	i
 :-moz-focusring	_site/assets/css/just-the-docs-dark.css	/^[type="button"]:-moz-focusring,$/;"	s
 :-moz-focusring	_site/assets/css/just-the-docs-dark.css	/^[type="reset"]:-moz-focusring,$/;"	s
 :-moz-focusring	_site/assets/css/just-the-docs-dark.css	/^[type="submit"]:-moz-focusring {$/;"	s
@@ -5472,12 +5524,12 @@ content	_site/assets/js/search-data.json	/^    "content": "Yuejie Chi . Carnegie
 content	_site/assets/js/search-data.json	/^    "content": "Zhihui Zhu . Ohio State University . Publication Chair . ",$/;"	s	object:12
 content-width-0	_sass/custom/custom.scss	/^$content-width-0: 1200px;$/;"	v
 content-width-0	_sass/custom/custom_backup.scss	/^$content-width-0: 1200px;$/;"	v
-defs122	_site/assets/images/logo.svg	/^     id="defs122" \/>$/;"	i
-defs122	assets/images/logo.svg	/^     id="defs122" \/>$/;"	i
+defs122	_site/assets/images/logo_text.svg	/^     id="defs122" \/>$/;"	i
+defs122	assets/images/logo_text.svg	/^     id="defs122" \/>$/;"	i
 defs2	_site/assets/images/tmp1.svg	/^     id="defs2" \/>$/;"	i
 defs2	assets/images/tmp1.svg	/^     id="defs2" \/>$/;"	i
-defs67	_site/assets/images/logo.svg	/^     id="defs67" \/>$/;"	i
-defs67	assets/images/logo.svg	/^     id="defs67" \/>$/;"	i
+defs67	_site/assets/images/logo_text.svg	/^     id="defs67" \/>$/;"	i
+defs67	assets/images/logo_text.svg	/^     id="defs67" \/>$/;"	i
 design-deep-networks-for-pursuing-low-dimensional-structures	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 details	_site/assets/css/just-the-docs-dark.css	/^details {$/;"	s
 details	_site/assets/css/just-the-docs-default.css	/^details {$/;"	s
@@ -5589,6 +5641,8 @@ doc	_site/assets/js/search-data.json	/^    "doc": "Venue",$/;"	s	object:37
 doc	_site/assets/js/search-data.json	/^    "doc": "Venue",$/;"	s	object:38
 edit-this-page	_layouts/minimal_backup.html	/^                  <a href="{{ site.gh_edit_repository }}\/{{ site.gh_edit_view_mode }}\/{{ site./;"	I
 external	_sass/custom/custom_backup.scss	/^      &.external > svg {$/;"	c
+f6d65617-e2e7-406f-9729-9fcb3270c4a0	_site/assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
+f6d65617-e2e7-406f-9729-9fcb3270c4a0	assets/images/logo.svg	/^    <defs><linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color/;"	i
 fieldset	_site/assets/css/just-the-docs-dark.css	/^fieldset {$/;"	s
 fieldset	_site/assets/css/just-the-docs-dark.css	/^fieldset,$/;"	s
 fieldset	_site/assets/css/just-the-docs-default.css	/^fieldset {$/;"	s
@@ -5628,46 +5682,46 @@ figure.highlight:hover > button	_site/assets/css/just-the-docs-light.css	/^  fig
 form	_site/assets/css/just-the-docs-dark.css	/^form,$/;"	s
 form	_site/assets/css/just-the-docs-default.css	/^form,$/;"	s
 form	_site/assets/css/just-the-docs-light.css	/^form,$/;"	s
-g101	_site/assets/images/logo.svg	/^       id="g101">$/;"	i
-g101	assets/images/logo.svg	/^       id="g101">$/;"	i
-g105	_site/assets/images/logo.svg	/^             id="g105">$/;"	i
-g105	assets/images/logo.svg	/^             id="g105">$/;"	i
-g107	_site/assets/images/logo.svg	/^           id="g107">$/;"	i
-g107	assets/images/logo.svg	/^           id="g107">$/;"	i
-g109	_site/assets/images/logo.svg	/^         id="g109">$/;"	i
-g109	assets/images/logo.svg	/^         id="g109">$/;"	i
-g113	_site/assets/images/logo.svg	/^             id="g113">$/;"	i
-g113	assets/images/logo.svg	/^             id="g113">$/;"	i
-g115	_site/assets/images/logo.svg	/^           id="g115">$/;"	i
-g115	assets/images/logo.svg	/^           id="g115">$/;"	i
-g117	_site/assets/images/logo.svg	/^         id="g117">$/;"	i
-g117	assets/images/logo.svg	/^         id="g117">$/;"	i
-g119	_site/assets/images/logo.svg	/^       id="g119">$/;"	i
-g119	assets/images/logo.svg	/^       id="g119">$/;"	i
+g101	_site/assets/images/logo_text.svg	/^       id="g101">$/;"	i
+g101	assets/images/logo_text.svg	/^       id="g101">$/;"	i
+g105	_site/assets/images/logo_text.svg	/^             id="g105">$/;"	i
+g105	assets/images/logo_text.svg	/^             id="g105">$/;"	i
+g107	_site/assets/images/logo_text.svg	/^           id="g107">$/;"	i
+g107	assets/images/logo_text.svg	/^           id="g107">$/;"	i
+g109	_site/assets/images/logo_text.svg	/^         id="g109">$/;"	i
+g109	assets/images/logo_text.svg	/^         id="g109">$/;"	i
+g113	_site/assets/images/logo_text.svg	/^             id="g113">$/;"	i
+g113	assets/images/logo_text.svg	/^             id="g113">$/;"	i
+g115	_site/assets/images/logo_text.svg	/^           id="g115">$/;"	i
+g115	assets/images/logo_text.svg	/^           id="g115">$/;"	i
+g117	_site/assets/images/logo_text.svg	/^         id="g117">$/;"	i
+g117	assets/images/logo_text.svg	/^         id="g117">$/;"	i
+g119	_site/assets/images/logo_text.svg	/^       id="g119">$/;"	i
+g119	assets/images/logo_text.svg	/^       id="g119">$/;"	i
 g12	_site/assets/images/tmp1.svg	/^     transform="translate(-120.78476,-246.21021)">$/;"	i
 g12	assets/images/tmp1.svg	/^     transform="translate(-120.78476,-246.21021)">$/;"	i
-g73	_site/assets/images/logo.svg	/^           id="g73">$/;"	i
-g73	assets/images/logo.svg	/^           id="g73">$/;"	i
-g77	_site/assets/images/logo.svg	/^                 id="g77">$/;"	i
-g77	assets/images/logo.svg	/^                 id="g77">$/;"	i
-g79	_site/assets/images/logo.svg	/^               id="g79">$/;"	i
-g79	assets/images/logo.svg	/^               id="g79">$/;"	i
-g81	_site/assets/images/logo.svg	/^             id="g81">$/;"	i
-g81	assets/images/logo.svg	/^             id="g81">$/;"	i
-g85	_site/assets/images/logo.svg	/^                 id="g85">$/;"	i
-g85	assets/images/logo.svg	/^                 id="g85">$/;"	i
-g87	_site/assets/images/logo.svg	/^               id="g87">$/;"	i
-g87	assets/images/logo.svg	/^               id="g87">$/;"	i
-g89	_site/assets/images/logo.svg	/^             id="g89">$/;"	i
-g89	assets/images/logo.svg	/^             id="g89">$/;"	i
-g91	_site/assets/images/logo.svg	/^           id="g91">$/;"	i
-g91	assets/images/logo.svg	/^           id="g91">$/;"	i
-g93	_site/assets/images/logo.svg	/^         id="g93">$/;"	i
-g93	assets/images/logo.svg	/^         id="g93">$/;"	i
-g95	_site/assets/images/logo.svg	/^       id="g95">$/;"	i
-g95	assets/images/logo.svg	/^       id="g95">$/;"	i
-g97	_site/assets/images/logo.svg	/^     id="g97">$/;"	i
-g97	assets/images/logo.svg	/^     id="g97">$/;"	i
+g73	_site/assets/images/logo_text.svg	/^           id="g73">$/;"	i
+g73	assets/images/logo_text.svg	/^           id="g73">$/;"	i
+g77	_site/assets/images/logo_text.svg	/^                 id="g77">$/;"	i
+g77	assets/images/logo_text.svg	/^                 id="g77">$/;"	i
+g79	_site/assets/images/logo_text.svg	/^               id="g79">$/;"	i
+g79	assets/images/logo_text.svg	/^               id="g79">$/;"	i
+g81	_site/assets/images/logo_text.svg	/^             id="g81">$/;"	i
+g81	assets/images/logo_text.svg	/^             id="g81">$/;"	i
+g85	_site/assets/images/logo_text.svg	/^                 id="g85">$/;"	i
+g85	assets/images/logo_text.svg	/^                 id="g85">$/;"	i
+g87	_site/assets/images/logo_text.svg	/^               id="g87">$/;"	i
+g87	assets/images/logo_text.svg	/^               id="g87">$/;"	i
+g89	_site/assets/images/logo_text.svg	/^             id="g89">$/;"	i
+g89	assets/images/logo_text.svg	/^             id="g89">$/;"	i
+g91	_site/assets/images/logo_text.svg	/^           id="g91">$/;"	i
+g91	assets/images/logo_text.svg	/^           id="g91">$/;"	i
+g93	_site/assets/images/logo_text.svg	/^         id="g93">$/;"	i
+g93	assets/images/logo_text.svg	/^         id="g93">$/;"	i
+g95	_site/assets/images/logo_text.svg	/^       id="g95">$/;"	i
+g95	assets/images/logo_text.svg	/^       id="g95">$/;"	i
+g97	_site/assets/images/logo_text.svg	/^     id="g97">$/;"	i
+g97	assets/images/logo_text.svg	/^     id="g97">$/;"	i
 getTheme	_site/assets/js/just-the-docs.js	/^jtd.getTheme = function() {$/;"	f	function:jtd
 h1	_site/assets/css/just-the-docs-dark.css	/^    h1,$/;"	s
 h1	_site/assets/css/just-the-docs-dark.css	/^h1 {$/;"	s
@@ -5734,9 +5788,9 @@ img	_site/assets/css/just-the-docs-dark.css	/^img {$/;"	s
 img	_site/assets/css/just-the-docs-default.css	/^img {$/;"	s
 img	_site/assets/css/just-the-docs-light.css	/^img {$/;"	s
 initNav	_site/assets/js/just-the-docs.js	/^function initNav() {$/;"	f
-inkscape	_site/assets/images/logo.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	_site/assets/images/logo_text.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
 inkscape	_site/assets/images/tmp1.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
-inkscape	assets/images/logo.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	assets/images/logo_text.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
 inkscape	assets/images/tmp1.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
 input	_site/assets/css/just-the-docs-dark.css	/^input {$/;"	s
 input	_site/assets/css/just-the-docs-dark.css	/^input,$/;"	s
@@ -5820,8 +5874,8 @@ module	_sass/custom/module.scss	/^.main-content .module,$/;"	c
 module	_sass/custom/module.scss	/^.module {$/;"	c
 module-item	_sass/custom/module.scss	/^    %module-item {$/;"	P
 name	_sass/custom/calendar.scss	/^    .name {$/;"	c
-namedview126	_site/assets/images/logo.svg	/^     showgrid="false" \/>$/;"	i
-namedview126	assets/images/logo.svg	/^     showgrid="false" \/>$/;"	i
+namedview126	_site/assets/images/logo_text.svg	/^     showgrid="false" \/>$/;"	i
+namedview126	assets/images/logo_text.svg	/^     showgrid="false" \/>$/;"	i
 namedview16	_site/assets/images/tmp1.svg	/^     showgrid="false" \/>$/;"	i
 namedview16	assets/images/tmp1.svg	/^     showgrid="false" \/>$/;"	i
 nav-category	_sass/custom/custom_backup.scss	/^.nav-category {$/;"	c
@@ -5840,12 +5894,18 @@ nonconvex-optimization-of-low-dimensional-models	_site/tutorials/index.html	/^<!
 noscript .table-wrapper	_site/assets/css/just-the-docs-dark.css	/^noscript .table-wrapper {$/;"	c
 noscript .table-wrapper	_site/assets/css/just-the-docs-default.css	/^noscript .table-wrapper {$/;"	c
 noscript .table-wrapper	_site/assets/css/just-the-docs-light.css	/^noscript .table-wrapper {$/;"	c
+ns39fe2cff0101	assets/images/logo_text.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
 ns647beeeb0101	assets/images/tmp0.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" version="1.1" width="600" height="600">$/;"	n	uri:http://www.w3.org/2000/svg
 ns648e076c0101	assets/images/tmp1.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
 ns79c5870e0101	_site/assets/images/tmp0.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" version="1.1" width="600" height="600">$/;"	n	uri:http://www.w3.org/2000/svg
 ns79d79f8f0101	_site/assets/images/tmp1.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
-ns8bd75b7b0101	assets/images/logo.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
-nsa120f39e0101	_site/assets/images/logo.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
+ns8bd75b7b0101	assets/images/logo.svg	/^>$/;"	n	uri:http://www.w3.org/2000/svg
+ns8bd75b7b0201	assets/images/logo.svg	/^  >$/;"	n	uri:http://www.w3.org/2000/svg
+ns8bd75b7b0301	assets/images/logo.svg	/^  >$/;"	n	uri:http://www.w3.org/2000/svg
+nsa120f39e0101	_site/assets/images/logo.svg	/^>$/;"	n	uri:http://www.w3.org/2000/svg
+nsa120f39e0201	_site/assets/images/logo.svg	/^  >$/;"	n	uri:http://www.w3.org/2000/svg
+nsa120f39e0301	_site/assets/images/logo.svg	/^  >$/;"	n	uri:http://www.w3.org/2000/svg
+nse6ab53020101	_site/assets/images/logo_text.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
 office-hours	_sass/custom/calendar.scss	/^    &.office-hours {$/;"	c
 ol	_site/assets/css/just-the-docs-dark.css	/^ol,$/;"	s
 ol	_site/assets/css/just-the-docs-default.css	/^ol,$/;"	s
@@ -5864,22 +5924,22 @@ p	_site/assets/css/just-the-docs-default.css	/^p {$/;"	s
 p	_site/assets/css/just-the-docs-light.css	/^p {$/;"	s
 path10	_site/assets/images/tmp1.svg	/^       id="path10" \/>$/;"	i
 path10	assets/images/tmp1.svg	/^       id="path10" \/>$/;"	i
-path103	_site/assets/images/logo.svg	/^               id="path103" \/>$/;"	i
-path103	assets/images/logo.svg	/^               id="path103" \/>$/;"	i
-path111	_site/assets/images/logo.svg	/^               id="path111" \/>$/;"	i
-path111	assets/images/logo.svg	/^               id="path111" \/>$/;"	i
+path103	_site/assets/images/logo_text.svg	/^               id="path103" \/>$/;"	i
+path103	assets/images/logo_text.svg	/^               id="path103" \/>$/;"	i
+path111	_site/assets/images/logo_text.svg	/^               id="path111" \/>$/;"	i
+path111	assets/images/logo_text.svg	/^               id="path111" \/>$/;"	i
 path4	_site/assets/images/tmp1.svg	/^       id="path4" \/>$/;"	i
 path4	assets/images/tmp1.svg	/^       id="path4" \/>$/;"	i
 path6	_site/assets/images/tmp1.svg	/^       id="path6" \/>$/;"	i
 path6	assets/images/tmp1.svg	/^       id="path6" \/>$/;"	i
-path75	_site/assets/images/logo.svg	/^                   id="path75" \/>$/;"	i
-path75	assets/images/logo.svg	/^                   id="path75" \/>$/;"	i
+path75	_site/assets/images/logo_text.svg	/^                   id="path75" \/>$/;"	i
+path75	assets/images/logo_text.svg	/^                   id="path75" \/>$/;"	i
 path8	_site/assets/images/tmp1.svg	/^       id="path8" \/>$/;"	i
 path8	assets/images/tmp1.svg	/^       id="path8" \/>$/;"	i
-path83	_site/assets/images/logo.svg	/^                   id="path83" \/>$/;"	i
-path83	assets/images/logo.svg	/^                   id="path83" \/>$/;"	i
-polyline69	_site/assets/images/logo.svg	/^         id="polyline69" \/>$/;"	i
-polyline69	assets/images/logo.svg	/^         id="polyline69" \/>$/;"	i
+path83	_site/assets/images/logo_text.svg	/^                   id="path83" \/>$/;"	i
+path83	assets/images/logo_text.svg	/^                   id="path83" \/>$/;"	i
+polyline69	_site/assets/images/logo_text.svg	/^         id="polyline69" \/>$/;"	i
+polyline69	assets/images/logo_text.svg	/^         id="polyline69" \/>$/;"	i
 pre	_site/assets/css/just-the-docs-dark.css	/^pre {$/;"	s
 pre	_site/assets/css/just-the-docs-dark.css	/^pre,$/;"	s
 pre	_site/assets/css/just-the-docs-default.css	/^pre {$/;"	s
@@ -5896,10 +5956,10 @@ program-committee	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US
 progress	_site/assets/css/just-the-docs-dark.css	/^progress {$/;"	s
 progress	_site/assets/css/just-the-docs-default.css	/^progress {$/;"	s
 progress	_site/assets/css/just-the-docs-light.css	/^progress {$/;"	s
-rect71	_site/assets/images/logo.svg	/^             id="rect71" \/>$/;"	i
-rect71	assets/images/logo.svg	/^             id="rect71" \/>$/;"	i
-rect99	_site/assets/images/logo.svg	/^         id="rect99" \/>$/;"	i
-rect99	assets/images/logo.svg	/^         id="rect99" \/>$/;"	i
+rect71	_site/assets/images/logo_text.svg	/^             id="rect71" \/>$/;"	i
+rect71	assets/images/logo_text.svg	/^             id="rect71" \/>$/;"	i
+rect99	_site/assets/images/logo_text.svg	/^         id="rect99" \/>$/;"	i
+rect99	assets/images/logo_text.svg	/^         id="rect99" \/>$/;"	i
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/"$/;"	s	object:3
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/"$/;"	s	object:4
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#call-for-papers"$/;"	s	object:0
@@ -5974,9 +6034,9 @@ site-title	_sass/custom/custom_backup.scss	/^.site-title {$/;"	c
 small	_site/assets/css/just-the-docs-dark.css	/^small {$/;"	s
 small	_site/assets/css/just-the-docs-default.css	/^small {$/;"	s
 small	_site/assets/css/just-the-docs-light.css	/^small {$/;"	s
-sodipodi	_site/assets/images/logo.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	_site/assets/images/logo_text.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
 sodipodi	_site/assets/images/tmp1.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
-sodipodi	assets/images/logo.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	assets/images/logo_text.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
 sodipodi	assets/images/tmp1.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
 sparsity-neural-networks--practice-and-theory	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 speaker	_sass/custom/speaker.scss	/^.speaker {$/;"	c
@@ -6080,9 +6140,9 @@ summary:hover	_site/assets/css/just-the-docs-light.css	/^  .btn:hover, summary:h
 sup	_site/assets/css/just-the-docs-dark.css	/^sup {$/;"	s
 sup	_site/assets/css/just-the-docs-default.css	/^sup {$/;"	s
 sup	_site/assets/css/just-the-docs-light.css	/^sup {$/;"	s
-svg	_site/assets/images/logo.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	_site/assets/images/logo_text.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
 svg	_site/assets/images/tmp1.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
-svg	assets/images/logo.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	assets/images/logo_text.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
 svg	assets/images/tmp1.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
 svg-arrow-right	_site/cfp/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-arrow-right	_site/deadlines/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -6155,8 +6215,8 @@ svg-menu	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><me
 svg-menu	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-menu	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-menu	_site/venue/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg124	_site/assets/images/logo.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	i
-svg124	assets/images/logo.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	i
+svg124	_site/assets/images/logo_text.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	i
+svg124	assets/images/logo_text.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	i
 svg14	_site/assets/images/tmp1.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	i
 svg14	assets/images/tmp1.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	i
 table	_site/assets/css/just-the-docs-dark.css	/^table {$/;"	s
@@ -6343,6 +6403,14 @@ url	_site/assets/js/search-data.json	/^    "url": "\/tutorials\/#todo-for-this-p
 url	_site/assets/js/search-data.json	/^    "url": "\/tutorials\/#tutorials",$/;"	s	object:35
 url	_site/assets/js/search-data.json	/^    "url": "\/venue\/",$/;"	s	object:38
 url	_site/assets/js/search-data.json	/^    "url": "\/venue\/#todo-for-this-page",$/;"	s	object:37
+watermark	_site/assets/images/logo.svg	/^      >$/;"	d
+watermark	_site/assets/images/logo.svg	/^      >$/;"	i
+watermark	assets/images/logo.svg	/^      >$/;"	d
+watermark	assets/images/logo.svg	/^      >$/;"	i
+xlink	_site/assets/images/logo.svg	/^  >$/;"	n	uri:http://www.w3.org/1999/xlink
+xlink	_site/assets/images/logo.svg	/^>$/;"	n	uri:http://www.w3.org/1999/xlink
+xlink	assets/images/logo.svg	/^  >$/;"	n	uri:http://www.w3.org/1999/xlink
+xlink	assets/images/logo.svg	/^>$/;"	n	uri:http://www.w3.org/1999/xlink
 {% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/organizer.html	/^    <\/h3>$/;"	j
 {% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/speaker.html	/^    <\/h3>$/;"	j
 {{ day.name }}	_layouts/calendar.html	/^      <h2 class="calendar-header">{{ day.name }}<\/h2>$/;"	i
