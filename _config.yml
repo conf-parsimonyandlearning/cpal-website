@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Conference on Learning and Parsimony (CLAP)
-tagline: Conference on Learning and Parsimony (CLAP)
+title: CPAL
+tagline: Conference on Parsimony and Learning (CPAL)
 description: >- # this means to ignore newlines until "baseurl:" 
-  Website for the first Conference on Learning and Parsimony (CLAP). 
-domain: clap-conference.github.io
-url: https://clap-conference.github.io # the base hostname & protocol for your site, e.g. http://example.com
+  Homepage of the first Conference on Parsimony and Learning (CPAL), at Hong Kong University in January 2024. Call for papers, submission information, speakers, and policies. 
+domain: cpal.cc
+url: https://cpal.cc # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
@@ -29,7 +29,7 @@ color_scheme: light
 search_enabled: false
 heading_anchors: true
 permalink: pretty
-logo: "/assets/images/tmp1.svg"
+logo: "/assets/images/logo.svg"
 aux_links:
   #  Submissions:
   #    - 'https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop'
