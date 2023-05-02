@@ -22,7 +22,7 @@
   },"3": {
     "doc": "Home",
     "title": "Confirmed Distinguished Speakers",
-    "content": "--> Dan Alistarh . IST Austria/Neural Magic . Tom Goldstein . University of Maryland . Dimitris Papailiopoulos . University of Wisconsin-Madison . Jong Chul Ye . KAIST . ",
+    "content": "--> Dan Alistarh . IST Austria/Neural Magic . Tom Goldstein . University of Maryland . Robert D. Nowak . University of Wisconsin-Madison . Dimitris Papailiopoulos . University of Wisconsin-Madison . Jong Chul Ye . KAIST . ",
     "url": "/",
     
     "relUrl": "/"
@@ -113,7 +113,7 @@
   },"16": {
     "doc": "Program Committee",
     "title": "Publicity Chairs",
-    "content": "Yani Ioannou . University of Calgary . Publicity Chair . Liyue Shen . University of Michigan . Publicity Chair . ",
+    "content": "Yani Ioannou . University of Calgary . Publicity Chair . William T. Redman . UCSB . Publicity Chair . Liyue Shen . University of Michigan . Publicity Chair . ",
     "url": "/organizers/",
     
     "relUrl": "/organizers/"
@@ -134,7 +134,7 @@
   },"19": {
     "doc": "Program Committee",
     "title": "Advisory Committee",
-    "content": "Alex Dimakis . UT Austin . Advisory Committee . Michael Elad . Technion . Advisory Committee . Yi Ma . UC Berkeley . Advisory Committee . Stefano Soatto . UCLA . Advisory Committee . Eric P. Xing . MBZUAI/Carnegie Mellon University . Advisory Committee . Tong Zhang . HKUST . Advisory Committee . ",
+    "content": "Alex Dimakis . UT Austin . Advisory Committee . Michael Elad . Technion . Advisory Committee . Yi Ma . UC Berkeley . Advisory Committee . Stefano Soatto . UCLA . Advisory Committee . Rebecca Willett . UChicago . Advisory Committee . Eric P. Xing . MBZUAI/Carnegie Mellon University . Advisory Committee . Tong Zhang . HKUST . Advisory Committee . ",
     "url": "/organizers/",
     
     "relUrl": "/organizers/"
@@ -169,7 +169,7 @@
   },"24": {
     "doc": "Keynote Speakers",
     "title": "Confirmed Distinguished Speakers",
-    "content": "--> Dan Alistarh . IST Austria/Neural Magic . Tom Goldstein . University of Maryland . Dimitris Papailiopoulos . University of Wisconsin-Madison . Jong Chul Ye . KAIST . ",
+    "content": "--> Dan Alistarh . IST Austria/Neural Magic . Tom Goldstein . University of Maryland . Robert D. Nowak . University of Wisconsin-Madison . Dimitris Papailiopoulos . University of Wisconsin-Madison . Jong Chul Ye . KAIST . ",
     "url": "/speakers/",
     
     "relUrl": "/speakers/"
