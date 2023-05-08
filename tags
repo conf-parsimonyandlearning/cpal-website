@@ -5174,6 +5174,7 @@ Bihan Wen	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head>
 Call for Papers	README.md	/^# Call for Papers$/;"	c
 Call for Papers	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Call for Papers | CPAL	_site/cfp/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Chenglong Bao	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Chong You	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Copied	_site/cfp/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Copied	_site/deadlines/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5217,6 +5218,7 @@ Expand	_site/venue/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta ch
 Fanny Yang	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 General Chairs	_includes/organizers.html	/^<h2>General Chairs<\/h2>$/;"	i
 General Chairs	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
+Gintare Karolina Dziugaite	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Gitta Kutyniok	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Greg Ongie	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Harry Shum	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5292,6 +5294,8 @@ Qi Lei	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><me
 Qing Qu	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Rebecca Willett	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 René Vidal	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Robert D. Nowak	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Robert D. Nowak	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Saiprasad Ravishankar	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Saiprasad Ravishankar	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Sam Buchanan	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5448,7 +5452,7 @@ content	_site/assets/js/search-data.json	/^    "content": "<!-- ",$/;"	s	object:
 content	_site/assets/js/search-data.json	/^    "content": "<!-- ",$/;"	s	object:23
 content	_site/assets/js/search-data.json	/^    "content": "Accepted works will be expected to present a poster describing the work in-perso/;"	s	object:30
 content	_site/assets/js/search-data.json	/^    "content": "Alex Dimakis . UT Austin . Advisory Committee . Michael Elad . Technion . Adviso/;"	s	object:19
-content	_site/assets/js/search-data.json	/^    "content": "Babak Ehteshami Bejnordi . Qualcomm . Area Chair . Beidi Chen . Meta\/Carnegie M/;"	s	object:18
+content	_site/assets/js/search-data.json	/^    "content": "Chenglong Bao . Tsinghua University . Area Chair . Babak Ehteshami Bejnordi . Qu/;"	s	object:18
 content	_site/assets/js/search-data.json	/^    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",$/;"	s	object:20
 content	_site/assets/js/search-data.json	/^    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",$/;"	s	object:22
 content	_site/assets/js/search-data.json	/^    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",$/;"	s	object:25
@@ -5470,7 +5474,7 @@ content	_site/assets/js/search-data.json	/^    "content": "We aim to showcase: .
 content	_site/assets/js/search-data.json	/^    "content": "We will use OpenReview to manage submissions. Submit your work here: . https:\/\//;"	s	object:29
 content	_site/assets/js/search-data.json	/^    "content": "Yanchao Yang . HKU . Local Chair . Man-Chung Yue . HKU . Local Chair . ",$/;"	s	object:11
 content	_site/assets/js/search-data.json	/^    "content": "Yani Ioannou . University of Calgary . Publicity Chair . William T. Redman . UCS/;"	s	object:16
-content	_site/assets/js/search-data.json	/^    "content": "Yuejie Chi . Carnegie Mellon University . Program Chair . Qing Qu . University o/;"	s	object:10
+content	_site/assets/js/search-data.json	/^    "content": "Yuejie Chi . Carnegie Mellon University . Program Chair . Gintare Karolina Dziug/;"	s	object:10
 content	_site/assets/js/search-data.json	/^    "content": "Zhihui Zhu . Ohio State University . Publication Chair . ",$/;"	s	object:12
 content-width-0	_sass/custom/custom.scss	/^$content-width-0: 1200px;$/;"	v
 content-width-0	_sass/custom/custom_backup.scss	/^$content-width-0: 1200px;$/;"	v

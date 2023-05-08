@@ -2,7 +2,7 @@
 name: Atlas Wang
 role: Program Chair
 email: atlaswang@utexas.edu
-website: https://www.ece.utexas.edu/people/faculty/atlas-wang
+website: https://vita-group.github.io/
 affiliation: UT Austin
 photo: aw.png
 ---

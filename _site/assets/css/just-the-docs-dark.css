@@ -6764,7 +6764,8 @@ div.opaque {
   .organizer .organizer-image {
     border-radius: 50%;
     height: 100px;
-    margin-right: 1rem; }
+    margin-right: 1rem;
+    aspect-ratio: 1/1; }
   .organizer p,
   .organizer .organizer-name {
     margin: 0.25rem !important; }
