@@ -1,7 +1,9 @@
 ---
 name: Tom Goldstein
 role: Speaker
-website: https://www.cs.umd.edu/~tomg/
 affiliation: University of Maryland
+website: https://www.cs.umd.edu/~tomg/
 photo: goldstein.jpeg
+talk: 
+abstract: 
 ---

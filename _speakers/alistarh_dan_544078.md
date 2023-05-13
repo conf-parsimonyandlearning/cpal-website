@@ -1,7 +1,9 @@
 ---
 name: Dan Alistarh
 role: Speaker
-website: https://people.csail.mit.edu/alistarh/
 affiliation: IST Austria/Neural Magic
+website: https://people.csail.mit.edu/alistarh/
 photo: alistarh.jpeg
+talk: 
+abstract: 
 ---

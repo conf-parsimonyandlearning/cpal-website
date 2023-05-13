@@ -1,7 +1,9 @@
 ---
 name: Dimitris Papailiopoulos
 role: Speaker
-website: https://papail.io/
 affiliation: University of Wisconsin-Madison
+website: https://papail.io/
 photo: papailiopoulos.jpeg
+talk: 
+abstract: 
 ---
