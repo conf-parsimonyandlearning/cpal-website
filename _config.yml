@@ -70,6 +70,14 @@ defaults:
     values:
       layout: module
 
+callouts:
+  highlight:
+    title: 
+    color: yellow
+  quote:
+    title: 
+    color: grey-lt
+
 compress_html:
   clippings: all
   comments: all
