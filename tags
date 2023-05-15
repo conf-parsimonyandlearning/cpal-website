@@ -6027,6 +6027,7 @@ legend	_site/assets/css/just-the-docs-light.css	/^legend {$/;"	s
 li	_site/assets/css/just-the-docs-dark.css	/^li {$/;"	s
 li	_site/assets/css/just-the-docs-default.css	/^li {$/;"	s
 li	_site/assets/css/just-the-docs-light.css	/^li {$/;"	s
+link-color	_sass/color_schemes/cpal.scss	/^$link-color: $blue-000;$/;"	v
 location	_sass/custom/calendar.scss	/^    .location {$/;"	c
 logistics-for-accepted-papers	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 main	_sass/custom/custom_backup.scss	/^.main {$/;"	c
