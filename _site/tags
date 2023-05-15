@@ -5133,8 +5133,6 @@
 51	_site/assets/js/search-data.json	/^  },"51": {$/;"	o
 52	_site/assets/js/search-data.json	/^  },"52": {$/;"	o
 53	_site/assets/js/search-data.json	/^  },"53": {$/;"	o
-54	_site/assets/js/search-data.json	/^  },"54": {$/;"	o
-55	_site/assets/js/search-data.json	/^  },"55": {$/;"	o
 6	_site/assets/js/search-data.json	/^  },"6": {$/;"	o
 7	_site/assets/js/search-data.json	/^  },"7": {$/;"	o
 8	_sass/custom/custom_backup.scss	/^          rgba($feedback-color, 0.8) 100%$/;"	c
@@ -5663,38 +5661,36 @@ code.language-mermaid	_site/assets/css/just-the-docs-light.css	/^code.language-m
 conference-vision	_site/vision/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 content	_site/assets/js/just-the-docs.js	/^            content: docs[i].content,$/;"	p	class:request.onload.AnonymousFunction44e4342b0400.AnonymousClass44e4342b0701
 content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:15
-content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:30
-content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:37
+content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:28
+content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:35
 content	_site/assets/js/search-data.json	/^    "content": "(Adapted from ICML\/ICLR\/NeurIPS\/LoG) . We strive to hold a conference in whic/;"	s	object:11
 content	_site/assets/js/search-data.json	/^    "content": "--> Dan Alistarh . IST Austria\/Neural Magic . Tom Goldstein . University of Mar/;"	s	object:3
-content	_site/assets/js/search-data.json	/^    "content": "--> Dan Alistarh . IST Austria\/Neural Magic . Tom Goldstein . University of Mar/;"	s	object:35
+content	_site/assets/js/search-data.json	/^    "content": "--> Dan Alistarh . IST Austria\/Neural Magic . Tom Goldstein . University of Mar/;"	s	object:33
 content	_site/assets/js/search-data.json	/^    "content": ". | August 28th, 2023: Submission Deadline | October 14th, 2023: 2-Week Rebuttal/;"	s	object:1
 content	_site/assets/js/search-data.json	/^    "content": ". | August 28th, 2023: Submission Deadline | October 14th, 2023: 2-Week Rebuttal/;"	s	object:13
-content	_site/assets/js/search-data.json	/^    "content": ". | DEI? | Code of conduct? | Review\/author guide? | . ",$/;"	s	object:28
-content	_site/assets/js/search-data.json	/^    "content": ". | Generalization, optimization, robustness, and approximation in deep learning/;"	s	object:40
-content	_site/assets/js/search-data.json	/^    "content": ". | Libraries, kernels, and compilers for accelerating sparse computation | Hard/;"	s	object:41
-content	_site/assets/js/search-data.json	/^    "content": ". | List of ACs (single blind policy) | Subject areas | Procedures for the CfP…/;"	s	object:44
-content	_site/assets/js/search-data.json	/^    "content": ". | Modern signal models: probabilistic, geometric (manifolds, graphical), visua/;"	s	object:39
-content	_site/assets/js/search-data.json	/^    "content": ". | Parsimonious AI for science and engineering applications, such as various in/;"	s	object:42
-content	_site/assets/js/search-data.json	/^    "content": ". | Parsimonious training and inference algorithms for deep networks, including /;"	s	object:38
-content	_site/assets/js/search-data.json	/^    "content": "Accepted works will be expected to present a poster describing the work in-perso/;"	s	object:46
+content	_site/assets/js/search-data.json	/^    "content": ". | Generalization, optimization, robustness, and approximation in deep learning/;"	s	object:38
+content	_site/assets/js/search-data.json	/^    "content": ". | Libraries, kernels, and compilers for accelerating sparse computation | Hard/;"	s	object:39
+content	_site/assets/js/search-data.json	/^    "content": ". | List of ACs (single blind policy) | Subject areas | Procedures for the CfP…/;"	s	object:42
+content	_site/assets/js/search-data.json	/^    "content": ". | Modern signal models: probabilistic, geometric (manifolds, graphical), visua/;"	s	object:37
+content	_site/assets/js/search-data.json	/^    "content": ". | Parsimonious AI for science and engineering applications, such as various in/;"	s	object:40
+content	_site/assets/js/search-data.json	/^    "content": ". | Parsimonious training and inference algorithms for deep networks, including /;"	s	object:36
+content	_site/assets/js/search-data.json	/^    "content": "Accepted works will be expected to present a poster describing the work in-perso/;"	s	object:44
 content	_site/assets/js/search-data.json	/^    "content": "Additional members of the advisory committee to be announced soon . Alex Dimakis/;"	s	object:5
 content	_site/assets/js/search-data.json	/^    "content": "Additional speakers to be announced soon! . <!-- ",$/;"	s	object:2
-content	_site/assets/js/search-data.json	/^    "content": "Additional speakers to be announced soon! . <!-- ",$/;"	s	object:34
+content	_site/assets/js/search-data.json	/^    "content": "Additional speakers to be announced soon! . <!-- ",$/;"	s	object:32
 content	_site/assets/js/search-data.json	/^    "content": "CPAL has two submission tracks: a main proceeding track (archival), and a “rec/;"	s	object:9
 content	_site/assets/js/search-data.json	/^    "content": "CPAL implements several innovations in the reviewing process – the most notabl/;"	s	object:10
-content	_site/assets/js/search-data.json	/^    "content": "CPAL strives for providing every paper with high-quality, accountable reviews, a/;"	s	object:31
+content	_site/assets/js/search-data.json	/^    "content": "CPAL strives for providing every paper with high-quality, accountable reviews, a/;"	s	object:29
 content	_site/assets/js/search-data.json	/^    "content": "Chenglong Bao . Tsinghua University . Area Chair . Babak Ehteshami Bejnordi . Qu/;"	s	object:7
 content	_site/assets/js/search-data.json	/^    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",$/;"	s	object:12
 content	_site/assets/js/search-data.json	/^    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",$/;"	s	object:14
 content	_site/assets/js/search-data.json	/^    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",$/;"	s	object:27
-content	_site/assets/js/search-data.json	/^    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",$/;"	s	object:29
-content	_site/assets/js/search-data.json	/^    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",$/;"	s	object:33
-content	_site/assets/js/search-data.json	/^    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",$/;"	s	object:36
-content	_site/assets/js/search-data.json	/^    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",$/;"	s	object:43
-content	_site/assets/js/search-data.json	/^    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",$/;"	s	object:49
+content	_site/assets/js/search-data.json	/^    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",$/;"	s	object:31
+content	_site/assets/js/search-data.json	/^    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",$/;"	s	object:34
+content	_site/assets/js/search-data.json	/^    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",$/;"	s	object:41
+content	_site/assets/js/search-data.json	/^    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",$/;"	s	object:47
+content	_site/assets/js/search-data.json	/^    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",$/;"	s	object:51
 content	_site/assets/js/search-data.json	/^    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",$/;"	s	object:53
-content	_site/assets/js/search-data.json	/^    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",$/;"	s	object:55
 content	_site/assets/js/search-data.json	/^    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",$/;"	s	object:6
 content	_site/assets/js/search-data.json	/^    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU The Conferenc/;"	s	object:4
 content	_site/assets/js/search-data.json	/^    "content": "Dan Alistarh . IST Austria\/Neural Magic . Industry Liaison Chair . Dilin Wang ./;"	s	object:20
@@ -5704,20 +5700,20 @@ content	_site/assets/js/search-data.json	/^    "content": "Please see the list h
 content	_site/assets/js/search-data.json	/^    "content": "Saiprasad Ravishankar . Michigan State University . Tutorial Chair . John Wright/;"	s	object:22
 content	_site/assets/js/search-data.json	/^    "content": "Sam Buchanan . TTIC . Web Chair . ",$/;"	s	object:24
 content	_site/assets/js/search-data.json	/^    "content": "Sijia Liu . Michigan State University . Panel Chair . Jeremias Sulam . Johns Hop/;"	s	object:21
-content	_site/assets/js/search-data.json	/^    "content": "The submission and review stage will be double-blind. We use OpenReview to host /;"	s	object:51
-content	_site/assets/js/search-data.json	/^    "content": "Topics of interest include, but are not limited to, connections between low-dime/;"	s	object:47
-content	_site/assets/js/search-data.json	/^    "content": "We aim to showcase: . | The latest research innovations at all stages of the res/;"	s	object:48
-content	_site/assets/js/search-data.json	/^    "content": "We all like the Acceptance Criteria made by TMLR https:\/\/jmlr.org\/tmlr\/accep/;"	s	object:32
+content	_site/assets/js/search-data.json	/^    "content": "The submission and review stage will be double-blind. We use OpenReview to host /;"	s	object:49
+content	_site/assets/js/search-data.json	/^    "content": "Topics of interest include, but are not limited to, connections between low-dime/;"	s	object:45
+content	_site/assets/js/search-data.json	/^    "content": "We aim to showcase: . | The latest research innovations at all stages of the res/;"	s	object:46
+content	_site/assets/js/search-data.json	/^    "content": "We all like the Acceptance Criteria made by TMLR https:\/\/jmlr.org\/tmlr\/accep/;"	s	object:30
 content	_site/assets/js/search-data.json	/^    "content": "We are pleased to invite paper submissions for the first Conference on Parsimony/;"	s	object:0
 content	_site/assets/js/search-data.json	/^    "content": "We invite submissions relevant to the following broad areas of interest, all con/;"	s	object:8
-content	_site/assets/js/search-data.json	/^    "content": "We meanwhile aim to showcase the latest research innovations at all stages of th/;"	s	object:52
-content	_site/assets/js/search-data.json	/^    "content": "We will have a main proceeding track (archival), and a “recent spotlight” tr/;"	s	object:50
-content	_site/assets/js/search-data.json	/^    "content": "We will use OpenReview to manage submissions. Submit your work here: . https:\/\//;"	s	object:45
+content	_site/assets/js/search-data.json	/^    "content": "We meanwhile aim to showcase the latest research innovations at all stages of th/;"	s	object:50
+content	_site/assets/js/search-data.json	/^    "content": "We will have a main proceeding track (archival), and a “recent spotlight” tr/;"	s	object:48
+content	_site/assets/js/search-data.json	/^    "content": "We will use OpenReview to manage submissions. Submit your work here: . https:\/\//;"	s	object:43
 content	_site/assets/js/search-data.json	/^    "content": "Yanchao Yang . HKU . Local Chair . Man-Chung Yue . HKU . Local Chair . ",$/;"	s	object:18
 content	_site/assets/js/search-data.json	/^    "content": "Yani Ioannou . University of Calgary . Publicity Chair . William T. Redman . UCS/;"	s	object:23
 content	_site/assets/js/search-data.json	/^    "content": "Yuejie Chi . Carnegie Mellon University . Program Chair . Gintare Karolina Dziug/;"	s	object:17
 content	_site/assets/js/search-data.json	/^    "content": "Zhihui Zhu . Ohio State University . Publication Chair . ",$/;"	s	object:19
-content	_site/assets/js/search-data.json	/^    "content": "“Entities should not be multiplied unnecessarily.” . – William of Ockham ./;"	s	object:54
+content	_site/assets/js/search-data.json	/^    "content": "“Entities should not be multiplied unnecessarily.” . – William of Ockham ./;"	s	object:52
 content-width-0	_sass/custom/custom.scss	/^$content-width-0: 1200px;$/;"	v
 content-width-0	_sass/custom/custom_backup.scss	/^$content-width-0: 1200px;$/;"	v
 data	_site/subject_areas/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -5809,8 +5805,8 @@ doc	_site/assets/js/search-data.json	/^    "doc": "Call for Papers",$/;"	s	objec
 doc	_site/assets/js/search-data.json	/^    "doc": "Call for Papers",$/;"	s	object:12
 doc	_site/assets/js/search-data.json	/^    "doc": "Call for Papers",$/;"	s	object:8
 doc	_site/assets/js/search-data.json	/^    "doc": "Call for Papers",$/;"	s	object:9
-doc	_site/assets/js/search-data.json	/^    "doc": "Conference Vision",$/;"	s	object:54
-doc	_site/assets/js/search-data.json	/^    "doc": "Conference Vision",$/;"	s	object:55
+doc	_site/assets/js/search-data.json	/^    "doc": "Conference Vision",$/;"	s	object:52
+doc	_site/assets/js/search-data.json	/^    "doc": "Conference Vision",$/;"	s	object:53
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:0
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:1
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:2
@@ -5818,9 +5814,9 @@ doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:3
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:4
 doc	_site/assets/js/search-data.json	/^    "doc": "Key Dates",$/;"	s	object:13
 doc	_site/assets/js/search-data.json	/^    "doc": "Key Dates",$/;"	s	object:14
+doc	_site/assets/js/search-data.json	/^    "doc": "Keynote Speakers",$/;"	s	object:32
+doc	_site/assets/js/search-data.json	/^    "doc": "Keynote Speakers",$/;"	s	object:33
 doc	_site/assets/js/search-data.json	/^    "doc": "Keynote Speakers",$/;"	s	object:34
-doc	_site/assets/js/search-data.json	/^    "doc": "Keynote Speakers",$/;"	s	object:35
-doc	_site/assets/js/search-data.json	/^    "doc": "Keynote Speakers",$/;"	s	object:36
 doc	_site/assets/js/search-data.json	/^    "doc": "Organizers",$/;"	s	object:15
 doc	_site/assets/js/search-data.json	/^    "doc": "Organizers",$/;"	s	object:16
 doc	_site/assets/js/search-data.json	/^    "doc": "Organizers",$/;"	s	object:17
@@ -5834,29 +5830,27 @@ doc	_site/assets/js/search-data.json	/^    "doc": "Organizers",$/;"	s	object:24
 doc	_site/assets/js/search-data.json	/^    "doc": "Organizers",$/;"	s	object:25
 doc	_site/assets/js/search-data.json	/^    "doc": "Organizers",$/;"	s	object:26
 doc	_site/assets/js/search-data.json	/^    "doc": "Organizers",$/;"	s	object:27
-doc	_site/assets/js/search-data.json	/^    "doc": "Policies",$/;"	s	object:28
-doc	_site/assets/js/search-data.json	/^    "doc": "Policies",$/;"	s	object:29
+doc	_site/assets/js/search-data.json	/^    "doc": "Review Guidelines",$/;"	s	object:28
+doc	_site/assets/js/search-data.json	/^    "doc": "Review Guidelines",$/;"	s	object:29
 doc	_site/assets/js/search-data.json	/^    "doc": "Review Guidelines",$/;"	s	object:30
 doc	_site/assets/js/search-data.json	/^    "doc": "Review Guidelines",$/;"	s	object:31
-doc	_site/assets/js/search-data.json	/^    "doc": "Review Guidelines",$/;"	s	object:32
-doc	_site/assets/js/search-data.json	/^    "doc": "Review Guidelines",$/;"	s	object:33
+doc	_site/assets/js/search-data.json	/^    "doc": "Subject Areas",$/;"	s	object:35
+doc	_site/assets/js/search-data.json	/^    "doc": "Subject Areas",$/;"	s	object:36
 doc	_site/assets/js/search-data.json	/^    "doc": "Subject Areas",$/;"	s	object:37
 doc	_site/assets/js/search-data.json	/^    "doc": "Subject Areas",$/;"	s	object:38
 doc	_site/assets/js/search-data.json	/^    "doc": "Subject Areas",$/;"	s	object:39
 doc	_site/assets/js/search-data.json	/^    "doc": "Subject Areas",$/;"	s	object:40
 doc	_site/assets/js/search-data.json	/^    "doc": "Subject Areas",$/;"	s	object:41
-doc	_site/assets/js/search-data.json	/^    "doc": "Subject Areas",$/;"	s	object:42
-doc	_site/assets/js/search-data.json	/^    "doc": "Subject Areas",$/;"	s	object:43
+doc	_site/assets/js/search-data.json	/^    "doc": "Submission Guidelines",$/;"	s	object:42
+doc	_site/assets/js/search-data.json	/^    "doc": "Submission Guidelines",$/;"	s	object:43
 doc	_site/assets/js/search-data.json	/^    "doc": "Submission Guidelines",$/;"	s	object:44
 doc	_site/assets/js/search-data.json	/^    "doc": "Submission Guidelines",$/;"	s	object:45
 doc	_site/assets/js/search-data.json	/^    "doc": "Submission Guidelines",$/;"	s	object:46
 doc	_site/assets/js/search-data.json	/^    "doc": "Submission Guidelines",$/;"	s	object:47
-doc	_site/assets/js/search-data.json	/^    "doc": "Submission Guidelines",$/;"	s	object:48
-doc	_site/assets/js/search-data.json	/^    "doc": "Submission Guidelines",$/;"	s	object:49
+doc	_site/assets/js/search-data.json	/^    "doc": "Submission Tracks",$/;"	s	object:48
+doc	_site/assets/js/search-data.json	/^    "doc": "Submission Tracks",$/;"	s	object:49
 doc	_site/assets/js/search-data.json	/^    "doc": "Submission Tracks",$/;"	s	object:50
 doc	_site/assets/js/search-data.json	/^    "doc": "Submission Tracks",$/;"	s	object:51
-doc	_site/assets/js/search-data.json	/^    "doc": "Submission Tracks",$/;"	s	object:52
-doc	_site/assets/js/search-data.json	/^    "doc": "Submission Tracks",$/;"	s	object:53
 edit-this-page	_layouts/minimal_backup.html	/^                  <a href="{{ site.gh_edit_repository }}\/{{ site.gh_edit_view_mode }}\/{{ site./;"	I
 editDistance	_site/assets/js/just-the-docs.js	/^            editDistance: Math.round(Math.sqrt(input.length \/ 2 - 1))$/;"	p	class:AnonymousClass44e4342b0e01
 ellipsesAfter	_site/assets/js/just-the-docs.js	/^              ellipsesBefore: contentPosition.ellipsesBefore, ellipsesAfter: contentPosition.ell/;"	p	class:searchLoaded.update.addResult.previewPosition
@@ -6321,34 +6315,32 @@ relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/organizers\/"$/;"	s	o
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/organizers\/#advisory-committee"$/;"	s	object:26
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/organizers\/#area-chairs"$/;"	s	object:25
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/organizers\/#organization-team"$/;"	s	object:15
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/policies\/"$/;"	s	object:29
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/policies\/#todo-for-this-page"$/;"	s	object:28
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/review_guidelines\/"$/;"	s	object:33
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/review_guidelines\/#general-guidelines"$/;"	s	object:32
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/review_guidelines\/#notable-innovations-in-our-review-mechanism"$/;"	s	object:31
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/review_guidelines\/#reviewer-guidelines"$/;"	s	object:30
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/"$/;"	s	object:35
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/"$/;"	s	object:36
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/#keynote-speakers"$/;"	s	object:34
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/subject_areas\/"$/;"	s	object:43
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/subject_areas\/#applications-and-science"$/;"	s	object:42
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/subject_areas\/#data"$/;"	s	object:39
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/subject_areas\/#hardware-and-systems"$/;"	s	object:41
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/subject_areas\/#models-and-algorithms"$/;"	s	object:38
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/subject_areas\/#subject-areas"$/;"	s	object:37
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/subject_areas\/#theory"$/;"	s	object:40
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/"$/;"	s	object:49
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#how-to-submit-your-work"$/;"	s	object:45
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#logistics-for-accepted-papers"$/;"	s	object:46
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#submission-guidelines"$/;"	s	object:48
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#todo-for-this-page"$/;"	s	object:44
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#topics-of-interest"$/;"	s	object:47
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/tracks\/"$/;"	s	object:53
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/tracks\/#proceeding-track--archival"$/;"	s	object:51
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/tracks\/#recent-spotlight-track-non-archival"$/;"	s	object:52
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/tracks\/#submission-tracks-and-review-process"$/;"	s	object:50
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/vision\/"$/;"	s	object:55
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/vision\/#conference-vision"$/;"	s	object:54
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/review_guidelines\/"$/;"	s	object:31
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/review_guidelines\/#general-guidelines"$/;"	s	object:30
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/review_guidelines\/#notable-innovations-in-our-review-mechanism"$/;"	s	object:29
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/review_guidelines\/#reviewer-guidelines"$/;"	s	object:28
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/"$/;"	s	object:33
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/"$/;"	s	object:34
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/#keynote-speakers"$/;"	s	object:32
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/subject_areas\/"$/;"	s	object:41
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/subject_areas\/#applications-and-science"$/;"	s	object:40
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/subject_areas\/#data"$/;"	s	object:37
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/subject_areas\/#hardware-and-systems"$/;"	s	object:39
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/subject_areas\/#models-and-algorithms"$/;"	s	object:36
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/subject_areas\/#subject-areas"$/;"	s	object:35
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/subject_areas\/#theory"$/;"	s	object:38
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/"$/;"	s	object:47
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#how-to-submit-your-work"$/;"	s	object:43
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#logistics-for-accepted-papers"$/;"	s	object:44
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#submission-guidelines"$/;"	s	object:46
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#todo-for-this-page"$/;"	s	object:42
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#topics-of-interest"$/;"	s	object:45
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/tracks\/"$/;"	s	object:51
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/tracks\/#proceeding-track--archival"$/;"	s	object:49
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/tracks\/#recent-spotlight-track-non-archival"$/;"	s	object:50
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/tracks\/#submission-tracks-and-review-process"$/;"	s	object:48
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/vision\/"$/;"	s	object:53
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/vision\/#conference-vision"$/;"	s	object:52
 removeEvent	_site/assets/js/just-the-docs.js	/^jtd.removeEvent = function(el, type, handler) {$/;"	f	function:jtd
 reviewer-guidelines	_site/cfp/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 reviewer-guidelines	_site/review_guidelines/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -6740,59 +6732,57 @@ title	_site/assets/js/just-the-docs.js	/^            title: docs[i].title,$/;"	p
 title	_site/assets/js/search-data.json	/^    "title": "Advisory Committee",$/;"	s	object:26
 title	_site/assets/js/search-data.json	/^    "title": "Advisory Committee",$/;"	s	object:5
 title	_site/assets/js/search-data.json	/^    "title": "Advisory Committee",$/;"	s	object:6
-title	_site/assets/js/search-data.json	/^    "title": "Applications and Science",$/;"	s	object:42
+title	_site/assets/js/search-data.json	/^    "title": "Applications and Science",$/;"	s	object:40
 title	_site/assets/js/search-data.json	/^    "title": "Area Chairs",$/;"	s	object:25
 title	_site/assets/js/search-data.json	/^    "title": "Area Chairs",$/;"	s	object:7
 title	_site/assets/js/search-data.json	/^    "title": "Call for Papers",$/;"	s	object:0
 title	_site/assets/js/search-data.json	/^    "title": "Call for Papers",$/;"	s	object:12
 title	_site/assets/js/search-data.json	/^    "title": "Code of Conduct",$/;"	s	object:11
-title	_site/assets/js/search-data.json	/^    "title": "Conference Vision",$/;"	s	object:54
-title	_site/assets/js/search-data.json	/^    "title": "Conference Vision",$/;"	s	object:55
+title	_site/assets/js/search-data.json	/^    "title": "Conference Vision",$/;"	s	object:52
+title	_site/assets/js/search-data.json	/^    "title": "Conference Vision",$/;"	s	object:53
 title	_site/assets/js/search-data.json	/^    "title": "Confirmed Distinguished Speakers",$/;"	s	object:3
-title	_site/assets/js/search-data.json	/^    "title": "Confirmed Distinguished Speakers",$/;"	s	object:35
-title	_site/assets/js/search-data.json	/^    "title": "Data",$/;"	s	object:39
+title	_site/assets/js/search-data.json	/^    "title": "Confirmed Distinguished Speakers",$/;"	s	object:33
+title	_site/assets/js/search-data.json	/^    "title": "Data",$/;"	s	object:37
 title	_site/assets/js/search-data.json	/^    "title": "General Chairs",$/;"	s	object:16
-title	_site/assets/js/search-data.json	/^    "title": "General Guidelines",$/;"	s	object:32
-title	_site/assets/js/search-data.json	/^    "title": "Hardware and Systems",$/;"	s	object:41
+title	_site/assets/js/search-data.json	/^    "title": "General Guidelines",$/;"	s	object:30
+title	_site/assets/js/search-data.json	/^    "title": "Hardware and Systems",$/;"	s	object:39
 title	_site/assets/js/search-data.json	/^    "title": "Home",$/;"	s	object:4
-title	_site/assets/js/search-data.json	/^    "title": "How to Submit Your Work",$/;"	s	object:45
+title	_site/assets/js/search-data.json	/^    "title": "How to Submit Your Work",$/;"	s	object:43
 title	_site/assets/js/search-data.json	/^    "title": "Industry Liaison Chairs",$/;"	s	object:20
 title	_site/assets/js/search-data.json	/^    "title": "Key Dates and Deadlines",$/;"	s	object:1
 title	_site/assets/js/search-data.json	/^    "title": "Key Dates and Deadlines",$/;"	s	object:13
 title	_site/assets/js/search-data.json	/^    "title": "Key Dates",$/;"	s	object:14
 title	_site/assets/js/search-data.json	/^    "title": "Keynote Speakers",$/;"	s	object:2
+title	_site/assets/js/search-data.json	/^    "title": "Keynote Speakers",$/;"	s	object:32
 title	_site/assets/js/search-data.json	/^    "title": "Keynote Speakers",$/;"	s	object:34
-title	_site/assets/js/search-data.json	/^    "title": "Keynote Speakers",$/;"	s	object:36
 title	_site/assets/js/search-data.json	/^    "title": "Local Chairs",$/;"	s	object:18
-title	_site/assets/js/search-data.json	/^    "title": "Logistics for Accepted Papers",$/;"	s	object:46
-title	_site/assets/js/search-data.json	/^    "title": "Models and Algorithms",$/;"	s	object:38
-title	_site/assets/js/search-data.json	/^    "title": "Notable Innovations in Our Review Mechanism",$/;"	s	object:31
+title	_site/assets/js/search-data.json	/^    "title": "Logistics for Accepted Papers",$/;"	s	object:44
+title	_site/assets/js/search-data.json	/^    "title": "Models and Algorithms",$/;"	s	object:36
+title	_site/assets/js/search-data.json	/^    "title": "Notable Innovations in Our Review Mechanism",$/;"	s	object:29
 title	_site/assets/js/search-data.json	/^    "title": "Organization Team",$/;"	s	object:15
 title	_site/assets/js/search-data.json	/^    "title": "Organizers",$/;"	s	object:27
 title	_site/assets/js/search-data.json	/^    "title": "Panel Chairs",$/;"	s	object:21
-title	_site/assets/js/search-data.json	/^    "title": "Policies",$/;"	s	object:29
-title	_site/assets/js/search-data.json	/^    "title": "Proceeding Track  (archival)",$/;"	s	object:51
+title	_site/assets/js/search-data.json	/^    "title": "Proceeding Track  (archival)",$/;"	s	object:49
 title	_site/assets/js/search-data.json	/^    "title": "Program Chairs",$/;"	s	object:17
 title	_site/assets/js/search-data.json	/^    "title": "Publication Chairs",$/;"	s	object:19
 title	_site/assets/js/search-data.json	/^    "title": "Publicity Chairs",$/;"	s	object:23
-title	_site/assets/js/search-data.json	/^    "title": "Review Guidelines",$/;"	s	object:33
+title	_site/assets/js/search-data.json	/^    "title": "Review Guidelines",$/;"	s	object:31
 title	_site/assets/js/search-data.json	/^    "title": "Reviewer Guidelines",$/;"	s	object:10
-title	_site/assets/js/search-data.json	/^    "title": "Reviewer Guidelines",$/;"	s	object:30
-title	_site/assets/js/search-data.json	/^    "title": "Subject Areas",$/;"	s	object:37
-title	_site/assets/js/search-data.json	/^    "title": "Subject Areas",$/;"	s	object:43
+title	_site/assets/js/search-data.json	/^    "title": "Reviewer Guidelines",$/;"	s	object:28
+title	_site/assets/js/search-data.json	/^    "title": "Subject Areas",$/;"	s	object:35
+title	_site/assets/js/search-data.json	/^    "title": "Subject Areas",$/;"	s	object:41
 title	_site/assets/js/search-data.json	/^    "title": "Subject Areas",$/;"	s	object:8
-title	_site/assets/js/search-data.json	/^    "title": "Submission Guidelines",$/;"	s	object:48
-title	_site/assets/js/search-data.json	/^    "title": "Submission Guidelines",$/;"	s	object:49
-title	_site/assets/js/search-data.json	/^    "title": "Submission Tracks and Review Process",$/;"	s	object:50
-title	_site/assets/js/search-data.json	/^    "title": "Submission Tracks",$/;"	s	object:53
+title	_site/assets/js/search-data.json	/^    "title": "Submission Guidelines",$/;"	s	object:46
+title	_site/assets/js/search-data.json	/^    "title": "Submission Guidelines",$/;"	s	object:47
+title	_site/assets/js/search-data.json	/^    "title": "Submission Tracks and Review Process",$/;"	s	object:48
+title	_site/assets/js/search-data.json	/^    "title": "Submission Tracks",$/;"	s	object:51
 title	_site/assets/js/search-data.json	/^    "title": "Submission Tracks",$/;"	s	object:9
-title	_site/assets/js/search-data.json	/^    "title": "TODO FOR THIS PAGE",$/;"	s	object:44
-title	_site/assets/js/search-data.json	/^    "title": "TODO for this page:",$/;"	s	object:28
-title	_site/assets/js/search-data.json	/^    "title": "Theory",$/;"	s	object:40
-title	_site/assets/js/search-data.json	/^    "title": "Topics of Interest",$/;"	s	object:47
+title	_site/assets/js/search-data.json	/^    "title": "TODO FOR THIS PAGE",$/;"	s	object:42
+title	_site/assets/js/search-data.json	/^    "title": "Theory",$/;"	s	object:38
+title	_site/assets/js/search-data.json	/^    "title": "Topics of Interest",$/;"	s	object:45
 title	_site/assets/js/search-data.json	/^    "title": "Tutorial Chairs",$/;"	s	object:22
 title	_site/assets/js/search-data.json	/^    "title": "Web Chairs",$/;"	s	object:24
-title	_site/assets/js/search-data.json	/^    "title": "“Recent Spotlight” Track (non-archival)",$/;"	s	object:52
+title	_site/assets/js/search-data.json	/^    "title": "“Recent Spotlight” Track (non-archival)",$/;"	s	object:50
 todo-for-this-page	_site/policies/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 todo-for-this-page	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 todo-for-this-page	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -6894,34 +6884,32 @@ url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/",$/;"	s	object
 url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/#advisory-committee",$/;"	s	object:26
 url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/#area-chairs",$/;"	s	object:25
 url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/#organization-team",$/;"	s	object:15
-url	_site/assets/js/search-data.json	/^    "url": "\/policies\/",$/;"	s	object:29
-url	_site/assets/js/search-data.json	/^    "url": "\/policies\/#todo-for-this-page",$/;"	s	object:28
-url	_site/assets/js/search-data.json	/^    "url": "\/review_guidelines\/",$/;"	s	object:33
-url	_site/assets/js/search-data.json	/^    "url": "\/review_guidelines\/#general-guidelines",$/;"	s	object:32
-url	_site/assets/js/search-data.json	/^    "url": "\/review_guidelines\/#notable-innovations-in-our-review-mechanism",$/;"	s	object:31
-url	_site/assets/js/search-data.json	/^    "url": "\/review_guidelines\/#reviewer-guidelines",$/;"	s	object:30
-url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/",$/;"	s	object:35
-url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/",$/;"	s	object:36
-url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/#keynote-speakers",$/;"	s	object:34
-url	_site/assets/js/search-data.json	/^    "url": "\/subject_areas\/",$/;"	s	object:43
-url	_site/assets/js/search-data.json	/^    "url": "\/subject_areas\/#applications-and-science",$/;"	s	object:42
-url	_site/assets/js/search-data.json	/^    "url": "\/subject_areas\/#data",$/;"	s	object:39
-url	_site/assets/js/search-data.json	/^    "url": "\/subject_areas\/#hardware-and-systems",$/;"	s	object:41
-url	_site/assets/js/search-data.json	/^    "url": "\/subject_areas\/#models-and-algorithms",$/;"	s	object:38
-url	_site/assets/js/search-data.json	/^    "url": "\/subject_areas\/#subject-areas",$/;"	s	object:37
-url	_site/assets/js/search-data.json	/^    "url": "\/subject_areas\/#theory",$/;"	s	object:40
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/",$/;"	s	object:49
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#how-to-submit-your-work",$/;"	s	object:45
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#logistics-for-accepted-papers",$/;"	s	object:46
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#submission-guidelines",$/;"	s	object:48
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#todo-for-this-page",$/;"	s	object:44
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#topics-of-interest",$/;"	s	object:47
-url	_site/assets/js/search-data.json	/^    "url": "\/tracks\/",$/;"	s	object:53
-url	_site/assets/js/search-data.json	/^    "url": "\/tracks\/#proceeding-track--archival",$/;"	s	object:51
-url	_site/assets/js/search-data.json	/^    "url": "\/tracks\/#recent-spotlight-track-non-archival",$/;"	s	object:52
-url	_site/assets/js/search-data.json	/^    "url": "\/tracks\/#submission-tracks-and-review-process",$/;"	s	object:50
-url	_site/assets/js/search-data.json	/^    "url": "\/vision\/",$/;"	s	object:55
-url	_site/assets/js/search-data.json	/^    "url": "\/vision\/#conference-vision",$/;"	s	object:54
+url	_site/assets/js/search-data.json	/^    "url": "\/review_guidelines\/",$/;"	s	object:31
+url	_site/assets/js/search-data.json	/^    "url": "\/review_guidelines\/#general-guidelines",$/;"	s	object:30
+url	_site/assets/js/search-data.json	/^    "url": "\/review_guidelines\/#notable-innovations-in-our-review-mechanism",$/;"	s	object:29
+url	_site/assets/js/search-data.json	/^    "url": "\/review_guidelines\/#reviewer-guidelines",$/;"	s	object:28
+url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/",$/;"	s	object:33
+url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/",$/;"	s	object:34
+url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/#keynote-speakers",$/;"	s	object:32
+url	_site/assets/js/search-data.json	/^    "url": "\/subject_areas\/",$/;"	s	object:41
+url	_site/assets/js/search-data.json	/^    "url": "\/subject_areas\/#applications-and-science",$/;"	s	object:40
+url	_site/assets/js/search-data.json	/^    "url": "\/subject_areas\/#data",$/;"	s	object:37
+url	_site/assets/js/search-data.json	/^    "url": "\/subject_areas\/#hardware-and-systems",$/;"	s	object:39
+url	_site/assets/js/search-data.json	/^    "url": "\/subject_areas\/#models-and-algorithms",$/;"	s	object:36
+url	_site/assets/js/search-data.json	/^    "url": "\/subject_areas\/#subject-areas",$/;"	s	object:35
+url	_site/assets/js/search-data.json	/^    "url": "\/subject_areas\/#theory",$/;"	s	object:38
+url	_site/assets/js/search-data.json	/^    "url": "\/submission\/",$/;"	s	object:47
+url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#how-to-submit-your-work",$/;"	s	object:43
+url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#logistics-for-accepted-papers",$/;"	s	object:44
+url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#submission-guidelines",$/;"	s	object:46
+url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#todo-for-this-page",$/;"	s	object:42
+url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#topics-of-interest",$/;"	s	object:45
+url	_site/assets/js/search-data.json	/^    "url": "\/tracks\/",$/;"	s	object:51
+url	_site/assets/js/search-data.json	/^    "url": "\/tracks\/#proceeding-track--archival",$/;"	s	object:49
+url	_site/assets/js/search-data.json	/^    "url": "\/tracks\/#recent-spotlight-track-non-archival",$/;"	s	object:50
+url	_site/assets/js/search-data.json	/^    "url": "\/tracks\/#submission-tracks-and-review-process",$/;"	s	object:48
+url	_site/assets/js/search-data.json	/^    "url": "\/vision\/",$/;"	s	object:53
+url	_site/assets/js/search-data.json	/^    "url": "\/vision\/#conference-vision",$/;"	s	object:52
 using-large-language-models-llms	_site/tracks/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 wildcard	_site/assets/js/just-the-docs.js	/^        wildcard: lunr.Query.wildcard.TRAILING$/;"	p	class:AnonymousClass44e4342b0b01
 {% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/organizer.html	/^    <\/h3>$/;"	j
