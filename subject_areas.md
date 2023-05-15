@@ -3,7 +3,7 @@ layout: page
 title: Subject Areas
 description: List of subject areas for conference submissions
 parent: Call for Papers
-nav_order: 2
+nav_order: 0
 ---
 
 {% include splash.html %}

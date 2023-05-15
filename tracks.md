@@ -3,7 +3,7 @@ layout: page
 title: Submission Tracks
 description: List of submission tracks for conference submissions
 parent: Call for Papers
-nav_order: 2
+nav_order: 1
 ---
 
 {% include splash.html %}

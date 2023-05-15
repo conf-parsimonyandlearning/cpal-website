@@ -3,7 +3,7 @@ layout: page
 title: Area Chairs
 description: A listing of the conference area chairs
 parent: Organizers
-nav_order: 9
+nav_order: 0
 ---
 
 # Area Chairs
