@@ -42,4 +42,6 @@ interest and general policies. Stay tuned for further updates.
 
 # Keynote Speakers
 
+**Additional speakers to be announced soon!**
+
 {% include speakers.html %}

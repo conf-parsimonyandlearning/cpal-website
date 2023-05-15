@@ -146,7 +146,7 @@ interest is considered satisfied.*
 *(Adapted from ICML/ICLR/NeurIPS/LoG)*
 
 We strive to hold a conference in which any person can meaningfully participate
-in the LoG community through: sharing ideas, presenting their work, meeting
+in the CPAL community through: sharing ideas, presenting their work, meeting
 members of the community, learning from other people’s work, and discussing
 ways to improve the community. 
 

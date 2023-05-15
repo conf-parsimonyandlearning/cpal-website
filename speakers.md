@@ -10,6 +10,8 @@ nav_order: 3
 
 # Keynote Speakers
 
+**Additional speakers to be announced soon!**
+
 <!-- Clicking a speaker's photo will jump to their talk information below. -->
 
 {% include speakers.html %}

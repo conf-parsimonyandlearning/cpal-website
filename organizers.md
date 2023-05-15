@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Program Committee
-description: A listing of the members of the conference program committee.
+title: Organizers
+description: A listing of the conference organizers, including ACs and advisory committee
 nav_order: 9
 ---
 
