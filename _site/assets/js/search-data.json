@@ -253,7 +253,7 @@
   },"36": {
     "doc": "Subject Areas",
     "title": "Models and Algorithms",
-    "content": ". | Parsimonious training and inference algorithms for deep networks, including but not limited to: . | Pruning, sparse training, lottery ticket hypothesis | Low-rank training, quantization, distillation, retrieval-augmented models | Adaptive/conditional computation, including mixture of experts | Parsimonious transfer learning methods, such as sparse tuning or LoRA | . | Compact and efficient neural network architectures by design | Model-based architectures as inspired by structured models (such as unrolling) | Robust/stable/invariant models or training/inference algorithms, guided by parsimony principles | Other nonlinear dimension reduction methods not pertaining to deep networks (such as autoencoders, subspace learning, manifold learning, etc) | Interpretability induced by parsimonious modeling (such as feature selection, model visualization) | Generative models guided by parsimony principles | Distributed, federated, and communicated-efficient training or inference, that leverage model parsimony | Efficient neural scaling, and next-generation parsimonious architectures beyond common in-use models | . ",
+    "content": ". | Parsimonious training and inference algorithms for deep networks, including but not limited to: . | Pruning, sparse training, lottery ticket hypothesis | Low-rank training, quantization, distillation, retrieval-augmented models | Adaptive/conditional computation, including mixture of experts | Parsimonious transfer learning methods, such as sparse tuning or LoRA | . | Compact and efficient neural network architectures by design | Model-based architectures as inspired by structured models (such as unrolling) | Robust/stable/invariant models or training/inference algorithms, guided by parsimony principles | Nonlinear dimension reduction methods (such as autoencoders, subspace learning, manifold learning, etc.) | Interpretability induced by parsimonious modeling (such as feature selection, model visualization) | Generative models guided by parsimony principles | Distributed, federated, and communicated-efficient training or inference, that leverage model parsimony | Efficient neural scaling, and next-generation parsimonious architectures beyond common in-use models | . ",
     "url": "/subject_areas/#models-and-algorithms",
     
     "relUrl": "/subject_areas/#models-and-algorithms"
@@ -267,7 +267,7 @@
   },"38": {
     "doc": "Subject Areas",
     "title": "Theory",
-    "content": ". | Generalization, optimization, robustness, and approximation in deep learning, rigorously relating to its implicit parsimony | Theories for classical sparse coding, dictionary learning, structured sparsity, subspace learning, etc, and their connections to neural network sparsity | Forgetting owing to sparsity, including fairness, privacy and bias concerns | . ",
+    "content": ". | Generalization, optimization, robustness, and approximation in deep learning, rigorously relating to its implicit parsimony | Theories for classical sparse coding, dictionary learning, structured sparsity, subspace learning, etc., and their connections to neural network sparsity | Forgetting owing to sparsity, including fairness, privacy and bias concerns | . ",
     "url": "/subject_areas/#theory",
     
     "relUrl": "/subject_areas/#theory"

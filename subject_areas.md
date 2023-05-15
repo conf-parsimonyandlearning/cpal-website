@@ -19,7 +19,7 @@ nav_order: 0
 - Compact and efficient neural network architectures by design
 - Model-based architectures as inspired by structured models (such as unrolling)
 - Robust/stable/invariant models or training/inference algorithms, guided by parsimony principles
-- Other nonlinear dimension reduction methods not pertaining to deep networks (such as autoencoders, subspace learning, manifold learning, etc)
+- Nonlinear dimension reduction methods (such as autoencoders, subspace learning, manifold learning, etc.)
 - Interpretability induced by parsimonious modeling (such as feature selection, model visualization)
 - Generative models guided by parsimony principles
 - Distributed, federated, and communicated-efficient training or inference, that leverage model parsimony
@@ -37,7 +37,7 @@ nav_order: 0
 - Generalization, optimization, robustness,  and approximation in deep
   learning, rigorously relating to its implicit parsimony
 - Theories for classical sparse coding, dictionary learning, structured
-  sparsity, subspace learning, etc, and their connections to neural network
+  sparsity, subspace learning, etc., and their connections to neural network
   sparsity
 - Forgetting owing to sparsity, including fairness, privacy and bias concerns
 
