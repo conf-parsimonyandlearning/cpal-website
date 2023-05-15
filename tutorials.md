@@ -4,6 +4,7 @@ title: Tutorials
 description: A listing of the tutorials that will be presented at the conference.
 nav_order: 3
 nav_exclude: true
+search_exclude: true
 ---
 
 {% include splash.html %}

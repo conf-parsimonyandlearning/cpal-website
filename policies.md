@@ -4,6 +4,7 @@ title: Policies
 description: Policies concerning the execution of the conference
 nav_order: 7
 nav_exclude: true
+search_exclude: true
 ---
 
 {% include splash.html %}
