@@ -2,7 +2,7 @@
 layout: page
 title: Keynote Speakers
 description: Details of keynote speakers at the conference
-nav_order: 3
+nav_order: 4
 ---
 
 {% include splash.html %}

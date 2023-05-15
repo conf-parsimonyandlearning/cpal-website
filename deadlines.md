@@ -2,7 +2,7 @@
 layout: page
 title: Key Dates
 description: Key dates and deadlines for the conference
-nav_order: 1
+nav_order: 2
 ---
 
 {% include splash.html %}
