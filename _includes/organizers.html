@@ -113,27 +113,4 @@
 
 
 
-<h2>Area Chairs</h2>
 
-<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
-  flex-start;">
-
-  {% assign acs = site.organizers | where: 'role', 'Area Chair' %}
-  {% for organizer in acs %}
-  {{ organizer }}
-  {% endfor %}
-
-</div>
-
-
-<h2>Advisory Committee</h2>
-
-<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
-  flex-start;">
-
-  {% assign advs = site.organizers | where: 'role', 'Advisory Committee' %}
-  {% for organizer in advs %}
-  {{ organizer }}
-  {% endfor %}
-
-</div>

@@ -1,0 +1,9 @@
+<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
+  flex-start;">
+
+  {% assign acs = site.organizers | where: 'role', 'Area Chair' %}
+  {% for organizer in acs %}
+  {{ organizer }}
+  {% endfor %}
+
+</div>
