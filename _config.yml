@@ -26,7 +26,7 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 #remote_theme: just-the-docs/just-the-docs
 theme: just-the-docs # this works offline...
 color_scheme: cpal
-search_enabled: false
+search_enabled: true
 heading_anchors: true
 permalink: pretty
 logo: "/assets/images/logo.svg"
