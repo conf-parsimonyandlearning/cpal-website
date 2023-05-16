@@ -31,8 +31,8 @@ heading_anchors: true
 permalink: pretty
 logo: "/assets/images/logo.svg"
 aux_links:
-  #  Submissions:
-  #    - 'https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop'
+  CPAL OpenReview:
+    - 'https://openreview.net/group?id=CPAL.cc/2024/Conference'
       #  Register:
       #    - 'https://docs.google.com/forms/d/e/1FAIpQLScMqcyVsrldFpZPwjajr2hcYz9aKx5V3riFNAEUQ7vswlrw7g/viewform'
 #back_to_top: true

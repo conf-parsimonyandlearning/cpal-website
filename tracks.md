@@ -15,7 +15,9 @@ We will have a main proceeding track (archival), and a “recent spotlight” tr
 
 ## Proceeding Track  (archival)
 
-The submission and review stage will be **double-blind**. We use OpenReview to host
+The submission and review stage will be **double-blind**. We use 
+[OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Conference)
+to host
 papers and allow for public discussions. Before the end of the
 Authors-Reviewers Discussion Stage, besides official reviews, anyone can post
 publicly visible comments; and authors can participate in the discussion as
@@ -59,9 +61,10 @@ We meanwhile aim to showcase the latest research innovations at all stages of
 the research process, from work-in-progress to recently published papers.
 Concretely, we ask members of the community to submit a conference-style paper
 (from four to eight pages, with extra pages for references) describing the
-work. Please also upload a short (250 word) abstract to OpenReview. OpenReview
-submissions may also include any of the following supplemental materials that
-describe the work in further detail:
+work. Please also upload a short (250 word) abstract to
+[OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Conference).
+OpenReview submissions may also include any of the following supplemental
+materials that describe the work in further detail:
 
 - **A poster** (in PDF form) presenting results of work-in-progress.
 - **A link to an arXiv preprint or a blog post** (e.g., distill.pub, Medium) describing results.

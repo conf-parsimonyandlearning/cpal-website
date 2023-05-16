@@ -8,6 +8,20 @@ nav_order: 3
 
 {% include splash.html %}
 
+
+
+# Submission Tracks
+
+CPAL has two submission tracks: a main proceeding track (archival), and a
+“recent spotlight” track (non-archival). Please visit [this page]({{
+site.baseurl }}/tracks) for full details of both tracks. Both tracks use 
+[OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Conference) to manage
+submissions and reviews.
+
+{: .fs-5 .text-center}
+[Submit your Work on OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Conference)
+
+
 # Subject Areas
 
 We invite submissions relevant to the following broad areas of interest, all
@@ -21,11 +35,6 @@ connected with parsimony and learning in modern data science:
 Please reference the detailed listing [here]({{ site.baseurl }}/subject_areas).
 
 
-# Submission Tracks
-
-CPAL has two submission tracks: a main proceeding track (archival), and a
-“recent spotlight” track (non-archival). Please visit [this page]({{
-site.baseurl }}/tracks) for full details of both tracks.
 
 
 # Reviewer Guidelines

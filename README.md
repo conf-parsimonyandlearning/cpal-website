@@ -20,15 +20,14 @@ more detail [here]({{ site.baseurl }}/vision).
 
 # Call for Papers
 
+{: .fs-5 .text-center}
+[Submit your Work on OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Conference)
+
 We are pleased to invite paper submissions for the first Conference on
-Parsimony and Learning. Please see
+Parsimony and Learning. Please see the [**call for papers**]({{ site.baseurl
+}}/cfp) for details about the submission and reviewing process, as well as
+subject areas of interest and general policies. Stay tuned for further updates.
 
-{: .fs-7 .text-center}
-[Call for Papers]({{ site.baseurl }}/cfp) 
-
-for details
-about the submission and reviewing process, as well as subject areas of
-interest and general policies. Stay tuned for further updates.
 
 # Key Dates and Deadlines
 

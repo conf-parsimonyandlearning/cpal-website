@@ -1,7 +1,7 @@
 {"0": {
     "doc": "Home",
     "title": "Call for Papers",
-    "content": "We are pleased to invite paper submissions for the first Conference on Parsimony and Learning. Please see . Call for Papers . for details about the submission and reviewing process, as well as subject areas of interest and general policies. Stay tuned for further updates. ",
+    "content": "Submit your Work on OpenReview . We are pleased to invite paper submissions for the first Conference on Parsimony and Learning. Please see the call for papers for details about the submission and reviewing process, as well as subject areas of interest and general policies. Stay tuned for further updates. ",
     "url": "/#call-for-papers",
     
     "relUrl": "/#call-for-papers"
@@ -56,18 +56,18 @@
     "relUrl": "/area_chairs/"
   },"8": {
     "doc": "Call for Papers",
+    "title": "Submission Tracks",
+    "content": "CPAL has two submission tracks: a main proceeding track (archival), and a “recent spotlight” track (non-archival). Please visit this page for full details of both tracks. Both tracks use OpenReview to manage submissions and reviews. Submit your Work on OpenReview . ",
+    "url": "/cfp/#submission-tracks",
+    
+    "relUrl": "/cfp/#submission-tracks"
+  },"9": {
+    "doc": "Call for Papers",
     "title": "Subject Areas",
     "content": "We invite submissions relevant to the following broad areas of interest, all connected with parsimony and learning in modern data science: . | Models and Algorithms | Data | Theory | Hardware and Systems | Applications and Science | . Please reference the detailed listing here. ",
     "url": "/cfp/#subject-areas",
     
     "relUrl": "/cfp/#subject-areas"
-  },"9": {
-    "doc": "Call for Papers",
-    "title": "Submission Tracks",
-    "content": "CPAL has two submission tracks: a main proceeding track (archival), and a “recent spotlight” track (non-archival). Please visit this page for full details of both tracks. ",
-    "url": "/cfp/#submission-tracks",
-    
-    "relUrl": "/cfp/#submission-tracks"
   },"10": {
     "doc": "Call for Papers",
     "title": "Reviewer Guidelines",
@@ -293,83 +293,41 @@
     
     "relUrl": "/subject_areas/"
   },"42": {
-    "doc": "Submission Guidelines",
-    "title": "TODO FOR THIS PAGE",
-    "content": ". | List of ACs (single blind policy) | Subject areas | Procedures for the CfP… . | guidelines for submitting (see next header too) | formatting/style | . | OpenReview | Award info (committee?) | Information about presenting the papers (in-person; poster/spotlight/awards; …) | . ",
-    "url": "/submission/#todo-for-this-page",
-    
-    "relUrl": "/submission/#todo-for-this-page"
-  },"43": {
-    "doc": "Submission Guidelines",
-    "title": "How to Submit Your Work",
-    "content": "We will use OpenReview to manage submissions. Submit your work here: . https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop . See the submission guidelines and topics of interest. ",
-    "url": "/submission/#how-to-submit-your-work",
-    
-    "relUrl": "/submission/#how-to-submit-your-work"
-  },"44": {
-    "doc": "Submission Guidelines",
-    "title": "Logistics for Accepted Papers",
-    "content": "Accepted works will be expected to present a poster describing the work in-person at the workshop. Travel grants are available to support authors of accepted papers: see the travel page for details. A small subset of the top accepted papers will be recommended for inclusion in a future special issue of the IEEE Journal of Selected Topics in Signal Processing. ",
-    "url": "/submission/#logistics-for-accepted-papers",
-    
-    "relUrl": "/submission/#logistics-for-accepted-papers"
-  },"45": {
-    "doc": "Submission Guidelines",
-    "title": "Topics of Interest",
-    "content": "Topics of interest include, but are not limited to, connections between low-dimensional models and the theory, architectures, algorithms, and applications of deep neural networks: . | Theory: approximation, generalization, robustness, compact and structured representations | Optimization: Benign non-convex optimization, implicit bias analysis, convergence guarantees | Architectures: compact/model-based/neuro-inspired/invariant neural networks | Algorithms: pruning, sparse training, robust training | Applications: generative models, resource/data-efficient learning, inverse problems | . ",
-    "url": "/submission/#topics-of-interest",
-    
-    "relUrl": "/submission/#topics-of-interest"
-  },"46": {
-    "doc": "Submission Guidelines",
-    "title": "Submission Guidelines",
-    "content": "We aim to showcase: . | The latest research innovations at all stages of the research process, from work-in-progress to recently published papers | Position or survey papers on any topics relevant to this workshop (see the call above) | . Concretely, we ask members of the community to submit a conference-style paper (from four to eight pages, with extra pages for references) describing the work. Please also upload a short (250 word) abstract to OpenReview. Do not anonymize submissions. Papers should be written using the NeurIPS 2022 style files, available here. OpenReview submissions may also include any of the following supplemental materials that describe the work in further detail. | A poster (in PDF form) presenting results of work-in-progress. | A link to a blog post (e.g., distill.pub, Medium) describing results. | Appendices with detailed derivations and additional experiments. | . This workshop is non-archival, and it will not have proceedings. We permit under-review or concurrent submissions. Reviewing will be performed in a single-blind fashion (authors should not anonymize their submissions). ",
-    "url": "/submission/#submission-guidelines",
-    
-    "relUrl": "/submission/#submission-guidelines"
-  },"47": {
-    "doc": "Submission Guidelines",
-    "title": "Submission Guidelines",
-    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",
-    "url": "/submission/",
-    
-    "relUrl": "/submission/"
-  },"48": {
     "doc": "Submission Tracks",
     "title": "Submission Tracks and Review Process",
     "content": "We will have a main proceeding track (archival), and a “recent spotlight” track (non-archival). ",
     "url": "/tracks/#submission-tracks-and-review-process",
     
     "relUrl": "/tracks/#submission-tracks-and-review-process"
-  },"49": {
+  },"43": {
     "doc": "Submission Tracks",
     "title": "Proceeding Track  (archival)",
     "content": "The submission and review stage will be double-blind. We use OpenReview to host papers and allow for public discussions. Before the end of the Authors-Reviewers Discussion Stage, besides official reviews, anyone can post publicly visible comments; and authors can participate in the discussion as well as update their submission at any time. After that, there will be an internal discussion period amongst reviewers and ACs with the aim of summarizing the review process, after which the final decisions are made by ACs. After the notification deadline, accepted and opted-in rejected papers will be made public and open for non-anonymous public commenting. Their anonymous reviews, meta-reviews, author responses and reviewer responses will also be made public. Authors of rejected papers will have two weeks after the notification deadline to opt in to make their de-anonymized rejected papers public in OpenReview. Submissions that are substantially similar to papers previously published, or submitted in parallel to other peer-reviewed venues with proceedings or journals may not be submitted to the Proceeding Track. Papers previously presented at workshops are permitted, so long as they did not appear in a conference proceedings (e.g., CVPRW proceedings), a journal or a book. The existence of non-anonymous preprints (on arXiv or other online repositories, personal websites, social media) will not result in rejection. Authors may submit anonymized work to CPAL that is already available as a preprint (e.g., on arXiv) without citing it. Accepted papers will be published in the Proceedings for Machine Learning Research (PMLR). Full proceedings papers can have up to 9 pages with unlimited pages for references and appendix. Upon acceptance of a paper, at least one of the authors must join the conference. Using Large Language Models (LLMs) . We follow the rule by NeurIPS 2023, quoted as follows: . “We welcome authors to use any tool that is suitable for preparing high-quality papers and research. However, we ask authors to keep in mind two important criteria. First, we expect papers to fully describe their methodology, and any tool that is important to that methodology, including the use of LLMs, should be described also. For example, authors should mention tools (including LLMs) that were used for data processing or filtering, visualization, facilitating or running experiments, and proving theorems. It may also be advisable to describe the use of LLMs in implementing the method (if this corresponds to an important, original, or non-standard component of the approach). Second, authors are responsible for the entire content of the paper, including all text and figures, so while authors are welcome to use any tool they wish for writing the paper, they must ensure that all text is correct and original.” . ",
     "url": "/tracks/#proceeding-track--archival",
     
     "relUrl": "/tracks/#proceeding-track--archival"
-  },"50": {
+  },"44": {
     "doc": "Submission Tracks",
     "title": "“Recent Spotlight” Track (non-archival)",
     "content": "We meanwhile aim to showcase the latest research innovations at all stages of the research process, from work-in-progress to recently published papers. Concretely, we ask members of the community to submit a conference-style paper (from four to eight pages, with extra pages for references) describing the work. Please also upload a short (250 word) abstract to OpenReview. OpenReview submissions may also include any of the following supplemental materials that describe the work in further detail: . | A poster (in PDF form) presenting results of work-in-progress. | A link to an arXiv preprint or a blog post (e.g., distill.pub, Medium) describing results. | Appendices with detailed derivations and additional experiments. | . This track is non-archival and has no proceedings. We permit under-review or concurrent submissions. Reviewing will be performed in a single-blind fashion (authors should not anonymize their submissions), and will be held with the same high quality bar with the Proceeding Track. ",
     "url": "/tracks/#recent-spotlight-track-non-archival",
     
     "relUrl": "/tracks/#recent-spotlight-track-non-archival"
-  },"51": {
+  },"45": {
     "doc": "Submission Tracks",
     "title": "Submission Tracks",
     "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",
     "url": "/tracks/",
     
     "relUrl": "/tracks/"
-  },"52": {
+  },"46": {
     "doc": "Conference Vision",
     "title": "Conference Vision",
     "content": "“Entities should not be multiplied unnecessarily.” . – William of Ockham . The ways we process, interpret, and predict with data in engineering and scientific applications have changed immeasurably since the advent of the deep learning era. The ‘traditional’ approach to algorithm design, based around parametric models for structured signals and measurements – say sparse and low-rank models – and the associated optimization toolkit, is now regularly supplemented with data-driven learning-based techniques, where large-scale deep networks are pretrained and then adapted to a variety of tasks. The successes of both paradigms have depended crucially on the low-dimensional structure present in real-world data, to the extent that we view the roles of parsimony of data processing algorithms – whether explicit or implicit, as with deep networks – and learning as inextricably linked. Over the last ten or so years, several rich lines of research, both applied and theoretical, have explored the interplay between these two principles. Some works explore the role of signal models in the era of deep learning, attempting to understand the interaction between deep networks and nonlinear, multimodal data. Others have applied these insights to the principled design of deep architectures that incorporate known structures in data into the learning process. Still others have considered the parameters of generic deep networks as first-class citizens in their own right, exploring ways to compress and sparsify models for greater efficiency, often accompanied with hardware or system-aware co-designs. Across each of these settings, theoretical works have begun to explain the foundations of efficient learning – from optimization to generalization – in spite of “overparameterization” and other obstructions. And most recently, the advent of foundation models has led some to posit that parsimony itself is a fundamental part of the learning objective of an intelligent system, connecting to ideas from neuroscience on compression as a guiding principle for the brain representing the sensory data of the world. By and large, these lines of work have developed in isolation from one another, in spite of their common basis in parsimony and learning. Our intention in organizing this conference is to address this: we envision the conference as a general forum where researchers in machine learning, applied mathematics, signal processing, optimization, hardware &amp; systems, and all associated science and engineering applications can gather, share insights, and ultimately work towards a common data-centric understanding of modern parsimonious learning frameworks. ",
     "url": "/vision/#conference-vision",
     
     "relUrl": "/vision/#conference-vision"
-  },"53": {
+  },"47": {
     "doc": "Conference Vision",
     "title": "Conference Vision",
     "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",
