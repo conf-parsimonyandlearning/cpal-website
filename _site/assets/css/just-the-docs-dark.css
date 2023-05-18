@@ -6944,20 +6944,29 @@ summary {
   font-weight: normal; }
   .main-content dd + dt {
     margin-top: 1em; }
+.main-content footer {
+  font-size: 11px !important; }
+  @media (min-width: 31.25rem) {
+    .main-content footer {
+      font-size: 12px !important; } }
 
 .site-footer {
   padding-right: 1rem;
-  padding-left: 1rem; }
+  padding-left: 1rem;
+  font-size: 24px !important;
+  line-height: 1.25; }
   @media (min-width: 50rem) {
     .site-footer {
       padding-right: 2rem;
       padding-left: 2rem; } }
-  .site-footer text-connect {
-    font-size: 24px !important;
-    line-height: 1.25; }
-    @media (min-width: 31.25rem) {
-      .site-footer text-connect {
-        font-size: 32px !important; } }
+  @media (min-width: 31.25rem) {
+    .site-footer {
+      font-size: 32px !important; } }
   .site-footer img {
     height: 60px;
     border: 0 !important; }
+  .site-footer credit {
+    font-size: 11px !important; }
+    @media (min-width: 31.25rem) {
+      .site-footer credit {
+        font-size: 12px !important; } }

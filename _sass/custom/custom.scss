@@ -107,14 +107,16 @@ summary {
       margin-top: 1em;
     }
   }
+
+  footer {
+    @include fs-2;
+  }
 }
 
 .site-footer {
   @include container;
 
-  text-connect {
-    @include fs-7;
-  }
+  @include fs-7;
 
   img {
     height: 60px;
@@ -122,4 +124,9 @@ summary {
     border: 0 !important;
   }
 
+  credit {
+    @include fs-2;
+  }
+
 }
+
