@@ -116,16 +116,28 @@ summary {
 .site-footer {
   @include container;
 
-  @include fs-7;
+  position: absolute;
+
 
   img {
-    height: 60px;
+    height: 18px;
     // opacity: 0.5;
     border: 0 !important;
   }
 
-  credit {
-    @include fs-2;
+
+  @include mq(md) {
+    @include fs-7;
+
+    img {
+      height: 52px;
+      // opacity: 0.5;
+      border: 0 !important;
+    }
+
+    credit {
+      @include fs-2
+    }
   }
 
 }

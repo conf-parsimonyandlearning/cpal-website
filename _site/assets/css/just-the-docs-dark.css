@@ -6953,20 +6953,27 @@ summary {
 .site-footer {
   padding-right: 1rem;
   padding-left: 1rem;
-  font-size: 24px !important;
-  line-height: 1.25; }
+  position: absolute; }
   @media (min-width: 50rem) {
     .site-footer {
       padding-right: 2rem;
       padding-left: 2rem; } }
-  @media (min-width: 31.25rem) {
+  .site-footer img {
+    height: 18px;
+    border: 0 !important; }
+  @media (min-width: 50rem) {
+    .site-footer {
+      font-size: 24px !important;
+      line-height: 1.25; } }
+  @media (min-width: 50rem) and (min-width: 31.25rem) {
     .site-footer {
       font-size: 32px !important; } }
-  .site-footer img {
-    height: 60px;
-    border: 0 !important; }
-  .site-footer credit {
-    font-size: 11px !important; }
-    @media (min-width: 31.25rem) {
+  @media (min-width: 50rem) {
+      .site-footer img {
+        height: 52px;
+        border: 0 !important; }
+      .site-footer credit {
+        font-size: 11px !important; } }
+    @media (min-width: 50rem) and (min-width: 31.25rem) {
       .site-footer credit {
         font-size: 12px !important; } }
