@@ -5325,6 +5325,10 @@ Keynote Speakers	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><met
 Keynote Speakers	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Keynote Speakers	speakers.md	/^# Keynote Speakers$/;"	c
 Keynote Speakers | CPAL	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Layer_1	_site/assets/images/linkedin.svg	/^	 viewBox="-143 145 512 512" xml:space="preserve">$/;"	i
+Layer_1	_site/assets/images/twitter.svg	/^	 viewBox="-143 145 512 512" xml:space="preserve">$/;"	i
+Layer_1	assets/images/linkedin.svg	/^	 viewBox="-143 145 512 512" xml:space="preserve">$/;"	i
+Layer_1	assets/images/twitter.svg	/^	 viewBox="-143 145 512 512" xml:space="preserve">$/;"	i
 Learned Representations and Low-Dimensional Structures	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Learning Low-Dimensional Structure via Deep Networks	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Link	_layouts/minimal_backup.html	/^      <title>Link<\/title>$/;"	j
@@ -6138,12 +6142,16 @@ noscript .table-wrapper	_site/assets/css/just-the-docs-default.css	/^noscript .t
 noscript .table-wrapper	_site/assets/css/just-the-docs-light.css	/^noscript .table-wrapper {$/;"	c
 notable-innovations-in-our-review-mechanism	_site/review_guidelines/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 ns39fe2cff0101	assets/images/logo_text.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
+ns62ac8ff80101	assets/images/linkedin.svg	/^	 viewBox="-143 145 512 512" xml:space="preserve">$/;"	n	uri:http://www.w3.org/2000/svg
 ns647beeeb0101	assets/images/tmp0.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" version="1.1" width="600" height="600">$/;"	n	uri:http://www.w3.org/2000/svg
 ns648e076c0101	assets/images/tmp1.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
 ns79c5870e0101	_site/assets/images/tmp0.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" version="1.1" width="600" height="600">$/;"	n	uri:http://www.w3.org/2000/svg
 ns79d79f8f0101	_site/assets/images/tmp1.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
+ns7f7be43d0101	assets/images/twitter.svg	/^	 viewBox="-143 145 512 512" xml:space="preserve">$/;"	n	uri:http://www.w3.org/2000/svg
 ns8bd75b7b0101	assets/images/logo.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
 nsa120f39e0101	_site/assets/images/logo.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
+nsb57b819b0101	_site/assets/images/linkedin.svg	/^	 viewBox="-143 145 512 512" xml:space="preserve">$/;"	n	uri:http://www.w3.org/2000/svg
+nscf91ad800101	_site/assets/images/twitter.svg	/^	 viewBox="-143 145 512 512" xml:space="preserve">$/;"	n	uri:http://www.w3.org/2000/svg
 nse6ab53020101	_site/assets/images/logo_text.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
 office-hours	_sass/custom/calendar.scss	/^    &.office-hours {$/;"	c
 ol	_site/assets/css/just-the-docs-dark.css	/^ol,$/;"	s
@@ -6837,6 +6845,10 @@ url	_site/assets/js/search-data.json	/^    "url": "\/vision\/",$/;"	s	object:47
 url	_site/assets/js/search-data.json	/^    "url": "\/vision\/#conference-vision",$/;"	s	object:46
 using-large-language-models-llms	_site/tracks/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 wildcard	_site/assets/js/just-the-docs.js	/^        wildcard: lunr.Query.wildcard.TRAILING$/;"	p	class:AnonymousClass44e4342b0b01
+xlink	_site/assets/images/linkedin.svg	/^	 viewBox="-143 145 512 512" xml:space="preserve">$/;"	n	uri:http://www.w3.org/1999/xlink
+xlink	_site/assets/images/twitter.svg	/^	 viewBox="-143 145 512 512" xml:space="preserve">$/;"	n	uri:http://www.w3.org/1999/xlink
+xlink	assets/images/linkedin.svg	/^	 viewBox="-143 145 512 512" xml:space="preserve">$/;"	n	uri:http://www.w3.org/1999/xlink
+xlink	assets/images/twitter.svg	/^	 viewBox="-143 145 512 512" xml:space="preserve">$/;"	n	uri:http://www.w3.org/1999/xlink
 {% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/organizer.html	/^    <\/h3>$/;"	j
 {% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/speaker.html	/^    <\/h3>$/;"	j
 {{ day.name }}	_layouts/calendar.html	/^      <h2 class="calendar-header">{{ day.name }}<\/h2>$/;"	i
