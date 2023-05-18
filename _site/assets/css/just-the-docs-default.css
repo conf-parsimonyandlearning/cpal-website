@@ -6970,7 +6970,8 @@ summary {
   @media (min-width: 50rem) {
     .site-footer {
       font-size: 24px !important;
-      line-height: 1.25; } }
+      line-height: 1.25;
+      letter-spacing: 0.001em; } }
   @media (min-width: 50rem) and (min-width: 31.25rem) {
     .site-footer {
       font-size: 32px !important; } }

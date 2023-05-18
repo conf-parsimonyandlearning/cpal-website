@@ -4813,13 +4813,13 @@
 .site-footer	_site/assets/css/just-the-docs-light.css	/^  .site-footer,$/;"	c
 .site-footer	_site/assets/css/just-the-docs-light.css	/^.site-footer {$/;"	c
 .site-footer credit	_site/assets/css/just-the-docs-dark.css	/^      .site-footer credit {$/;"	s
-.site-footer credit	_site/assets/css/just-the-docs-dark.css	/^  .site-footer credit {$/;"	s
 .site-footer credit	_site/assets/css/just-the-docs-default.css	/^      .site-footer credit {$/;"	s
-.site-footer credit	_site/assets/css/just-the-docs-default.css	/^  .site-footer credit {$/;"	s
 .site-footer credit	_site/assets/css/just-the-docs-light.css	/^      .site-footer credit {$/;"	s
-.site-footer credit	_site/assets/css/just-the-docs-light.css	/^  .site-footer credit {$/;"	s
+.site-footer img	_site/assets/css/just-the-docs-dark.css	/^      .site-footer img {$/;"	s
 .site-footer img	_site/assets/css/just-the-docs-dark.css	/^  .site-footer img {$/;"	s
+.site-footer img	_site/assets/css/just-the-docs-default.css	/^      .site-footer img {$/;"	s
 .site-footer img	_site/assets/css/just-the-docs-default.css	/^  .site-footer img {$/;"	s
+.site-footer img	_site/assets/css/just-the-docs-light.css	/^      .site-footer img {$/;"	s
 .site-footer img	_site/assets/css/just-the-docs-light.css	/^  .site-footer img {$/;"	s
 .site-header	_site/assets/css/just-the-docs-dark.css	/^    .site-header {$/;"	c
 .site-header	_site/assets/css/just-the-docs-dark.css	/^    .site-header,$/;"	c
