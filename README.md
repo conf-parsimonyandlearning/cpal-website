@@ -31,12 +31,14 @@ subject areas of interest and general policies. Stay tuned for further updates.
 
 # Key Dates and Deadlines
 
-- **August 28th, 2023: Submission Deadline**
-- October 14th, 2023: 2-Week Rebuttal Stage Starts
-- October 27th, 2023: Rebuttal Stage Ends, Authors-Reviewers Discussion Stage Starts
-- November 5th, 2023: Authors-Reviewers Discussion Stage Ends
-- **November 20th, 2023: Final Decisions Released**
-- November 30th, 2023: Camera-Ready Deadline
+- **August 28th, 2023: Submission Deadline for Proceedings Track**
+- **October 10th, 2023: Submission Deadline for Recent Spotlight Track**
+- October 14th, 2023: 2-Week Rebuttal Stage Starts (Proceedings Track)
+- October 27th, 2023: Rebuttal Stage Ends, Authors-Reviewers Discussion Stage Starts (Proceedings Track)
+- November 5th, 2023: Authors-Reviewers Discussion Stage Ends (Proceedings
+  Track)
+- **November 20th, 2023: Final Decisions Released (Both Tracks)**
+- November 30th, 2023: Camera-Ready Deadline (Both Tracks)
 - **January 3rd-6th, 2024: Main Conference (In-Person, HKU Main Campus)**
 
 # Keynote Speakers

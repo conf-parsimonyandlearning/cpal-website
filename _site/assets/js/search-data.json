@@ -8,7 +8,7 @@
   },"1": {
     "doc": "Home",
     "title": "Key Dates and Deadlines",
-    "content": ". | August 28th, 2023: Submission Deadline | October 14th, 2023: 2-Week Rebuttal Stage Starts | October 27th, 2023: Rebuttal Stage Ends, Authors-Reviewers Discussion Stage Starts | November 5th, 2023: Authors-Reviewers Discussion Stage Ends | November 20th, 2023: Final Decisions Released | November 30th, 2023: Camera-Ready Deadline | January 3rd-6th, 2024: Main Conference (In-Person, HKU Main Campus) | . ",
+    "content": ". | August 28th, 2023: Submission Deadline for Proceedings Track | October 10th, 2023: Submission Deadline for Recent Spotlight Track | October 14th, 2023: 2-Week Rebuttal Stage Starts (Proceedings Track) | October 27th, 2023: Rebuttal Stage Ends, Authors-Reviewers Discussion Stage Starts (Proceedings Track) | November 5th, 2023: Authors-Reviewers Discussion Stage Ends (Proceedings Track) | November 20th, 2023: Final Decisions Released (Both Tracks) | November 30th, 2023: Camera-Ready Deadline (Both Tracks) | January 3rd-6th, 2024: Main Conference (In-Person, HKU Main Campus) | . ",
     "url": "/#key-dates-and-deadlines",
     
     "relUrl": "/#key-dates-and-deadlines"
@@ -92,7 +92,7 @@
   },"13": {
     "doc": "Key Dates",
     "title": "Key Dates and Deadlines",
-    "content": ". | August 28th, 2023: Submission Deadline | October 14th, 2023: 2-Week Rebuttal Stage Starts | October 27th, 2023: Rebuttal Stage Ends, Authors-Reviewers Discussion Stage Starts | November 5th, 2023: Authors-Reviewers Discussion Stage Ends | November 20th, 2023: Final Decisions Released | November 30th, 2023: Camera-Ready Deadline | January 3rd-6th, 2024: Main Conference (In-Person, HKU Main Campus) | . ",
+    "content": ". | August 28th, 2023: Submission Deadline for Proceedings Track | October 10th, 2023: Submission Deadline for Recent Spotlight Track | October 14th, 2023: 2-Week Rebuttal Stage Starts (Proceedings Track) | October 27th, 2023: Rebuttal Stage Ends, Authors-Reviewers Discussion Stage Starts (Proceedings Track) | November 5th, 2023: Authors-Reviewers Discussion Stage Ends (Proceedings Track) | November 20th, 2023: Final Decisions Released (Both Tracks) | November 30th, 2023: Camera-Ready Deadline (Both Tracks) | January 3rd-6th, 2024: Main Conference (In-Person, HKU Main Campus) | . ",
     "url": "/deadlines/#key-dates-and-deadlines",
     
     "relUrl": "/deadlines/#key-dates-and-deadlines"
@@ -309,7 +309,7 @@
   },"44": {
     "doc": "Submission Tracks",
     "title": "“Recent Spotlight” Track (non-archival)",
-    "content": "We meanwhile aim to showcase the latest research innovations at all stages of the research process, from work-in-progress to recently published papers. Concretely, we ask members of the community to submit a conference-style paper (from four to eight pages, with extra pages for references) describing the work. Please also upload a short (250 word) abstract to OpenReview. OpenReview submissions may also include any of the following supplemental materials that describe the work in further detail: . | A poster (in PDF form) presenting results of work-in-progress. | A link to an arXiv preprint or a blog post (e.g., distill.pub, Medium) describing results. | Appendices with detailed derivations and additional experiments. | . This track is non-archival and has no proceedings. We permit under-review or concurrent submissions. Reviewing will be performed in a single-blind fashion (authors should not anonymize their submissions), and will be held with the same high quality bar with the Proceeding Track. ",
+    "content": "We meanwhile aim to showcase the latest research innovations at all stages of the research process, from work-in-progress to recently published papers. Concretely, we ask members of the community to submit a conference-style paper (from four to eight pages, with extra pages for references) describing the work. Please also upload a short (250 word) abstract to OpenReview. OpenReview submissions may also include any of the following supplemental materials that describe the work in further detail: . | A poster (in PDF form) presenting results of work-in-progress. | A link to an arXiv preprint or a blog post (e.g., distill.pub, Medium) describing results. | Appendices with detailed derivations and additional experiments. | . This track is non-archival and has no proceedings. We permit under-review or concurrent submissions, as well as papers officially accepted by a journal or conference within 6 months of the submission deadline for Recent Spotlight Track (Oct 10, 2023). Reviewing will be performed in a single-blind fashion (authors should not anonymize their submissions), and will be held with the same high quality bar with the Proceeding Track. ",
     "url": "/tracks/#recent-spotlight-track-non-archival",
     
     "relUrl": "/tracks/#recent-spotlight-track-non-archival"

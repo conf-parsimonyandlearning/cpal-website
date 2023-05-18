@@ -70,4 +70,10 @@ materials that describe the work in further detail:
 - **A link to an arXiv preprint or a blog post** (e.g., distill.pub, Medium) describing results.
 - **Appendices** with detailed derivations and additional experiments.
 
-This track is non-archival and has no proceedings. We permit under-review or concurrent submissions. Reviewing will be performed in a single-blind fashion (authors should not anonymize their submissions), and will be held with the same high quality bar with the Proceeding Track. 
+This track is non-archival and has no proceedings. We permit under-review or
+concurrent submissions, as well as papers officially accepted by a journal or
+conference within 6 months of the [submission deadline]({{
+site.baseurl}}/deadlines) for Recent Spotlight
+Track (Oct 10, 2023). Reviewing will be performed in a single-blind
+fashion (authors should not anonymize their submissions), and will be held with
+the same high quality bar with the Proceeding Track. 

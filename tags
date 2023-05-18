@@ -5277,6 +5277,8 @@ Document	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><m
 Document	_site/venue/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Document	_site/vision/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Elena Mocanu	_site/area_chairs/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Email	_site/assets/images/email.svg	/^$/;"	i
+Email	assets/images/email.svg	/^$/;"	i
 Eric P. Xing	_site/advisory/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Expand	_site/advisory/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Expand	_site/area_chairs/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5647,8 +5649,8 @@ content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:35
 content	_site/assets/js/search-data.json	/^    "content": "(Adapted from ICML\/ICLR\/NeurIPS\/LoG) . We strive to hold a conference in whic/;"	s	object:11
 content	_site/assets/js/search-data.json	/^    "content": "--> Dan Alistarh . IST Austria\/Neural Magic . Tom Goldstein . University of Mar/;"	s	object:3
 content	_site/assets/js/search-data.json	/^    "content": "--> Dan Alistarh . IST Austria\/Neural Magic . Tom Goldstein . University of Mar/;"	s	object:33
-content	_site/assets/js/search-data.json	/^    "content": ". | August 28th, 2023: Submission Deadline | October 14th, 2023: 2-Week Rebuttal/;"	s	object:1
-content	_site/assets/js/search-data.json	/^    "content": ". | August 28th, 2023: Submission Deadline | October 14th, 2023: 2-Week Rebuttal/;"	s	object:13
+content	_site/assets/js/search-data.json	/^    "content": ". | August 28th, 2023: Submission Deadline for Proceedings Track | October 10th,/;"	s	object:1
+content	_site/assets/js/search-data.json	/^    "content": ". | August 28th, 2023: Submission Deadline for Proceedings Track | October 10th,/;"	s	object:13
 content	_site/assets/js/search-data.json	/^    "content": ". | Generalization, optimization, robustness, and approximation in deep learning/;"	s	object:38
 content	_site/assets/js/search-data.json	/^    "content": ". | Libraries, kernels, and compilers for accelerating sparse computation | Hard/;"	s	object:39
 content	_site/assets/js/search-data.json	/^    "content": ". | Modern signal models: probabilistic, geometric (manifolds, graphical), visua/;"	s	object:37
@@ -6141,6 +6143,7 @@ noscript .table-wrapper	_site/assets/css/just-the-docs-dark.css	/^noscript .tabl
 noscript .table-wrapper	_site/assets/css/just-the-docs-default.css	/^noscript .table-wrapper {$/;"	c
 noscript .table-wrapper	_site/assets/css/just-the-docs-light.css	/^noscript .table-wrapper {$/;"	c
 notable-innovations-in-our-review-mechanism	_site/review_guidelines/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+ns2737b8720101	assets/images/email.svg	/^<svg fill="#000000" width="800px" height="800px" viewBox="0 0 32 32" xmlns="http:\/\/www.w3.org\//;"	n	uri:http://www.w3.org/2000/svg
 ns39fe2cff0101	assets/images/logo_text.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
 ns62ac8ff80101	assets/images/linkedin.svg	/^	 viewBox="-143 145 512 512" xml:space="preserve">$/;"	n	uri:http://www.w3.org/2000/svg
 ns647beeeb0101	assets/images/tmp0.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" version="1.1" width="600" height="600">$/;"	n	uri:http://www.w3.org/2000/svg
@@ -6152,6 +6155,7 @@ ns8bd75b7b0101	assets/images/logo.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\
 nsa120f39e0101	_site/assets/images/logo.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
 nsb57b819b0101	_site/assets/images/linkedin.svg	/^	 viewBox="-143 145 512 512" xml:space="preserve">$/;"	n	uri:http://www.w3.org/2000/svg
 nscf91ad800101	_site/assets/images/twitter.svg	/^	 viewBox="-143 145 512 512" xml:space="preserve">$/;"	n	uri:http://www.w3.org/2000/svg
+nse5b454f50101	_site/assets/images/email.svg	/^<svg fill="#000000" width="800px" height="800px" viewBox="0 0 32 32" xmlns="http:\/\/www.w3.org\//;"	n	uri:http://www.w3.org/2000/svg
 nse6ab53020101	_site/assets/images/logo_text.svg	/^   xmlns:svg="http:\/\/www.w3.org\/2000\/svg">$/;"	n	uri:http://www.w3.org/2000/svg
 office-hours	_sass/custom/calendar.scss	/^    &.office-hours {$/;"	c
 ol	_site/assets/css/just-the-docs-dark.css	/^ol,$/;"	s

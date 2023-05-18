@@ -112,11 +112,14 @@ summary {
 .site-footer {
   @include container;
 
-  @include fs-4;
+  text-connect {
+    @include fs-7;
+  }
 
   img {
-    height: 28px;
+    height: 60px;
     // opacity: 0.5;
+    border: 0 !important;
   }
 
 }
