@@ -6950,3 +6950,17 @@ summary {
   font-weight: normal; }
   .main-content dd + dt {
     margin-top: 1em; }
+
+.site-footer {
+  padding-right: 1rem;
+  padding-left: 1rem;
+  font-size: 14px !important; }
+  @media (min-width: 50rem) {
+    .site-footer {
+      padding-right: 2rem;
+      padding-left: 2rem; } }
+  @media (min-width: 31.25rem) {
+    .site-footer {
+      font-size: 16px !important; } }
+  .site-footer img {
+    height: 28px; }

@@ -6351,6 +6351,7 @@ setTheme	_site/assets/js/just-the-docs.js	/^jtd.setTheme = function(theme) {$/;"
 showSearch	_site/assets/js/just-the-docs.js	/^  function showSearch() {$/;"	f	function:searchLoaded
 side-bar	_sass/custom/custom_backup.scss	/^.side-bar {$/;"	c
 site-button	_sass/custom/custom_backup.scss	/^  .site-header .site-button {$/;"	c
+site-footer	_sass/custom/custom.scss	/^.site-footer {$/;"	c
 site-footer	_sass/custom/custom_backup.scss	/^.site-footer {$/;"	c
 site-header	_sass/custom/custom_backup.scss	/^  .site-header .site-button {$/;"	c
 site-header	_sass/custom/custom_backup.scss	/^.site-header {$/;"	c

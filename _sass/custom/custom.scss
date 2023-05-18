@@ -108,3 +108,15 @@ summary {
     }
   }
 }
+
+.site-footer {
+  @include container;
+
+  @include fs-4;
+
+  img {
+    height: 28px;
+    // opacity: 0.5;
+  }
+
+}
