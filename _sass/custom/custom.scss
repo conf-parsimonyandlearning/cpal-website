@@ -120,19 +120,23 @@ summary {
 
 
   img {
-    height: 18px;
+    height: 24px;
+    width: 34px;
     // opacity: 0.5;
     border: 0 !important;
+    padding: 0px,5px,0px,5px;
   }
 
 
   @include mq(md) {
-    @include fs-7;
+    @include fs-5;
 
     img {
-      height: 52px;
+      height: 48px;
+      width: 48px;
       // opacity: 0.5;
       border: 0 !important;
+      padding: 0px,0px,0px,0px;
     }
 
     credit {

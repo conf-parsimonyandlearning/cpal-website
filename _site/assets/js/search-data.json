@@ -195,139 +195,153 @@
     
     "relUrl": "/organizers/"
   },"28": {
+    "doc": "Policies",
+    "title": "TODO for this page:",
+    "content": ". | DEI? | Code of conduct? | Review/author guide? | . ",
+    "url": "/policies%202/#todo-for-this-page",
+    
+    "relUrl": "/policies%202/#todo-for-this-page"
+  },"29": {
+    "doc": "Policies",
+    "title": "Policies",
+    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",
+    "url": "/policies%202/",
+    
+    "relUrl": "/policies%202/"
+  },"30": {
     "doc": "Review Guidelines",
     "title": "Reviewer Guidelines",
     "content": " ",
     "url": "/review_guidelines/#reviewer-guidelines",
     
     "relUrl": "/review_guidelines/#reviewer-guidelines"
-  },"29": {
+  },"31": {
     "doc": "Review Guidelines",
     "title": "Notable Innovations in Our Review Mechanism",
     "content": "CPAL strives for providing every paper with high-quality, accountable reviews, and therefore takes the following actions in addition: . | Shepherding by an Action PC: Every paper’s final decision, after being recommended by AC, will go through the direct shepherding of all program chairs (led by one “action PC”). The action PC has two main duties: . | (before final decision released) The action PC will pay particular attention to the borderline cases and the dispute (large score variations) cases, and will be asked to write additional “meta-meta reviews” in those cases and potentially calibrate on top of AC recommendations. Final decisions will be scrutinized and made in a joint meeting by all program chairs. | (after receiving the camera-ready) Each accepted paper’s authors will be asked to submit a one-page cover letter, summarizing what revisions are made between the paper’s submitted and camera-ready versions. The action PC will ensure: (1) all “promised” changes by authors during the discussion stage are indeed implemented; (2) no change that is “too substantial” and “unsoliciated” shall be made to the paper, unless in exceptional circumstances where the action PC has to approve case-by-case. The action PC reserves the right to reject a camera-ready submission and exclude it from the conference proceedings. | . | Semi-Open Identity for Accountability (Action PC and/or AC): For every accepted paper, the names of its AC and action PC will be publicly released on its OpenReview page too. For every rejected paper (excluding withdrawals), only the name of its action PC will be displayed. This decision was not reached lightly; but we hope it would meaningfully add credibility and accountability for every paper’s final outcome. | Reviewer Rating and “Dynamic Sparse Selection”: each AC will be asked to rate every reviewer in their batch, in terms of timeliness and quality. Program chairs, who know all reviewers’ identities, will compile a list of reviewers sorted by their average ratings received. Reviewers that receive consistent low reviewer rating for multiple papers / from multiple ACs will be excluded from future review processes. | . ",
     "url": "/review_guidelines/#notable-innovations-in-our-review-mechanism",
     
     "relUrl": "/review_guidelines/#notable-innovations-in-our-review-mechanism"
-  },"30": {
+  },"32": {
     "doc": "Review Guidelines",
     "title": "General Guidelines",
     "content": "We all like the Acceptance Criteria made by TMLR https://jmlr.org/tmlr/acceptance-criteria.html and would instruct our ACs and reviewers to honor the same. In particular we note: . “Crucially, it should not be used as a reason to reject work that isn’t considered “significant” or “impactful” because it isn’t achieving a new state-of-the-art on some benchmark. Nor should it form the basis for rejecting work on a method considered not “novel enough”, as novelty of the studied method is not a necessary criteria for acceptance. We explicitly avoid these terms (“significant”, “impactful”, “novel”), and focus instead on the notion of “interest”. If the authors make it clear that there is something to be learned by some researchers in their area from their work, then the criteria of interest is considered satisfied. ",
     "url": "/review_guidelines/#general-guidelines",
     
     "relUrl": "/review_guidelines/#general-guidelines"
-  },"31": {
+  },"33": {
     "doc": "Review Guidelines",
     "title": "Review Guidelines",
     "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",
     "url": "/review_guidelines/",
     
     "relUrl": "/review_guidelines/"
-  },"32": {
+  },"34": {
     "doc": "Keynote Speakers",
     "title": "Keynote Speakers",
     "content": "Additional speakers to be announced soon! . <!-- ",
     "url": "/speakers/#keynote-speakers",
     
     "relUrl": "/speakers/#keynote-speakers"
-  },"33": {
+  },"35": {
     "doc": "Keynote Speakers",
     "title": "Confirmed Distinguished Speakers",
     "content": "--> Dan Alistarh . IST Austria/Neural Magic . Tom Goldstein . University of Maryland . Yingbin Liang . Ohio State University . Robert D. Nowak . University of Wisconsin-Madison . Dimitris Papailiopoulos . University of Wisconsin-Madison . Jong Chul Ye . KAIST . ",
     "url": "/speakers/",
     
     "relUrl": "/speakers/"
-  },"34": {
+  },"36": {
     "doc": "Keynote Speakers",
     "title": "Keynote Speakers",
     "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",
     "url": "/speakers/",
     
     "relUrl": "/speakers/"
-  },"35": {
+  },"37": {
     "doc": "Subject Areas",
     "title": "Subject Areas",
     "content": " ",
     "url": "/subject_areas/#subject-areas",
     
     "relUrl": "/subject_areas/#subject-areas"
-  },"36": {
+  },"38": {
     "doc": "Subject Areas",
     "title": "Models and Algorithms",
     "content": ". | Parsimonious training and inference algorithms for deep networks, including but not limited to: . | Pruning, sparse training, lottery ticket hypothesis | Low-rank training, quantization, distillation, retrieval-augmented models | Adaptive/conditional computation, including mixture of experts | Parsimonious transfer learning methods, such as sparse tuning or LoRA | . | Compact and efficient neural network architectures by design | Model-based architectures as inspired by structured models (such as unrolling) | Robust/stable/invariant models or training/inference algorithms, guided by parsimony principles | Nonlinear dimension reduction methods (such as autoencoders, subspace learning, manifold learning, etc.) | Interpretability induced by parsimonious modeling (such as feature selection, model visualization) | Generative models guided by parsimony principles | Distributed, federated, and communicated-efficient training or inference, that leverage model parsimony | Efficient neural scaling, and next-generation parsimonious architectures beyond common in-use models | . ",
     "url": "/subject_areas/#models-and-algorithms",
     
     "relUrl": "/subject_areas/#models-and-algorithms"
-  },"37": {
+  },"39": {
     "doc": "Subject Areas",
     "title": "Data",
     "content": ". | Modern signal models: probabilistic, geometric (manifolds, graphical), visual/3D, language, dynamical, hierarchical structures | Dataset parsimony (such as data filtering, coreset selection), and sparse data formats in non-Euclidean domains such as graph | Empirical and theoretical studies of representation learning with structured data | . ",
     "url": "/subject_areas/#data",
     
     "relUrl": "/subject_areas/#data"
-  },"38": {
+  },"40": {
     "doc": "Subject Areas",
     "title": "Theory",
     "content": ". | Generalization, optimization, robustness, and approximation in deep learning, rigorously relating to its implicit parsimony | Theories for classical sparse coding, dictionary learning, structured sparsity, subspace learning, etc., and their connections to neural network sparsity | Forgetting owing to sparsity, including fairness, privacy and bias concerns | . ",
     "url": "/subject_areas/#theory",
     
     "relUrl": "/subject_areas/#theory"
-  },"39": {
+  },"41": {
     "doc": "Subject Areas",
     "title": "Hardware and Systems",
     "content": ". | Libraries, kernels, and compilers for accelerating sparse computation | Hardware with customized support for sparse computation | Resource-efficient learning and co-design applications at the edge or the cloud | . ",
     "url": "/subject_areas/#hardware-and-systems",
     
     "relUrl": "/subject_areas/#hardware-and-systems"
-  },"40": {
+  },"42": {
     "doc": "Subject Areas",
     "title": "Applications and Science",
     "content": ". | Parsimonious AI for science and engineering applications, such as various inverse problems that benefit from parsimonious priors | Theoretical neuroscience and cognitive science foundations for parsimony, and biologically inspired algorithms | Other application fields crossing disciplinary boundaries and suggesting further collaborations under the theme of parsimony: computer vision, robotics, reinforcement learning, and more | . The above is intended as a high-level overview of CPAL’s focus and by no means exclusive. If you doubt that your paper fits the venue, feel free to contact the program chairs via email at pcs@cpal.cc. ",
     "url": "/subject_areas/#applications-and-science",
     
     "relUrl": "/subject_areas/#applications-and-science"
-  },"41": {
+  },"43": {
     "doc": "Subject Areas",
     "title": "Subject Areas",
     "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",
     "url": "/subject_areas/",
     
     "relUrl": "/subject_areas/"
-  },"42": {
+  },"44": {
     "doc": "Submission Tracks",
     "title": "Submission Tracks and Review Process",
     "content": "We will have a main proceeding track (archival), and a “recent spotlight” track (non-archival). ",
     "url": "/tracks/#submission-tracks-and-review-process",
     
     "relUrl": "/tracks/#submission-tracks-and-review-process"
-  },"43": {
+  },"45": {
     "doc": "Submission Tracks",
     "title": "Proceeding Track  (archival)",
     "content": "The submission and review stage will be double-blind. We use OpenReview to host papers and allow for public discussions. Before the end of the Authors-Reviewers Discussion Stage, besides official reviews, anyone can post publicly visible comments; and authors can participate in the discussion as well as update their submission at any time. After that, there will be an internal discussion period amongst reviewers and ACs with the aim of summarizing the review process, after which the final decisions are made by ACs. After the notification deadline, accepted and opted-in rejected papers will be made public and open for non-anonymous public commenting. Their anonymous reviews, meta-reviews, author responses and reviewer responses will also be made public. Authors of rejected papers will have two weeks after the notification deadline to opt in to make their de-anonymized rejected papers public in OpenReview. Submissions that are substantially similar to papers previously published, or submitted in parallel to other peer-reviewed venues with proceedings or journals may not be submitted to the Proceeding Track. Papers previously presented at workshops are permitted, so long as they did not appear in a conference proceedings (e.g., CVPRW proceedings), a journal or a book. The existence of non-anonymous preprints (on arXiv or other online repositories, personal websites, social media) will not result in rejection. Authors may submit anonymized work to CPAL that is already available as a preprint (e.g., on arXiv) without citing it. Accepted papers will be published in the Proceedings for Machine Learning Research (PMLR). Full proceedings papers can have up to 9 pages with unlimited pages for references and appendix. Upon acceptance of a paper, at least one of the authors must join the conference. Using Large Language Models (LLMs) . We follow the rule by NeurIPS 2023, quoted as follows: . “We welcome authors to use any tool that is suitable for preparing high-quality papers and research. However, we ask authors to keep in mind two important criteria. First, we expect papers to fully describe their methodology, and any tool that is important to that methodology, including the use of LLMs, should be described also. For example, authors should mention tools (including LLMs) that were used for data processing or filtering, visualization, facilitating or running experiments, and proving theorems. It may also be advisable to describe the use of LLMs in implementing the method (if this corresponds to an important, original, or non-standard component of the approach). Second, authors are responsible for the entire content of the paper, including all text and figures, so while authors are welcome to use any tool they wish for writing the paper, they must ensure that all text is correct and original.” . ",
     "url": "/tracks/#proceeding-track--archival",
     
     "relUrl": "/tracks/#proceeding-track--archival"
-  },"44": {
+  },"46": {
     "doc": "Submission Tracks",
     "title": "“Recent Spotlight” Track (non-archival)",
     "content": "We meanwhile aim to showcase the latest research innovations at all stages of the research process, from work-in-progress to recently published papers. Concretely, we ask members of the community to submit a conference-style paper (from four to eight pages, with extra pages for references) describing the work. Please also upload a short (250 word) abstract to OpenReview. OpenReview submissions may also include any of the following supplemental materials that describe the work in further detail: . | A poster (in PDF form) presenting results of work-in-progress. | A link to an arXiv preprint or a blog post (e.g., distill.pub, Medium) describing results. | Appendices with detailed derivations and additional experiments. | . This track is non-archival and has no proceedings. We permit under-review or concurrent submissions, as well as papers officially accepted by a journal or conference within 6 months of the submission deadline for Recent Spotlight Track (Oct 10, 2023). Reviewing will be performed in a single-blind fashion (authors should not anonymize their submissions), and will be held with the same high quality bar with the Proceeding Track. ",
     "url": "/tracks/#recent-spotlight-track-non-archival",
     
     "relUrl": "/tracks/#recent-spotlight-track-non-archival"
-  },"45": {
+  },"47": {
     "doc": "Submission Tracks",
     "title": "Submission Tracks",
     "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",
     "url": "/tracks/",
     
     "relUrl": "/tracks/"
-  },"46": {
+  },"48": {
     "doc": "Conference Vision",
     "title": "Conference Vision",
-    "content": "“Entities should not be multiplied unnecessarily.” . – William of Ockham . The ways we process, interpret, and predict with data in engineering and scientific applications have changed immeasurably since the advent of the deep learning era. The ‘traditional’ approach to algorithm design, based around parametric models for structured signals and measurements – say sparse and low-rank models – and the associated optimization toolkit, is now regularly supplemented with data-driven learning-based techniques, where large-scale deep networks are pretrained and then adapted to a variety of tasks. The successes of both paradigms have depended crucially on the low-dimensional structure present in real-world data, to the extent that we view the roles of parsimony of data processing algorithms – whether explicit or implicit, as with deep networks – and learning as inextricably linked. Over the last ten or so years, several rich lines of research, both applied and theoretical, have explored the interplay between these two principles. Some works explore the role of signal models in the era of deep learning, attempting to understand the interaction between deep networks and nonlinear, multimodal data. Others have applied these insights to the principled design of deep architectures that incorporate known structures in data into the learning process. Still others have considered the parameters of generic deep networks as first-class citizens in their own right, exploring ways to compress and sparsify models for greater efficiency, often accompanied with hardware or system-aware co-designs. Across each of these settings, theoretical works have begun to explain the foundations of efficient learning – from optimization to generalization – in spite of “overparameterization” and other obstructions. And most recently, the advent of foundation models has led some to posit that parsimony itself is a fundamental part of the learning objective of an intelligent system, connecting to ideas from neuroscience on compression as a guiding principle for the brain representing the sensory data of the world. By and large, these lines of work have developed in isolation from one another, in spite of their common basis in parsimony and learning. Our intention in organizing this conference is to address this: we envision the conference as a general forum where researchers in machine learning, applied mathematics, signal processing, optimization, hardware &amp; systems, and all associated science and engineering applications can gather, share insights, and ultimately work towards a common data-centric understanding of modern parsimonious learning frameworks. ",
+    "content": "“Everything should be made as simple as possible, but not any simpler.” . – Albert Einstein . One of the most fundamental reasons for the very existence and therefore emergence of intelligence or science is that the world is not fully random, but highly structured and predictable. Hence, a fundamental purpose and function of intelligence or science is to learn parsimonious models (or laws) for such predicable structures, from massive sensed data of the world. Over the past decade, the advent of machine learning and large-scale computing has immeasurably changed the ways we process, interpret, and predict with data in engineering and science. The ‘traditional’ approach to algorithm design, based around parametric models for specific structures of signals and measurements – say sparse and low-rank models – and the associated optimization toolkit, is now significantly enriched with data-driven learning-based techniques, where large-scale networks are pre-trained and then adapted to a variety of specific tasks. Nevertheless, the successes of both modern data-driven and classic model-based paradigms rely crucially on correctly identifying the low-dimensional structures present in real-world data, to the extent that we see the roles of learning and compression of data processing algorithms – whether explicit or implicit, as with deep networks – as inextricably linked. Over the last ten or so years, several rich lines of research, including theoretical, computational, and practical, have explored the interplay between learning and compression. Some works explore the role of signal models in the era of deep learning, attempting to understand the interaction between deep networks and nonlinear, multi-modal data structures. Others have applied these insights to the principled design of deep architectures that incorporate desired structures in data into the learning process. Still others have considered generic deep networks as first-class citizens in their own right, exploring ways to compress and sparsify models for greater efficiency, often accompanied by hardware or system-aware co-designs. Across each of these settings, theoretical works rooted in low-dimensional modeling have begun to explain the foundations of deep architectures and efficient learning – from optimization to generalization – in spite of “overparameterization” and other obstructions. Most recently, the advent of foundation models has led some to posit that parsimony and compression itself are a fundamental part of the learning objective of an intelligent system, connecting to ideas from neuroscience on compression as a guiding principle for the brain representing the sensory data of the world. By and large, these lines of work have so far developed somewhat in isolation from one another, in spite of their common basis and purpose for parsimony and learning. Our intention in organizing this conference is to address this issue and go beyond: we envision the conference as a general scientific forum where researchers in machine learning, applied mathematics, signal processing, optimization, intelligent systems, and all associated science and engineering fields can gather, share insights, and ultimately work towards a common modern theoretical and computational framework for understanding intelligence and science from the perspective of parsimonious learning. ",
     "url": "/vision/#conference-vision",
     
     "relUrl": "/vision/#conference-vision"
-  },"47": {
+  },"49": {
     "doc": "Conference Vision",
     "title": "Conference Vision",
     "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",

@@ -6759,19 +6759,22 @@ summary {
       padding-right: 2rem;
       padding-left: 2rem; } }
   .site-footer img {
-    height: 18px;
-    border: 0 !important; }
+    height: 24px;
+    width: 34px;
+    border: 0 !important;
+    padding: 0px,5px,0px,5px; }
   @media (min-width: 50rem) {
     .site-footer {
-      font-size: 24px !important;
-      line-height: 1.25; } }
+      font-size: 16px !important; } }
   @media (min-width: 50rem) and (min-width: 31.25rem) {
     .site-footer {
-      font-size: 32px !important; } }
+      font-size: 18px !important; } }
   @media (min-width: 50rem) {
       .site-footer img {
-        height: 52px;
-        border: 0 !important; }
+        height: 48px;
+        width: 48px;
+        border: 0 !important;
+        padding: 0px,0px,0px,0px; }
       .site-footer credit {
         font-size: 11px !important; } }
     @media (min-width: 50rem) and (min-width: 31.25rem) {
