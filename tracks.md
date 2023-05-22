@@ -31,7 +31,7 @@ made public and open for non-anonymous public commenting. Their anonymous
 reviews, meta-reviews, author responses and reviewer responses will also be
 made public. Authors of rejected papers will have two weeks after the
 notification deadline to opt in to make their de-anonymized rejected papers
-public in OpenReview.  
+public in OpenReview.
 
 Submissions that are substantially similar to papers previously published, or
 submitted in parallel to other peer-reviewed venues with proceedings or
@@ -45,9 +45,9 @@ Authors may submit anonymized work to CPAL that is already available as a
 preprint (e.g., on arXiv) without citing it.
 
 Accepted papers will be published in the [Proceedings for Machine Learning
-Research (PMLR)](https://proceedings.mlr.press/). Full proceedings papers can have up to 9 pages with unlimited
-pages for references and appendix. Upon acceptance of a paper, at least one of
-the authors must join the conference.
+Research (PMLR)](https://proceedings.mlr.press/). Full proceedings papers can
+have up to nine pages with unlimited pages for references and appendix. Upon
+acceptance of a paper, at least one of the authors must join the conference.
 
 ### Using Large Language Models (LLMs) 
 We follow the rule by NeurIPS 2023, quoted as follows:
@@ -60,7 +60,7 @@ We follow the rule by NeurIPS 2023, quoted as follows:
 We meanwhile aim to showcase the latest research innovations at all stages of
 the research process, from work-in-progress to recently published papers.
 Concretely, we ask members of the community to submit a conference-style paper
-(from four to eight pages, with extra pages for references) describing the
+(at most nine pages, with extra pages for references allowed) describing the
 work. Please also upload a short (250 word) abstract to
 [OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Conference).
 OpenReview submissions may also include any of the following supplemental
