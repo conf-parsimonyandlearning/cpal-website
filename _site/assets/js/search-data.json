@@ -22,7 +22,7 @@
   },"3": {
     "doc": "Home",
     "title": "Confirmed Distinguished Speakers",
-    "content": "--> Dan Alistarh . IST Austria/Neural Magic . Tom Goldstein . University of Maryland . Yingbin Liang . Ohio State University . Robert D. Nowak . University of Wisconsin-Madison . Dimitris Papailiopoulos . University of Wisconsin-Madison . Jong Chul Ye . KAIST . ",
+    "content": "--> Dan Alistarh . IST Austria / Neural Magic . SueYeon Chung . NYU / Flatiron Institute . Tom Goldstein . University of Maryland . Yingbin Liang . Ohio State University . Robert D. Nowak . University of Wisconsin-Madison . Dimitris Papailiopoulos . University of Wisconsin-Madison . Jong Chul Ye . KAIST . ",
     "url": "/",
     
     "relUrl": "/"
@@ -36,7 +36,7 @@
   },"5": {
     "doc": "Advisory Committee",
     "title": "Advisory Committee",
-    "content": "Additional members of the advisory committee to be announced soon . Alex Dimakis . UT Austin . Advisory Committee . Michael Elad . Technion . Advisory Committee . Yi Ma . UC Berkeley . Advisory Committee . Stefano Soatto . UCLA . Advisory Committee . Rebecca Willett . UChicago . Advisory Committee . Eric P. Xing . MBZUAI/Carnegie Mellon University . Advisory Committee . Tong Zhang . HKUST . Advisory Committee . ",
+    "content": "Additional members of the advisory committee to be announced soon . Alex Dimakis . UT Austin . Advisory Committee . Michael Elad . Technion . Advisory Committee . Yi Ma . UC Berkeley . Advisory Committee . Stefano Soatto . UCLA . Advisory Committee . Rebecca Willett . UChicago . Advisory Committee . Eric P. Xing . MBZUAI / Carnegie Mellon University . Advisory Committee . Tong Zhang . HKUST . Advisory Committee . ",
     "url": "/advisory/#advisory-committee",
     
     "relUrl": "/advisory/#advisory-committee"
@@ -50,7 +50,7 @@
   },"7": {
     "doc": "Area Chairs",
     "title": "Area Chairs",
-    "content": "Chenglong Bao . Tsinghua University . Area Chair . Babak Ehteshami Bejnordi . Qualcomm . Area Chair . Beidi Chen . Meta/Carnegie Mellon University . Area Chair . Tianlong Chen . UT Austin/MIT . Area Chair . Yubei Chen . NYU/Meta . Area Chair . Yuxin Chen . UPenn . Area Chair . Ivan Dokmanić . University of Basel . Area Chair . Simon Du . University of Washington . Area Chair . Utku Evci . Google DeepMind . Area Chair . Souvik Kundu . Intel Labs, USA . Area Chair . Qi Lei . NYU . Area Chair . Xiao Li . CUHK Shenzhen . Area Chair . Elena Mocanu . University of Twente . Area Chair . Greg Ongie . Marquette University . Area Chair . Mahdi Soltanolkotabi . USC . Area Chair . Peng Wang . University of Michigan . Area Chair . Yu-Xiang Wang . UC Santa Barbara . Area Chair . Bihan Wen . Nanyang Technological University . Area Chair . Fanny Yang . ETH Zurich . Area Chair . Yuqian Zhang . Rutgers University . Area Chair . ",
+    "content": "Chenglong Bao . Tsinghua University . Area Chair . Babak Ehteshami Bejnordi . Qualcomm . Area Chair . Beidi Chen . Meta / Carnegie Mellon University . Area Chair . Tianlong Chen . UT Austin / MIT . Area Chair . Yubei Chen . NYU / Meta . Area Chair . Yuxin Chen . UPenn . Area Chair . Ivan Dokmanić . University of Basel . Area Chair . Simon Du . University of Washington . Area Chair . Utku Evci . Google DeepMind . Area Chair . Souvik Kundu . Intel Labs, USA . Area Chair . Qi Lei . NYU . Area Chair . Xiao Li . CUHK Shenzhen . Area Chair . Elena Mocanu . University of Twente . Area Chair . Greg Ongie . Marquette University . Area Chair . Mahdi Soltanolkotabi . USC . Area Chair . Peng Wang . University of Michigan . Area Chair . Yu-Xiang Wang . UC Santa Barbara . Area Chair . Bihan Wen . Nanyang Technological University . Area Chair . Fanny Yang . ETH Zurich . Area Chair . Yuqian Zhang . Rutgers University . Area Chair . ",
     "url": "/area_chairs/",
     
     "relUrl": "/area_chairs/"
@@ -113,7 +113,7 @@
   },"16": {
     "doc": "Organizers",
     "title": "General Chairs",
-    "content": "Gitta Kutyniok . LMU Munich . General Chair . Yi Ma . UC Berkeley . General Chair . Harry Shum . HKUST/IDEA . General Chair . René Vidal . UPenn . General Chair . ",
+    "content": "Gitta Kutyniok . LMU Munich . General Chair . Yi Ma . UC Berkeley . General Chair . Harry Shum . HKUST / IDEA . General Chair . René Vidal . UPenn . General Chair . ",
     "url": "/organizers/",
     
     "relUrl": "/organizers/"
@@ -141,7 +141,7 @@
   },"20": {
     "doc": "Organizers",
     "title": "Industry Liaison Chairs",
-    "content": "Dan Alistarh . IST Austria/Neural Magic . Industry Liaison Chair . Dilin Wang . Meta . Industry Liaison Chair . Chong You . Google Research . Industry Liaison Chair . ",
+    "content": "Dan Alistarh . IST Austria / Neural Magic . Industry Liaison Chair . Dilin Wang . Meta . Industry Liaison Chair . Chong You . Google Research . Industry Liaison Chair . ",
     "url": "/organizers/",
     
     "relUrl": "/organizers/"
@@ -232,7 +232,7 @@
   },"33": {
     "doc": "Keynote Speakers",
     "title": "Confirmed Distinguished Speakers",
-    "content": "--> Dan Alistarh . IST Austria/Neural Magic . Tom Goldstein . University of Maryland . Yingbin Liang . Ohio State University . Robert D. Nowak . University of Wisconsin-Madison . Dimitris Papailiopoulos . University of Wisconsin-Madison . Jong Chul Ye . KAIST . ",
+    "content": "--> Dan Alistarh . IST Austria / Neural Magic . SueYeon Chung . NYU / Flatiron Institute . Tom Goldstein . University of Maryland . Yingbin Liang . Ohio State University . Robert D. Nowak . University of Wisconsin-Madison . Dimitris Papailiopoulos . University of Wisconsin-Madison . Jong Chul Ye . KAIST . ",
     "url": "/speakers/",
     
     "relUrl": "/speakers/"
