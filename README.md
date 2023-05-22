@@ -38,7 +38,7 @@ subject areas of interest and general policies. Stay tuned for further updates.
 - November 5th, 2023: Authors-Reviewers Discussion Stage Ends (Proceedings
   Track)
 - **November 20th, 2023: Final Decisions Released (Both Tracks)**
-- November 30th, 2023: Camera-Ready Deadline (Both Tracks)
+- December 5th, 2023: Camera-Ready Deadline (Both Tracks)
 - **January 3rd-6th, 2024: Main Conference (In-Person, HKU Main Campus)**
 
 # Keynote Speakers
