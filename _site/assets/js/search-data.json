@@ -57,7 +57,7 @@
   },"8": {
     "doc": "Call for Papers",
     "title": "Submission Tracks",
-    "content": "CPAL has two submission tracks: a main proceeding track (archival), and a “recent spotlight” track (non-archival). Please visit this page for full details of both tracks. Both tracks use OpenReview to manage submissions and reviews. Submit your Work on OpenReview . ",
+    "content": "CPAL has two submission tracks: a main proceeding track (archival), and a “recent spotlight” track (non-archival). Please visit this page for full details of both tracks. Both tracks use OpenReview to manage submissions and reviews. Submissions to both tracks are to be prepared using the CPAL LaTeX style files. CPAL OpenReview Submission Portal . ",
     "url": "/cfp/#submission-tracks",
     
     "relUrl": "/cfp/#submission-tracks"

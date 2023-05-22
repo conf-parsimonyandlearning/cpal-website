@@ -12,14 +12,19 @@ nav_order: 3
 
 # Submission Tracks
 
+
 CPAL has two submission tracks: a main proceeding track (archival), and a
 “recent spotlight” track (non-archival). Please visit [this page]({{
-site.baseurl }}/tracks) for full details of both tracks. Both tracks use 
-[OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Conference) to manage
-submissions and reviews.
+site.baseurl }}/tracks) for full details of both tracks. 
 
-{: .fs-5 .text-center}
-[Submit your Work on OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Conference)
+Both tracks use
+[OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Conference) to manage
+submissions and reviews. Submissions to both tracks are to be prepared using
+the [CPAL LaTeX style files]({{ site.baseurl}}/assets/CPAL-2024-template.zip).
+
+{: .fs-6 .text-center}
+[CPAL OpenReview Submission Portal](https://openreview.net/group?id=CPAL.cc/2024/Conference)
+
 
 
 # Subject Areas
