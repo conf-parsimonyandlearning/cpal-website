@@ -5436,6 +5436,8 @@ Submission Tracks	cfp.md	/^# Submission Tracks$/;"	c
 Submission Tracks and Review Process	_site/tracks/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Submission Tracks and Review Process	tracks.md	/^# Submission Tracks and Review Process$/;"	c
 Submission Tracks | CPAL	_site/tracks/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+SueYeon Chung	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+SueYeon Chung	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 TODO for this page:	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 TODO for this page:	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 TODO for this page:	_site/venue/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
@@ -5645,8 +5647,8 @@ content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:15
 content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:28
 content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:35
 content	_site/assets/js/search-data.json	/^    "content": "(Adapted from ICML\/ICLR\/NeurIPS\/LoG) . We strive to hold a conference in whic/;"	s	object:11
-content	_site/assets/js/search-data.json	/^    "content": "--> Dan Alistarh . IST Austria\/Neural Magic . Tom Goldstein . University of Mar/;"	s	object:3
-content	_site/assets/js/search-data.json	/^    "content": "--> Dan Alistarh . IST Austria\/Neural Magic . Tom Goldstein . University of Mar/;"	s	object:33
+content	_site/assets/js/search-data.json	/^    "content": "--> Dan Alistarh . IST Austria \/ Neural Magic . SueYeon Chung . NYU \/ Flatiron/;"	s	object:3
+content	_site/assets/js/search-data.json	/^    "content": "--> Dan Alistarh . IST Austria \/ Neural Magic . SueYeon Chung . NYU \/ Flatiron/;"	s	object:33
 content	_site/assets/js/search-data.json	/^    "content": ". | August 28th, 2023: Submission Deadline for Proceedings Track | October 10th,/;"	s	object:1
 content	_site/assets/js/search-data.json	/^    "content": ". | August 28th, 2023: Submission Deadline for Proceedings Track | October 10th,/;"	s	object:13
 content	_site/assets/js/search-data.json	/^    "content": ". | Generalization, optimization, robustness, and approximation in deep learning/;"	s	object:38
@@ -5671,7 +5673,7 @@ content	_site/assets/js/search-data.json	/^    "content": "Conference on Parsimo
 content	_site/assets/js/search-data.json	/^    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",$/;"	s	object:47
 content	_site/assets/js/search-data.json	/^    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",$/;"	s	object:6
 content	_site/assets/js/search-data.json	/^    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU The Conferenc/;"	s	object:4
-content	_site/assets/js/search-data.json	/^    "content": "Dan Alistarh . IST Austria\/Neural Magic . Industry Liaison Chair . Dilin Wang ./;"	s	object:20
+content	_site/assets/js/search-data.json	/^    "content": "Dan Alistarh . IST Austria \/ Neural Magic . Industry Liaison Chair . Dilin Wang/;"	s	object:20
 content	_site/assets/js/search-data.json	/^    "content": "Gitta Kutyniok . LMU Munich . General Chair . Yi Ma . UC Berkeley . General Chai/;"	s	object:16
 content	_site/assets/js/search-data.json	/^    "content": "Please see the list here. ",$/;"	s	object:25
 content	_site/assets/js/search-data.json	/^    "content": "Please see the list here. ",$/;"	s	object:26

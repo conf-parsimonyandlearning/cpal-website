@@ -11,7 +11,12 @@ nav_order: 1
 
 # Submission Tracks and Review Process
 
-We will have a main proceeding track (archival), and a “recent spotlight” track (non-archival). 
+We will have a main proceeding track (archival), and a “recent spotlight” track
+(non-archival).  Submissions to both tracks are to be prepared using the CPAL
+LaTeX style files, available as a [zip archive]({{
+site.baseurl}}/assets/CPAL-2024-template.zip) or as an [Overleaf
+template](https://www.overleaf.com/latex/templates/cpal-2024/kcdjgbnkzmpj).
+
 
 ## Proceeding Track  (archival)
 
