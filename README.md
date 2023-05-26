@@ -20,8 +20,8 @@ more detail [here]({{ site.baseurl }}/vision).
 
 # Call for Papers
 
-{: .fs-5 .text-center}
-[Submit your Work on OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Conference)
+<!--{: .fs-5 .text-center}
+[Submit your Work on OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Conference)-->
 
 We are pleased to invite paper submissions for the first Conference on
 Parsimony and Learning. Please see the [**call for papers**]({{ site.baseurl
@@ -31,8 +31,8 @@ subject areas of interest and general policies. Stay tuned for further updates.
 
 # Key Dates and Deadlines
 
-- **August 28th, 2023: Submission Deadline for Proceedings Track**
-- **October 10th, 2023: Submission Deadline for Recent Spotlight Track**
+- **August 28th, 2023: Submission Deadline for [Proceedings Track](https://openreview.net/group?id=CPAL.cc/2024/Conference)**
+- **October 10th, 2023: Submission Deadline for [Recent Spotlight Track](https://openreview.net/group?id=CPAL.cc/2024/Recent_Spotlight_Track)**
 - October 14th, 2023: 2-Week Rebuttal Stage Starts (Proceedings Track)
 - October 27th, 2023: Rebuttal Stage Ends, Authors-Reviewers Discussion Stage Starts (Proceedings Track)
 - November 5th, 2023: Authors-Reviewers Discussion Stage Ends (Proceedings

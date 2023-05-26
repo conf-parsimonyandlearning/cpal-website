@@ -5188,6 +5188,7 @@ Advisory Committee	advisory.md	/^# Advisory Committee$/;"	c
 Advisory Committee	organizers.md	/^## Advisory Committee$/;"	s	chapter:Organization Team
 Advisory Committee | CPAL	_site/advisory/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Alex Dimakis	_site/advisory/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Anima Anandkumar	_site/advisory/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 AnonymousClass44e4342b0501	_site/assets/js/just-the-docs.js	/^        this.field('title', { boost: 200 });$/;"	c	class:request.onload.AnonymousFunction44e4342b0400
 AnonymousClass44e4342b0601	_site/assets/js/just-the-docs.js	/^        this.field('content', { boost: 2 });$/;"	c	class:request.onload.AnonymousFunction44e4342b0400
 AnonymousClass44e4342b0701	_site/assets/js/just-the-docs.js	/^          this.add({$/;"	c	class:request.onload.AnonymousFunction44e4342b0400
@@ -5449,6 +5450,7 @@ Table of contents	_site/cfp/index.html	/^<!DOCTYPE html><html lang="en-US"><head
 Table of contents	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Theory	_site/subject_areas/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Theory	subject_areas.md	/^## Theory $/;"	s	chapter:Subject Areas
+Tianbao Yang	_site/area_chairs/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Tianlong Chen	_site/area_chairs/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Tom Goldstein	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Tom Goldstein	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5656,7 +5658,7 @@ content	_site/assets/js/search-data.json	/^    "content": ". | Libraries, kernel
 content	_site/assets/js/search-data.json	/^    "content": ". | Modern signal models: probabilistic, geometric (manifolds, graphical), visua/;"	s	object:37
 content	_site/assets/js/search-data.json	/^    "content": ". | Parsimonious AI for science and engineering applications, such as various in/;"	s	object:40
 content	_site/assets/js/search-data.json	/^    "content": ". | Parsimonious training and inference algorithms for deep networks, including /;"	s	object:36
-content	_site/assets/js/search-data.json	/^    "content": "Additional members of the advisory committee to be announced soon . Alex Dimakis/;"	s	object:5
+content	_site/assets/js/search-data.json	/^    "content": "Additional members of the advisory committee to be announced soon . Anima Anandk/;"	s	object:5
 content	_site/assets/js/search-data.json	/^    "content": "Additional speakers to be announced soon! . <!-- ",$/;"	s	object:2
 content	_site/assets/js/search-data.json	/^    "content": "Additional speakers to be announced soon! . <!-- ",$/;"	s	object:32
 content	_site/assets/js/search-data.json	/^    "content": "CPAL has two submission tracks: a main proceeding track (archival), and a “rec/;"	s	object:8

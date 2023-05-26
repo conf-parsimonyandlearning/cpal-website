@@ -67,7 +67,7 @@ the research process, from work-in-progress to recently published papers.
 Concretely, we ask members of the community to submit a conference-style paper
 (at most nine pages, with extra pages for references allowed) describing the
 work. Please also upload a short (250 word) abstract to
-[OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Conference).
+[OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Recent_Spotlight_Track).
 OpenReview submissions may also include any of the following supplemental
 materials that describe the work in further detail:
 
