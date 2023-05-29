@@ -5683,7 +5683,7 @@ content	_site/assets/js/search-data.json	/^    "content": "Gitta Kutyniok . LMU 
 content	_site/assets/js/search-data.json	/^    "content": "Please see the list here. ",$/;"	s	object:25
 content	_site/assets/js/search-data.json	/^    "content": "Please see the list here. ",$/;"	s	object:26
 content	_site/assets/js/search-data.json	/^    "content": "Saiprasad Ravishankar . Michigan State University . Tutorial Chair . John Wright/;"	s	object:22
-content	_site/assets/js/search-data.json	/^    "content": "Sam Buchanan . TTIC . Web Chair . ",$/;"	s	object:24
+content	_site/assets/js/search-data.json	/^    "content": "Sam Buchanan . TTIC . Web Chair . * Ordered alphabetically . ",$/;"	s	object:24
 content	_site/assets/js/search-data.json	/^    "content": "Sijia Liu . Michigan State University . Panel Chair . Jeremias Sulam . Johns Hop/;"	s	object:21
 content	_site/assets/js/search-data.json	/^    "content": "The submission and review stage will be double-blind. We use OpenReview to host /;"	s	object:43
 content	_site/assets/js/search-data.json	/^    "content": "We all like the Acceptance Criteria made by TMLR https:\/\/jmlr.org\/tmlr\/accep/;"	s	object:30
