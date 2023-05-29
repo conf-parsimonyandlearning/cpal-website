@@ -13,3 +13,6 @@ nav_order: 1
 **Additional members of the advisory committee to be announced soon**
 
 {% include advisory.html %}
+
+{: .fs-1 .text-grey-dk-000}
+\* Ordered alphabetically

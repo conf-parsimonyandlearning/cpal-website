@@ -9,3 +9,7 @@ nav_order: 0
 # Area Chairs
 
 {% include area_chairs.html %}
+
+
+{: .fs-1 .text-grey-dk-000}
+\* Ordered alphabetically

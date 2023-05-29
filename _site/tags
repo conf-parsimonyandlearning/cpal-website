@@ -5289,6 +5289,7 @@ Document	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><m
 Document	_site/venue/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Document	_site/vision/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Elena Mocanu	_site/area_chairs/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Emmanuel Candès	_site/advisory/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Eric P. Xing	_site/advisory/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Expand	_site/advisory/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Expand	_site/area_chairs/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5322,6 +5323,7 @@ Industry Liaison Chairs	_site/organizers/index.html	/^<!DOCTYPE html><html lang=
 Introduction to Low-Dimensional Models	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Ivan Dokmanić	_site/area_chairs/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Jeremias Sulam	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Jiaqi Ma	_site/area_chairs/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 John Wright	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 John Wright	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Jong Chul Ye	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5383,6 +5385,7 @@ Organization Team	organizers.md	/^# Organization Team$/;"	c
 Organizers | CPAL	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Panel Chairs	_includes/organizers.html	/^<h2>Panel Chairs<\/h2>$/;"	i
 Panel Chairs	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
+Paris Giampouras	_site/area_chairs/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Peng Wang	_site/area_chairs/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Proceeding Track  (archival)	tracks.md	/^## Proceeding Track  (archival)$/;"	s	chapter:Submission Tracks and Review Process
 Proceeding Track (archival)	_site/tracks/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
@@ -5682,9 +5685,9 @@ content	_site/assets/js/search-data.json	/^    "content": "Please see the list h
 content	_site/assets/js/search-data.json	/^    "content": "Saiprasad Ravishankar . Michigan State University . Tutorial Chair . John Wright/;"	s	object:22
 content	_site/assets/js/search-data.json	/^    "content": "Sam Buchanan . TTIC . Web Chair . ",$/;"	s	object:24
 content	_site/assets/js/search-data.json	/^    "content": "Sijia Liu . Michigan State University . Panel Chair . Jeremias Sulam . Johns Hop/;"	s	object:21
-content	_site/assets/js/search-data.json	/^    "content": "Submit your Work on OpenReview . We are pleased to invite paper submissions for /;"	s	object:0
 content	_site/assets/js/search-data.json	/^    "content": "The submission and review stage will be double-blind. We use OpenReview to host /;"	s	object:43
 content	_site/assets/js/search-data.json	/^    "content": "We all like the Acceptance Criteria made by TMLR https:\/\/jmlr.org\/tmlr\/accep/;"	s	object:30
+content	_site/assets/js/search-data.json	/^    "content": "We are pleased to invite paper submissions for the first Conference on Parsimony/;"	s	object:0
 content	_site/assets/js/search-data.json	/^    "content": "We invite submissions relevant to the following broad areas of interest, all con/;"	s	object:9
 content	_site/assets/js/search-data.json	/^    "content": "We meanwhile aim to showcase the latest research innovations at all stages of th/;"	s	object:44
 content	_site/assets/js/search-data.json	/^    "content": "We will have a main proceeding track (archival), and a “recent spotlight” tr/;"	s	object:42
