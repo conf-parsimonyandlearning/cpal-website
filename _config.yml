@@ -16,7 +16,7 @@
 title: CPAL
 tagline: Conference on Parsimony and Learning (CPAL)
 description: >- # this means to ignore newlines until "baseurl:" 
-  Homepage of the first Conference on Parsimony and Learning (CPAL), at Hong Kong University in January 2024. Call for papers, submission information, speakers, and policies. 
+  Website of the first Conference on Parsimony and Learning (CPAL), at Hong Kong University in January 2024. Call for papers, submission information, speakers, and policies. 
 domain: cpal.cc
 url: https://cpal.cc # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog

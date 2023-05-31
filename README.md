@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+description: Homepage of the first Conference on Parsimony and Learning (CPAL), at Hong Kong University in January 2024. Call for papers, submission information, speakers, and policies. 
 permalink: /
 nav_order: 0
 ---
