@@ -6752,8 +6752,7 @@ summary {
 
 .site-footer {
   padding-right: 1rem;
-  padding-left: 1rem;
-  position: absolute; }
+  padding-left: 1rem; }
   @media (min-width: 50rem) {
     .site-footer {
       padding-right: 2rem;
