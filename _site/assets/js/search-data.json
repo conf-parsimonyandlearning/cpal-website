@@ -36,7 +36,7 @@
   },"5": {
     "doc": "Advisory Committee",
     "title": "Advisory Committee",
-    "content": "Additional members of the advisory committee to be announced soon . Anima Anandkumar . Caltech / NVIDIA . Advisory Committee . Emmanuel Candès . Stanford . Advisory Committee . Alex Dimakis . UT Austin . Advisory Committee . Michael Elad . Technion . Advisory Committee . Yi Ma . UC Berkeley . Advisory Committee . Peyman Milanfar . Google Research . Advisory Committee . Stefano Soatto . UCLA . Advisory Committee . Rebecca Willett . UChicago . Advisory Committee . Eric P. Xing . MBZUAI / Carnegie Mellon University . Advisory Committee . Tong Zhang . HKUST . Advisory Committee . * Ordered alphabetically . ",
+    "content": "Additional members of the advisory committee to be announced soon . Anima Anandkumar . Caltech / NVIDIA . Advisory Committee . Emmanuel Candès . Stanford . Advisory Committee . Alex Dimakis . UT Austin . Advisory Committee . Michael Elad . Technion . Advisory Committee . Yi Ma . UC Berkeley / HKU IDS . Advisory Committee . Peyman Milanfar . Google Research . Advisory Committee . Stefano Soatto . UCLA . Advisory Committee . Rebecca Willett . UChicago . Advisory Committee . Eric P. Xing . MBZUAI / Carnegie Mellon University . Advisory Committee . Tong Zhang . HKUST . Advisory Committee . * Ordered alphabetically . ",
     "url": "/advisory/#advisory-committee",
     
     "relUrl": "/advisory/#advisory-committee"
@@ -113,7 +113,7 @@
   },"16": {
     "doc": "Organizers",
     "title": "General Chairs",
-    "content": "Gitta Kutyniok . LMU Munich . General Chair . Yi Ma . UC Berkeley . General Chair . Harry Shum . HKUST / IDEA . General Chair . René Vidal . UPenn . General Chair . ",
+    "content": "Gitta Kutyniok . LMU Munich . General Chair . Yi Ma . UC Berkeley / HKU IDS . General Chair . Harry Shum . HKUST / IDEA . General Chair . René Vidal . UPenn . General Chair . ",
     "url": "/organizers/",
     
     "relUrl": "/organizers/"
