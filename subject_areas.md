@@ -30,7 +30,7 @@ nav_order: 1
 - Parsimonious and structured representation learning from data.
 - Inverse problems that benefit from parsimonious priors.
 - Hardware and system co-design for parsimonious learning algorithms.
-- Intelligent systems that integrate perception, learning, and decision making (i.e., robots).
+- Parsimonious learning in intelligent systems that integrate perception-action cycles.
 - Applications in science, engineering, medicine, and social sciences.
 
 

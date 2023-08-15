@@ -239,7 +239,7 @@
   },"34": {
     "doc": "Subject Areas",
     "title": "Data, Systems &amp; Applications",
-    "content": ". | Domain-specific datasets, benchmarks, and evaluation metrics. | Parsimonious and structured representation learning from data. | Inverse problems that benefit from parsimonious priors. | Hardware and system co-design for parsimonious learning algorithms. | Intelligent systems that integrate perception, learning, and decision making (i.e., robots). | Applications in science, engineering, medicine, and social sciences. | . The above is intended as a high-level overview of CPAL’s focus and by no means exclusive. If you doubt that your paper fits the venue, feel free to contact the program chairs via email at pcs@cpal.cc. ",
+    "content": ". | Domain-specific datasets, benchmarks, and evaluation metrics. | Parsimonious and structured representation learning from data. | Inverse problems that benefit from parsimonious priors. | Hardware and system co-design for parsimonious learning algorithms. | Parsimonious learning in intelligent systems that integrate perception-action cycles. | Applications in science, engineering, medicine, and social sciences. | . The above is intended as a high-level overview of CPAL’s focus and by no means exclusive. If you doubt that your paper fits the venue, feel free to contact the program chairs via email at pcs@cpal.cc. ",
     "url": "/subject_areas/#data-systems--applications",
     
     "relUrl": "/subject_areas/#data-systems--applications"
