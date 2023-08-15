@@ -30,7 +30,9 @@ $content-width-0: 1200px;
     left: 16px;
 
     @include fs-7;
-    font-weight: 500;
+    @include mq(md) { 
+      font-weight: 500;
+    }
     color: $body-heading-color;
   }
 
@@ -39,8 +41,11 @@ $content-width-0: 1200px;
     bottom: 8px;
     right: 16px;
 
-    @include fs-7;
-    font-weight: 500;
+    @include fs-4;
+    @include mq(md) { 
+      @include fs-6;
+      font-weight: 500;
+    }
     color: $body-heading-color;
   }
 
@@ -168,5 +173,11 @@ summary {
     }
   }
 
+}
+
+.nav-list-link-expander {
+  @extend .nav-list-link;
+  color: $link-color;
+  width: 100%;
 }
 

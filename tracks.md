@@ -3,7 +3,7 @@ layout: page
 title: Submission Tracks
 description: List of submission tracks for conference submissions
 parent: Call for Papers
-nav_order: 1
+nav_order: 0
 ---
 
 {% include splash.html %}
@@ -11,14 +11,21 @@ nav_order: 1
 
 # Submission Tracks and Review Process
 
-We will have a main proceeding track (archival), and a “recent spotlight” track
-(non-archival).  Submissions to both tracks are to be prepared using the CPAL
+CPAL has two submission tracks:
+1. [Proceedings track]({{ site.baseurl }}/tracks/#proceeding-track--archival) (*archival*)
+2. ["Recent spotlight" track]({{ site.baseurl }}/tracks/#recent-spotlight-track-non-archival) (*non-archival*)
+
+Submissions to both tracks are to be prepared using the CPAL
 LaTeX style files, available as a [zip archive]({{
 site.baseurl}}/assets/CPAL-2024-template.zip) or as an [Overleaf
 template](https://www.overleaf.com/latex/templates/cpal-2024/kcdjgbnkzmpj).
 
 
-## Proceeding Track  (archival)
+{: .fs-6 .text-center}
+[CPAL OpenReview Submission Portal](https://openreview.net/group?id=CPAL.cc/2024)
+
+
+## Proceedings Track  (archival)
 
 The submission and review stage will be **double-blind**. We use 
 [OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Conference)
@@ -40,7 +47,7 @@ public in OpenReview.
 
 Submissions that are substantially similar to papers previously published, or
 submitted in parallel to other peer-reviewed venues with proceedings or
-journals may not be submitted to the Proceeding Track. Papers previously
+journals may not be submitted to the Proceedings Track. Papers previously
 presented at workshops are permitted, so long as they did not appear in a
 conference proceedings (e.g., CVPRW proceedings), a journal or a book.
 
@@ -81,4 +88,4 @@ conference within 6 months of the [submission deadline]({{
 site.baseurl}}/deadlines) for Recent Spotlight
 Track (Oct 10, 2023). Reviewing will be performed in a single-blind
 fashion (authors should not anonymize their submissions), and will be held with
-the same high quality bar with the Proceeding Track. 
+the same high quality bar with the Proceedings Track. 
