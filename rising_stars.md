@@ -27,7 +27,7 @@ groups underrepresented, are encouraged to apply, including but not limited to
 people of all racial, ethnic, geographic, and
 socioeconomic backgrounds, sexual orientations, genders, and persons with disabilities.
 
-**[Apply here](https://forms.gle/HthuciykcyMneECo8), and see details below.**
+**[Apply here](https://forms.gle/uGVBf1Ur4KsDs7A67), and see details below.**
 
 ## Key Dates
 
@@ -45,7 +45,7 @@ socioeconomic backgrounds, sexual orientations, genders, and persons with disabi
 
 ## Application Requirements
 
-The [application](https://forms.gle/HthuciykcyMneECo8) is available through Google Forms.
+The [application](https://forms.gle/uGVBf1Ur4KsDs7A67) is available through Google Forms.
 - Name & Contact 
 - Resume/CV
 - Tentative Poster Title
