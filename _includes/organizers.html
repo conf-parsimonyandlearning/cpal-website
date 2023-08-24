@@ -99,6 +99,19 @@
 
 </div>
 
+
+<h2>Rising Stars Award Chairs</h2>
+
+<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
+  flex-start;">
+
+  {% assign rsacs = site.organizers | where: 'role', 'Rising Stars Award Chair' %}
+  {% for organizer in rsacs %}
+  {{ organizer }}
+  {% endfor %}
+
+</div>
+
 <h2>Web Chairs</h2>
 
 <div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
