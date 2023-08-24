@@ -16,7 +16,7 @@ that prevail in machine learning, signal processing, optimization, and beyond.
 We are interested in theories, algorithms, applications, hardware and systems,
 as well as scientific foundations for learning with parsimony. 
 
-We describe [our]({{ site.baseurl }}/organizers) vision for the conference in
+We describe [our]({{ site.baseurl }}/organization_committee) vision for the conference in
 more detail [here]({{ site.baseurl }}/vision).
 
 <div class="youtube-wrapper">
@@ -32,7 +32,7 @@ more detail [here]({{ site.baseurl }}/vision).
 
 We are pleased to invite paper submissions for the first Conference on
 Parsimony and Learning. Please see the [**call for papers**]({{ site.baseurl
-}}/cfp) for details about the submission and reviewing process, as well as
+}}/tracks) for details about the submission and reviewing process, as well as
 subject areas of interest and general policies. Stay tuned for further updates.
 
 
