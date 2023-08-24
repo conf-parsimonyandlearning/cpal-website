@@ -5,22 +5,51 @@ description: Key dates and deadlines for the conference
 nav_order: 2
 ---
 
+<script src="//code.jquery.com/jquery.js"></script>
+<script src="{{ site.baseurl }}/assets/js/jquery.countdown.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/luxon.min.js"></script>
+
 {% include splash.html %}
 
 # Key Dates and Deadlines
 
 *All deadlines are 23:59 [Anywhere-on-Earth (AOE)](https://www.ieee802.org/16/aoe.html)*
 
-- **August 28th, 2023: Submission Deadline for [Proceedings Track](https://openreview.net/group?id=CPAL.cc/2024/Conference)**
-- October 1st, 2023: [Rising Stars Award]({{ site.baseurl }}/rising_stars)
-  Application Deadline
-- **October 10th, 2023: Submission Deadline for [Recent Spotlight Track](https://openreview.net/group?id=CPAL.cc/2024/Recent_Spotlight_Track)**
-- October 14th, 2023: 2-Week Rebuttal Stage Starts (Proceedings Track)
-- October 20th, 2023: [Rising Stars Award]({{ site.baseurl }}/rising_stars)
-  Decisions Released
-- October 27th, 2023: Rebuttal Stage Ends, Authors-Reviewers Discussion Stage Starts (Proceedings Track)
-- November 5th, 2023: Authors-Reviewers Discussion Stage Ends (Proceedings
-  Track)
-- **November 20th, 2023: Final Decisions Released (Both Tracks)**
-- December 5th, 2023: Camera-Ready Deadline (Both Tracks)
-- **January 3rd-6th, 2024: Main Conference (In-Person, HKU Main Campus)**
+## Conference Submission ([Proceedings Track]({{ site.baseurl }}/tracks/#proceedings-track--archival))
+
+| Event                                                   | Date                           | Countdown                    |
+|:--------------------------------------------------------|:-------------------------------|:-----------------------------|
+| Submission Deadline                                     | August 28th, 2023              |<span id="proc-sub"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2023, month: 8, day: 28, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#proc-sub').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
+| Reviews Released, Rebuttal Stage Begins                 | October 14th, 2023             |<span id="proc-review"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2023, month: 10, day: 14, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#proc-review').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
+| Rebuttal Stage Ends, Author-Reviewer Discussion Begins  | October 27th, 2023             |<span id="proc-disc"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2023, month: 10, day: 27, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#proc-disc').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
+| Author-Reviewer Discussion Ends                         | November 5th, 2023             |<span id="proc-disc-end"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2023, month: 11, day: 5, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#proc-disc-end').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
+| Final Decisions Released                                | November 20th, 2023            |<span id="proc-decision"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2023, month: 11, day: 20, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#proc-decision').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
+| Camera-Ready Deadline                                   | December 5th, 2023             |<span id="proc-camera"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2023, month: 12, day: 5, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#proc-camera').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
+
+
+{% include countdown.html %}
+
+
+## Conference Submission ([Recent Spotlight Track]({{ site.baseurl }}/tracks/#recent-spotlight-track-non-archival))
+
+| Event                     | Date                           | Countdown                    |
+|:--------------------------|:-------------------------------|:-----------------------------|
+| Submission Deadline       | October 10th, 2023             |<span id="wksp-sub"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2023, month: 10, day: 10, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#wksp-sub').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
+| Final Decisions Released  | November 20th, 2023            |<span id="wksp-decision"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2023, month: 11, day: 20, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#wksp-decision').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
+| Camera-Ready Deadline     | December 5th, 2023             |<span id="wksp-camera"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2023, month: 12, day: 5, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#wksp-camera').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
+
+
+## [Rising Stars Award]({{ site.baseurl }}/rising_stars)
+
+| Event                     | Date                           | Countdown                    |
+|:--------------------------|:-------------------------------|:-----------------------------|
+| Application Deadline      | October 1st, 2023              |<span id="stars-sub"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2023, month: 10, day: 1, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#stars-sub').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
+| Decisions Released        | October 20th, 2023             |<span id="stars-decision"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2023, month: 10, day: 20, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#stars-decision').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
+
+
+## Main Conference
+
+| Event                     | Date                            |
+|:--------------------------|:--------------------------------|
+| Conference Program        | January 3rd - January 6th, 2023 |
+

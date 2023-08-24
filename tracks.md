@@ -11,15 +11,14 @@ nav_order: 0
 
 # Submission Tracks and Review Process
 
-CPAL has two submission tracks:
-1. [Proceedings track]({{ site.baseurl }}/tracks/#proceedings-track--archival) (*archival*)
-2. ["Recent spotlight" track]({{ site.baseurl }}/tracks/#recent-spotlight-track-non-archival) (*non-archival*)
-
-Submissions to both tracks are to be prepared using the CPAL
-LaTeX style files, available as a [zip archive]({{
-site.baseurl}}/assets/CPAL-2024-template.zip) or as an [Overleaf
-template](https://www.overleaf.com/latex/templates/cpal-2024/kcdjgbnkzmpj).
-
+{: .highlight}
+> CPAL has two submission tracks:
+> 1. [Proceedings track]({{ site.baseurl }}/tracks/#proceedings-track--archival) (*archival*)
+> 2. ["Recent spotlight" track]({{ site.baseurl }}/tracks/#recent-spotlight-track-non-archival) (*non-archival*)
+> 
+> Submissions to both tracks are to be prepared using the CPAL
+> LaTeX style files, available as a [zip archive]({{ site.baseurl }}/assets/CPAL-2024-template.zip)
+> or as an [Overleaf template](https://www.overleaf.com/latex/templates/cpal-2024/kcdjgbnkzmpj).
 
 {: .fs-6 .text-center}
 [CPAL OpenReview Submission Portal](https://openreview.net/group?id=CPAL.cc/2024)
