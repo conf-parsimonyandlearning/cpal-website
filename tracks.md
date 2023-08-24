@@ -12,7 +12,7 @@ nav_order: 0
 # Submission Tracks and Review Process
 
 CPAL has two submission tracks:
-1. [Proceedings track]({{ site.baseurl }}/tracks/#proceeding-track--archival) (*archival*)
+1. [Proceedings track]({{ site.baseurl }}/tracks/#proceedings-track--archival) (*archival*)
 2. ["Recent spotlight" track]({{ site.baseurl }}/tracks/#recent-spotlight-track-non-archival) (*non-archival*)
 
 Submissions to both tracks are to be prepared using the CPAL
