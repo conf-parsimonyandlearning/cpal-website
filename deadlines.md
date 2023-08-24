@@ -27,9 +27,6 @@ nav_order: 2
 | Camera-Ready Deadline                                   | December 5th, 2023             |<span id="proc-camera"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2023, month: 12, day: 5, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#proc-camera').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
 
 
-{% include countdown.html %}
-
-
 ## Conference Submission ([Recent Spotlight Track]({{ site.baseurl }}/tracks/#recent-spotlight-track-non-archival))
 
 | Event                     | Date                           | Countdown                    |
