@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Conference on Parsimony and Learning (CPAL)
-description: Website of the first Conference on Parsimony and Learning (CPAL), an annual research conference focused on addressing the parsimonious, low dimensional structures that prevail in machine learning, signal processing, optimization, and beyond.
+description: Conference on Parsimony and Learning (CPAL) - Addressing the structures that prevail in machine learning, signal processing, optimization, and beyond.
 domain: cpal.cc
 url: https://cpal.cc # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
