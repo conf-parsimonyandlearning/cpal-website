@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Rising Stars Award
-description: Details of the Rising Stars Award, to support early-career researchers
 nav_order: 5
 ---
 

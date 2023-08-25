@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Code of Conduct
-description: Code of conduct for all submissions
 parent: Call for Papers
 nav_order: 4
 ---

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Key Dates
-description: Key dates and deadlines for the conference
 nav_order: 2
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Submission Tracks
-description: List of submission tracks for conference submissions
 parent: Call for Papers
 nav_order: 0
 ---

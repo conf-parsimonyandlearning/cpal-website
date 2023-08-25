@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Advisory Committee
-description: A listing of the conference advisory committee
 parent: Organizers
 nav_order: 1
 ---

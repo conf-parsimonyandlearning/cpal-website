@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Conference Vision
-description: A short essay on the organizers' vision for the conference
 nav_order: 1
 ---
 

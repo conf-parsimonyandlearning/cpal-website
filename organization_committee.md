@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Organization Committee
-description: A listing of the conference organizers
 parent: Organizers
 nav_order: 0
 ---

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Review Guidelines
-description: List of reviewing guidelines for conference submissions
 parent: Call for Papers
 nav_order: 3
 ---

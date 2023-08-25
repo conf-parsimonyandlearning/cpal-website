@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Keynote Speakers
-description: Details of keynote speakers at the conference
 nav_order: 4
 ---
 
