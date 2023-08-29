@@ -68,21 +68,29 @@ We follow the rule by NeurIPS 2023, quoted as follows:
 
 We meanwhile aim to showcase the latest research innovations at all stages of
 the research process, from work-in-progress to recently published papers.
-Concretely, we ask members of the community to submit a conference-style paper
-(at most nine pages, with extra pages for references allowed) describing the
-work. Please also upload a short (250 word) abstract to
+Concretely, we ask members of the community to submit to
+[OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Recent_Spotlight_Track)
+either:
+- A conference-style submission describing the work, which may be prepared using the
+  [CPAL style files]({{ site.baseurl }}/tracks#submission-tracks-and-review-process),
+  but need not conform to any specific formatting requirements (e.g., page
+  limits);
+- A poster (in PDF form) presenting results of work-in-progress;
+- The camera-ready version of work that has been published prior (e.g.,
+  conferences, journals).
+
+Please also upload a short (250 word) abstract to
 [OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Recent_Spotlight_Track).
 OpenReview submissions may also include any of the following supplemental
 materials that describe the work in further detail:
 
-- **A poster** (in PDF form) presenting results of work-in-progress.
-- **A link to an arXiv preprint or a blog post** (e.g., distill.pub, Medium) describing results.
-- **Appendices** with detailed derivations and additional experiments.
+- A link to a blog post (e.g., distill.pub, Medium) describing results.
+- Appendices with detailed derivations and additional experiments.
 
 This track is non-archival and has no proceedings. We permit under-review or
 concurrent submissions, as well as papers officially accepted by a journal or
-conference within 6 months of the [submission deadline]({{
-site.baseurl}}/deadlines) for Recent Spotlight
-Track (Oct 10, 2023). Reviewing will be performed in a single-blind
+conference within 12 months of the [submission deadline]({{
+site.baseurl}}/deadlines) for the Recent Spotlight
+Track. Reviewing will be performed in a single-blind
 fashion (authors should not anonymize their submissions), and will be held with
 the same high quality bar with the Proceedings Track. 
