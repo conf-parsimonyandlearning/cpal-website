@@ -28,9 +28,8 @@ nav_order: 0
 The submission and review stage will be **double-blind**. We use 
 [OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Conference)
 to host
-papers and allow for public discussions. Before the end of the
-Authors-Reviewers Discussion Stage, besides official reviews, anyone can post
-publicly visible comments; and authors can participate in the discussion as
+papers and record discussions between authors and reviewers. Before the end of the
+Authors-Reviewers Discussion Stage, authors can participate in the discussion as
 well as update their submission at any time. After that, there will be an
 internal discussion period amongst reviewers and ACs with the aim of
 summarizing the review process, after which the final decisions are made by
