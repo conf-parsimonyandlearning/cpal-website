@@ -47,5 +47,5 @@ nav_order: 2
 
 | Event                     | Date                            |
 |:--------------------------|:--------------------------------|
-| Conference Program        | January 3rd - January 6th, 2023 |
+| Conference Program        | January 3rd - January 6th, 2024 |
 
