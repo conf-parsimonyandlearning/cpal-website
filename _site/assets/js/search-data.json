@@ -370,13 +370,62 @@
     
     "relUrl": "/tracks/"
   },"53": {
+    "doc": "Travel",
+    "title": "Travel",
+    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",
+    "url": "/travel/",
+    
+    "relUrl": "/travel/"
+  },"54": {
+    "doc": "Visa Information",
+    "title": "Visa Information",
+    "content": " ",
+    "url": "/visa/#visa-information",
+    
+    "relUrl": "/visa/#visa-information"
+  },"55": {
+    "doc": "Visa Information",
+    "title": "Visa-Free Stay Eligibility",
+    "content": "Holders of passports of many countries (including US, Canada, UK, and many other European and Asian countries) enjoy a visa-free stay in HK for a certain number of days. Please visit the link https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html to check whether your passport enjoys a visa-free period and its length. ",
+    "url": "/visa/#visa-free-stay-eligibility",
+    
+    "relUrl": "/visa/#visa-free-stay-eligibility"
+  },"56": {
+    "doc": "Visa Information",
+    "title": "If You Require a Visa",
+    "content": "For those who need a visa to enter HK, if you need an invitation letter for your visa application, please contact us and we are happy issue the letter. ",
+    "url": "/visa/#if-you-require-a-visa",
+    
+    "relUrl": "/visa/#if-you-require-a-visa"
+  },"57": {
+    "doc": "Visa Information",
+    "title": "For PRC Passport Holders",
+    "content": "If a Mainland Resident . Mainland residents who wish to attend the conference are required to obtain the “Exit-entry Permit for Travelling to and from Hong Kong and Macao” (通行證) and “endorsement for individual visit” (個人旅遊簽註) from the relevant Public Security Bureau Office. Please see https://s.nia.gov.cn/mps/bszy/wlgaot/sqgowl/201903/t20190313_1002.html#d0. If In-Transit . Holders of People’s Republic of China (PRC) passports who are in transit through Hong Kong to and from another country or territory may be granted a stay of seven days on each landing without the prior need to obtain an entry permit provided that normal immigration requirements are met, including possession of valid entry facilities for the destination and confirmed onward booking for the overseas journey. Please see https://www.immd.gov.hk/eng/services/visas/overseas-chinese-entry-arrangement.html. ",
+    "url": "/visa/#for-prc-passport-holders",
+    
+    "relUrl": "/visa/#for-prc-passport-holders"
+  },"58": {
+    "doc": "Visa Information",
+    "title": "Questions",
+    "content": "If you have any questions, please feel free to contact the local organizers: Dr. Man-Chung Yue (mcyue@hku.hk) and Dr. Yanchao Yang (yanchaoy@hku.hk). ",
+    "url": "/visa/#questions",
+    
+    "relUrl": "/visa/#questions"
+  },"59": {
+    "doc": "Visa Information",
+    "title": "Visa Information",
+    "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",
+    "url": "/visa/",
+    
+    "relUrl": "/visa/"
+  },"60": {
     "doc": "Conference Vision",
     "title": "Conference Vision",
     "content": "“Everything should be made as simple as possible, but not any simpler.” . – Albert Einstein . One of the most fundamental reasons for the very existence and therefore emergence of intelligence or science is that the world is not fully random, but highly structured and predictable. Hence, a fundamental purpose and function of intelligence or science is to learn parsimonious models (or laws) for such predicable structures, from massive sensed data of the world. Over the past decade, the advent of machine learning and large-scale computing has immeasurably changed the ways we process, interpret, and predict with data in engineering and science. The ‘traditional’ approach to algorithm design, based around parametric models for specific structures of signals and measurements – say sparse and low-rank models – and the associated optimization toolkit, is now significantly enriched with data-driven learning-based techniques, where large-scale networks are pre-trained and then adapted to a variety of specific tasks. Nevertheless, the successes of both modern data-driven and classic model-based paradigms rely crucially on correctly identifying the low-dimensional structures present in real-world data, to the extent that we see the roles of learning and compression of data processing algorithms – whether explicit or implicit, as with deep networks – as inextricably linked. Over the last ten or so years, several rich lines of research, including theoretical, computational, and practical, have explored the interplay between learning and compression. Some works explore the role of signal models in the era of deep learning, attempting to understand the interaction between deep networks and nonlinear, multi-modal data structures. Others have applied these insights to the principled design of deep architectures that incorporate desired structures in data into the learning process. Still others have considered generic deep networks as first-class citizens in their own right, exploring ways to compress and sparsify models for greater efficiency, often accompanied by hardware or system-aware co-designs. Across each of these settings, theoretical works rooted in low-dimensional modeling have begun to explain the foundations of deep architectures and efficient learning – from optimization to generalization – in spite of “overparameterization” and other obstructions. Most recently, the advent of foundation models has led some to posit that parsimony and compression itself are a fundamental part of the learning objective of an intelligent system, connecting to ideas from neuroscience on compression as a guiding principle for the brain representing the sensory data of the world. By and large, these lines of work have so far developed somewhat in isolation from one another, in spite of their common basis and purpose for parsimony and learning. Our intention in organizing this conference is to address this issue and go beyond: we envision the conference as a general scientific forum where researchers in machine learning, applied mathematics, signal processing, optimization, intelligent systems, and all associated science and engineering fields can gather, share insights, and ultimately work towards a common modern theoretical and computational framework for understanding intelligence and science from the perspective of parsimonious learning. ",
     "url": "/vision/#conference-vision",
     
     "relUrl": "/vision/#conference-vision"
-  },"54": {
+  },"61": {
     "doc": "Conference Vision",
     "title": "Conference Vision",
     "content": "Conference on Parsimony and Learning (CPAL) January 2024,&nbsp;HKU ",
