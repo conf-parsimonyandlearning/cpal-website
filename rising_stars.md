@@ -31,7 +31,7 @@ socioeconomic backgrounds, sexual orientations, genders, and persons with disabi
 ## Key Dates
 
 - Applications Due: October 1st, 2023
-- Notification Deadline: October 20th, 2023
+- Notification Deadline: October 23rd, 2023
 - Conference: January 3-6, 2024 at The University of Hong Kong (HKU) (in person)
 
 ## Program Format

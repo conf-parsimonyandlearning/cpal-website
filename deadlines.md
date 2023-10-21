@@ -40,7 +40,7 @@ nav_order: 2
 | Event                     | Date                           | Countdown                    |
 |:--------------------------|:-------------------------------|:-----------------------------|
 | Application Deadline      | October 1st, 2023              |<span id="stars-sub"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2023, month: 10, day: 1, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#stars-sub').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
-| Decisions Released        | October 20th, 2023             |<span id="stars-decision"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2023, month: 10, day: 20, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#stars-decision').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
+| Decisions Released        | October 23th, 2023             |<span id="stars-decision"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2023, month: 10, day: 23, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#stars-decision').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
 
 
 ## Main Conference
