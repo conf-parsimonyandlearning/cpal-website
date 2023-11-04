@@ -1,7 +1,7 @@
 ---
 name: Ravid Shwartz Ziv
 role: CDS Faculty Fellow
-affiliation: NYU
+affiliation: New York University
 website: https://www.ravid-shwartz-ziv.com/
 photo: ziv.png
 talk: "Decoding the Information Bottleneck in Self-Supervised Learning: Pathway to Optimal Representation"

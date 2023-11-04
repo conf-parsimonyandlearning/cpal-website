@@ -1,7 +1,7 @@
 ---
 name: Omar Montasser
 role: FODSI-Simons Postdoctoral Researcher
-affiliation: UC Berkeley
+affiliation: University of California, Berkeley
 website: https://home.ttic.edu/~omar/
 photo: montasser.png
 talk: "Theoretical Foundations of Adversarially Robust Learning"

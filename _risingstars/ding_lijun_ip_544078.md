@@ -1,7 +1,7 @@
 ---
 name: Lijun Ding
 role: IFDS Postdoctoral Researcher
-affiliation: U Wisconsin & U Washington
+affiliation: University of Wisconsin / University of Washington
 website: https://www.lijunding.net/
 photo: ding.jpg
 talk: "Optimization for statistical learning with low dimensional structure:  regularity and conditioning"

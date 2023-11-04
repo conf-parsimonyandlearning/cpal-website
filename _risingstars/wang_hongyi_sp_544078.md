@@ -1,7 +1,7 @@
 ---
 name: Hongyi Wang
 role: Senior Project Scientist
-affiliation: CMU
+affiliation: Carnegie Mellon University
 website: https://hwang595.github.io/
 photo: wangh.png
 talk: "Speeding up Large-Scale Machine Learning Model Development Using Low-Rank Models and Gradients"

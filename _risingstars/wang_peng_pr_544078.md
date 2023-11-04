@@ -1,7 +1,7 @@
 ---
 name: Peng Wang
 role: Postdoctoral Researcher
-affiliation: Michigan University
+affiliation: University of Michigan
 website: https://peng8wang.github.io/
 photo: wangp.jpeg
 talk: "Understanding Hierarchical Representations in Deep Networks via Intermediate Features"

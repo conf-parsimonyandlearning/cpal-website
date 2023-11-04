@@ -1,7 +1,7 @@
 ---
 name: Daniel Paul Kunin
 role: Ph.D. Student
-affiliation: Stanford
+affiliation: Stanford University
 website: https://daniel-kunin.com/
 photo: kunin.png
 talk: "Stochastic Collapse: How Gradient Noise Attracts SGD Dynamics Towards Simpler Subnetworks"

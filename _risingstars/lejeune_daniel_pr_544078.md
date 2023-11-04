@@ -1,7 +1,7 @@
 ---
 name: Daniel LeJeune
 role: Postdoctoral Researcher
-affiliation: Stanford
+affiliation: Stanford University
 website: https://dlej.net/
 photo: lejeune.png
 talk: "Emergent properties of heuristics in machine learning"

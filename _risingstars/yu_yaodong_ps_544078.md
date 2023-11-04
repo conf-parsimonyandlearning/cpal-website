@@ -1,7 +1,7 @@
 ---
 name: Yaodong Yu
 role: Ph.D. Student
-affiliation: UC Berkeley
+affiliation: University of California, Berkeley
 website: https://yaodongyu.github.io/
 photo: yu.jpg
 talk: "White-Box Transformers via Sparse Rate Reduction"

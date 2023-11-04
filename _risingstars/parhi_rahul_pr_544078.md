@@ -1,7 +1,7 @@
 ---
 name: Rahul Parhi
 role: Postdoctoral Researcher
-affiliation: EPFL
+affiliation: École Polytechnique Fédérale de Lausanne
 website: https://rahul.sh/
 photo: parhi.jpg
 talk: On the Sparsity-Promoting Effect of Weight Decay in Deep Learning

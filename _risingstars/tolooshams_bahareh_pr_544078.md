@@ -1,7 +1,7 @@
 ---
 name: Bahareh Tolooshams
 role: Postdoctoral Researcher
-affiliation: Caltech
+affiliation: California Institute of Technology
 website: https://btolooshams.github.io/
 photo: tolooshams.png
 talk: "Deep Interpretable Generative Learning for Science and Engineering"

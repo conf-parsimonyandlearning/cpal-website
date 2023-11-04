@@ -1,7 +1,7 @@
 ---
 name: Shuang Li
 role: Assistant Professor
-affiliation: Iowa State
+affiliation: Iowa State University
 website: https://www.ece.iastate.edu/~lishuang/
 photo: li.jpg
 talk: "The Future Geometric Analysis of Optimization Problems in Signal Processing and Machine Learning"

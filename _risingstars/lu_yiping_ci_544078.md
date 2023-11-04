@@ -1,7 +1,7 @@
 ---
 name: Yiping Lu
 role: Courant Instructor
-affiliation: NYU
+affiliation: New York University
 website: https://2prime.github.io/
 photo: lu.png
 talk: "Simulation-Calibrated Scientific Machine Learning"
