@@ -1,0 +1,25 @@
+<div class="organizer" style="width: 445px;">
+  {% if page.photo %}
+  <img class="organizer-image" src="{{ site.baseurl }}{{ page.subpath }}{{
+  page.photo }}" alt="">
+  {% endif %}
+  <div style="padding: 10px 0;">
+    {% if page.website %}
+    <h3 class="organizer-name">
+      <a href="{{ page.website }}">{{ page.name }}</a>
+    </h3>
+    {% else %}
+    <h3 class="organizer-name">
+      {{ page.name }}
+    </h3>
+    {% endif %}
+    {% if page.affiliation %}
+    <p>{{ page.affiliation }}</p>
+    {% endif %}
+    {% if page.role %}
+    <p class="organizer-meta">{{ page.role }}</p>
+    {% endif %}
+    <!-- <p class="organizer-meta">{{ page.tutorial }}</p> --->
+    {{ content }}
+  </div>
+</div>

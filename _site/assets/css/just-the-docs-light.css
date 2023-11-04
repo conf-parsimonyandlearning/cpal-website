@@ -6661,7 +6661,8 @@ blockquote.quote-title {
 
 .organizer {
   display: flex;
-  margin: 1rem; }
+  margin: 1rem;
+  max-width: 100%; }
   .organizer .organizer-image {
     border-radius: 50%;
     height: 100px;

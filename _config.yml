@@ -43,6 +43,7 @@ collections:
   organizers:
   speakers:
   tutorials:
+  risingstars:
   modules:
 # Default layouts for each collection type
 defaults:
@@ -64,6 +65,12 @@ defaults:
     values:
       layout: tutorial
       subpath: '/assets/images/'
+  - scope:
+      path: ''
+      type: risingstars
+    values:
+      layout: risingstar
+      subpath: '/assets/images/risingstars/'
   - scope:
       path: ''
       type: modules

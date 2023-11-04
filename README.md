@@ -53,6 +53,4 @@ key dates.
 
 # Keynote Speakers
 
-**Additional speakers to be announced!**
-
 {% include speakers.html %}
