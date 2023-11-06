@@ -1,0 +1,104 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole site, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Conference on Parsimony and Learning (CPAL)
+description: Conference on Parsimony and Learning (CPAL) - Addressing the
+  low-dimensional structures in high-dimensional data that prevail in machine
+  learning, signal processing, optimization, and beyond.
+domain: cpal.cc
+url: https://cpal.cc # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+
+# Theme settings
+#remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs # this works offline...
+color_scheme: cpal
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+logo: "/assets/images/logo.svg"
+aux_links:
+  Registration:
+    - 'https://datascience.hku.hk/cpal-registration'
+  CPAL OpenReview:
+    - 'https://openreview.net/group?id=CPAL.cc/2024'
+#back_to_top: true
+#last_edit_timestamp: true
+
+# Collections for website data
+collections:
+  organizers:
+  speakers:
+  tutorials:
+  risingstars:
+  modules:
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: organizers
+    values:
+      layout: organizer
+      subpath: '/assets/images/'
+  - scope:
+      path: ''
+      type: speakers
+    values:
+      layout: speaker
+      subpath: '/assets/images/speakers/'
+  - scope:
+      path: ''
+      type: tutorials
+    values:
+      layout: tutorial
+      subpath: '/assets/images/'
+  - scope:
+      path: ''
+      type: risingstars
+    values:
+      layout: risingstar
+      subpath: '/assets/images/risingstars/'
+  - scope:
+      path: ''
+      type: modules
+    values:
+      layout: module
+  - scope:
+      path: ''
+    values:
+      image: 
+        path: /assets/images/card.png
+
+callouts:
+  highlight:
+    title: 
+    color: yellow
+  quote:
+    title: 
+    color: grey-lt
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-liquify
+    #  - jekyll-remote-theme

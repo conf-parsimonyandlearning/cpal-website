@@ -1,0 +1,9 @@
+<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
+  flex-start;">
+
+  {% assign advs = site.organizers | where: 'role', 'Advisory Committee' %}
+  {% for organizer in advs %}
+  {{ organizer }}
+  {% endfor %}
+
+</div>

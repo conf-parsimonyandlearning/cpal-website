@@ -1,0 +1,108 @@
+.calendar {
+  @include abstract-card();
+  overflow-x: scroll;
+  position: relative;
+  $cell-size: 90px;
+
+  li::before {
+    display: none;
+  }
+
+  ul.calendar-timeline,
+  ul.calendar-group,
+  ul.calendar-events {
+    margin-top: 0;
+    padding-left: 0;
+  }
+
+  ul.calendar-timeline {
+    margin: $cell-size auto 0;
+    position: absolute;
+    width: 100%;
+  }
+
+  .calendar-time {
+    @extend .fs-2;
+    color: $grey-dk-000;
+    height: $cell-size;
+    margin: 0;
+    padding: $sp-2;
+    position: relative;
+
+    &::after {
+      background-color: $border-color;
+      content: '';
+      height: 1px;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 100%;
+    }
+  }
+
+  .calendar-group {
+    display: flex;
+    margin-bottom: 0;
+    position: relative;
+  }
+
+  .calendar-day {
+    border-left: $border $border-color;
+    flex: 1 0 0;
+    margin: 0;
+    min-width: 130px;
+
+    &:first-of-type {
+      border-left: 0;
+    }
+  }
+
+  h2.calendar-header {
+    align-items: center;
+    display: flex;
+    font-size: 18px !important;
+    height: $cell-size;
+    justify-content: center;
+    margin: 0;
+  }
+
+  .calendar-events {
+    display: flex;
+    padding: 0;
+    position: relative;
+  }
+
+  .calendar-event {
+    background-color: $grey-dk-000;
+    border-radius: $border-radius;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .1), inset 0 -3px 0 rgba(0, 0, 0, .2);
+    color: $white;
+    float: left;
+    height: 100%;
+    margin: 0;
+    padding: $sp-1 $sp-2;
+    position: absolute;
+    width: 100%;
+
+    .name {
+      @extend .fs-3, .fw-700;
+    }
+
+    .time,
+    .location {
+      @extend .fs-2;
+    }
+
+    &.lecture {
+      background-color: $grey-dk-000;
+    }
+
+    &.section {
+      background-color: $purple-000;
+    }
+
+    &.office-hours {
+      background-color: $blue-000;
+    }
+  }
+}

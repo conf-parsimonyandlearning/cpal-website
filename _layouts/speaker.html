@@ -1,0 +1,25 @@
+<div class="speaker" style="width: 150px;">
+  {% if page.photo %}
+  <a href="{{ site.baseurl }}/speakers/{{ page.name | prepend: '#' | replace: ' ', '-' | downcase }}"><img class="speaker-image" src="{{ site.baseurl }}{{ page.subpath
+  }}{{ page.photo }}" alt=""></a>
+  {% endif %}
+  <div>
+    <h3 class="speaker-name">
+      {% if page.website %}
+      <a href="{{ page.website }}">{{ page.name }}</a>
+      {% else %}
+      {{ page.name }}
+      {% endif %}
+      {% if page.pronouns %}
+      <span class="speaker-pronouns">{{ page.pronouns }}</span>
+      {% endif %}
+    </h3>
+    {% if page.email %}
+    <!--<p><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>-->
+    {% endif %}
+    {% if page.affiliation %}
+    <p>{{ page.affiliation }}</p>
+    {% endif %}
+    {{ content }}
+  </div>
+</div>

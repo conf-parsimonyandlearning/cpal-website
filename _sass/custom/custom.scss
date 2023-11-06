@@ -1,0 +1,183 @@
+// Just the Class dependencies
+@import 'card';
+
+// Just the Class styles
+@import 'announcement';
+@import 'module';
+@import 'calendar';
+@import 'organizer';
+@import 'speaker';
+
+// change sizes
+// need to fix this...
+$content-width-0: 1200px;
+
+// custom class for splash
+
+.splash {
+  position: relative;
+
+  img {
+    border-radius: 20px;
+    max-width: 100%;
+    height: auto;
+    opacity: 0.5;
+  }
+
+  .topleft {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+
+    @include fs-7;
+    @include mq(md) { 
+      font-weight: 500;
+    }
+    color: $body-heading-color;
+  }
+
+  .bottomright {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+
+    @include fs-4;
+    @include mq(md) { 
+      @include fs-6;
+      font-weight: 500;
+    }
+    color: $body-heading-color;
+  }
+
+}
+
+// custom class for sponsor images, like splash but no overlay
+
+.sponsor {
+  position: relative;
+
+  img {
+    border-radius: 20px;
+    max-width: 100%;
+    height: auto;
+    opacity: 1.0;
+  }
+
+}
+
+// Overrides
+code {
+  font-size: 14px;
+  padding: 0.2em 0.4em;
+  border: none;
+}
+
+details {
+  margin: 0 40px 1em;
+}
+
+iframe,
+summary {
+  max-width: 100%;
+}
+
+summary {
+  @extend .btn, .btn-outline;
+}
+
+.main-content-wrap {
+  max-width: $content-width;
+  margin: auto;
+}
+
+.main-content {
+  dl {
+    display: block;
+    grid-template-columns: none;
+  }
+
+  dt {
+    font-weight: 700;
+    text-align: start;
+
+    &::after {
+      content: normal;
+    }
+  }
+
+  dd {
+    font-weight: normal;
+
+    + dt {
+      margin-top: 1em;
+    }
+  }
+
+  footer {
+    @include fs-2;
+  }
+
+  .youtube-wrapper{
+    width: 100%;
+    max-width: 560px; //set your `max-width` here
+    max-height: auto; //necessary to keep proportion
+    margin: auto; //centering 
+
+  }
+
+  .youtube-video {
+    //aspect-ratio: 16 / 9;
+    width: 100%;
+    position: relative;
+    padding-top: 56.25%;
+    overflow: hidden;
+  }
+
+  .youtube-video iframe {
+    // display: block;
+    // border-style: none;
+    // margin: 0 auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.site-footer {
+  @include container;
+
+  img {
+    height: 24px;
+    width: 34px;
+    // opacity: 0.5;
+    border: 0 !important;
+    padding: 0px,5px,0px,5px;
+  }
+
+
+  @include mq(md) {
+    @include fs-5;
+
+    img {
+      height: 48px;
+      width: 48px;
+      // opacity: 0.5;
+      border: 0 !important;
+      padding: 0px,0px,0px,0px;
+    }
+
+    credit {
+      @include fs-2
+    }
+  }
+
+}
+
+.nav-list-link-expander {
+  @extend .nav-list-link;
+  color: $link-color;
+  width: 100%;
+}
+
