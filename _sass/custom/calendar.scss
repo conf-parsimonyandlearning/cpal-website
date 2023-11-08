@@ -2,7 +2,8 @@
   @include abstract-card();
   overflow-x: scroll;
   position: relative;
-  $cell-size: 90px;
+  $header-size: 80px;
+  $cell-size: 80px;
 
   li::before {
     display: none;
@@ -16,7 +17,7 @@
   }
 
   ul.calendar-timeline {
-    margin: $cell-size auto 0;
+    margin: $header-size auto 0;
     position: absolute;
     width: 100%;
   }
@@ -50,7 +51,7 @@
     border-left: $border $border-color;
     flex: 1 0 0;
     margin: 0;
-    min-width: 130px;
+    min-width: 140px;
 
     &:first-of-type {
       border-left: 0;
@@ -59,9 +60,10 @@
 
   h2.calendar-header {
     align-items: center;
+    text-align: center;
     display: flex;
     font-size: 18px !important;
-    height: $cell-size;
+    height: $header-size;
     justify-content: center;
     margin: 0;
   }
@@ -93,16 +95,32 @@
       @extend .fs-2;
     }
 
-    &.lecture {
-      background-color: $grey-dk-000;
+    .talk-title {
+        @extend .fs-1;
+        font-style: italic;
     }
 
-    &.section {
+    &.keynote {
+      background-color: $green-100;
+      a {
+          color: $yellow-000;
+      }
+    }
+
+    &.meta {
+      background-color: $red-000;
+    }
+
+    &.poster {
       background-color: $purple-000;
     }
 
-    &.office-hours {
+    &.rising {
       background-color: $blue-000;
+    }
+
+    &.event {
+      background-color: $yellow-300;
     }
   }
 }

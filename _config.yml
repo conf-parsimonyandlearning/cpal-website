@@ -39,12 +39,20 @@ aux_links:
 #last_edit_timestamp: true
 
 # Collections for website data
+# See academic-sites github repo for preparation of relevant data
+# # organizers: list of the organizers
+# # speakers: list of the keynote speakers
+# # tutorials: list of the tutorial deliverers + content
+# # risingstars: list of Rising Stars awardees
+# # schedules: list of (text-based) events for the conference
+# # calendars: list of (calendar-style-block-based) events for conference
 collections:
   organizers:
   speakers:
   tutorials:
   risingstars:
-  modules:
+  schedules:
+  calendars:
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -73,9 +81,14 @@ defaults:
       subpath: '/assets/images/risingstars/'
   - scope:
       path: ''
-      type: modules
+      type: schedules
     values:
       layout: module
+  - scope:
+      path: ''
+      type: calendars
+    values:
+      layout: calendar
   - scope:
       path: ''
     values:

@@ -23,9 +23,6 @@ more detail [here]({{ site.baseurl }}/vision).
 {: .fs-7 .text-center}
 **CPAL 2024 will take place from January 3--6 <br> at the University of Hong Kong!**
 
-{% include sponsors.html %}
-<br>
-
 <div class="youtube-wrapper">
 <div class="youtube-video">
 <iframe src="https://www.youtube-nocookie.com/embed/pGbjiZOR63I?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -81,4 +78,5 @@ Information on the speakers' planned talks is available [here]({{site.baseurl}}/
 
 {% include speakers.html %}
 
-<!-- # Sponsors-->
+
+{% include sponsors.html %}

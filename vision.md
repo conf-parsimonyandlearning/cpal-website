@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conference Vision
-nav_order: 10
+nav_order: 11
 ---
 
 {% include splash.html %}
