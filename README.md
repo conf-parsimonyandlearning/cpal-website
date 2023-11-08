@@ -79,4 +79,13 @@ Information on the speakers' planned talks is available [here]({{site.baseurl}}/
 {% include speakers.html %}
 
 
+# Tentative Program
+
+All times below are in HKT (GMT+8).
+
+{% for calendar in site.calendars %}
+{{ calendar }}
+{% endfor %}
+
+
 {% include sponsors.html %}
