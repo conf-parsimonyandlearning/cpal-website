@@ -63,7 +63,7 @@
     "relUrl": "/"
   },"9": {
     "doc": "Home",
-    "title": "Host Institution",
+    "title": "Local Host and Main Sponsor",
     "content": " ",
     "url": "/",
     
@@ -490,7 +490,7 @@
     "relUrl": "/speakers/"
   },"70": {
     "doc": "Sponsors",
-    "title": "Host Institution",
+    "title": "Local Host and Main Sponsor",
     "content": " ",
     "url": "/sponsors/",
     
