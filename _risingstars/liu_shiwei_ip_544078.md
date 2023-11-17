@@ -1,7 +1,7 @@
 ---
 name: Shiwei Liu
 role: IFML Postdoctoral Researcher
-affiliation: University of Texas at Austin
+affiliation: University of Texas at Austin / Eindhoven University of Technology / University of Oxford
 website: https://shiweiliuiiiiiii.github.io/
 photo: liu.png
 talk: "Sparsity in Neural Networks: Science and Practice"
