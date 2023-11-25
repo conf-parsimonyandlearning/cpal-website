@@ -24,7 +24,7 @@ Clicking a speaker's photo will jump to their talk information below.
 
 #### Title: {{ speaker.talk }}
 
-#### Time and Location: [Day {{ speaker.day }}, {{ speaker.start }}]({{ site.baseurl }}/program_schedule/), {{ speaker.location }}
+#### Time and Location: [Day {{ speaker.day }}, {{ speaker.start }} HKT]({{ site.baseurl }}/program_schedule/), {{ speaker.location }}
 
 #### Abstract
 {{ speaker.abstract}}
