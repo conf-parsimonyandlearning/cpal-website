@@ -7,6 +7,7 @@ photo: sueyeon.jpeg
 talk: "TBA"
 abstract: "TBA"
 bio: "TBA"
+day: 4
 start: 10:00 AM
 end: 11:00 AM
 location: TBA
