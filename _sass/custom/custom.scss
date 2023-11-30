@@ -54,15 +54,21 @@ $content-width-0: 1200px;
 // custom class for sponsor images, like splash but no overlay
 
 .sponsor {
-  position: relative;
+    display: flex;
+    position: relative;
+    flex-direction: column;
 
-  img {
-    border-radius: 0px;
-    max-width: 95%;
-    height: auto;
-    opacity: 1.0;
-    margin: 10px 10px 10px 10px
-  }
+    @include mq(sm) {
+        flex-direction: row;
+    }
+
+    img {
+        border-radius: 0px;
+        max-width: 280px;
+        height: auto;
+        opacity: 1.0;
+        margin: 10px 10px 10px 10px
+    }
 
 }
 

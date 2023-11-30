@@ -35,6 +35,8 @@ aux_links:
     - 'https://datascience.hku.hk/cpal-registration'
   CPAL OpenReview:
     - 'https://openreview.net/group?id=CPAL.cc/2024'
+  CPAL at HKU:
+    - 'https://datascience.hku.hk/cpal/'
 #back_to_top: true
 #last_edit_timestamp: true
 

@@ -6736,10 +6736,15 @@ blockquote.quote-title {
       line-height: 1.25; } }
 
 .sponsor {
-  position: relative; }
+  display: flex;
+  position: relative;
+  flex-direction: column; }
+  @media (min-width: 31.25rem) {
+    .sponsor {
+      flex-direction: row; } }
   .sponsor img {
     border-radius: 0px;
-    max-width: 95%;
+    max-width: 280px;
     height: auto;
     opacity: 1.0;
     margin: 10px 10px 10px 10px; }
