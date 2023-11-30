@@ -8,5 +8,5 @@ gem "webrick", "~> 1.7"
 gem "just-the-docs", "0.5.4"
 # gem "jekyll-remote-theme"
 gem "jekyll-seo-tag"
-gem 'jekyll-liquify'
+# gem 'jekyll-liquify'
 gem "kramdown-parser-gfm"

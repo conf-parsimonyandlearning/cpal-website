@@ -115,5 +115,5 @@ compress_html:
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-liquify
+    # - jekyll-liquify
     #  - jekyll-remote-theme
