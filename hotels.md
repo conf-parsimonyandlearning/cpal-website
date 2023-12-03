@@ -15,8 +15,9 @@ conference site for CPAL 2024 attendees.
 
 Please reference the link below to the HKU-IDS website for more information.
 
-{: .fs-6 .text-center}
-[Accommodation Recommendations](https://datascience.hku.hk/cpal/about/#accommodation)
+<span class="fs-6">
+[Accommodation Recommendations](https://datascience.hku.hk/cpal/about/#accommodation){: .btn}
+</span>
 
 
 # Travel Questions

@@ -66,8 +66,9 @@ key dates.
 All CPAL attendees are required to register. **The deadline to register is
 December 15th, 2023.**
 
-{: .fs-7 .text-center}
-[Registration Link](https://datascience.hku.hk/cpal-registration)
+<span class="fs-6">
+[Register Now](https://datascience.hku.hk/cpal-registration){: .btn}
+</span>
 
 <!-- # Tentative Program -->
 

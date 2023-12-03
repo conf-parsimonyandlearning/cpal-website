@@ -48,6 +48,8 @@ aux_links:
 # # risingstars: list of Rising Stars awardees
 # # schedules: list of (text-based) events for the conference
 # # calendars: list of (calendar-style-block-based) events for conference
+# # proceedings: list of accepted papers for proceedings track
+# # spotlight: list of accepted papers for spotlight track
 collections:
   organizers:
   speakers:
@@ -55,6 +57,8 @@ collections:
   risingstars:
   schedules:
   calendars:
+  proceedings:
+  spotlight:
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -96,6 +100,16 @@ defaults:
     values:
       image: 
         path: /assets/images/card.png
+  - scope:
+      path: ''
+      type: proceedings
+    values:
+      layout:
+  - scope:
+      path: ''
+      type: spotlight
+    values:
+      layout:
 
 callouts:
   highlight:
