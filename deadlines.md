@@ -46,6 +46,6 @@ nav_order: 1
 
 | Event                     | Date                            |
 |:--------------------------|:--------------------------------|
-| Registration Deadline     | December 18th, 2023 (AOE)       |
+| Registration Deadline     | December 15th, 2023 (AOE)       |
 | Conference Program        | January 3rd - January 6th, 2024 |
 
