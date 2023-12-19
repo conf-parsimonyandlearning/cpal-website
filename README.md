@@ -63,8 +63,8 @@ key dates.
 # Register to Attend CPAL 2024
 
 
-All CPAL attendees are required to register. **The deadline to register is
-December 15th, 2023.**
+All CPAL attendees are required to register. **The deadline to register has
+been extended to December 23rd, 2023.**
 
 <span class="fs-6">
 [Register Now](https://datascience.hku.hk/cpal-registration){: .btn}
