@@ -5,6 +5,6 @@ keywords: Correlated weights, Biological neural network, Cortex, Neural network 
   Kernel ridge regression, Deep neural network, Random neural network
 link: https://openreview.net/forum?id=cyMsUO5J7U
 title: Sparse Activations with Correlated Weights in Cortex-Inspired Neural Networks
-session: 1
-order: 2
+session: 2
+order: 4
 ---

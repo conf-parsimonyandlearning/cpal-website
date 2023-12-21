@@ -23,6 +23,10 @@ presentation information.
 ## List of Awardees
 
 
+<!-- vim-markdown-toc GFM -->
+
+<!-- vim-markdown-toc -->
+
 {% assign risingstars = site.risingstars %}
 {% for risingstar in risingstars %}
 

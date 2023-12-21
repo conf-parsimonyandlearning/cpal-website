@@ -2,6 +2,7 @@
 layout: page
 title: Program at a Glance
 description: Calendar view of the conference program
+nav_order: 0
 parent: Conference Program
 ---
 
