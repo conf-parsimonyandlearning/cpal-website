@@ -2861,18 +2861,16 @@ pre.highlight {
 .v-align-top {
   vertical-align: top !important; }
 
-.fs-1, .calendar .calendar-event .talk-title {
+.fs-1, .calendar .calendar-event .location, .calendar .calendar-event .talk-title {
   font-size: 0.5625rem !important; }
   @media (min-width: 31.25rem) {
-    .fs-1, .calendar .calendar-event .talk-title {
+    .fs-1, .calendar .calendar-event .location, .calendar .calendar-event .talk-title {
       font-size: 0.625rem !important; } }
 
-.fs-2, .calendar .calendar-time, .calendar .calendar-event .time,
-.calendar .calendar-event .location {
+.fs-2, .calendar .calendar-time, .calendar .calendar-event .time {
   font-size: 0.6875rem !important; }
   @media (min-width: 31.25rem) {
-    .fs-2, .calendar .calendar-time, .calendar .calendar-event .time,
-    .calendar .calendar-event .location {
+    .fs-2, .calendar .calendar-time, .calendar .calendar-event .time {
       font-size: 0.75rem !important; } }
 
 .fs-3, .calendar .calendar-event .name {
@@ -6653,22 +6651,18 @@ blockquote.quote-title {
     padding: 0.25rem 0.5rem;
     position: absolute;
     width: 100%; }
+    .calendar .calendar-event a {
+      color: #ffeb82; }
     .calendar .calendar-event .talk-title {
       font-style: italic; }
     .calendar .calendar-event.keynote {
       background-color: #11b584; }
-      .calendar .calendar-event.keynote a {
-        color: #ffeb82; }
     .calendar .calendar-event.meta {
       background-color: #f77e7e; }
     .calendar .calendar-event.oral {
       background-color: #7253ed; }
-      .calendar .calendar-event.oral a {
-        color: #ffeb82; }
     .calendar .calendar-event.poster {
       background-color: #7253ed; }
-      .calendar .calendar-event.poster a {
-        color: #ffeb82; }
     .calendar .calendar-event.rising {
       background-color: #2c84fa; }
     .calendar .calendar-event.event {
