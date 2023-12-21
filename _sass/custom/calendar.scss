@@ -111,8 +111,18 @@
       background-color: $red-000;
     }
 
+    &.oral {
+      background-color: $purple-000;
+      a {
+          color: $yellow-000;
+      }
+    }
+
     &.poster {
       background-color: $purple-000;
+      a {
+          color: $yellow-000;
+      }
     }
 
     &.rising {

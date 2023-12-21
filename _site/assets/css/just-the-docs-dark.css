@@ -6861,8 +6861,14 @@ blockquote.quote-title {
         color: #ffeb82; }
     .calendar .calendar-event.meta {
       background-color: #f77e7e; }
+    .calendar .calendar-event.oral {
+      background-color: #7253ed; }
+      .calendar .calendar-event.oral a {
+        color: #ffeb82; }
     .calendar .calendar-event.poster {
       background-color: #7253ed; }
+      .calendar .calendar-event.poster a {
+        color: #ffeb82; }
     .calendar .calendar-event.rising {
       background-color: #2c84fa; }
     .calendar .calendar-event.event {
