@@ -6,4 +6,6 @@ keywords: Computational Neuroscience, Neural Manifolds, Neural Geometry, Represe
 link: https://openreview.net/forum?id=MxBS6aw5Gd
 title: Probing Biological and Artificial Neural Networks with Task-dependent Neural
   Manifolds
+session: 4
+order: 2
 ---

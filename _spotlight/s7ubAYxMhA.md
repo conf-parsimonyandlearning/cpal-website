@@ -4,4 +4,5 @@ keywords: transformer, training dynamics, theoretical analysis, self-attention, 
   neural network understanding
 link: https://openreview.net/forum?id=s7ubAYxMhA
 title: 'JoMA: Demystifying Multilayer Transformers via JOint Dynamics of MLP and Attention'
+session: 2
 ---

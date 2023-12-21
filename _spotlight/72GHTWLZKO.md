@@ -4,4 +4,5 @@ authors: Aditya Chattopadhyay, Kwan Ho Ryan Chan, Benjamin David Haeffele, Donal
 keywords: Interpretable ML, Explainable AI, Information Pursuit
 link: https://openreview.net/forum?id=72GHTWLZKO
 title: Variational Information Pursuit for Interpretable Predictions
+session: 1
 ---

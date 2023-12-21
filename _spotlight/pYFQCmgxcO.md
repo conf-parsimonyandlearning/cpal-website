@@ -4,4 +4,5 @@ authors: Lu Yin, Gen Li, Meng Fang, Li Shen, Tianjin Huang, Zhangyang Wang, Vlad
 keywords: dynamic sparsity, dynamic sparse training, channel-level sparsity
 link: https://openreview.net/forum?id=pYFQCmgxcO
 title: Dynamic Sparsity Is Channel-Level Sparsity Learner
+session: 1
 ---

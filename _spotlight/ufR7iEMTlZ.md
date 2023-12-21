@@ -5,4 +5,5 @@ keywords: Graph Neural Network, Feature Learning, Graph Convolution, Deep Learni
 link: https://openreview.net/forum?id=ufR7iEMTlZ
 title: 'Graph Neural Networks Provably Benefit from Structural Information: A Feature
   Learning Perspective'
+session: 1
 ---

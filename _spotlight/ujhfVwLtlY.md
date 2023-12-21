@@ -5,4 +5,5 @@ keywords: non-convex optimization, random initialization, global convergence, ma
 link: https://openreview.net/forum?id=ujhfVwLtlY
 title: 'How Over-Parameterization Slows Down Gradient Descent in Matrix Sensing: The
   Curses of Symmetry and Initialization'
+session: 2
 ---

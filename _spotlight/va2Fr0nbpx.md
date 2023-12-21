@@ -6,4 +6,5 @@ keywords: Nonparametric Classification;  Low Dimensional Manifolds; Overparamete
 link: https://openreview.net/forum?id=va2Fr0nbpx
 title: Nonparametric Classification on Low Dimensional Manifolds using Overparameterized
   Convolutional Residual Networks
+session: 1
 ---

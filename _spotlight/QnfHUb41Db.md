@@ -5,4 +5,5 @@ keywords: neural network optimization, representation learning, mean-field Lange
 link: https://openreview.net/forum?id=QnfHUb41Db
 title: 'How Structured Data Guides Feature Learning: A Case Study of Sparse Parity
   Problem'
+session: 2
 ---

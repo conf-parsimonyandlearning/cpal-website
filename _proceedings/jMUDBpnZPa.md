@@ -4,4 +4,6 @@ keywords: hyperplane clustering, subspace clustering, generalized principal comp
   analysis
 link: https://openreview.net/forum?id=jMUDBpnZPa
 title: 'HARD: Hyperplane ARrangement Descent'
+session: 5
+order: 5
 ---

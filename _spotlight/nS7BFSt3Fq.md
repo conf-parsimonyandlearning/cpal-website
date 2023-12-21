@@ -4,4 +4,5 @@ keywords: graph neural networks, equivariant machine learning, symmetry, general
   statistical learning
 link: https://openreview.net/forum?id=nS7BFSt3Fq
 title: Approximately Equivariant Graph Networks
+session: 2
 ---

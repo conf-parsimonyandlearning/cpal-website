@@ -6,4 +6,6 @@ keywords: efficient training, sparse training, fine-grained structured sparsity,
 link: https://openreview.net/forum?id=VP1Xrdz0Bp
 title: 'HRBP: Hardware-friendly Regrouping towards Block-based Pruning for Sparse
   CNN Training'
+session: 1
+order: 3
 ---

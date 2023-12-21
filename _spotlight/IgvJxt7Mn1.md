@@ -4,4 +4,5 @@ authors: Zonglin Li, Chong You, Srinadh Bhojanapalli, Daliang Li, Ankit Singh Ra
 keywords: Transformer efficiency, activation sparsity, robustness, calibration
 link: https://openreview.net/forum?id=IgvJxt7Mn1
 title: 'The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers'
+session: 2
 ---

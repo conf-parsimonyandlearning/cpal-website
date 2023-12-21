@@ -8,4 +8,6 @@ keywords: jax, sparsity, pruning, quantization, sparse training, efficiency, lib
   software
 link: https://openreview.net/forum?id=H2rCZCfXkS
 title: 'Jaxpruner: A Concise Library for Sparsity Research'
+session: 6
+order: 2
 ---

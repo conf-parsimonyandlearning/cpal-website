@@ -4,4 +4,5 @@ keywords: masked autoencoding, white-box transformers, coding rate reduction, re
   learning
 link: https://openreview.net/forum?id=muoEgWUZiS
 title: Masked Completion via Structured Diffusion with White-Box Transformers
+session: 2
 ---

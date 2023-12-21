@@ -5,4 +5,5 @@ keywords: linear mode connectivity, loss landscape, permutation symmetry, iterat
   magnitude pruning, lottery ticket
 link: https://openreview.net/forum?id=BwhEtJrnir
 title: Simultaneous linear connectivity of neural networks modulo permutation
+session: 2
 ---

@@ -4,4 +4,6 @@ keywords: online meta-learning, task boundary detection, domain shift, dynamic r
   out of distribution detection
 link: https://openreview.net/forum?id=LzhpSfqSXC
 title: Algorithm Design for Online Meta-Learning with Task Boundary Detection
+session: 5
+order: 4
 ---

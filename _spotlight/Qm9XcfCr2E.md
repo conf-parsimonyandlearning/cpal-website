@@ -6,4 +6,5 @@ keywords: Implicit Bias, sparsity, SGD Dynamics, Implicit regularization, Learni
 link: https://openreview.net/forum?id=Qm9XcfCr2E
 title: 'Stochastic Collapse: How Gradient Noise Attracts SGD Dynamics Towards Simpler
   Subnetworks'
+session: 1
 ---

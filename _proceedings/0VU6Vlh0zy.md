@@ -5,4 +5,6 @@ keywords: Multi-task learning, structured sparsity, group sparsity, parameter pr
 link: https://openreview.net/forum?id=0VU6Vlh0zy
 title: "Less is More \u2013 Towards parsimonious multi-task models using structured\
   \ sparsity"
+session: 4
+order: 5
 ---

@@ -5,4 +5,5 @@ keywords: transformer, training dynamics, theoretical analysis, self-attention, 
 link: https://openreview.net/forum?id=2iAvIOsc7u
 title: 'Scan and Snap: Understanding Training Dynamics and Token Composition in 1-layer
   Transformer'
+session: 2
 ---

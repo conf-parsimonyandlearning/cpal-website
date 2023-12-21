@@ -5,4 +5,6 @@ keywords: Multimodal LLM, Supervised Fine-Tuning, Catastrophic Forgetting
 link: https://openreview.net/forum?id=g7rMSiNtmA
 title: Investigating the Catastrophic Forgetting in Multimodal Large Language Model
   Fine-Tuning
+session: 3
+order: 1
 ---
