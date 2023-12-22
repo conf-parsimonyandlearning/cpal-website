@@ -35,7 +35,8 @@ These events include:
   featuring [CPAL Rising Stars awardees]({{ site.baseurl }}/rising_stars_guidelines/)
 - **_[Open-to-the-public tutorials]({{ site.baseurl }}/tutorials/)_**, delivered
   on the final day of the conference, in **two parallel tracks**
-- Social and networking events for all attendees, including a welcome reception (day 1), banquet dinner (day 2),
-  tram party (day 3), and a post-conference social outing (details TBA)
+- A ***panel discussion*** on Day 2
+- Social and networking events for all attendees, including a welcome reception (Day 1), banquet dinner (Day 2),
+  tram party (Day 3), and a post-conference social outing (details TBA)
 - **_[Morning yoga meditation sessions]({{ site.baseurl }}/meditation/)_** on
-  days 2--4 of the conference
+  Days 2--4 of the conference
