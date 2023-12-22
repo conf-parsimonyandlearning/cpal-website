@@ -6746,7 +6746,21 @@ blockquote.quote-title {
     border-radius: 0px;
     max-width: 280px;
     height: auto;
-    opacity: 1.0;
+    opacity: 1;
+    margin: 10px 10px 10px 10px; }
+
+.misc-img {
+  display: flex;
+  position: relative;
+  flex-direction: column; }
+  @media (min-width: 31.25rem) {
+    .misc-img {
+      flex-direction: row; } }
+  .misc-img img {
+    border-radius: 0px;
+    max-width: 400px;
+    height: auto;
+    opacity: 1;
     margin: 10px 10px 10px 10px; }
 
 code {
@@ -6810,7 +6824,7 @@ summary {
     height: 24px;
     width: 34px;
     border: 0 !important;
-    padding: 0px,5px,0px,5px; }
+    padding: 0px, 5px, 0px, 5px; }
   @media (min-width: 50rem) {
     .site-footer {
       font-size: 1rem !important; } }
@@ -6822,7 +6836,7 @@ summary {
         height: 48px;
         width: 48px;
         border: 0 !important;
-        padding: 0px,0px,0px,0px; }
+        padding: 0px, 0px, 0px, 0px; }
       .site-footer credit {
         font-size: 0.6875rem !important; } }
     @media (min-width: 50rem) and (min-width: 31.25rem) {

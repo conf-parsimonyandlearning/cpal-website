@@ -10,7 +10,7 @@ nav_order: 4
 
 # Tutorials
 
-The final day of the workshop features tutorial presentations, which are open
+The final day of the conference features tutorial presentations, which are open
 to the public.
 These tutorials present an up-to-date account of the intersection between
 low-dimensional modeling and deep learning in an accessible format.
