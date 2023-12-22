@@ -21,14 +21,8 @@ more detail [here]({{ site.baseurl }}/vision).
 -->
 
 {: .fs-7 .text-center}
-**CPAL 2024 will take place from January 3--6 <br> at the University of Hong Kong!**
+**CPAL 2024 will take place from January 3--6 <br> at [the University of Hong Kong]({{ site.baseurl }}/venue/)!**
 
-<div class="youtube-wrapper">
-<div class="youtube-video">
-<iframe src="https://www.youtube-nocookie.com/embed/pGbjiZOR63I?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-</div>
-<br>
 
 
 <!--
@@ -70,7 +64,20 @@ been extended to December 23rd, 2023.**
 [Register Now](https://datascience.hku.hk/cpal-registration){: .btn}
 </span>
 
-<!-- # Tentative Program -->
+
+{: .highlight}
+> **The full [CPAL 2024 program]({{ site.baseurl }}/#conference-program-schedule-view) has been announced!**
+> Highlights include:
+> - **_[Keynotes]({{ site.baseurl }}/#keynote-speakers)_** from leading experts
+> - **_[Six oral sessions]({{ site.baseurl }}/proceedings_track/)_** featuring authors
+>   of accepted proceedings track papers
+> - **_[Two spotlight poster sessions]({{ site.baseurl }}/spotlight_track/)_**
+>   showcasing the recent spotlight track
+> - **_[Three rising stars presentation sessions]({{ site.baseurl }}/rising_stars_presentations/)_**
+>   featuring [CPAL Rising Stars awardees]({{ site.baseurl }}/rising_stars_guidelines/)
+> - **_[Open-to-the-public tutorials]({{ site.baseurl }}/tutorials/)_** in **two parallel tracks**
+> - Social and networking events for all attendees (details TBA)
+> - **_[Morning yoga meditation sessions]({{ site.baseurl }}/meditation/)_**, open to all
 
 
 # Keynote Speakers
@@ -80,13 +87,24 @@ Information on the speakers' planned talks is available [here]({{site.baseurl}}/
 {% include speakers.html %}
 
 
-# Tentative Program
+# Conference Program (Schedule View)
 
 All times below are in HKT (GMT+8).
 
 {% for calendar in site.calendars %}
 {{ calendar }}
 {% endfor %}
+
+
+# Introducing CPAL
+
+<br>
+<div class="youtube-wrapper">
+<div class="youtube-video">
+<iframe src="https://www.youtube-nocookie.com/embed/pGbjiZOR63I?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+<br>
 
 
 {% include sponsors.html %}
