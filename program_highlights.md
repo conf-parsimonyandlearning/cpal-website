@@ -38,5 +38,5 @@ These events include:
 - A ***panel discussion*** on Day 2
 - Social and networking events for all attendees, including a welcome reception (Day 1), banquet dinner (Day 2),
   tram party (Day 3), and a post-conference social outing (details TBA)
-- **_[Morning yoga meditation sessions]({{ site.baseurl }}/meditation/)_** on
+- **_[Morning tailored wellness sessions]({{ site.baseurl }}/wellness/)_** on
   Days 2--4 of the conference

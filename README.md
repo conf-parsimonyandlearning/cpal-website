@@ -78,7 +78,7 @@ been extended to December 23rd, 2023.**
 > - **_[Open-to-the-public tutorials]({{ site.baseurl }}/tutorials/)_** in **two parallel tracks**
 > - A ***panel discussion*** on Day 2
 > - Social and networking events for all attendees (details TBA)
-> - **_[Morning yoga meditation sessions]({{ site.baseurl }}/meditation/)_**, open to all
+> - **_[Morning tailored wellness sessions]({{ site.baseurl }}/wellness/)_**, open to all
 
 
 # Keynote Speakers
