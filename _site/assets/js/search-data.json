@@ -36,14 +36,14 @@
   },"5": {
     "doc": "Home",
     "title": "Day 2 (Jan 4)Thursday",
-    "content": ". | Tailored Wellness Session 8:00 AM–8:40 AM Lee Shau Kee Lecture Ctr. | Yingbin Liang 9:00 AM–10:00 AM Lee Shau Kee Lecture Ctr. \"In-Context Convergence of Transformers\" | Rising Stars Session 2 10:00 AM–11:00 AM Lee Shau Kee Lecture Ctr. | Coffee Break | Oral Session 2 11:20 AM–12:20 PM Lee Shau Kee Lecture Ctr. | Lunch Break | Kostas Daniilidis 1:30 PM–2:30 PM Lee Shau Kee Lecture Ctr. \"Parsimony through Equivariance\" | Oral Session 3 2:30 PM–3:30 PM Lee Shau Kee Lecture Ctr. | Coffee Break | Panel Discussion 4:00 PM–5:00 PM Lee Shau Kee Lecture Ctr. | Spotlight Poster Session 1 5:00 PM–6:30 PM Lee Shau Kee Lecture Ctr. | Banquet 7:00 PM–9:00 PM Lee Shau Kee Lecture Ctr. | . | ",
+    "content": ". | Tailored Wellness Session 8:00 AM–8:40 AM Lee Shau Kee Lecture Ctr. | Yingbin Liang 9:00 AM–10:00 AM Lee Shau Kee Lecture Ctr. \"In-Context Convergence of Transformers\" | Rising Stars Session 2 10:00 AM–11:00 AM Lee Shau Kee Lecture Ctr. | Coffee Break | Oral Session 2 11:20 AM–12:20 PM Lee Shau Kee Lecture Ctr. | Lunch Break | Kostas Daniilidis 1:30 PM–2:30 PM Lee Shau Kee Lecture Ctr. \"Parsimony through Equivariance\" | Oral Session 3 2:30 PM–3:30 PM Lee Shau Kee Lecture Ctr. | Coffee Break | Panel Discussion 4:00 PM–5:00 PM Lee Shau Kee Lecture Ctr. | Spotlight Poster Session 1 5:00 PM–6:30 PM Lee Shau Kee Lecture Ctr. | Banquet 7:00 PM–9:00 PM | . | ",
     "url": "/",
     
     "relUrl": "/"
   },"6": {
     "doc": "Home",
     "title": "Day 3 (Jan 5)Friday",
-    "content": ". | Tailored Wellness Session 8:00 AM–8:40 AM Lee Shau Kee Lecture Ctr. | Jong Chul Ye 9:00 AM–10:00 AM Lee Shau Kee Lecture Ctr. \"Enlarging the Capability of Diffusion Inverse Solvers by Guidance\" | Rising Stars Session 3 10:00 AM–11:00 AM Lee Shau Kee Lecture Ctr. | Coffee Break | Oral Session 4 11:20 AM–12:20 PM Lee Shau Kee Lecture Ctr. | Lunch Break | Dimitris Papailiopoulos 1:30 PM–2:30 PM Lee Shau Kee Lecture Ctr. \"Teaching arithmetic to small language models\" | Oral Session 5 2:30 PM–3:30 PM Lee Shau Kee Lecture Ctr. | Coffee Break | Oral Session 6 4:00 PM–5:00 PM Lee Shau Kee Lecture Ctr. | Spotlight Poster Session 2 5:00 PM–6:30 PM Lee Shau Kee Lecture Ctr. | Tram Tour (Tentative) 7:00 PM–9:00 PM Lee Shau Kee Lecture Ctr. | . | ",
+    "content": ". | Tailored Wellness Session 8:00 AM–8:40 AM Lee Shau Kee Lecture Ctr. | Jong Chul Ye 9:00 AM–10:00 AM Lee Shau Kee Lecture Ctr. \"Enlarging the Capability of Diffusion Inverse Solvers by Guidance\" | Rising Stars Session 3 10:00 AM–11:00 AM Lee Shau Kee Lecture Ctr. | Coffee Break | Oral Session 4 11:20 AM–12:20 PM Lee Shau Kee Lecture Ctr. | Lunch Break | Dimitris Papailiopoulos 1:30 PM–2:30 PM Lee Shau Kee Lecture Ctr. \"Teaching arithmetic to small language models\" | Oral Session 5 2:30 PM–3:30 PM Lee Shau Kee Lecture Ctr. | Coffee Break | Oral Session 6 4:00 PM–5:00 PM Lee Shau Kee Lecture Ctr. | Spotlight Poster Session 2 5:00 PM–6:30 PM Lee Shau Kee Lecture Ctr. | Tram Tour (Tentative) 7:00 PM–9:00 PM | . | ",
     "url": "/",
     
     "relUrl": "/"
@@ -57,7 +57,7 @@
   },"8": {
     "doc": "Home",
     "title": "Day 5 (Jan 7)Sunday",
-    "content": ". | Social Event / Tour / Etc. (TBA) 10:00 AM–2:00 PM Lee Shau Kee Lecture Ctr. | . | . ",
+    "content": ". | Social Event / Tour / Etc. (TBA) 10:00 AM–2:00 PM | . | . ",
     "url": "/",
     
     "relUrl": "/"
@@ -435,14 +435,14 @@
   },"62": {
     "doc": "Program at a Glance",
     "title": "Day 2 (Jan 4)Thursday",
-    "content": ". | Tailored Wellness Session 8:00 AM–8:40 AM Lee Shau Kee Lecture Ctr. | Yingbin Liang 9:00 AM–10:00 AM Lee Shau Kee Lecture Ctr. \"In-Context Convergence of Transformers\" | Rising Stars Session 2 10:00 AM–11:00 AM Lee Shau Kee Lecture Ctr. | Coffee Break | Oral Session 2 11:20 AM–12:20 PM Lee Shau Kee Lecture Ctr. | Lunch Break | Kostas Daniilidis 1:30 PM–2:30 PM Lee Shau Kee Lecture Ctr. \"Parsimony through Equivariance\" | Oral Session 3 2:30 PM–3:30 PM Lee Shau Kee Lecture Ctr. | Coffee Break | Panel Discussion 4:00 PM–5:00 PM Lee Shau Kee Lecture Ctr. | Spotlight Poster Session 1 5:00 PM–6:30 PM Lee Shau Kee Lecture Ctr. | Banquet 7:00 PM–9:00 PM Lee Shau Kee Lecture Ctr. | . | ",
+    "content": ". | Tailored Wellness Session 8:00 AM–8:40 AM Lee Shau Kee Lecture Ctr. | Yingbin Liang 9:00 AM–10:00 AM Lee Shau Kee Lecture Ctr. \"In-Context Convergence of Transformers\" | Rising Stars Session 2 10:00 AM–11:00 AM Lee Shau Kee Lecture Ctr. | Coffee Break | Oral Session 2 11:20 AM–12:20 PM Lee Shau Kee Lecture Ctr. | Lunch Break | Kostas Daniilidis 1:30 PM–2:30 PM Lee Shau Kee Lecture Ctr. \"Parsimony through Equivariance\" | Oral Session 3 2:30 PM–3:30 PM Lee Shau Kee Lecture Ctr. | Coffee Break | Panel Discussion 4:00 PM–5:00 PM Lee Shau Kee Lecture Ctr. | Spotlight Poster Session 1 5:00 PM–6:30 PM Lee Shau Kee Lecture Ctr. | Banquet 7:00 PM–9:00 PM | . | ",
     "url": "/program_schedule/",
     
     "relUrl": "/program_schedule/"
   },"63": {
     "doc": "Program at a Glance",
     "title": "Day 3 (Jan 5)Friday",
-    "content": ". | Tailored Wellness Session 8:00 AM–8:40 AM Lee Shau Kee Lecture Ctr. | Jong Chul Ye 9:00 AM–10:00 AM Lee Shau Kee Lecture Ctr. \"Enlarging the Capability of Diffusion Inverse Solvers by Guidance\" | Rising Stars Session 3 10:00 AM–11:00 AM Lee Shau Kee Lecture Ctr. | Coffee Break | Oral Session 4 11:20 AM–12:20 PM Lee Shau Kee Lecture Ctr. | Lunch Break | Dimitris Papailiopoulos 1:30 PM–2:30 PM Lee Shau Kee Lecture Ctr. \"Teaching arithmetic to small language models\" | Oral Session 5 2:30 PM–3:30 PM Lee Shau Kee Lecture Ctr. | Coffee Break | Oral Session 6 4:00 PM–5:00 PM Lee Shau Kee Lecture Ctr. | Spotlight Poster Session 2 5:00 PM–6:30 PM Lee Shau Kee Lecture Ctr. | Tram Tour (Tentative) 7:00 PM–9:00 PM Lee Shau Kee Lecture Ctr. | . | ",
+    "content": ". | Tailored Wellness Session 8:00 AM–8:40 AM Lee Shau Kee Lecture Ctr. | Jong Chul Ye 9:00 AM–10:00 AM Lee Shau Kee Lecture Ctr. \"Enlarging the Capability of Diffusion Inverse Solvers by Guidance\" | Rising Stars Session 3 10:00 AM–11:00 AM Lee Shau Kee Lecture Ctr. | Coffee Break | Oral Session 4 11:20 AM–12:20 PM Lee Shau Kee Lecture Ctr. | Lunch Break | Dimitris Papailiopoulos 1:30 PM–2:30 PM Lee Shau Kee Lecture Ctr. \"Teaching arithmetic to small language models\" | Oral Session 5 2:30 PM–3:30 PM Lee Shau Kee Lecture Ctr. | Coffee Break | Oral Session 6 4:00 PM–5:00 PM Lee Shau Kee Lecture Ctr. | Spotlight Poster Session 2 5:00 PM–6:30 PM Lee Shau Kee Lecture Ctr. | Tram Tour (Tentative) 7:00 PM–9:00 PM | . | ",
     "url": "/program_schedule/",
     
     "relUrl": "/program_schedule/"
@@ -456,7 +456,7 @@
   },"65": {
     "doc": "Program at a Glance",
     "title": "Day 5 (Jan 7)Sunday",
-    "content": ". | Social Event / Tour / Etc. (TBA) 10:00 AM–2:00 PM Lee Shau Kee Lecture Ctr. | . | . ",
+    "content": ". | Social Event / Tour / Etc. (TBA) 10:00 AM–2:00 PM | . | . ",
     "url": "/program_schedule/",
     
     "relUrl": "/program_schedule/"
