@@ -4,6 +4,6 @@ keywords: Sparse Training, Space-time Co-efficiency, Acceleration, Stability, Gr
   Correction
 link: https://openreview.net/forum?id=Pby7pqtBYN
 title: 'Balance is Essence: Accelerating Sparse Training via Adaptive Gradient Correction'
-session: 1
+session: 4
 order: 1
 ---

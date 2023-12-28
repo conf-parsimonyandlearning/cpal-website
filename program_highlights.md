@@ -19,7 +19,7 @@ These events include:
 - **_[Morning and afternoon sessions]({{ site.baseurl }}/program_schedule/)_**
   with research presentations, invited talks, tutorials, and more, chaired by
   members of the [organization committee]({{ site.baseurl }}/organization_committee/):
-  - Jan 3: morning [Atlas Wang]({{ site.baseurl }}/organization_committee/#program-chairs),
+  - Jan 3: morning [Yi Ma]({{ site.baseurl }}/organization_committee/#general-chairs),
     afternoon [Chong You]({{ site.baseurl }}/organization_committee/#industry-liaison-chairs)
   - Jan 4: morning [Qi Lei]({{ site.baseurl }}/area_chairs/),
     afternoon [Gintare Karolina Dziugaite]({{ site.baseurl }}/organization_committee/#program-chairs)
