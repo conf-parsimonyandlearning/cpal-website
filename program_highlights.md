@@ -16,6 +16,9 @@ view of the time and date of all events.
 
 These events include:
 
+- An **opening ceremony** on Day 1, with remarks from Xiang Zhang, President and
+  Vice-Chancellor of the University of Hong Kong, and Max Shen, Vice-President
+  and Pro-Vice-Chancellor, to inaugurate the conference
 - **_[Morning and afternoon sessions]({{ site.baseurl }}/program_schedule/)_**
   with research presentations, invited talks, tutorials, and more, chaired by
   members of the [organization committee]({{ site.baseurl }}/organization_committee/):
@@ -36,7 +39,8 @@ These events include:
 - **_[Open-to-the-public tutorials]({{ site.baseurl }}/tutorials/)_**, delivered
   on the final day of the conference, in **two parallel tracks**
 - A ***panel discussion*** on Day 2
-- Social and networking events for all attendees, including a welcome reception (Day 1), banquet dinner (Day 2),
+- [Social and networking events]({{ site.baseurl }}/social/) for all attendees,
+  including a welcome reception (Day 1), banquet dinner (Day 2),
   tram party (Day 3), and a post-conference social outing (details TBA)
 - **_[Morning tailored wellness sessions]({{ site.baseurl }}/wellness/)_** on
   Days 2--4 of the conference

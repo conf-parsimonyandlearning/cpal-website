@@ -10,5 +10,5 @@ bio: "Dan Alistarh is a Professor at IST Austria, in Vienna. Previously, he was 
 day: 1
 start: 4:00 PM
 end: 5:00 PM
-location: TBA
+location: <a href="/venue/#day-1-venue-rayson-huang-theatre-hku">Rayson Huang Theatre</a>
 ---

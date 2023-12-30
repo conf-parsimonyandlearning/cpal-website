@@ -52,7 +52,6 @@ subject areas of interest and general policies. Stay tuned for further updates.
 {: .highlight}
 See the [deadlines page]({{ site.baseurl }}/deadlines) for a complete list of
 key dates.
--->
 
 # Register to Attend CPAL 2024
 
@@ -63,6 +62,7 @@ been extended to December 23rd, 2023.**
 <span class="fs-6">
 [Register Now](https://datascience.hku.hk/cpal-registration){: .btn}
 </span>
+-->
 
 
 {: .highlight}
@@ -77,7 +77,7 @@ been extended to December 23rd, 2023.**
 >   featuring [CPAL Rising Stars awardees]({{ site.baseurl }}/rising_stars_guidelines/)
 > - **_[Open-to-the-public tutorials]({{ site.baseurl }}/tutorials/)_** in **two parallel tracks**
 > - A ***panel discussion*** on Day 2
-> - Social and networking events for all attendees (details TBA)
+> - ***[Social and networking events]({{ site.baseurl }}/social/)*** for registered attendees
 > - **_[Morning tailored wellness sessions]({{ site.baseurl }}/wellness/)_**, open to all
 
 

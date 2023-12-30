@@ -10,5 +10,5 @@ bio: "Maryam Fazel is the Moorthy Family Professor of Electrical and Computer En
 day: 1
 start: 1:30 PM
 end: 2:30 PM
-location: TBA
+location: <a href="/venue/#day-1-venue-rayson-huang-theatre-hku">Rayson Huang Theatre</a>
 ---

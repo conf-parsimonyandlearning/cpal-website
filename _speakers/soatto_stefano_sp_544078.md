@@ -10,5 +10,5 @@ bio: "Professor Soatto received his Ph.D. in Control and Dynamical Systems from 
 day: 1
 start: 10:00 AM
 end: 11:00 AM
-location: TBA
+location: <a href="/venue/#day-1-venue-rayson-huang-theatre-hku">Rayson Huang Theatre</a>
 ---
