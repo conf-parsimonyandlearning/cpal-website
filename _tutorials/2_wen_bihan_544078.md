@@ -6,6 +6,6 @@ website: https://personal.ntu.edu.sg/bihan.wen/
 photo: wen.jpeg
 order: 2
 track: 2
-tutorial: "Sparse Modeling for Image Reconstruction and Restoration & Intro to Deep Learning for Imaging (Part II)"
-abstract: "Topics covered:<br>• Non-local image modeling, e.g., group sparsity, low-rank, etc.<br>• From model-based to deep learning.<br>• Advantages of model scalability.<br>• Example of deep learning methods for image restoration  (Session 2 will cover deep learning methods in more detail for imaging).<br>• How deep learning can be combined with model-based approaches."
+tutorial: "Sparse Modeling to Deep Learning for Image Restoration"
+abstract: "The second talk will focus more on integration of learned sparsity and nonlocal image modeling via group sparsity, low-rank structures, etc. Applications will be shown for image restoration and medical imaging. This part will also transition to aspects of deep learning for image restoration and offer several examples. How deep learning can be combined with conventional model-based approaches will also be touched upon.<br><em>Time: 50 minutes</em>"
 ---
