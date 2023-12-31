@@ -81,10 +81,14 @@ $content-width-0: 1200px;
 
   img {
     border-radius: 0px;
-    max-width: 400px;
+    max-width: 300px;
     height: auto;
     opacity: 1;
     margin: 10px 10px 10px 10px;
+
+    @include mq(md) {
+      max-width: 480px;
+    }
   }
 }
 

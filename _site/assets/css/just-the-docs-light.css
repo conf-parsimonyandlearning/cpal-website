@@ -6758,10 +6758,13 @@ blockquote.quote-title {
       flex-direction: row; } }
   .misc-img img {
     border-radius: 0px;
-    max-width: 400px;
+    max-width: 300px;
     height: auto;
     opacity: 1;
     margin: 10px 10px 10px 10px; }
+    @media (min-width: 50rem) {
+      .misc-img img {
+        max-width: 480px; } }
 
 code {
   font-size: 14px;
