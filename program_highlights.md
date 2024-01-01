@@ -39,8 +39,8 @@ These events include:
 - **_[Open-to-the-public tutorials]({{ site.baseurl }}/tutorials/)_**, delivered
   on the final day of the conference, in **two parallel tracks**
 - A ***panel discussion*** on Day 2
-- [Social and networking events]({{ site.baseurl }}/social/) for all attendees,
-  including a welcome reception (Day 1), banquet dinner (Day 2),
-  tram party (Day 3), and a post-conference social outing (details TBA)
+- **[Social and networking events]({{ site.baseurl }}/social/)**,
+  including a welcome reception (Day 1), and for registered attendees, a
+  banquet dinner (Day 2) and a tram party (Day 3)
 - **_[Morning tailored wellness sessions]({{ site.baseurl }}/wellness/)_** on
   Days 2--4 of the conference

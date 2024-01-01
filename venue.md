@@ -40,6 +40,8 @@ location of each event.
 
 ### January 4--6, 2024 (Thursday--Saturday)
 
+Tutorials will be held in classrooms LG.17 and LG.18.
+
 <div class="sponsor">
     <div>
     <img src="/assets/images/lsk_1.jpeg" alt="Centennial Campus Lecture Hall II 1">
