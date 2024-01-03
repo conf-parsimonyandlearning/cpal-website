@@ -17,8 +17,8 @@ view of the time and date of all events.
 These events include:
 
 - An **opening ceremony** on Day 1, with remarks from Xiang Zhang, President and
-  Vice-Chancellor of the University of Hong Kong, and Max Shen, Vice-President
-  and Pro-Vice-Chancellor, to inaugurate the conference
+  Vice-Chancellor of the University of Hong Kong, and Harry Shum Heung-Yeung,
+  IAS Professor-at-Large Emeritus, HKUST and CPAL General Chair, to inaugurate the conference
 - **_[Morning and afternoon sessions]({{ site.baseurl }}/program_schedule/)_**
   with research presentations, invited talks, tutorials, and more, chaired by
   members of the [organization committee]({{ site.baseurl }}/organization_committee/):
