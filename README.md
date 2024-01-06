@@ -21,7 +21,13 @@ more detail [here]({{ site.baseurl }}/vision).
 -->
 
 {: .fs-7 .text-center}
-**CPAL 2024 will take place from January 3--6 <br> at [the University of Hong Kong]({{ site.baseurl }}/venue/)!**
+**Congratulations to the CPAL 2024 Best Paper Award winners!**
+
+**Best Paper Award**: Yuangang Pan, Yinghua Yao, Ivor Tsang,
+*[PC-X: Profound Clustering via Slow Exemplars](https://openreview.net/forum?id=yhGKPtRoOx)*.
+
+**Best Paper Runner-Up Award**: Chanwoo Chun, Daniel Lee,
+*[Sparse Activations with Correlated Weights in Cortex-Inspired Neural Networks](https://openreview.net/forum?id=cyMsUO5J7U)*.
 
 
 
@@ -64,6 +70,7 @@ been extended to December 23rd, 2023.**
 </span>
 -->
 
+# Conference Program
 
 {: .highlight}
 > **The full [CPAL 2024 program]({{ site.baseurl }}/#conference-program-schedule-view) has been announced!**
