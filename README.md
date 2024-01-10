@@ -20,6 +20,14 @@ We describe [our]({{ site.baseurl }}/organization_committee) vision for the conf
 more detail [here]({{ site.baseurl }}/vision).
 -->
 
+# Conference Proceedings
+
+The CPAL 2024 Proceedings are now available on PMLR.
+
+<span class="fs-6">
+[CPAL 2024 Proceedings](https://proceedings.mlr.press/v234/){: .btn}
+</span>
+
 {: .fs-7 .text-center}
 **Congratulations to the CPAL 2024 Best Paper Award winners!**
 
@@ -28,6 +36,9 @@ more detail [here]({{ site.baseurl }}/vision).
 
 **Best Paper Runner-Up Award**: Chanwoo Chun, Daniel Lee,
 *[Sparse Activations with Correlated Weights in Cortex-Inspired Neural Networks](https://openreview.net/forum?id=cyMsUO5J7U)*.
+
+
+
 
 
 

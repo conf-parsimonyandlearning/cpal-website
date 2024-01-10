@@ -31,8 +31,8 @@ heading_anchors: true
 permalink: pretty
 logo: "/assets/images/logo.svg"
 aux_links:
-  Registration:
-    - 'https://datascience.hku.hk/cpal-registration'
+  CPAL Proceedings:
+    - 'https://proceedings.mlr.press/v234/'
   CPAL OpenReview:
     - 'https://openreview.net/group?id=CPAL.cc/2024'
   CPAL at HKU:
