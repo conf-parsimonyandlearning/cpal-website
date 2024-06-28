@@ -1,12 +1,12 @@
 // Just the Class dependencies
-@import 'card';
+@import "card";
 
 // Just the Class styles
-@import 'announcement';
-@import 'module';
-@import 'calendar';
-@import 'organizer';
-@import 'speaker';
+@import "announcement";
+@import "module";
+@import "calendar";
+@import "organizer";
+@import "speaker";
 
 // change sizes
 // need to fix this...
@@ -30,7 +30,7 @@ $content-width-0: 1200px;
     left: 16px;
 
     @include fs-7;
-    @include mq(md) { 
+    @include mq(md) {
       font-weight: 500;
     }
     color: $body-heading-color;
@@ -42,34 +42,54 @@ $content-width-0: 1200px;
     right: 16px;
 
     @include fs-4;
-    @include mq(md) { 
+    @include mq(md) {
       @include fs-6;
       font-weight: 500;
     }
     color: $body-heading-color;
   }
-
 }
 
 // custom class for sponsor images, like splash but no overlay
-
 .sponsor {
-    display: flex;
-    position: relative;
-    flex-direction: column;
+  display: flex;
+  position: relative;
+  flex-direction: column;
 
-    @include mq(sm) {
-        flex-direction: row;
+  @include mq(sm) {
+    flex-direction: row;
+  }
+
+  img {
+    border-radius: 0px;
+    max-width: 280px;
+    height: auto;
+    opacity: 1;
+    margin: 10px 10px 10px 10px;
+  }
+}
+
+// custom class for misc images, like sponsor but a bit wider
+.misc-img {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+
+  @include mq(sm) {
+    flex-direction: row;
+  }
+
+  img {
+    border-radius: 0px;
+    max-width: 300px;
+    height: auto;
+    opacity: 1;
+    margin: 10px 10px 10px 10px;
+
+    @include mq(md) {
+      max-width: 480px;
     }
-
-    img {
-        border-radius: 0px;
-        max-width: 280px;
-        height: auto;
-        opacity: 1.0;
-        margin: 10px 10px 10px 10px
-    }
-
+  }
 }
 
 // Overrides
@@ -124,12 +144,11 @@ summary {
     @include fs-2;
   }
 
-  .youtube-wrapper{
+  .youtube-wrapper {
     width: 100%;
     max-width: 560px; //set your `max-width` here
     max-height: auto; //necessary to keep proportion
-    margin: auto; //centering 
-
+    margin: auto; //centering
   }
 
   .youtube-video {
@@ -160,9 +179,8 @@ summary {
     width: 34px;
     // opacity: 0.5;
     border: 0 !important;
-    padding: 0px,5px,0px,5px;
+    padding: 0px, 5px, 0px, 5px;
   }
-
 
   @include mq(md) {
     @include fs-5;
@@ -172,14 +190,13 @@ summary {
       width: 48px;
       // opacity: 0.5;
       border: 0 !important;
-      padding: 0px,0px,0px,0px;
+      padding: 0px, 0px, 0px, 0px;
     }
 
     credit {
-      @include fs-2
+      @include fs-2;
     }
   }
-
 }
 
 .nav-list-link-expander {
@@ -187,4 +204,3 @@ summary {
   color: $link-color;
   width: 100%;
 }
-

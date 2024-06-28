@@ -86,13 +86,20 @@
     position: absolute;
     width: 100%;
 
+    a {
+        color: $yellow-000;
+    }
+
     .name {
       @extend .fs-3, .fw-700;
     }
 
-    .time,
-    .location {
+    .time {
       @extend .fs-2;
+    }
+
+    .location {
+      @extend .fs-1;
     }
 
     .talk-title {
@@ -102,13 +109,14 @@
 
     &.keynote {
       background-color: $green-100;
-      a {
-          color: $yellow-000;
-      }
     }
 
     &.meta {
       background-color: $red-000;
+    }
+
+    &.oral {
+      background-color: $purple-000;
     }
 
     &.poster {
