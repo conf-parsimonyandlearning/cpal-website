@@ -4,14 +4,11 @@
   }}{{ page.photo }}" alt=""></a>
   {% endif %}
   <div>
-    <h3 class="speaker-name">
+    <h3 class="speaker-name no_anchor">
       {% if page.website %}
       <a href="{{ page.website }}">{{ page.name }}</a>
       {% else %}
       {{ page.name }}
-      {% endif %}
-      {% if page.pronouns %}
-      <span class="speaker-pronouns">{{ page.pronouns }}</span>
       {% endif %}
     </h3>
     {% if page.email %}

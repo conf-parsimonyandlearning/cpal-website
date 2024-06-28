@@ -6,4 +6,5 @@ keywords: Machine Learning, dynamic sparse training, structured sparsity, N:M sp
   inference
 link: https://openreview.net/forum?id=LWBzJRTBAH
 title: Dynamic Sparse Training with Structured Sparsity
+session: 2
 ---

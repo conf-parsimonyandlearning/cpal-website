@@ -20,15 +20,26 @@ We describe [our]({{ site.baseurl }}/organization_committee) vision for the conf
 more detail [here]({{ site.baseurl }}/vision).
 -->
 
-{: .fs-7 .text-center}
-**CPAL 2024 will take place from January 3--6 <br> at the University of Hong Kong!**
+# Conference Proceedings
 
-<div class="youtube-wrapper">
-<div class="youtube-video">
-<iframe src="https://www.youtube-nocookie.com/embed/pGbjiZOR63I?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-</div>
-<br>
+The CPAL 2024 Proceedings are now available on PMLR.
+
+<span class="fs-6">
+[CPAL 2024 Proceedings](https://proceedings.mlr.press/v234/){: .btn}
+</span>
+
+{: .fs-7 .text-center}
+**Congratulations to the CPAL 2024 Best Paper Award winners!**
+
+**Best Paper Award**: Yuangang Pan, Yinghua Yao, Ivor Tsang,
+*[PC-X: Profound Clustering via Slow Exemplars](https://openreview.net/forum?id=yhGKPtRoOx)*.
+
+**Best Paper Runner-Up Award**: Chanwoo Chun, Daniel Lee,
+*[Sparse Activations with Correlated Weights in Cortex-Inspired Neural Networks](https://openreview.net/forum?id=cyMsUO5J7U)*.
+
+
+
+
 
 
 <!--
@@ -58,19 +69,34 @@ subject areas of interest and general policies. Stay tuned for further updates.
 {: .highlight}
 See the [deadlines page]({{ site.baseurl }}/deadlines) for a complete list of
 key dates.
--->
 
 # Register to Attend CPAL 2024
 
 
-All CPAL attendees are required to register. **The deadline to register is
-December 15th, 2023.**
+All CPAL attendees are required to register. **The deadline to register has
+been extended to December 23rd, 2023.**
 
 <span class="fs-6">
 [Register Now](https://datascience.hku.hk/cpal-registration){: .btn}
 </span>
+-->
 
-<!-- # Tentative Program -->
+# Conference Program
+
+{: .highlight}
+> **The full [CPAL 2024 program]({{ site.baseurl }}/#conference-program-schedule-view) has been announced!**
+> Highlights include:
+> - **_[Keynotes]({{ site.baseurl }}/#keynote-speakers)_** from leading experts
+> - **_[Six oral sessions]({{ site.baseurl }}/proceedings_track/)_** featuring authors
+>   of accepted proceedings track papers
+> - **_[Two spotlight poster sessions]({{ site.baseurl }}/spotlight_track/)_**
+>   showcasing the recent spotlight track
+> - **_[Three rising stars presentation sessions]({{ site.baseurl }}/rising_stars_presentations/)_**
+>   featuring [CPAL Rising Stars awardees]({{ site.baseurl }}/rising_stars_guidelines/)
+> - **_[Open-to-the-public tutorials]({{ site.baseurl }}/tutorials/)_** in **two parallel tracks**
+> - A ***panel discussion*** on Day 2
+> - ***[Social and networking events]({{ site.baseurl }}/social/)*** for registered attendees
+> - **_[Morning tailored wellness sessions]({{ site.baseurl }}/wellness/)_**, open to all
 
 
 # Keynote Speakers
@@ -80,13 +106,24 @@ Information on the speakers' planned talks is available [here]({{site.baseurl}}/
 {% include speakers.html %}
 
 
-# Tentative Program
+# Conference Program (Schedule View)
 
 All times below are in HKT (GMT+8).
 
 {% for calendar in site.calendars %}
 {{ calendar }}
 {% endfor %}
+
+
+# Introducing CPAL
+
+<br>
+<div class="youtube-wrapper">
+<div class="youtube-video">
+<iframe src="https://www.youtube-nocookie.com/embed/pGbjiZOR63I?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+<br>
 
 
 {% include sponsors.html %}

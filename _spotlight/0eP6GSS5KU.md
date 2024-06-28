@@ -5,4 +5,5 @@ keywords: iterative magnitude pruning, sparse machine learning, statistics of in
 link: https://openreview.net/forum?id=0eP6GSS5KU
 title: Sparsity Enhances Non-Gaussian Data Statistics During Local Receptive Field
   Formation
+session: 2
 ---

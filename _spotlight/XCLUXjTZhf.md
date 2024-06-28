@@ -4,4 +4,5 @@ keywords: Multiway data, Separable covariance, Kronecker PCA, Low-rank covarianc
   model, Tensor decomposition, Frank-Wolfe method
 link: https://openreview.net/forum?id=XCLUXjTZhf
 title: On Separability of Covariance in Multiway Data Analysis
+session: 2
 ---

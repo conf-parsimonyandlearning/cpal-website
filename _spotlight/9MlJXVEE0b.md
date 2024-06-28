@@ -5,4 +5,5 @@ keywords: reverse engineering deceptions, GAN inversion, optimization, adversari
 link: https://openreview.net/forum?id=9MlJXVEE0b
 title: A Linearly Convergent GAN Inversion-based Algorithm for Reverse Engineering
   of Deceptions
+session: 2
 ---

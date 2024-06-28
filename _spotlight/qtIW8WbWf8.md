@@ -5,4 +5,5 @@ keywords: multi-objective learning, generalization, algorithm stability, stochas
 link: https://openreview.net/forum?id=qtIW8WbWf8
 title: 'Three-way trade-off in multi-objective learning: Optimization, generalization
   and conflict-avoidance'
+session: 1
 ---

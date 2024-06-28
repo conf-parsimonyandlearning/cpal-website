@@ -5,4 +5,5 @@ keywords: Large language model, pruning, sparsity
 link: https://openreview.net/forum?id=j5QkMqChDl
 title: 'Outlier Weighed Layerwise Sparsity (OWL): A Missing Secret Sauce for Pruning
   LLMs to High Sparsity'
+session: 1
 ---

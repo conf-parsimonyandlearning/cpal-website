@@ -4,4 +4,5 @@ keywords: Deep Learning, Efficient Mutual Information Estimation, Real-Time Corr
   Computation, Maximum Correlation Coefficient
 link: https://openreview.net/forum?id=LYaOT0RHFS
 title: Ultrafast Neural Estimation of Mutual Information
+session: 2
 ---

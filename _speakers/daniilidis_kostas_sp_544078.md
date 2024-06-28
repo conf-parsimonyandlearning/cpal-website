@@ -10,5 +10,5 @@ bio: Kostas Daniilidis is the Ruth Yalom Stone Professor of Computer and Informa
 day: 2
 start: 1:30 PM
 end: 2:30 PM
-location: TBA
+location: <a href="/venue/#days-24-venue-lecture-hall-ii-cpd-lg07-10-lg-centennial-campus-hku">Lee Shau Kee Lecture Ctr.</a>
 ---

@@ -10,5 +10,5 @@ bio: "SueYeon Chung is an Assistant Professor in the Center for Neural Science a
 day: 4
 start: 10:00 AM
 end: 11:00 AM
-location: TBA
+location: <a href="/venue/#days-24-venue-lecture-hall-ii-cpd-lg07-10-lg-centennial-campus-hku">Lee Shau Kee Lecture Ctr.</a>
 ---

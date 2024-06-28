@@ -5,4 +5,5 @@ keywords: large language model, scaling, pruning, sparsity
 link: https://openreview.net/forum?id=e0CMWYl2Zj
 title: 'The Cost of Down-Scaling Language Models: Fact Recall Deteriorates before
   In-Context Learning'
+session: 2
 ---

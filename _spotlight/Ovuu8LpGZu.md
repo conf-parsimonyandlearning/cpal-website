@@ -4,4 +4,5 @@ keywords: representation learning; neural collapse; deep linear networks
 link: https://openreview.net/forum?id=Ovuu8LpGZu
 title: Understanding Hierarchical Representations in Deep Networks via Feature Compression
   and Discrimination
+session: 2
 ---

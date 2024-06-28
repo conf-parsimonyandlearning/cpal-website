@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Key Dates
-nav_order: 1
+nav_order: 8
 ---
 <script src="//code.jquery.com/jquery.js"></script>
 <script src="{{ site.baseurl }}/assets/js/jquery.countdown.min.js"></script>
@@ -46,6 +46,6 @@ nav_order: 1
 
 | Event                     | Date                            |
 |:--------------------------|:--------------------------------|
-| Registration Deadline     | December 15th, 2023 (AOE)       |
+| Registration Deadline     | December 23rd, 2023 (AOE)       |
 | Conference Program        | January 3rd - January 6th, 2024 |
 

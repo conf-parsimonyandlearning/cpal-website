@@ -4,4 +4,5 @@ keywords: 3d representation learning, neural fields, NeRF, voxel grids, invarian
   non-convex optimization
 link: https://openreview.net/forum?id=VeiZDoUbDL
 title: Canonical Factors for Hybrid Neural Fields
+session: 2
 ---

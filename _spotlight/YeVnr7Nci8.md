@@ -4,4 +4,5 @@ keywords: Optimization, Distributed Learning, Independent Subnetwork Training, F
   Learning
 link: https://openreview.net/forum?id=YeVnr7Nci8
 title: Towards a Better Theoretical Understanding of Independent Subnetwork Training
+session: 1
 ---
