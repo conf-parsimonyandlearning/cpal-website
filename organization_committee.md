@@ -19,6 +19,18 @@ nav_order: 0
 
 </div>
 
+## Senior Advisors to Program Chairs
+
+<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
+  flex-start;">
+
+  {% assign pcs = site.organizers | where: 'role', 'Senior Advisor to PCs' %}
+  {% for organizer in pcs %}
+  {{ organizer }}
+  {% endfor %}
+
+</div>
+
 ## Program Chairs
 
 <div style="clear: both; display: flex; flex-wrap: wrap; justify-content:

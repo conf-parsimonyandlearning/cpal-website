@@ -20,110 +20,55 @@ We describe [our]({{ site.baseurl }}/organization_committee) vision for the conf
 more detail [here]({{ site.baseurl }}/vision).
 -->
 
-# Conference Proceedings
 
-The CPAL 2024 Proceedings are now available on PMLR.
-
-<span class="fs-6">
-[CPAL 2024 Proceedings](https://proceedings.mlr.press/v234/){: .btn}
-</span>
-
-{: .fs-7 .text-center}
-**Congratulations to the CPAL 2024 Best Paper Award winners!**
-
-**Best Paper Award**: Yuangang Pan, Yinghua Yao, Ivor Tsang,
-*[PC-X: Profound Clustering via Slow Exemplars](https://openreview.net/forum?id=yhGKPtRoOx)*.
-
-**Best Paper Runner-Up Award**: Chanwoo Chun, Daniel Lee,
-*[Sparse Activations with Correlated Weights in Cortex-Inspired Neural Networks](https://openreview.net/forum?id=cyMsUO5J7U)*.
-
-
-
-
-
-
-<!--
 # Call for Papers
 
-{: .fs-5 .text-center}
-[Submit your Work on OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Conference)
+<!-- {: .fs-5 .text-center} -->
+<!-- [Submit your Work on OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Conference) -->
 
-We are pleased to invite paper submissions for the first Conference on
-Parsimony and Learning. Please see the [**call for papers**]({{ site.baseurl
+We are pleased to announce the Second Conference on Parsimony and Learning,
+to be held in concert with Stanford Data Science at Stanford University in
+California, USA!
+
+Paper submissions for the second Conference on
+Parsimony and Learning will be opened soon.
+Please see the [**call for papers**]({{ site.baseurl
 }}/tracks) for details about the submission and reviewing process, as well as
-subject areas of interest and general policies. Stay tuned for further updates.
+subject areas of interest and general policies. 
 
 
-# Key Dates and Deadlines
+Stay tuned for further updates!
+
+
+
+# Key Dates and Deadlines (Tentative)
 
 
 *All deadlines are 23:59 [Anywhere-on-Earth (AOE)](https://www.ieee802.org/16/aoe.html)*
 
-- **August 28th, 2023**: Submission Deadline for [Proceedings Track](https://openreview.net/group?id=CPAL.cc/2024/Conference)
-- **October 1st, 2023**: [Rising Stars Award]({{ site.baseurl }}/rising_stars)
-  Application Deadline
-- **October 10th, 2023**: Submission Deadline for [Recent Spotlight Track](https://openreview.net/group?id=CPAL.cc/2024/Recent_Spotlight_Track)
-- **November 20th, 2023**: Final Decisions Released (Both Tracks)
-- **January 3rd-6th, 2024**: Main Conference (In-Person, HKU Main Campus)
+- **3rd Week of November, 2024**: Submission Deadline
+- **1st Week of Jan, 2025**: Rebuttal
+- **January 31st, 2025**: Decisions Released
+- **Week of March 24th 2025**: Conference in-person, Stanford, CA
 
-{: .highlight}
-See the [deadlines page]({{ site.baseurl }}/deadlines) for a complete list of
-key dates.
+<!-- {: .highlight} -->
+<!-- See the [deadlines page]({{ site.baseurl }}/deadlines) for a complete list of -->
+<!-- key dates. -->
 
-# Register to Attend CPAL 2024
-
-
-All CPAL attendees are required to register. **The deadline to register has
-been extended to December 23rd, 2023.**
-
-<span class="fs-6">
-[Register Now](https://datascience.hku.hk/cpal-registration){: .btn}
-</span>
--->
-
-# Conference Program
-
-{: .highlight}
-> **The full [CPAL 2024 program]({{ site.baseurl }}/#conference-program-schedule-view) has been announced!**
-> Highlights include:
-> - **_[Keynotes]({{ site.baseurl }}/#keynote-speakers)_** from leading experts
-> - **_[Six oral sessions]({{ site.baseurl }}/proceedings_track/)_** featuring authors
->   of accepted proceedings track papers
-> - **_[Two spotlight poster sessions]({{ site.baseurl }}/spotlight_track/)_**
->   showcasing the recent spotlight track
-> - **_[Three rising stars presentation sessions]({{ site.baseurl }}/rising_stars_presentations/)_**
->   featuring [CPAL Rising Stars awardees]({{ site.baseurl }}/rising_stars_guidelines/)
-> - **_[Open-to-the-public tutorials]({{ site.baseurl }}/tutorials/)_** in **two parallel tracks**
-> - A ***panel discussion*** on Day 2
-> - ***[Social and networking events]({{ site.baseurl }}/social/)*** for registered attendees
-> - **_[Morning tailored wellness sessions]({{ site.baseurl }}/wellness/)_**, open to all
-
-
-# Keynote Speakers
-
-Information on the speakers' planned talks is available [here]({{site.baseurl}}/speakers/#talk-details).
-
-{% include speakers.html %}
-
-
-# Conference Program (Schedule View)
-
-All times below are in HKT (GMT+8).
-
-{% for calendar in site.calendars %}
-{{ calendar }}
-{% endfor %}
-
-
-# Introducing CPAL
+<!-- # Register to Attend CPAL 2024 -->
+<!---->
+<!---->
+<!-- All CPAL attendees are required to register. **The deadline to register has -->
+<!-- been extended to December 23rd, 2023.** -->
+<!---->
+<!-- <span class="fs-6"> -->
+<!-- [Register Now](https://datascience.hku.hk/cpal-registration){: .btn} -->
+<!-- </span> -->
 
 <br>
-<div class="youtube-wrapper">
-<div class="youtube-video">
-<iframe src="https://www.youtube-nocookie.com/embed/pGbjiZOR63I?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-</div>
-<br>
 
 
-{% include sponsors.html %}
+![Stanford Data Science logo]({{ site.baseurl }}/assets/images/SDS_logo_large.png)
+
+
+<!-- {% include sponsors.html %} -->

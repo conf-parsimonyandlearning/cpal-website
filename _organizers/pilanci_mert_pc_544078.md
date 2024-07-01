@@ -1,7 +1,7 @@
 ---
-name: Jeremias Sulam
+name: Mert Pilanci
 role: Program Chair
-affiliation: Johns Hopkins University
+affiliation: Stanford
 website: https://sites.google.com/view/jsulam
-photo: js.png
+photo: mp.jpeg
 ---
