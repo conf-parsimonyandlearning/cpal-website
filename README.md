@@ -47,8 +47,10 @@ Stay tuned for further updates!
 *All deadlines are 23:59 [Anywhere-on-Earth (AOE)](https://www.ieee802.org/16/aoe.html)*
 
 - **3rd Week of November, 2024**: Submission Deadline for [Proceedings Track (archival)]({{ site.baseurl }}/tracks#proceedings-track--archival)
+- **Dec 6th, 2024**: Application Deadline for Tutorial Proposals (Call/Details TBA)
 - **Dec 15th, 2024**: Application Deadline for [Rising Stars Award](https://2024.cpal.cc/rising_stars_guidelines/) (2025 Details TBA)
 - **1st Week of Jan, 2025**: Rebuttal for Submissions to [Proceedings Track]({{ site.baseurl }}/tracks#proceedings-track--archival)
+- **Jan 4th, 2025**: Tutorial Proposal Decisions Released
 - **Jan 5th, 2025**: Submission Deadline for [Spotlight Track (non-archival)]({{ site.baseurl }}/tracks#recent-spotlight-track-non-archival)
 - **January 30th, 2025**: Decisions Released (both tracks)
 - **Week of March 24th 2025**: Conference in-person, Stanford, CA
