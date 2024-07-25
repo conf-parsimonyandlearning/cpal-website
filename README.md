@@ -53,7 +53,7 @@ Stay tuned for further updates!
 - **Jan 4th, 2025**: Tutorial Proposal Decisions Released
 - **Jan 5th, 2025**: Submission Deadline for [Spotlight Track (non-archival)]({{ site.baseurl }}/tracks#recent-spotlight-track-non-archival)
 - **January 30th, 2025**: Decisions Released (both tracks)
-- **Week of March 24th 2025**: Conference in-person, Stanford, CA
+- **March 24th--27th, 2025**: Conference in-person, Stanford, CA
 
 <!-- {: .highlight} -->
 <!-- See the [deadlines page]({{ site.baseurl }}/deadlines) for a complete list of -->
