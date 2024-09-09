@@ -2,7 +2,7 @@
 name: Fred Kjolstad
 role: Speaker
 affiliation: Stanford University
-website: https://cs.stanford.edu/people/kjolstad/
+website: https://fredrikbk.com/
 photo: kjolstad.jpeg
 talk: 
 abstract: 

@@ -2,7 +2,7 @@
 name: Jason Lee
 role: Speaker
 affiliation: Princeton University
-website: https://jlee.princeton.edu/
+website: https://jasondlee88.github.io/
 photo: lee.jpeg
 talk: 
 abstract: 

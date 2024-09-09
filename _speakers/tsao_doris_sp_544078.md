@@ -1,8 +1,8 @@
 ---
 name: Doris Tsao
 role: Speaker
-affiliation: California Institute of Technology
-website: https://www.tsaolab.caltech.edu/
+affiliation: University of California, Berkeley
+website: https://tsaolab.berkeley.edu/
 photo: tsao.jpeg
 talk: 
 abstract: 

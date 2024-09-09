@@ -1,9 +1,9 @@
 ---
 name: Yuandong Tian
 role: Speaker
-affiliation: Facebook AI Research
-website: https://research.facebook.com/people/yuandongtian/
-photo: tian.jpeg
+affiliation: Meta AI Research
+website: https://yuandong-tian.com/
+photo: tian.png
 talk: 
 abstract: 
 bio: 

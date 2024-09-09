@@ -40,8 +40,15 @@ subject areas of interest and general policies.
 Stay tuned for further updates!
 
 
+# Keynote Speakers
 
-# Key Dates and Deadlines (Tentative)
+<!-- Information on the speakers' planned talks is available [here]({{site.baseurl}}/speakers/#talk-details). -->
+
+{% include speakers.html %}
+
+
+
+# Key Dates and Deadlines
 
 
 *All deadlines are 23:59 [Anywhere-on-Earth (AOE)](https://www.ieee802.org/16/aoe.html)*
