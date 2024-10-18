@@ -49,7 +49,7 @@ Stay tuned for further updates!
 For a complete list of deadlines, see the [deadlines page]({{ site.baseurl }}/deadlines).
 
 - **Nov 25th, 2024**: Submission Deadline for [Proceedings Track (archival)]({{ site.baseurl }}/tracks#proceedings-track--archival)
-- **Dec 6th, 2024**: Application Deadline for Tutorial Proposals (Call/Details TBA)
+- **Dec 6th, 2024**: Application Deadline for [Tutorial Proposals]({{ site.baseurl }}/tutorial_call)
 - **Dec 15th, 2024**: Application Deadline for [Rising Stars Award](https://2024.cpal.cc/rising_stars_guidelines/) (2025 Details TBA)
 - **Jan 3rd-6th, 2025**: Rebuttal for Submissions to [Proceedings Track]({{ site.baseurl }}/tracks#proceedings-track--archival)
 - **Jan 4th, 2025**: Tutorial Proposal Decisions Released
