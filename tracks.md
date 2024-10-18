@@ -7,6 +7,11 @@ nav_order: 0
 
 {% include splash.html %}
 
+# Deadlines for Submission
+
+All deadlines can be found on the [deadlines page]({{ site.baseurl
+}}/deadlines).
+
 
 # Submission Tracks and Review Process
 
