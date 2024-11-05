@@ -21,8 +21,8 @@ All deadlines can be found on the [deadlines page]({{ site.baseurl
 > 2. ["Recent spotlight" track]({{ site.baseurl }}/tracks/#recent-spotlight-track-non-archival) (*non-archival*)
 > 
 > Submissions to both tracks are to be prepared using the CPAL
-> LaTeX style files, available as a [zip archive]({{ site.baseurl }}/assets/CPAL-2024-template.zip)
-> or as an [Overleaf template](https://www.overleaf.com/latex/templates/cpal-2024/kcdjgbnkzmpj).
+> LaTeX style files, available as a [zip archive]({{ site.baseurl }}/assets/CPAL-2025-template.zip)
+> or as an [Overleaf template](https://www.overleaf.com/latex/templates/cpal-2024/kcdjgbnkzmpj) (to be updated).
 
 {: .fs-6 .text-center}
 [CPAL OpenReview Submission Portal](https://openreview.net/group?id=CPAL.cc/2024)
