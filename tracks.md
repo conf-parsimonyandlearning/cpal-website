@@ -25,13 +25,13 @@ All deadlines can be found on the [deadlines page]({{ site.baseurl
 > or as an [Overleaf template](https://www.overleaf.com/latex/templates/cpal-2025/djpnmsxjxcqs).
 
 {: .fs-6 .text-center}
-[CPAL OpenReview Submission Portal](https://openreview.net/group?id=CPAL.cc/2024)
+[CPAL OpenReview Submission Portal](https://openreview.net/group?id=CPAL.cc/2025)
 
 
 ## Proceedings Track  (archival)
 
 The submission and review stage will be **double-blind**. We use 
-[OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Conference)
+[OpenReview](https://openreview.net/group?id=CPAL.cc/2025/Proceedings_Track)
 to host
 papers and record discussions between authors and reviewers. Before the end of the
 Authors-Reviewers Discussion Stage, authors can participate in the discussion as
@@ -74,7 +74,7 @@ We follow the rule by NeurIPS 2023, quoted as follows:
 We meanwhile aim to showcase the latest research innovations at all stages of
 the research process, from work-in-progress to recently published papers.
 Concretely, we ask members of the community to submit to
-[OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Recent_Spotlight_Track)
+[OpenReview](https://openreview.net/group?id=CPAL.cc/2025/Recent_Spotlight_Track)
 either:
 - A conference-style submission describing the work, which may be prepared using the
   [CPAL style files]({{ site.baseurl }}/tracks#submission-tracks-and-review-process),
@@ -85,7 +85,7 @@ either:
   conferences, journals).
 
 Please also upload a short (250 word) abstract to
-[OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Recent_Spotlight_Track).
+[OpenReview](https://openreview.net/group?id=CPAL.cc/2025/Recent_Spotlight_Track).
 OpenReview submissions may also include any of the following supplemental
 materials that describe the work in further detail:
 
