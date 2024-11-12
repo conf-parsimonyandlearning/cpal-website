@@ -21,7 +21,7 @@ more detail [here]({{ site.baseurl }}/vision).
 -->
 
 
-# Announcing CPAL 2025: Calls for Papers, Tutorials
+# Announcing CPAL 2025: Calls for Papers, Tutorials, Rising Stars Award
 
 <!-- {: .fs-5 .text-center} -->
 <!-- [Submit your Work on OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Conference) -->
@@ -31,17 +31,19 @@ to be held in concert with Stanford Data Science at Stanford University in
 California, USA!
 
 ***Paper submissions*** for the second Conference on
-Parsimony and Learning will be opened soon (OpenReview-based).
+Parsimony and Learning are now open (OpenReview-based).
 Please see the [**call for papers**]({{ site.baseurl
 }}/tracks) for details about the submission and reviewing process, as well as
-subject areas of interest and general policies. 
+subject areas of interest and general policies.
 
 This year, CPAL is soliciting ***tutorial proposals*** from the community, to be
 delivered as part of the conference program.
 Please see the [**call for tutorials**]({{ site.baseurl }}/tutorial_call) for
-details.
+details and deadlines.
 
-Stay tuned for further updates!
+The ***CPAL Rising Stars Award*** is now accepting applications from
+outstanding early-career researchers. Please see [**the application page**]({{
+site.baseurl }}/rising_stars_guidelines) for further details and deadlines.
 
 # Key Dates and Deadlines
 
@@ -50,7 +52,8 @@ For a complete list of deadlines, see the [deadlines page]({{ site.baseurl }}/de
 
 - **Nov 25th, 2024**: Submission Deadline for [Proceedings Track (archival)]({{ site.baseurl }}/tracks#proceedings-track--archival)
 - **Dec 6th, 2024**: Application Deadline for [Tutorial Proposals]({{ site.baseurl }}/tutorial_call)
-- **Dec 15th, 2024**: Application Deadline for [Rising Stars Award](https://2024.cpal.cc/rising_stars_guidelines/) (2025 Details TBA)
+- **Dec 15th, 2024**: Application Deadline for [Rising Stars Award]({{
+site.baseurl }}/rising_stars_guidelines)
 - **Jan 3rd-6th, 2025**: Rebuttal for Submissions to [Proceedings Track]({{ site.baseurl }}/tracks#proceedings-track--archival)
 - **Jan 4th, 2025**: Tutorial Proposal Decisions Released
 - **Jan 5th, 2025**: Submission Deadline for [Spotlight Track (non-archival)]({{ site.baseurl }}/tracks#recent-spotlight-track-non-archival)
