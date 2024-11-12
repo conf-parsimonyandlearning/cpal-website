@@ -43,7 +43,7 @@ nav_order: 1
 | Decisions Released        | January 4th, 2025             |<span id="tut-decision"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2025, month: 1, day: 4, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#tut-decision').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
 
 
-## [Rising Stars Award]({{ site.baseurl }}/rising_stars)
+## [Rising Stars Award]({{ site.baseurl }}/rising_stars_guidelines)
 
 | Event                     | Date                           | Countdown                    |
 |:--------------------------|:-------------------------------|:-----------------------------|
