@@ -15,6 +15,9 @@ nav_order: 1
 
 ## Conference Submission ([Proceedings Track]({{ site.baseurl }}/tracks/#proceedings-track--archival))
 
+{: .highlight}
+The Proceedings Track submission deadline has been extended to December 2nd, 2024.
+
 <!-- | Reviews Released, Rebuttal Stage Begins                 | October 16th, 2023             |<span id="proc-review"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2023, month: 10, day: 16, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#proc-review').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>| -->
 <!-- | Rebuttal Stage Ends, Author-Reviewer Discussion Begins  | October 27th, 2023             |<span id="proc-disc"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2023, month: 10, day: 27, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#proc-disc').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>| -->
 <!-- | Author-Reviewer Discussion Ends                         | November 5th, 2023             |<span id="proc-disc-end"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2023, month: 11, day: 5, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#proc-disc-end').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>| -->
