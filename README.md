@@ -47,10 +47,12 @@ site.baseurl }}/rising_stars_guidelines) for further details and deadlines.
 
 # Key Dates and Deadlines
 
-
+{: .highlight}
+{: .fs-5}
+The Proceedings Track submission deadline has been extended to December 2nd, 2024.
 For a complete list of deadlines, see the [deadlines page]({{ site.baseurl }}/deadlines).
 
-- **Nov 25th, 2024**: Submission Deadline for [Proceedings Track (archival)]({{ site.baseurl }}/tracks#proceedings-track--archival)
+- **Dec 2nd, 2024**: Submission Deadline for [Proceedings Track (archival)]({{ site.baseurl }}/tracks#proceedings-track--archival)
 - **Dec 6th, 2024**: Application Deadline for [Tutorial Proposals]({{ site.baseurl }}/tutorial_call)
 - **Dec 15th, 2024**: Application Deadline for [Rising Stars Award]({{
 site.baseurl }}/rising_stars_guidelines)
