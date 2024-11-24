@@ -18,7 +18,7 @@ description: Conference on Parsimony and Learning (CPAL) - Addressing the
   low-dimensional structures in high-dimensional data that prevail in machine
   learning, signal processing, optimization, and beyond.
 domain: cpal.cc
-url: https://cpal.cc # the base hostname & protocol for your site, e.g. http://example.com
+url: https://2024.cpal.cc # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
