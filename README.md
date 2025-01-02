@@ -47,18 +47,18 @@ site.baseurl }}/rising_stars_guidelines) for further details and deadlines.
 
 # Key Dates and Deadlines
 
-<!-- {: .highlight} -->
-<!-- {: .fs-5} -->
-<!-- The Proceedings Track submission deadline has been extended to December 2nd, 2024. -->
-<!-- For a complete list of deadlines, see the [deadlines page]({{ site.baseurl }}/deadlines). -->
+{: .highlight}
+{: .fs-5}
+The Spotlight Track submission deadline has been extended to January 12th, 2025.
+For a complete list of deadlines, see the [deadlines page]({{ site.baseurl }}/deadlines).
 
 - **Dec 2nd, 2024**: Submission Deadline for [Proceedings Track (archival)]({{ site.baseurl }}/tracks#proceedings-track--archival)
 - **Dec 6th, 2024**: Application Deadline for [Tutorial Proposals]({{ site.baseurl }}/tutorial_call)
 - **Dec 15th, 2024**: Application Deadline for [Rising Stars Award]({{
 site.baseurl }}/rising_stars_guidelines)
-- **Jan 3rd-6th, 2025**: Rebuttal for Submissions to [Proceedings Track]({{ site.baseurl }}/tracks#proceedings-track--archival)
 - **Jan 4th, 2025**: Tutorial Proposal Decisions Released
-- **Jan 5th, 2025**: Submission Deadline for [Spotlight Track (non-archival)]({{ site.baseurl }}/tracks#recent-spotlight-track-non-archival)
+- **Jan 12th, 2025**: Submission Deadline for [Spotlight Track (non-archival)]({{ site.baseurl }}/tracks#recent-spotlight-track-non-archival)
+- **Jan 18th, 2025**: Rebuttal for Submissions to [Proceedings Track]({{ site.baseurl }}/tracks#proceedings-track--archival) Begins
 - **January 30th, 2025**: Decisions Released (both tracks)
 - **March 24th--27th, 2025**: Conference in-person, Stanford, CA
 
