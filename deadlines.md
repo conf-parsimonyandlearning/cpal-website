@@ -27,7 +27,7 @@ The Spotlight Track submission deadline has been extended to January 12th, 2025.
 |:--------------------------------------------------------|:-------------------------------|:-----------------------------|
 | Submission Deadline                                     | December 2nd, 2024              |<span id="proc-sub"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2024, month: 12, day: 2, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#proc-sub').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
 | Reviews Released, Rebuttal Stage Begins                 | January 18th, 2025             |<span id="proc-review"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2025, month: 1, day: 18, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#proc-review').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
-| Final Decisions Released                                | January 30th, 2025            |<span id="proc-decision"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2025, month: 1, day: 30, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#proc-decision').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
+| Final Decisions Released                                | February 7th, 2025            |<span id="proc-decision"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2025, month: 2, day: 7, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#proc-decision').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
 
 
 ## Conference Submission ([Recent Spotlight Track]({{ site.baseurl }}/tracks/#recent-spotlight-track-non-archival))
@@ -36,7 +36,7 @@ The Spotlight Track submission deadline has been extended to January 12th, 2025.
 | Event                     | Date                           | Countdown                    |
 |:--------------------------|:-------------------------------|:-----------------------------|
 | Submission Deadline       | January 12th, 2025             |<span id="wksp-sub"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2025, month: 1, day: 12, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#wksp-sub').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
-| Final Decisions Released  | January 30th, 2025            |<span id="wksp-decision"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2025, month: 1, day: 30, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#wksp-decision').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
+| Final Decisions Released  | February 7th, 2025            |<span id="wksp-decision"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2025, month: 2, day: 7, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#wksp-decision').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
 
 ## [Tutorial Proposals]({{ site.baseurl }}/tutorial_call)
 

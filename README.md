@@ -58,9 +58,9 @@ For a complete list of deadlines, see the [deadlines page]({{ site.baseurl }}/de
 site.baseurl }}/rising_stars_guidelines)
 - **Jan 4th, 2025**: Tutorial Proposal Decisions Released
 - **Jan 12th, 2025**: Submission Deadline for [Spotlight Track (non-archival)]({{ site.baseurl }}/tracks#recent-spotlight-track-non-archival)
-- **Jan 18th, 2025**: Rebuttal for Submissions to [Proceedings Track]({{ site.baseurl }}/tracks#proceedings-track--archival) Begins
-- **January 30th, 2025**: Decisions Released (both tracks)
-- **March 24th--27th, 2025**: Conference in-person, Stanford, CA
+- **Jan 18th--24th, 2025**: Rebuttal Period for Submissions to [Proceedings Track]({{ site.baseurl }}/tracks#proceedings-track--archival)
+- **Feb 7th, 2025**: Decisions Released (both tracks)
+- **Mar 24th--27th, 2025**: Conference in-person, Stanford, CA
 
 
 
