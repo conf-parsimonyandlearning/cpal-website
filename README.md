@@ -21,7 +21,7 @@ more detail [here]({{ site.baseurl }}/vision).
 -->
 
 
-# Announcing CPAL 2025: Calls for Papers, Tutorials, Rising Stars Award
+# Announcing CPAL 2025
 
 <!-- {: .fs-5 .text-center} -->
 <!-- [Submit your Work on OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Conference) -->
@@ -30,20 +30,11 @@ We are pleased to announce the Second Conference on Parsimony and Learning,
 to be held in concert with Stanford Data Science at Stanford University in
 California, USA!
 
-***Paper submissions*** for the second Conference on
-Parsimony and Learning are now open (OpenReview-based).
+***Paper submissions*** for the Recent Spotlight Track of the second Conference on
+Parsimony and Learning remain open (OpenReview-based).
 Please see the [**call for papers**]({{ site.baseurl
-}}/tracks) for details about the submission and reviewing process, as well as
-subject areas of interest and general policies.
-
-This year, CPAL is soliciting ***tutorial proposals*** from the community, to be
-delivered as part of the conference program.
-Please see the [**call for tutorials**]({{ site.baseurl }}/tutorial_call) for
-details and deadlines.
-
-The ***CPAL Rising Stars Award*** is now accepting applications from
-outstanding early-career researchers. Please see [**the application page**]({{
-site.baseurl }}/rising_stars_guidelines) for further details and deadlines.
+}}/tracks) for details about deadlines, submission, and the reviewing process,
+as well as subject areas of interest and general policies.
 
 # Key Dates and Deadlines
 
@@ -56,10 +47,10 @@ For a complete list of deadlines, see the [deadlines page]({{ site.baseurl }}/de
 - **Dec 6th, 2024**: Application Deadline for [Tutorial Proposals]({{ site.baseurl }}/tutorial_call)
 - **Dec 15th, 2024**: Application Deadline for [Rising Stars Award]({{
 site.baseurl }}/rising_stars_guidelines)
-- **Jan 4th, 2025**: Tutorial Proposal Decisions Released
 - **Jan 12th, 2025**: Submission Deadline for [Spotlight Track (non-archival)]({{ site.baseurl }}/tracks#recent-spotlight-track-non-archival)
 - **Jan 18th--24th, 2025**: Rebuttal Period for Submissions to [Proceedings Track]({{ site.baseurl }}/tracks#proceedings-track--archival)
-- **Feb 7th, 2025**: Decisions Released (both tracks)
+- **Jan 21st, 2025**: Tutorial Proposal and Rising Stars Award Decisions Released
+- **Feb 7th, 2025**: Paper Decisions Released (both tracks)
 - **Mar 24th--27th, 2025**: Conference in-person, Stanford, CA
 
 

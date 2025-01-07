@@ -1,14 +1,14 @@
 {"0": {
     "doc": "Home",
-    "title": "Announcing CPAL 2025: Calls for Papers, Tutorials, Rising Stars Award",
-    "content": "We are pleased to announce the Second Conference on Parsimony and Learning, to be held in concert with Stanford Data Science at Stanford University in California, USA! . Paper submissions for the second Conference on Parsimony and Learning are now open (OpenReview-based). Please see the call for papers for details about the submission and reviewing process, as well as subject areas of interest and general policies. This year, CPAL is soliciting tutorial proposals from the community, to be delivered as part of the conference program. Please see the call for tutorials for details and deadlines. The CPAL Rising Stars Award is now accepting applications from outstanding early-career researchers. Please see the application page for further details and deadlines. ",
-    "url": "/#announcing-cpal-2025-calls-for-papers-tutorials-rising-stars-award",
+    "title": "Announcing CPAL 2025",
+    "content": "We are pleased to announce the Second Conference on Parsimony and Learning, to be held in concert with Stanford Data Science at Stanford University in California, USA! . Paper submissions for the Recent Spotlight Track of the second Conference on Parsimony and Learning remain open (OpenReview-based). Please see the call for papers for details about deadlines, submission, and the reviewing process, as well as subject areas of interest and general policies. ",
+    "url": "/#announcing-cpal-2025",
     
-    "relUrl": "/#announcing-cpal-2025-calls-for-papers-tutorials-rising-stars-award"
+    "relUrl": "/#announcing-cpal-2025"
   },"1": {
     "doc": "Home",
     "title": "Key Dates and Deadlines",
-    "content": "The Spotlight Track submission deadline has been extended to January 12th, 2025. For a complete list of deadlines, see the deadlines page. | Dec 2nd, 2024: Submission Deadline for Proceedings Track (archival) | Dec 6th, 2024: Application Deadline for Tutorial Proposals | Dec 15th, 2024: Application Deadline for Rising Stars Award | Jan 4th, 2025: Tutorial Proposal Decisions Released | Jan 12th, 2025: Submission Deadline for Spotlight Track (non-archival) | Jan 18th–24th, 2025: Rebuttal Period for Submissions to Proceedings Track | Feb 7th, 2025: Decisions Released (both tracks) | Mar 24th–27th, 2025: Conference in-person, Stanford, CA | . ",
+    "content": "The Spotlight Track submission deadline has been extended to January 12th, 2025. For a complete list of deadlines, see the deadlines page. | Dec 2nd, 2024: Submission Deadline for Proceedings Track (archival) | Dec 6th, 2024: Application Deadline for Tutorial Proposals | Dec 15th, 2024: Application Deadline for Rising Stars Award | Jan 12th, 2025: Submission Deadline for Spotlight Track (non-archival) | Jan 18th–24th, 2025: Rebuttal Period for Submissions to Proceedings Track | Jan 21st, 2025: Tutorial Proposal and Rising Stars Award Decisions Released | Feb 7th, 2025: Paper Decisions Released (both tracks) | Mar 24th–27th, 2025: Conference in-person, Stanford, CA | . ",
     "url": "/#key-dates-and-deadlines",
     
     "relUrl": "/#key-dates-and-deadlines"
@@ -148,14 +148,14 @@
   },"21": {
     "doc": "Deadlines and Key Dates",
     "title": "Tutorial Proposals",
-    "content": "| Event | Date | Countdown | . | Application Deadline | December 6th, 2024 | | . | Decisions Released | January 4th, 2025 | | . ",
+    "content": "| Event | Date | Countdown | . | Application Deadline | December 6th, 2024 | | . | Decisions Released | January 21st, 2025 | | . ",
     "url": "/deadlines/#tutorial-proposals",
     
     "relUrl": "/deadlines/#tutorial-proposals"
   },"22": {
     "doc": "Deadlines and Key Dates",
     "title": "Rising Stars Award",
-    "content": "| Event | Date | Countdown | . | Application Deadline | December 15th, 2024 | | . | Decisions Released | TBA |   | . ",
+    "content": "| Event | Date | Countdown | . | Application Deadline | December 15th, 2024 | | . | Decisions Released | January 21st, 2025 | | . ",
     "url": "/deadlines/#rising-stars-award",
     
     "relUrl": "/deadlines/#rising-stars-award"

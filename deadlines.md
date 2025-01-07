@@ -43,7 +43,7 @@ The Spotlight Track submission deadline has been extended to January 12th, 2025.
 | Event                     | Date                           | Countdown                    |
 |:--------------------------|:-------------------------------|:-----------------------------|
 | Application Deadline      | December 6th, 2024              |<span id="tut-sub"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2024, month: 12, day: 6, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#tut-sub').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
-| Decisions Released        | January 4th, 2025             |<span id="tut-decision"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2025, month: 1, day: 4, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#tut-decision').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
+| Decisions Released        | January 21st, 2025             |<span id="tut-decision"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2025, month: 1, day: 21, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#tut-decision').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
 
 
 ## [Rising Stars Award]({{ site.baseurl }}/rising_stars_guidelines)
@@ -51,9 +51,7 @@ The Spotlight Track submission deadline has been extended to January 12th, 2025.
 | Event                     | Date                           | Countdown                    |
 |:--------------------------|:-------------------------------|:-----------------------------|
 | Application Deadline      | December 15th, 2024              |<span id="stars-sub"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2024, month: 12, day: 15, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#stars-sub').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
-| Decisions Released        | TBA                            |                              |
-
-<!-- | Decisions Released        | October 23th, 2023             |<span id="stars-decision"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2023, month: 10, day: 23, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#stars-decision').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>| -->
+| Decisions Released        | January 21st, 2025             |<span id="stars-decision"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2025, month: 1, day: 21, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#stars-decision').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
 
 
 
