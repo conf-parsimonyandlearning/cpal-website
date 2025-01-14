@@ -32,7 +32,7 @@ orientations, genders, and persons with disabilities.
 ## Key Dates
 
 - Applications Due: December 15th, 2024
-- Notification Deadline: January 13th, 2025
+- Notification Deadline: January 21st, 2025
 - Conference: March 24th-27th 2025 at Stanford University (in person)
 
 ## Program Format
