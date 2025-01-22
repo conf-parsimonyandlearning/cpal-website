@@ -20,21 +20,20 @@ We describe [our]({{ site.baseurl }}/organization_committee) vision for the conf
 more detail [here]({{ site.baseurl }}/vision).
 -->
 
-
-# Announcing CPAL 2025
-
-<!-- {: .fs-5 .text-center} -->
-<!-- [Submit your Work on OpenReview](https://openreview.net/group?id=CPAL.cc/2024/Conference) -->
+# Register for CPAL: March 24th--27th, 2025
 
 We are pleased to announce the Second Conference on Parsimony and Learning,
 to be held in concert with Stanford Data Science at Stanford University in
 California, USA!
 
-***Paper submissions*** for the Recent Spotlight Track of the second Conference on
-Parsimony and Learning remain open (OpenReview-based).
-Please see the [**call for papers**]({{ site.baseurl
-}}/tracks) for details about deadlines, submission, and the reviewing process,
-as well as subject areas of interest and general policies.
+All CPAL attendees are required to register. See the [registration page]({{
+site.baseurl }}/registration) for details about available tickets and costs.
+<!-- **The deadline to register has -->
+<!-- been extended to December 23rd, 2023.** -->
+
+<span class="fs-6">
+[Register Now](https://cvent.me/X5aaar){: .btn}
+</span>
 
 # Key Dates and Deadlines
 
