@@ -41,7 +41,7 @@ orientations, genders, and persons with disabilities.
 - Panels (career development)
 - Roundtable dinners or 1-1 meetings with senior researchers
 - Selected awardees need to confirm in-person attendance and will be supported
-  with (partial) travel funding to attend CPAL 2025 conference at Stanford
+  with a full registration waiver to attend the CPAL 2025 conference at Stanford
   University, USA
 
 ## Application Requirements
