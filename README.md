@@ -80,8 +80,4 @@ site.baseurl }}/rising_stars_guidelines)
 
 # Sponsors
 
-<br>
-![Stanford Data Science logo]({{ site.baseurl }}/assets/images/SDS_logo_large.png)
-
-
-<!-- {% include sponsors.html %} -->
+{% include sponsors.html %}
