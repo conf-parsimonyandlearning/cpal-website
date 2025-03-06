@@ -9,8 +9,6 @@ parent: Accepted Papers
 
 # Proceedings Track: Accepted Papers
 
-## Presentation Format
-
 Accepted Proceedings Track papers are presented as
 [posters]({{site.baseurl}}/posters) at CPAL 2025.
 A select number of accepted Proceedings Track papers will be presented as

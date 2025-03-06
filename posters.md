@@ -17,9 +17,13 @@ tracks, will be presented as posters at the conference. A select number of
 Proceedings track papers are also presented as orals, as specified on the [orals
 page]({{site.baseurl}}/orals).
 
-The ordering of session numbers matches their chronological ordering.
-See the [full program]({{ site.baseurl }}/program_schedule/) for the precise
-time and location of each spotlight presentation session.
+See the [full program]({{ site.baseurl }}/program_schedule/) for an aggregated
+view of the precise times and locations of each poster and oral session.
+
+## Logistical Information
+
+Posters should be printed in ***A0 size***, with vertical orientation preferred.
+
 
 <!-- Loop over oral sessions in the calendar. -->
 {% assign calendars = site.calendars %}

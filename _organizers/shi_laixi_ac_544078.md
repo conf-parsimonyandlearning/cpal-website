@@ -2,6 +2,6 @@
 name: Laixi Shi
 role: Area Chair
 affiliation: Caltech
-website: https://www.andrew.cmu.edu/user/laixis/
+website: https://laixishi.github.io/
 photo: shi.jpeg
 ---
