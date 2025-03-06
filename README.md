@@ -35,23 +35,21 @@ site.baseurl }}/registration) for details about available tickets and costs.
 [Register Now](https://cvent.me/X5aaar){: .btn}
 </span>
 
-# Key Dates and Deadlines
+# CPAL 2025 Program Announced!
 
-{: .highlight}
-{: .fs-5}
-The Spotlight Track submission deadline has been extended to January 12th, 2025.
-For a complete list of deadlines, see the [deadlines page]({{ site.baseurl }}/deadlines).
+The CPAL 2025 review process is complete -- congratulations to all authors of
+accepted papers!
 
-- **Dec 2nd, 2024**: Submission Deadline for [Proceedings Track (archival)]({{ site.baseurl }}/tracks#proceedings-track--archival)
-- **Dec 6th, 2024**: Application Deadline for [Tutorial Proposals]({{ site.baseurl }}/tutorial_call)
-- **Dec 15th, 2024**: Application Deadline for [Rising Stars Award]({{
-site.baseurl }}/rising_stars_guidelines)
-- **Jan 12th, 2025**: Submission Deadline for [Spotlight Track (non-archival)]({{ site.baseurl }}/tracks#recent-spotlight-track-non-archival)
-- **Jan 18th--24th, 2025**: Rebuttal Period for Submissions to [Proceedings Track]({{ site.baseurl }}/tracks#proceedings-track--archival)
-- **Jan 21st, 2025**: Tutorial Proposal and Rising Stars Award Decisions Released
-- **Feb 10th, 2025**: Paper Decisions Released (both tracks)
-- **Mar 24th--27th, 2025**: Conference in-person, Stanford, CA
+The tentative program has been announced, and can be found on the [schedule
+page]({{site.baseurl}}/program_schedule).
 
+Accepted papers for the [Proceedings Track]({{site.baseurl}}/proceedings_track)
+and [Recent Spotlight Track]({{site.baseurl}}/spotlight_track) have been
+released.
+Information about ***poster presentation sessions*** at CPAL can be found
+[here]({{site.baseurl}}/posters).
+Information about ***oral sessions*** for for Proceedings Track papers accepted as
+oral presentations can be found [here]({{site.baseurl}}/orals).
 
 
 # Keynote Speakers
@@ -59,23 +57,6 @@ site.baseurl }}/rising_stars_guidelines)
 <!-- Information on the speakers' planned talks is available [here]({{site.baseurl}}/speakers/#talk-details). -->
 
 {% include speakers.html %}
-
-
-
-
-<!-- {: .highlight} -->
-<!-- See the [deadlines page]({{ site.baseurl }}/deadlines) for a complete list of -->
-<!-- key dates. -->
-
-<!-- # Register to Attend CPAL 2024 -->
-<!---->
-<!---->
-<!-- All CPAL attendees are required to register. **The deadline to register has -->
-<!-- been extended to December 23rd, 2023.** -->
-<!---->
-<!-- <span class="fs-6"> -->
-<!-- [Register Now](https://datascience.hku.hk/cpal-registration){: .btn} -->
-<!-- </span> -->
 
 
 # Sponsors
