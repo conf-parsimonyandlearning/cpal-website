@@ -9,13 +9,9 @@ nav_order: 3
 
 # Recommended Hotels
 
-The CPAL 2025 local hosts, Stanford Data Science, have prepared a list of
-recommended hotels near to the conference site for CPAL 2025 attendees.
-
-The list below contains hotels near to Stanford that should offer a "Stanford
-preferred rate". Please note that there is no guarantee that the listed hotels
-will be able to honor the Stanford preferred rate when they are near full
-capacity. Attendees are encouraged to book travel early.
+The CPAL 2025 local hosts, Stanford Data Science, have prepared a list of hotels
+near to the conference site for CPAL 2025 attendees. Attendees are encouraged to
+book travel early.
 
 <span class="fs-6">
 [Accommodation Recommendations (pdf)]({{ site.baseurl }}/assets/stanford_preferred_hotels.pdf){: .btn}
