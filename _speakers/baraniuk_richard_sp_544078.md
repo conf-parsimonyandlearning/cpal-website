@@ -4,11 +4,11 @@ role: Speaker
 affiliation: Rice University
 website: https://richb.rice.edu/
 photo: baraniuk.jpeg
-talk: 
-abstract: 
-bio: 
-day: 0
-start: 
-end: 
-location: 
+talk: Plenary Talk 1
+abstract: TBA
+bio: TBA
+day: 2
+start: 9:00 AM
+end: 10:00 AM
+location: Main Auditorium
 ---

@@ -62,734 +62,909 @@
     
     "relUrl": "/"
   },"9": {
+    "doc": "Accepted Papers",
+    "title": "Accepted Papers",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
+    "url": "/accepted_papers/",
+    
+    "relUrl": "/accepted_papers/"
+  },"10": {
     "doc": "Accepted Tutorials",
     "title": "Tutorials",
     "content": "The final day of the conference features tutorial presentations, which are open to the public. These tutorials present an up-to-date account of the intersection between low-dimensional modeling and deep learning in an accessible format. The tutorials consist of two parallel tracks, respectively titled Learning Deep Low-dimensional Models from High-Dimensional Data: From Theory to Practice, and Advances in Machine Learning for Image Reconstruction: Sparse Models to Deep Networks. Each track consists of four lectures. The planned content of the two tracks is summarized below. See the schedule for the precise times of each tutorial. ",
     "url": "/accepted_tutorials/#tutorials",
     
     "relUrl": "/accepted_tutorials/#tutorials"
-  },"10": {
+  },"11": {
     "doc": "Accepted Tutorials",
     "title": "Track: Learning Deep Low-dimensional Models from High-Dimensional Data: From Theory to Practice",
-    "content": "Lecture 1 – ReduNet: A White-box Deep Network from the Principle of Maximizing Rate Reduction . Yi Ma . UC Berkeley / HKU IDS . Professor . Abstract . To begin, we will focus on the special yet highly useful case of learning the data distribution and transforming it to an linear discriminative representation (LDR). We will discuss the information theoretic and statistical principles behind such a representation, and design a loss function, called the coding rate reduction, which is optimized at such a representation. By unrolling the gradient ascent on the coding rate reduction, we will construct a deep network architecture, called the ReduNet, where each operator in the network has a mathematically precise (hence white-box and interpretable) function in the transformation of the data distribution towards an LDR. Also, the ReduNet may be constructed layer-wise in a forward-propagation manner, that is, without any back-propagation required. Lecture 2 – White-Box Transformers via Sparse Rate Reduction . Sam Buchanan . TTIC . Research Assistant Professor . Abstract . We demonstrate how combining sparse coding and rate reduction yields sparse linear discriminative representations using an objective named “sparse rate reduction”. We develop CRATE, a deep network architecture, by unrolling the optimization of this objective and parameterizing feature distribution in each layer. CRATE’s operators are mathematically interpretable, with each layer representing an optimization step, making the network a transparent “white box”. Although CRATE’s design significantly differs from ReduNet, both aim for a similar goal, showcasing the versatility of the unrolled optimization approach. Remarkably, CRATE closely resembles the transformer architecture, suggesting that the interpretability gains from such networks might also improve our understanding of current, practical deep architectures. Lecture 3 – Understanding Deep Representation Learning via Neural Collapse . Zhihui Zhu . Ohio State University . Assistant Professor . Abstract . The session focuses on the strong conceptual connections between low-dimensional structures and deep models in terms of learned representation. We start with the introduction of an intriguing Neural Collapse phenomenon in the last-layer representation and its universality in deep network, and lays out the mathematical foundations of understanding its cause by studying its optimization landscapes. We then generalize and explain this phenomenon and its implications under data imbalanceness. Furthermore, we demonstrate the practical algorithmic implications of Neural Collapse on training deep neural networks. Lecture 4 – Invariant Low-Dimensional Subspaces in Gradient Descent for Learning Deep Networks . Qing Qu . University of Michigan . Assistant Professor . Abstract . To conclude, we show that low-dimensional structures also emerge in training dynamics of deep networks. Specifically, we show that the evolution of gradient descent only affects a minimal portion of singular vector spaces across all weight matrices. The analysis enables us to considerably improve training efficiency by taking advantage of the low-dimensional structure in learning dynamics. We can construct smaller, equivalent deep linear networks without sacrificing the benefits associated with the wider counterparts. Moreover, it allows us to better understand deep representation learning by elucidating the progressive feature compression and discrimination from shallow to deep layers. ",
+    "content": " ",
     "url": "/accepted_tutorials/#track-learning-deep-low-dimensional-models-from-high-dimensional-data-from-theory-to-practice",
     
     "relUrl": "/accepted_tutorials/#track-learning-deep-low-dimensional-models-from-high-dimensional-data-from-theory-to-practice"
-  },"11": {
+  },"12": {
     "doc": "Accepted Tutorials",
     "title": "Track: Advances in Machine Learning for Image Reconstruction: Sparse Models to Deep Networks",
-    "content": "Lectures 1-3 will cover a diverse spectrum of topics across sparse modeling and deep learning and theory with applications in medical imaging and image restoration/computer vision. A subset of works across topics will be discussed including works from tutorial presenters. Lecture 1 – Sparse Modeling for Image Reconstruction . Saiprasad Ravishankar . Michigan State University . Assistant Professor . Abstract . Data-driven and machine learning techniques have received increasing attention in recent years for solving various problems in computational imaging. First, we will introduce basics of image reconstruction and sparse modeling before discussing the learning of various classical sparse signal models, particularly synthesis dictionaries and sparsifying transforms. The application of dictionary and transform learning to primarily medical image reconstruction will be discussed. We will also briefly discuss the combination of sparsity with other priors (e.g., low-rank) and variants such as convolutional dictionary learning and multi-layer sparse models used in image reconstruction.Time: 50 minutes . Lecture 2 – Sparse Modeling to Deep Learning for Image Restoration . Bihan Wen . Nanyang Technological University . Nanyang Assistant Professor . Abstract . The second talk will focus more on integration of learned sparsity and nonlocal image modeling via group sparsity, low-rank structures, etc. Applications will be shown for image restoration and medical imaging. This part will also transition to aspects of deep learning for image restoration and offer several examples. How deep learning can be combined with conventional model-based approaches will also be touched upon.Time: 50 minutes . Lecture 3 – Deep Learning for Imaging . Saiprasad Ravishankar . Michigan State University . Assistant Professor . Ismail Alkhouri . Michigan State University / University of Michigan, Ann Arbor . Postdoc / Visiting Scholar . Avrajit Ghosh . Michigan State University . Ph.D. Student . Gabriel Maliakal . Michigan State University . Ph.D. Student . Abstract . We will introduce modern deep learning-based methods for image reconstruction, particularly in medical imaging, including image-domain or sensor-domain neural network denoisers, and hybrid-domain deep learning schemes that combine physics-based forward models together with neural networks. Hybrid methods, both supervised and unsupervised or self-supervised, will be a key focus and amongst them, we will review plug and play (PnP) priors, consensus equilibrium, regularization by denoising (RED), deep unrolling methods, deep equilibrium models, and bilevel optimization based methods. Then, generative models for image reconstruction will be presented including generative adversarial networks (GANs), deep image prior, and diffusion models (DMs). We will provide a brief introduction to score-based DMs and introduce Diffusion Posterior Sampling ReSample algorithms. Other recent trends in image reconstruction will also be covered including exploiting deep reinforcement learning, unifying deep learning and sparse modeling, and methods focused on improving robustness of deep learning based image reconstruction (to various perturbations, train-test disparities, etc.) via randomized smoothing, diffusion models, etc. Other topics will also be covered briefly including learning sparse neural networks and joint or end-to-end training of sensing and image reconstruction setups. The session will conclude with brief discussion of future directions for the field. Lecture 3 will involve multiple speakers covering different themes. Avrajit Ghosh will present many of the hybrid or physics-based deep learning methods. Dr. Ismail Alkhouri will speak on key ideas involving diffusion models. Gabriel Maliakal will discuss GANs and deep reinforcement learning and Dr. Saiprasad Ravishankar will speak on the key other topics.Time: 140–150 minutes (coffee break in between) . ",
+    "content": "Lectures 1-3 will cover a diverse spectrum of topics across sparse modeling and deep learning and theory with applications in medical imaging and image restoration/computer vision. A subset of works across topics will be discussed including works from tutorial presenters. ",
     "url": "/accepted_tutorials/#track-advances-in-machine-learning-for-image-reconstruction-sparse-models-to-deep-networks",
     
     "relUrl": "/accepted_tutorials/#track-advances-in-machine-learning-for-image-reconstruction-sparse-models-to-deep-networks"
-  },"12": {
+  },"13": {
     "doc": "Accepted Tutorials",
     "title": "Accepted Tutorials",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/accepted_tutorials/",
     
     "relUrl": "/accepted_tutorials/"
-  },"13": {
+  },"14": {
     "doc": "Advisory Committee",
     "title": "Advisory Committee",
     "content": "Anima Anandkumar . Caltech / NVIDIA . Advisory Committee . Emmanuel Candès . Stanford . Advisory Committee . Alex Dimakis . UT Austin . Advisory Committee . Michael Elad . Technion . Advisory Committee . Yi Ma . UC Berkeley / HKU IDS . Advisory Committee . Peyman Milanfar . Google Research . Advisory Committee . Stefano Soatto . UCLA . Advisory Committee . Rebecca Willett . UChicago . Advisory Committee . Eric P. Xing . MBZUAI / Carnegie Mellon University . Advisory Committee . Tong Zhang . HKUST . Advisory Committee . * Ordered alphabetically . ",
     "url": "/advisory/#advisory-committee",
     
     "relUrl": "/advisory/#advisory-committee"
-  },"14": {
+  },"15": {
     "doc": "Advisory Committee",
     "title": "Advisory Committee",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/advisory/",
     
     "relUrl": "/advisory/"
-  },"15": {
+  },"16": {
     "doc": "Area Chairs",
     "title": "Area Chairs",
     "content": "Navid Azizan . MIT . Area Chair . Chenglong Bao . Tsinghua University . Area Chair . Tianlong Chen . UT Austin / MIT . Area Chair . Tianyi Chen . RPI . Area Chair . Yubei Chen . UC Davis . Area Chair . Yuxin Chen . UPenn . Area Chair . Sarah Dean . Cornell University . Area Chair . Ivan Dokmanić . University of Basel . Area Chair . Simon Du . University of Washington . Area Chair . Paris Giampouras . Johns Hopkins University . Area Chair . Wei Hu . University of Michigan . Area Chair . Qi Lei . NYU . Area Chair . Xiao Li . CUHK Shenzhen . Area Chair . Wenjing Liao . Georgia Institute of Technology . Area Chair . Jiaqi Ma . Harvard / UIUC . Area Chair . Elena Mocanu . University of Twente . Area Chair . Vidya K. Muthukumar . Georgia Institute of Technology . Area Chair . Greg Ongie . Marquette University . Area Chair . Laixi Shi . Caltech . Area Chair . Mahdi Soltanolkotabi . USC . Area Chair . Weijie Su . UPenn . Area Chair . Soledad Villar . Johns Hopkins University . Area Chair . Peng Wang . University of Michigan . Area Chair . Bihan Wen . Nanyang Technological University . Area Chair . Fanny Yang . ETH Zurich . Area Chair . Tianbao Yang . Texas A&amp;M . Area Chair . Yuqian Zhang . Rutgers University . Area Chair . * Ordered alphabetically . ",
     "url": "/area_chairs/",
     
     "relUrl": "/area_chairs/"
-  },"16": {
+  },"17": {
     "doc": "Call for Papers",
     "title": "Call for Papers",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/cfp/",
     
     "relUrl": "/cfp/"
-  },"17": {
+  },"18": {
     "doc": "Code of Conduct",
     "title": "Code of Conduct",
     "content": "(Adapted from ICML/ICLR/NeurIPS/LoG) . We strive to hold a conference in which any person can meaningfully participate in the CPAL community through: sharing ideas, presenting their work, meeting members of the community, learning from other people’s work, and discussing ways to improve the community. This conference will work towards preventing any type of discrimination based on age, disability, ethnicity, experience in the field, gender identity, nationality, physical appearance, race, religion, sexual orientation, or other protected characteristics. We strictly prohibit any actions that may prevent the participation of any attendee, including: bullying, harassment, inappropriate media, offensive language, violence, zoom bombing, and so on. Please report any violations of the code of conduct to the conference organizers, via email, slack, or any other channels. If requested, we can handle these reports anonymously, to protect the person making the report. Violators of the code of conduct will be asked to stop their inappropriate behavior, and may be removed from their right to participate in the conference. Further disciplinary action such as bans from future iterations of the conference may be taken. ",
     "url": "/code_of_conduct/#code-of-conduct",
     
     "relUrl": "/code_of_conduct/#code-of-conduct"
-  },"18": {
+  },"19": {
     "doc": "Code of Conduct",
     "title": "Code of Conduct",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/code_of_conduct/",
     
     "relUrl": "/code_of_conduct/"
-  },"19": {
+  },"20": {
     "doc": "Conference Program",
     "title": "Conference Program",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/conference_program/",
     
     "relUrl": "/conference_program/"
-  },"20": {
-    "doc": "Deadlines and Key Dates",
+  },"21": {
+    "doc": "Key Dates",
     "title": "Key Dates and Deadlines",
     "content": "Unless specified otherwise, all deadlines are 23:59 Anywhere-on-Earth (AOE) . ",
     "url": "/deadlines/#key-dates-and-deadlines",
     
     "relUrl": "/deadlines/#key-dates-and-deadlines"
-  },"21": {
-    "doc": "Deadlines and Key Dates",
+  },"22": {
+    "doc": "Key Dates",
     "title": "Conference Submission (Proceedings Track)",
     "content": "The Spotlight Track submission deadline has been extended to January 12th, 2025. | Event | Date | Countdown | . | Submission Deadline | December 2nd, 2024 | | . | Reviews Released, Rebuttal Stage Begins | January 18th, 2025 | | . | Final Decisions Released | February 10th, 2025 | | . ",
     "url": "/deadlines/#conference-submission-proceedings-track",
     
     "relUrl": "/deadlines/#conference-submission-proceedings-track"
-  },"22": {
-    "doc": "Deadlines and Key Dates",
+  },"23": {
+    "doc": "Key Dates",
     "title": "Conference Submission (Recent Spotlight Track)",
     "content": "| Event | Date | Countdown | . | Submission Deadline | January 12th, 2025 | | . | Final Decisions Released | February 10th, 2025 | | . ",
     "url": "/deadlines/#conference-submission-recent-spotlight-track",
     
     "relUrl": "/deadlines/#conference-submission-recent-spotlight-track"
-  },"23": {
-    "doc": "Deadlines and Key Dates",
+  },"24": {
+    "doc": "Key Dates",
     "title": "Tutorial Proposals",
     "content": "| Event | Date | Countdown | . | Application Deadline | December 6th, 2024 | | . | Decisions Released | January 21st, 2025 | | . ",
     "url": "/deadlines/#tutorial-proposals",
     
     "relUrl": "/deadlines/#tutorial-proposals"
-  },"24": {
-    "doc": "Deadlines and Key Dates",
+  },"25": {
+    "doc": "Key Dates",
     "title": "Rising Stars Award",
     "content": "| Event | Date | Countdown | . | Application Deadline | December 15th, 2024 | | . | Decisions Released | January 21st, 2025 | | . ",
     "url": "/deadlines/#rising-stars-award",
     
     "relUrl": "/deadlines/#rising-stars-award"
-  },"25": {
-    "doc": "Deadlines and Key Dates",
+  },"26": {
+    "doc": "Key Dates",
     "title": "Main Conference",
-    "content": "| Event | Date | . | Registration Deadline | TBA | . | Conference Program | March 24th - March 27th, 2025 | . ",
+    "content": "| Event | Date | . | Conference Program | March 24th - March 27th, 2025 | . ",
     "url": "/deadlines/#main-conference",
     
     "relUrl": "/deadlines/#main-conference"
-  },"26": {
-    "doc": "Deadlines and Key Dates",
-    "title": "Deadlines and Key Dates",
+  },"27": {
+    "doc": "Key Dates",
+    "title": "Key Dates",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/deadlines/",
     
     "relUrl": "/deadlines/"
-  },"27": {
+  },"28": {
     "doc": "Travel: Hotels",
     "title": "Recommended Hotels",
     "content": "The CPAL 2025 local hosts, Stanford Data Science, have prepared a list of recommended hotels near to the conference site for CPAL 2025 attendees. The list below contains hotels near to Stanford that should offer a “Stanford preferred rate”. Please note that there is no guarantee that the listed hotels will be able to honor the Stanford preferred rate when they are near full capacity. Attendees are encouraged to book travel early. Accommodation Recommendations (pdf) . ",
     "url": "/hotels/#recommended-hotels",
     
     "relUrl": "/hotels/#recommended-hotels"
-  },"28": {
+  },"29": {
     "doc": "Travel: Hotels",
     "title": "Travel Questions",
     "content": "For further questions about local accommodations, please contact the Stanford Data Science team at datascience@stanford.edu. ",
     "url": "/hotels/#travel-questions",
     
     "relUrl": "/hotels/#travel-questions"
-  },"29": {
+  },"30": {
     "doc": "Travel: Hotels",
     "title": "Travel: Hotels",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/hotels/",
     
     "relUrl": "/hotels/"
-  },"30": {
+  },"31": {
+    "doc": "Oral Presentations",
+    "title": "Oral Sessions at CPAL 2025",
+    "content": "A select number of papers from the CPAL 2025 Proceedings Track will be presented as oral presentations at the conference. The oral presentations are listed below, in their corresponding oral sessions. ",
+    "url": "/orals/#oral-sessions-at-cpal-2025",
+    
+    "relUrl": "/orals/#oral-sessions-at-cpal-2025"
+  },"32": {
+    "doc": "Oral Presentations",
+    "title": "Highlight Talks 1",
+    "content": "Time: Day 2 (Mar 25) – Tuesday – 10:00 AM to 10:30 AM . Progressive Gradient Flow for Robust N:M Sparsity Training in Transformers . Abhimanyu Rajeshkumar Bambhaniya, Amir Yazdanbakhsh, Suvinay Subramanian, Sheng-Chun Kao, Shivani Agrawal, Utku Evci, Tushar Krishna . Keywords: N:M structured sparsity, sparsity, model compression, attention-based models, sparse training recipe . Improving Neuron-level Interpretability with White-box Language Models . Hao Bai, Yi Ma . Keywords: White-box models, deep learning architectures, neuron-level interpretation . A unified framework for Sparse plus Low-Rank Matrix Decomposition for LLMs . Mehdi Makni, Kayhan Behdin, Zheng Xu, Natalia Ponomareva, Rahul Mazumder . Keywords: model compression, sparse plus low-rank, optimization, inference acceleration, 2:4 sparsity, hardware and system co-design . Approximate Nullspace Augmented Finetuning for Robust Vision Transformers . Haoyang Liu, Aditya Singh, Yijiang Li, Haohan Wang . Keywords: Robustness, Vision Transformer, Invariance . ",
+    "url": "/orals/#highlight-talks-1",
+    
+    "relUrl": "/orals/#highlight-talks-1"
+  },"33": {
+    "doc": "Oral Presentations",
+    "title": "Highlight Talks 2",
+    "content": "Time: Day 2 (Mar 25) – Tuesday – 12:00 PM to 12:30 PM . Closure Discovery for Coarse-Grained Partial Differential Equations Using Grid-based Reinforcement Learning . Jan-Philipp von Bassewitz, Sebastian Kaltenbach, Petros Koumoutsakos . Keywords: Closure Discovery, Inductive Bias, Multi-Agent Reinforcement Learning . The Computational Limits of State-Space Models and Mamba via the Lens of Circuit Complexity . Yifang Chen, Xiaoyu Li, Yingyu Liang, Zhenmei Shi, Zhao Song . Keywords: State-Space Models, Mamba, Circuit Complexity, Computational Limits . Fast John Ellipsoid Computation with Differential Privacy Optimization . Xiaoyu Li, Yingyu Liang, Zhenmei Shi, Zhao Song, Junwei Yu . Keywords: Fast Optimization, Differential Privacy, John Ellipsoid Computation . Sufficient and Necessary Explanations (and What Lies in Between) . Beepul Bharti, Paul Yi, Jeremias Sulam . Keywords: interpretability, explainability . ",
+    "url": "/orals/#highlight-talks-2",
+    
+    "relUrl": "/orals/#highlight-talks-2"
+  },"34": {
+    "doc": "Oral Presentations",
+    "title": "Highlight Talks 3",
+    "content": "Time: Day 4 (Mar 27) – Thursday – 10:00 AM to 11:00 AM . Vanishing Feature: Diagnosing Model Merging and Beyond . Xingyu Qu, Samuel Horváth . Keywords: Model Merging, Efficiency, Deep Learning, Efficient Deep Learning . A Case Study of Low Ranked Self-Expressive Structures in Neural Network Representations . Uday Singh Saini, William Shiao, Yahya Sattar, Yogesh Dahiya, Samet Oymak, Evangelos E. Papalexakis . Keywords: Subspace Clustering, Centered Kernel Alignment, Representation Similarity Measures. Hamiltonian Mechanics of Feature Learning: Bottleneck Structure in Leaky ResNets . Arthur Jacot, Alexandre Kaiser . Keywords: Low-rank bias, NeuralODE, Hamiltonian, Bottleneck structure . You Only Debias Once: Towards Flexible Accuracy-Fairness Trade-offs at Inference Time . Xiaotian Han, Tianlong Chen, Kaixiong Zhou, Zhimeng Jiang, Zhangyang Wang, Xia Hu . Keywords: fairness, weight space, neural network subspace . ",
+    "url": "/orals/#highlight-talks-3",
+    
+    "relUrl": "/orals/#highlight-talks-3"
+  },"35": {
+    "doc": "Oral Presentations",
+    "title": "Oral Presentations",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
+    "url": "/orals/",
+    
+    "relUrl": "/orals/"
+  },"36": {
     "doc": "Organization Committee",
     "title": "Organization Committee",
     "content": " ",
     "url": "/organization_committee/",
     
     "relUrl": "/organization_committee/"
-  },"31": {
+  },"37": {
     "doc": "Organization Committee",
     "title": "General Chairs",
     "content": "Emmanuel Candès . Stanford . General Chair . Yi Ma . UC Berkeley / HKU IDS . General Chair . ",
     "url": "/organization_committee/#general-chairs",
     
     "relUrl": "/organization_committee/#general-chairs"
-  },"32": {
+  },"38": {
     "doc": "Organization Committee",
     "title": "Program Chairs",
     "content": "Beidi Chen . Carnegie Mellon University . Program Chair . Sijia Liu . Michigan State University . Program Chair . Mert Pilanci . Stanford . Program Chair . Jeremias Sulam . Johns Hopkins University . Program Chair . Yu-Xiang Wang . UC San Diego . Program Chair . ",
     "url": "/organization_committee/#program-chairs",
     
     "relUrl": "/organization_committee/#program-chairs"
-  },"33": {
+  },"39": {
     "doc": "Organization Committee",
     "title": "Senior Advisors to Program Chairs",
     "content": "Qing Qu . University of Michigan . Senior Advisor to PCs . Atlas Wang . UT Austin . Senior Advisor to PCs . ",
     "url": "/organization_committee/#senior-advisors-to-program-chairs",
     
     "relUrl": "/organization_committee/#senior-advisors-to-program-chairs"
-  },"34": {
+  },"40": {
     "doc": "Organization Committee",
     "title": "Local Chairs",
     "content": "Yubei Chen . UC Davis . Local Chair . Sara Fridovich-Keil . Stanford / Georgia Tech . Local Chair . Sheng Liu . Stanford . Local Chair . ",
     "url": "/organization_committee/#local-chairs",
     
     "relUrl": "/organization_committee/#local-chairs"
-  },"35": {
+  },"41": {
     "doc": "Organization Committee",
     "title": "Publication Chairs",
     "content": "Weijie Su . UPenn . Publication Chair . Zhihui Zhu . Ohio State University . Publication Chair . ",
     "url": "/organization_committee/#publication-chairs",
     
     "relUrl": "/organization_committee/#publication-chairs"
-  },"36": {
+  },"42": {
     "doc": "Organization Committee",
     "title": "Industry Liaison Chairs",
     "content": "Babak Ehteshami Bejnordi . Qualcomm . Industry Liaison Chair . Utku Evci . Google DeepMind . Industry Liaison Chair . Souvik Kundu . Intel Labs, USA . Industry Liaison Chair . ",
     "url": "/organization_committee/#industry-liaison-chairs",
     
     "relUrl": "/organization_committee/#industry-liaison-chairs"
-  },"37": {
+  },"43": {
     "doc": "Organization Committee",
     "title": "Panel Chairs",
     "content": "Saiprasad Ravishankar . Michigan State University . Panel Chair . ",
     "url": "/organization_committee/#panel-chairs",
     
     "relUrl": "/organization_committee/#panel-chairs"
-  },"38": {
+  },"44": {
     "doc": "Organization Committee",
     "title": "Tutorial Chairs",
     "content": "Chong You . Google Research . Tutorial Chair . ",
     "url": "/organization_committee/#tutorial-chairs",
     
     "relUrl": "/organization_committee/#tutorial-chairs"
-  },"39": {
+  },"45": {
     "doc": "Organization Committee",
     "title": "Publicity Chairs",
     "content": "Qi Lei . NYU . Publicity Chair . Shiwei Liu . University of Oxford . Publicity Chair . William T. Redman . UCSB . Publicity Chair . ",
     "url": "/organization_committee/#publicity-chairs",
     
     "relUrl": "/organization_committee/#publicity-chairs"
-  },"40": {
+  },"46": {
     "doc": "Organization Committee",
     "title": "Rising Stars Award Chairs",
     "content": "Liyue Shen . University of Michigan . Rising Stars Award Chair . ",
     "url": "/organization_committee/#rising-stars-award-chairs",
     
     "relUrl": "/organization_committee/#rising-stars-award-chairs"
-  },"41": {
+  },"47": {
     "doc": "Organization Committee",
     "title": "Web Chairs",
     "content": "Sam Buchanan . TTIC . Web Chair . * Ordered alphabetically . ",
     "url": "/organization_committee/#web-chairs",
     
     "relUrl": "/organization_committee/#web-chairs"
-  },"42": {
+  },"48": {
     "doc": "Organizers",
     "title": "Organizers",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/organizers/",
     
     "relUrl": "/organizers/"
-  },"43": {
+  },"49": {
     "doc": "Past CPAL Websites",
     "title": "Past CPAL Websites",
     "content": "2025 . 2024 . ",
     "url": "/other_years/#past-cpal-websites",
     
     "relUrl": "/other_years/#past-cpal-websites"
-  },"44": {
+  },"50": {
     "doc": "Past CPAL Websites",
     "title": "Past CPAL Websites",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/other_years/",
     
     "relUrl": "/other_years/"
-  },"45": {
+  },"51": {
+    "doc": "Poster Presentations",
+    "title": "Poster Sessions at CPAL 2025",
+    "content": " ",
+    "url": "/posters/#poster-sessions-at-cpal-2025",
+    
+    "relUrl": "/posters/#poster-sessions-at-cpal-2025"
+  },"52": {
+    "doc": "Poster Presentations",
+    "title": "Presentation Format",
+    "content": "All accepted papers at CPAL 2025, from both the Proceedings and Spotlight tracks, will be presented as posters at the conference. A select number of Proceedings track papers are also presented as orals, as specified on the orals page. The ordering of session numbers matches their chronological ordering. See the full program for the precise time and location of each spotlight presentation session. ",
+    "url": "/posters/#presentation-format",
+    
+    "relUrl": "/posters/#presentation-format"
+  },"53": {
+    "doc": "Poster Presentations",
+    "title": "Reception + Poster Session 1",
+    "content": "Time: Day 2 (Mar 25) – Tuesday – 4:45 PM to 6:15 PM . 1. Progressive Gradient Flow for Robust N:M Sparsity Training in Transformers . Abhimanyu Rajeshkumar Bambhaniya, Amir Yazdanbakhsh, Suvinay Subramanian, Sheng-Chun Kao, Shivani Agrawal, Utku Evci, Tushar Krishna . Keywords: N:M structured sparsity, sparsity, model compression, attention-based models, sparse training recipe . 2. Sparse MoE as a New Treatment: Addressing Forgetting, Fitting, Learning Issues in Multi-Modal Multi-Task Learning . Jie Peng, Sukwon Yun, Kaixiong Zhou, Ruida Zhou, Thomas Hartvigsen, Yanyong Zhang, Zhangyang Wang, Tianlong Chen . Keywords: transformer, sparse mixture-of-experts, multi-modal learning, multi-task learning . 3. Theoretical and Empirical Advances in Forest Pruning . Albert Dorador . Keywords: Regression, Decision Trees, Ensemble Learning, Pruning, Interpretable Machine Learning . 4. On How Iterative Magnitude Pruning Discovers Local Receptive Fields in Fully Connected Neural Networks . William T Redman, Zhangyang Wang, Alessandro Ingrosso, Sebastian Goldt . Keywords: iterative magnitude pruning, lottery tickets, sparse machine learning, gaussian statistics . 5. Dimension Mixer: Group Mixing of Input Dimensions for Efficient Function Approximation . Suman Sapkota, Binod Bhattarai . Keywords: Sparse Architectures, Structured Sparsity, Butterfly Sparsity, Butterfly MLP, Butterfly Attention, Long Range Arena (LRA), Solving Pathfinder-X, Patch Only MLP-Mixer, Dimension Mixer . 6. HSR-Enhanced Sparse Attention Acceleration . Bo Chen, Yingyu Liang, Zhizhou Sha, Zhenmei Shi, Zhao Song . Keywords: Half-Space Reporting, Attention Acceleration, Sparse Attention . 7. Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization . DONGWEI WANG, Huanrui Yang . Keywords: LLM quantization, Hessian trace, Noise-aware finetuning . 8. Greedy Output Approximation: Towards Efficient Structured Pruning for LLMs Without Retraining . Jianwei Li, Yijun Dong, Qi Lei . Keywords: Efficient, Structured Pruning, LLMs . 9. Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients . Zhenyu Zhang, AJAY KUMAR JAISWAL, Lu Yin, Shiwei Liu, Jiawei Zhao, Yuandong Tian, Zhangyang Wang . Keywords: Large Language Models; Memory Efficient Training; Low Rank . 10. Adaptive Batch Size Schedules for Distributed Training of Language Models with Data and Model Parallelism . Tim Tsz-Kit Lau, Weijian Li, Chenwei Xu, Han Liu, Mladen Kolar . Keywords: Distributed training, adaptive batch size, data parallelism, model parallelism . 11. A unified framework for Sparse plus Low-Rank Matrix Decomposition for LLMs . Mehdi Makni, Kayhan Behdin, Zheng Xu, Natalia Ponomareva, Rahul Mazumder . Keywords: model compression, sparse plus low-rank, optimization, inference acceleration, 2:4 sparsity, hardware and system co-design . 12. Unlock the Theory behind Scaling 1-bit Neural Networks . Majid Daliri, Zhao Song, Chiwun Yang . Keywords: 1-bit neural network, neural tangent kernel, scaling law theory . 13. Adversarially Robust Spiking Neural Networks with Sparse Connectivity . Mathias Schmolli, Maximilian Baronig, Robert Legenstein, Ozan Ozdenizci . Keywords: adversarial robustness, spiking neural networks, ANN-to-SNN conversion, sparsity, robust pruning . 14. SGD with Weight Decay Secretly Minimizes the Ranks of Your Neural Networks . Tomer Galanti, Zachary S Siegel, Aparna Gupte, Tomaso A Poggio . Keywords: Low-Rank, SGD, Implicit Bias, Rank, Rank Minimization, Weight Decay . 15. Sparse Training from Random Initialization: Aligning Lottery Ticket Masks using Weight Symmetry . Mohammed Adnan, Rohan Jain, Ekansh Sharma, Yani Ioannou . Keywords: Lottery Ticket Hypothesis, sparse training, linear mode connectivity, weight symmetry, deep learning, deep neural networks, random initialization, git re-basin, optimization . 16. Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models . Weixin Liang, LILI YU, Liang Luo, Srini Iyer, Ning Dong, Chunting Zhou, Gargi Ghosh, Mike Lewis, Wen-tau Yih, Luke Zettlemoyer, Xi Victoria Lin . Keywords: Sparse architecture, Efficient deep architecture, Multi-modal foundation models, Mixture-of-Experts, Transformer . 17. Mixture-of-Mamba: Enhancing Multi-Modal State-Space Models with Modality-Aware Sparsity . Weixin Liang, Junhong Shen, Genghan Zhang, Ning Dong, Luke Zettlemoyer, LILI YU . Keywords: Sparse architecture, Efficient deep architecture, Multi-modal foundation models, Mixture-of-Experts, State Space Model . 18. Training Bayesian Neural Networks with Sparse Subspace Variational Inference . Junbo Li, Zichen Miao, Qiang Qiu, Ruqi Zhang . Keywords: Bayesian neural networks, sparse Bayesian learning, variational inference . 19. WAGLE: Strategic Weight Attribution for Effective and Modular Unlearning in Large Language Models . Jinghan Jia, Jiancheng Liu, Yihua Zhang, Parikshit Ram, Nathalie Baracaldo, Sijia Liu . Keywords: Machine Unlearning, LLMs . 20. Masks, Signs, And Learning Rate Rewinding . Advait Gadhikar, Rebekka Burkholz . Keywords: sparsity, pruning, lottery tickets, learning rate rewinding, iterative magnitude pruning . 21. Streaming Kernel PCA Algorithm With Small Space . Yichuan Deng, Jiangxuan Long, Zhao Song, Zifan Wang, Han Zhang . Keywords: Principal Component Analysis, Kernel Method, Streaming Algorithm . 22. Collaborative and Efficient Personalization with Mixtures of Adaptors . Abdulla Jasem Almansoori, Samuel Horváth, Martin Takáč . Keywords: federated learning, personalization, multi-task learning, clustering, parameter-efficient . 23. Pruning neural network models for gene regulatory dynamics using data and domain knowledge . Intekhab Hossain, Jonas Fischer, Rebekka Burkholz, John Quackenbush . Keywords: sparsification, pruning, lottery tickets, explainability, gene regulation, domain knowledge, neural architecture design, NeuralODEs . 24. Towards Vector Optimization on Low-Dimensional Vector Symbolic Architecture . Shijin Duan, Yejia Liu, Gaowen Liu, Ramana Rao Kompella, Shaolei Ren, Xiaolin Xu . Keywords: Vector Symbolic Architecture, Batch Normalization, Knowledge Distillation . 25. Mix-LN: Unleashing the Power of Deeper Layers by Combining Pre-LN and Post-LN . Pengxiang Li, Lu Yin, Shiwei Liu . Keywords: LayerNorm, LLM, Transformer . 26. Approximate Nullspace Augmented Finetuning for Robust Vision Transformers . Haoyang Liu, Aditya Singh, Yijiang Li, Haohan Wang . Keywords: Robustness, Vision Transformer, Invariance . 27. Learning of Patch-Based Smooth-Plus-Sparse Models for Image Reconstruction . Stanislas Ducotterd, Sebastian Neumayer, Michael Unser . Keywords: Image reconstruction, sparsity, dictionary learning, deep equilibrium . 28. Prior Mismatch and Adaptation in PnP-ADMM with a Nonconvex Convergence Analysis . Shirin Shoushtari, Jiaming Liu, Edward P. Chandler, M. Salman Asif, Ulugbek S. Kamilov . Keywords: Computational Imaging, Plug-and-Play Priors, Imaging Inverse Problems, Mismatched Priors, Domain Adaptation . 29. Stable Minima Cannot Overfit in Univariate ReLU Networks: Generalization by Large Step Sizes . Dan Qiao, Kaiqi Zhang, Esha Singh, Daniel Soudry, Yu-Xiang Wang . Keywords: Minima Stability, Edge-of-Stability, Generalization, Flat Local Minima, Curvature . 30. Certified Robustness against Sparse Adversarial Perturbations via Data Localization . Ambar Pal, Rene Vidal, Jeremias Sulam . Keywords: Adversarial Robustness, Certified Robustness, Sparse Perturbations, Data Localization . 31. The Computational Limits of State-Space Models and Mamba via the Lens of Circuit Complexity . Yifang Chen, Xiaoyu Li, Yingyu Liang, Zhenmei Shi, Zhao Song . Keywords: State-Space Models, Mamba, Circuit Complexity, Computational Limits . 32. Fast John Ellipsoid Computation with Differential Privacy Optimization . Xiaoyu Li, Yingyu Liang, Zhenmei Shi, Zhao Song, Junwei Yu . Keywords: Fast Optimization, Differential Privacy, John Ellipsoid Computation . 33. Understanding How Nonlinear Networks Create Linearly Separable Features for Low-Dimensional Data . Alec S Xu, Can Yaras, Peng Wang, Qing Qu . Keywords: union of subspaces, shallow nonlinear networks, random feature model . 34. On Generalization Bounds for Neural Networks with Low Rank Layers . Andrea Pinto, Akshay Rangamani, Tomaso A Poggio . Keywords: Gaussian Complexity, Low Rank, Neural Collapse . 35. Fast and Efficient Matching Algorithm with Deadline Instances . Zhao Song, Weixin Wang, Chenbo Yin, Junze Yin . Keywords: online weighted matching problem, sketching . ",
+    "url": "/posters/#reception--poster-session-1",
+    
+    "relUrl": "/posters/#reception--poster-session-1"
+  },"54": {
+    "doc": "Poster Presentations",
+    "title": "Poster Session 2",
+    "content": "Time: Day 3 (Mar 26) – Wednesday – 4:45 PM to 6:15 PM . 1. AdaProx: A Novel Method for Bilevel Optimization under Pessimistic Framework . Ziwei Guan, Daouda Sow, Sen Lin, Yingbin Liang . Keywords: pessimistic bilevel optimization, convergence analysis, nonconvex, gradient-based method . 2. Revisiting the Initial Steps in Adaptive Gradient Descent Optimization . Abulikemu Abuduweili, Changliu Liu . Keywords: Optimization, Adam, Adaptive Gradient Decent, Neural Networks . 3. Exact and Rich Feature Learning Dynamics of Two-Layer Linear Networks . Wei Huang, Wuyang Chen, zhiqiang xu, Zhangyang Wang, Taiji Suzuki . Keywords: Neural networks dyanmics, Feature Learning, Optimization . 4. Hamiltonian Mechanics of Feature Learning: Bottleneck Structure in Leaky ResNets . Arthur Jacot, Alexandre Kaiser . Keywords: Low-rank bias, NeuralODE, Hamiltonian, Bottleneck structure . 5. Quantum EigenGame for excited state calculation . David A. Quiroga, Jason Han, Anastasios Kyrillidis . Keywords: variational quantum algorithms, PCA, EigenGame, eigensolvers . 6. Asymptotic Behavior of the Coordinate Ascent Variational Inference in Singular Models . Sean C Plummer, Anirban Bhattacharya, Debdeep Pati, Yun Yang . Keywords: Coordinate Ascent Variational Inference, Singular Models, Dynmaical Systems . 7. Grouped Sequential Optimization Strategy - the Application of Hyperparameter Importance Assessment in Deep Learning . Ruinan Wang, Ian T. Nabney, MOHAMMAD GOLBABAEE . Keywords: Optimization, Hyperparameter Optimization, Hyperparameter Importance Assessment, Model Efficiency, Search Space Exploration, Resource Allocation . 8. Provable Model-Parallel Distributed Principal Component Analysis with Parallel Deflation . Fangshuo Liao, Wenyi Su, Anastasios Kyrillidis . Keywords: Principal Component Analysis, Distributed Learning . 9. AgentHPO: Large Language Model Agent for Hyper-Parameter Optimization . Siyi Liu, Chen Gao, Yong Li . Keywords: Large Language Models, Agent, Hyperparameter Optimization . 10. FedOSAA: Improving Federated Learning with One-Step Anderson Acceleration . Xue Feng, M. Paul Laiu, Thomas Strohmer . Keywords: federated learning, quasi-Newton methods, Anderson acceleration . 11. Unlocking Global Optimality in Bilevel Optimization: A Pilot Study . Quan Xiao, Tianyi Chen . Keywords: bilevel optimization; global convergence . 12. On the Crucial Role of Initialization for Matrix Factorization . Bingcong Li, Liang Zhang, Aryan Mokhtari, Niao He . Keywords: nonconvex optimization, initialization, quadratic rate, low rank adapter, lora . 13. Geometry of Neural Reinforcement Learning in Continuous State and Action Spaces . Saket Tiwari, Omer Gottesman, George Konidaris . Keywords: resinforcement learning, continuous control, geometry . 14. Learning Gaussian Multi-Index Models with Gradient Flow: Time Complexity and Directional Convergence . Berfin Simsek, Amire Bendjeddou, Daniel Hsu . Keywords: time complexity, gradient flow dynamics, hardness . 15. Learning Dynamics of Deep Matrix Factorization Beyond the Edge of Stability . Avrajit Ghosh, Soo Min Kwon, Rongrong Wang, Saiprasad Ravishankar, Qing Qu . Keywords: edge of stability, deep linear networks . 16. Non-convex matrix sensing: Breaking the quadratic rank barrier in the sample complexity . Dominik Stöger, Yizhe Zhu . Keywords: non-convex optimization, factorized gradient descent, matrix sensing, sample complexity, virtual sequences . 17. Relaxed Contrastive Learning for Federated Learning . Seonguk Seo, Jinkyu Kim, Geeho Kim, Bohyung Han . Keywords: dimensional collapse, transferability, federated learning, local deviation . 18. Do Global and Local Perform Cooperatively or Adversarially in Heterogeneous Federated Learning? . Huiwen Wu, Shuo Zhang . Keywords: federated learning; multilevel optimization; learning dynamics . 19. FedPeWS: Personalized Warmup via Subnetworks for Enhanced Heterogeneous Federated Learning . Nurbek Tastan, Samuel Horváth, Martin Takáč, Karthik Nandakumar . Keywords: federated learning, heterogeneous federated learning, personalized warmup, subnetworks . 20. Characterizing ResNet’s Universal Approximation Capability . Chenghao Liu, Enming Liang, Minghua Chen . Keywords: universal approximation, ResNet, optimal approximation rate . 21. A Validation Approach to Over-parameterized Matrix and Image Recovery . Lijun Ding, Zhen Qin, Liwei Jiang, Jinxin Zhou, Zhihui Zhu . Keywords: Matrix recovery, low-rank, validation, gradient descent, nonconvex optimization . 22. WHOMP: Optimizing Randomized Controlled Trials via Wasserstein Homogeneity . Shizhou Xu, Thomas Strohmer . Keywords: randomized controlled trial, Wasserstein homogeneity, anti-clustering, diverse K-means, control/test group splitting, cross-validation . 23. What’s in a Prior? Learned Proximal Networks for Inverse Problems . Zhenghan Fang, Sam Buchanan, Jeremias Sulam . Keywords: Inverse problems, Proximal operators, Plug-and-play, Explicit regularizer, Convergent PnP, Input convex neural networks . 24. Provable Probabilistic Imaging using Score-based Generative Priors . Yu Sun, Zihui Wu, Yifan Chen, Berthy Feng, Katherine Bouman . Keywords: Diffusion models, inverse problem, image reconstruction, langevin dynamics, markov processes, plug-and-play priors, posterior sampling, regularized inversion, score-based generative models, uncertainty quantification . 25. Principle Component Trees and their Persistent Homology . Ben Kizaric, Daniel L. Pimentel-Alarcón . Keywords: subspace clustering, low-rank decomposition, unsupervised learning, manifold learning, dimensionality reduction, topological data analysis . 26. FlowDAS: A Flow-Based Framework for Data Assimilation . Siyi Chen, Yixuan Jia, Qing Qu, He Sun, Jeffrey A Fessler . Keywords: Data Assimilation, Stochastic Dynamic System, Flow matching, Stochastic Interpolants, Inverse Problem . 27. Large-Scale Multiway Clustering with Seeded Clustering . Jiaxin Hu . Keywords: scalable algorithm, time complexity, space complexity, large-scale data, tensor clustering, seeded clustering . 28. Are all layers created equal: A neural collapse perspective . Jinxin Zhou, Jiachen Jiang, Zhihui Zhu . Keywords: Deep Learning, Neural Collapse, Robustness, Generalization, Memorization, Understanding . 29. Geometry of Concepts in Next-token Prediction: Neural-Collapse Meets Semantics . Yize Zhao, Christos Thrampoulidis . Keywords: Large Language Models(LLMs), Neural Embeddings, Word Embeddings, Neural-Collapse, Interpretability, Optimization . 30. Deep Neural Regression Collapse . Akshay Rangamani, Altay Unal . Keywords: Neural Collapse, Regression, Low Rank . 31. Geometric Algebra Planes: Convex Implicit Neural Volumes . Irmak Sivgin, Sara Fridovich-Keil, Gordon Wetzstein, Mert Pilanci . Keywords: Volume representation, tensor decomposition, convex optimization, geometric algebra, nerf . 32. A Robust Kernel Statistical Test of Invariance: Detecting Subtle Asymmetries . Ashkan Soleymani, Behrooz Tahmasebi, Stefanie Jegelka, Patrick Jaillet . Keywords: Invariance, Hypothesis Testing, Kernel Methods . 33. Learning with Exact Invariances in Polynomial Time . Ashkan Soleymani, Behrooz Tahmasebi, Stefanie Jegelka, Patrick Jaillet . Keywords: Learning with Invariances, Kernels, Spectral Theory . 34. Primal-Dual Spectral Representation for Off-policy Evaluation . Yang Hu, Tianyi Chen, Na Li, Kai Wang, Bo Dai . Keywords: reinforcement learning, off-policy evaluation, spectral representation, primal-dual representation . 35. Dependence Induced Representations . Xiangxiang Xu, Lizhong Zheng . Keywords: representation learning, statistical dependence, maximal correlation, minimal sufficiency, neural collapse . 36. MoXCo: How I learned to stop exploring and love my local minima? . Esha Singh, Shoham Sabach, Yu-Xiang Wang . Keywords: optimization, deep learning, adaptive methods . ",
+    "url": "/posters/#poster-session-2",
+    
+    "relUrl": "/posters/#poster-session-2"
+  },"55": {
+    "doc": "Poster Presentations",
+    "title": "Coffee Break + Poster Session 3",
+    "content": "Time: Day 4 (Mar 27) – Thursday – 11:00 AM to 12:30 PM . 1. Improving Neuron-level Interpretability with White-box Language Models . Hao Bai, Yi Ma . Keywords: White-box models, deep learning architectures, neuron-level interpretation . 2. Vanishing Feature: Diagnosing Model Merging and Beyond . Xingyu Qu, Samuel Horváth . Keywords: Model Merging, Efficiency, Deep Learning, Efficient Deep Learning . 3. A Case Study of Low Ranked Self-Expressive Structures in Neural Network Representations . Uday Singh Saini, William Shiao, Yahya Sattar, Yogesh Dahiya, Samet Oymak, Evangelos E. Papalexakis . Keywords: Subspace Clustering, Centered Kernel Alignment, Representation Similarity Measures. 4. You Only Debias Once: Towards Flexible Accuracy-Fairness Trade-offs at Inference Time . Xiaotian Han, Tianlong Chen, Kaixiong Zhou, Zhimeng Jiang, Zhangyang Wang, Xia Hu . Keywords: fairness, weight space, neural network subspace . 5. RecCrysFormer: Refined Protein Structural Prediction from 3D Patterson Maps via Recycling Training Runs . Tom Pan, Evan Dramko, Mitchell D. Miller, George N Phillips Jr., Anastasios Kyrillidis . Keywords: Protein Structural Prediction, Transformers, Patterson Maps . 6. Dual Reasoning: A GNN-LLM Collaborative Framework for Knowledge Graph Question Answering . Guangyi Liu, Yongqi Zhang, Yong Li, Quanming Yao . Keywords: Large Language Model, Knowledge Graph, Question Answering . 7. Meta ControlNet: Enhancing Task Adaptation via Meta Learning . Junjie Yang, Jinze Zhao, Peihao Wang, Zhangyang Wang, Yingbin Liang . Keywords: Meta Learning, Diffusion Models, Generalization . 8. Bridging Domain Adaptation and Graph Neural Networks: A Tensor-Based Framework for Effective Label Propagation . Tao Wen, Elynn Chen, Yuzhou Chen, Qi Lei . Keywords: Graph Classification, Domain Adaptation, Label Propagation . 9. Concept Bottleneck Model with Zero Performance Loss . Zhenzhen Wang, Aleksander Popel, Jeremias Sulam . Keywords: interpretability, explainability, concept bottleneck model, concept explanations . 10. Enhancing Video Representation Learning with Temporal Differentiation . Siyi Chen, Minkyu Choi, Zesen Zhao, Kuan Han, Qing Qu, Zhongming Liu . Keywords: video representation learning, physics-inspired . 11. Explaining and Mitigating the Modality Gap in Contrastive Multimodal Learning . Can Yaras, Siyi Chen, Peng Wang, Qing Qu . Keywords: multimodal learning, modality gap, contrastive learning . 12. Learning Effective Dynamics across Spatio-Temporal Scales of Complex Flows . Han Gao, Sebastian Kaltenbach, Petros Koumoutsakos . Keywords: Learned Effective Dynamics, Reduced-Order Modeling, Multiscale Systems, Turbulent Flows . 13. White-box Error Correction Code Transformer . Ziyan Zheng, Chin Wa Lau, Nian Guo, Xiang Shi, Shao-Lun Huang . Keywords: Error Correction Codes, Neural Decoder, White-box Transformer, Sparse Rate Reduction, Tanner Graph . 14. Curse of Attention: A Kernel-Based Perspective for Why Transformers Fail to Generalize on Time Series Forecasting and Beyond . Yekun Ke, Yingyu Liang, Zhenmei Shi, Zhao Song, Chiwun Yang . Keywords: Time Series Forecasting, Transformer Generalization, Kernel Methods . 15. Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs . Tianyu Guo, Druv Pai, Yu Bai, Jiantao Jiao, Michael I. Jordan, Song Mei . Keywords: attention sink, mechanistic interpretability, language models, transformers . 16. Diffusion models learn low-dimensional distributions via subspace clustering . Peng Wang, Huijie Zhang, Zekai Zhang, Siyi Chen, Yi Ma, Qing Qu . Keywords: diffusion models, mixture of low-rank Gaussians, phase transition, subspace clustering . 17. Visual Prompting Reimagined: The Power of Activation Prompts . Yihua Zhang, Hongkang Li, Yuguang Yao, Aochuan Chen, Shuai Zhang, Pin-Yu Chen, Meng Wang, Sijia Liu . Keywords: visual prompt, parameter efficient finetuning, learning theory, generalization analysis . 18. Understanding Diffusion-based Representation Learning via Low-Dimensional Modeling . Xiao Li, Zekai Zhang, Xiang Li, Siyi Chen, Zhihui Zhu, Peng Wang, Qing Qu . Keywords: diffusion representation learning, representation learning, diffusion model . 19. Simplifying DINO by Coding Rate Regularization . Ziyang Wu, Jingyuan Zhang, Druv Pai, Yi Ma . Keywords: Representation Learning, Self Supervised Learning, Coding Rate . 20. Closure Discovery for Coarse-Grained Partial Differential Equations Using Grid-based Reinforcement Learning . Jan-Philipp von Bassewitz, Sebastian Kaltenbach, Petros Koumoutsakos . Keywords: Closure Discovery, Inductive Bias, Multi-Agent Reinforcement Learning . 21. Heterogeneous Decision Making in Mixed Traffic: Uncertainty-aware Planning and Bounded Rationality . Hang Wang, Qiaoyi Fang, Junshan Zhang . Keywords: Mixed Traffic, Reinforcement Learning, Planning, Bounded Rationality . 22. CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents . Qinlin Zhao, Jindong Wang, Yixuan Zhang, Yiqiao Jin, Kaijie Zhu, Hao Chen, Xing Xie . Keywords: LLM-based Agent, Agent Based Modeling, Competition . 23. DyVal: Dynamic Evaluation of Large Language Models for Reasoning Tasks . Kaijie Zhu, Jiaao Chen, Jindong Wang, Neil Zhenqiang Gong, Diyi Yang, Xing Xie . Keywords: Large Language Models, Evaluation, Data Contamination . 24. Knowledge-aware Parsimony Learning: A Perspective from Relational Graphs . Quanming Yao, Yongqi Zhang, Yaqing Wang, Nan Yin, James Kwok, Qiang Yang . Keywords: scaling law, Parsimony Learning, Graph Learning . 25. Understanding and Mitigating Bottlenecks of State Space Models through the Lens of Recency and Over-smoothing . Peihao Wang, Ruisi Cai, Yuehao Wang, Jiajun Zhu, Pragya Srivastava, Zhangyang Wang, Pan Li . Keywords: State Space Models, Large Language Models, Recency, Over-smoothing . 26. Rethinking Addressing in Language Models via Contextualized Equivariant Positional Encoding . Jiajun Zhu, Peihao Wang, Ruisi Cai, Jason D. Lee, Pan Li, Zhangyang Wang . Keywords: Positional Encoding, Equivariant Machine Learning, Large Language Models . 27. Implicit Geometry of Next-token Prediction: From Language Sparsity Patterns to Model Representations . Yize Zhao, Tina Behnia, Vala Vakilian, Christos Thrampoulidis . Keywords: language models, neural embeddings, optimization, implicit regularization, low-rank matrix factorization, support-vector machines . 28. Dynamic Rescaling for Training GNNs . Nimrah Mustafa, Rebekka Burkholz . Keywords: graph neural network, rescale invariance, generalization, network balance . 29. Image Reconstruction Via Autoencoding Sequential Deep Image Prior . Ismail Alkhouri, Shijun Liang, Evan Bell, Qing Qu, Rongrong Wang, Saiprasad Ravishankar . Keywords: Image Reconstruction, Deep Image Prior, Generative Models . 30. SITCOM: Step-wise Triple-Consistent Diffusion Sampling for Inverse Problems . Ismail Alkhouri, Shijun Liang, Cheng-Han Huang, Jimmy Dai, Qing Qu, Saiprasad Ravishankar, Rongrong Wang . Keywords: Image Restoration, Diffusion Models, Inverse Problems . 31. SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training . Tianzhe Chu, Yuexiang Zhai, Jihan Yang, Shengbang Tong, Saining Xie, Sergey Levine, Yi Ma . Keywords: foundation model post-training . 32. Attention-Only Transformers via Unrolled Subspace Denoising . Peng Wang, Yifu Lu, Yaodong Yu, Druv Pai, Qing Qu, Yi Ma . Keywords: transformer, self-attention, unrolled optimization, subspace denoising . 33. Out-of-distribution generalization via composition: a lens through induction heads in Transformers . Jiajun Song, Zhuoyan Xu, Yiqiao Zhong . Keywords: out-of-distribution generalization, low-dimensional subspace, composition, large language models, emergent ability, in-context learning . 34. Sufficient and Necessary Explanations (and What Lies in Between) . Beepul Bharti, Paul Yi, Jeremias Sulam . Keywords: interpretability, explainability . 35. Generative Learning for Solving Non-Convex Problem with Multi-Valued Input-Solution Mapping . Enming Liang, Minghua Chen . Keywords: Non-convex Optimization, Generative Modeling, Flow, ODE . 36. Shallow Diffuse: Robust and Invisible Watermarking through Low-Dimensional Subspaces in Diffusion Models . Wenda Li, Huijie Zhang, Qing Qu . Keywords: diffusion Model, watermark, low-dimensional subspace, consistency, robustness . ",
+    "url": "/posters/#coffee-break--poster-session-3",
+    
+    "relUrl": "/posters/#coffee-break--poster-session-3"
+  },"56": {
+    "doc": "Poster Presentations",
+    "title": "Poster Presentations",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
+    "url": "/posters/",
+    
+    "relUrl": "/posters/"
+  },"57": {
     "doc": "Proceedings Track",
     "title": "Proceedings Track: Accepted Papers",
     "content": " ",
     "url": "/proceedings_track/#proceedings-track-accepted-papers",
     
     "relUrl": "/proceedings_track/#proceedings-track-accepted-papers"
-  },"46": {
+  },"58": {
     "doc": "Proceedings Track",
     "title": "Presentation Format",
     "content": "Accepted papers will be presented in one of six oral sessions during the conference. Presentations are ten minutes in duration, with two minutes for Q&amp;A. The ordering of session numbers matches their chronological ordering, and presentations will be delivered in the order they are listed. See the full program for the precise time and location of each oral session. ",
     "url": "/proceedings_track/#presentation-format",
     
     "relUrl": "/proceedings_track/#presentation-format"
-  },"47": {
+  },"59": {
     "doc": "Proceedings Track",
-    "title": "Oral Session 1",
-    "content": "Time: Day 1 (Jan 3) – Wednesday – 2:30 PM to 3:30 PM . 1. Emergence of Segmentation with Minimalistic White-Box Transformers . Yaodong Yu, Tianzhe Chu, Shengbang Tong, Ziyang Wu, Druv Pai, Sam Buchanan, Yi Ma . Keywords: white-box transformer, emergence of segmentation properties . 2. NeuroMixGDP: A Neural Collapse-Inspired Random Mixup for Private Data Release . Donghao Li, Yang Cao, Yuan Yao . Keywords: Neural Collapse, Differential privacy, Private data publishing, Mixup . 3. HRBP: Hardware-friendly Regrouping towards Block-based Pruning for Sparse CNN Training . Haoyu Ma, Chengming Zhang, lizhi xiang, Xiaolong Ma, Geng Yuan, Wenkai Zhang, Shiwei Liu, Tianlong Chen, Dingwen Tao, Yanzhi Wang, Zhangyang Wang, Xiaohui Xie . Keywords: efficient training, sparse training, fine-grained structured sparsity, regrouping algorithm . 4. Jaxpruner: A Concise Library for Sparsity Research . Joo Hyung Lee, Wonpyo Park, Nicole Elyse Mitchell, Jonathan Pilault, Johan Samir Obando Ceron, Han-Byul Kim, Namhoon Lee, Elias Frantar, Yun Long, Amir Yazdanbakhsh, Woohyun Han, Shivani Agrawal, Suvinay Subramanian, Xin Wang, Sheng-Chun Kao, Xingyao Zhang, Trevor Gale, Aart J.C. Bik, Milen Ferev, Zhonglin Han, Hong-Seok Kim, Yann Dauphin, Gintare Karolina Dziugaite, Pablo Samuel Castro, Utku Evci . Keywords: jax, sparsity, pruning, quantization, sparse training, efficiency, library, software . 5. How to Prune Your Language Model: Recovering Accuracy on the ``Sparsity May Cry’’ Benchmark . Eldar Kurtic, Torsten Hoefler, Dan Alistarh . Keywords: pruning, deep learning, benchmarking . ",
-    "url": "/proceedings_track/#oral-session-1",
+    "title": "Highlight Talks 1",
+    "content": "Time: Day 2 (Mar 25) – Tuesday – 10:00 AM to 10:30 AM . Approximate Nullspace Augmented Finetuning for Robust Vision Transformers . Haoyang Liu, Aditya Singh, Yijiang Li, Haohan Wang . Keywords: Robustness, Vision Transformer, Invariance . SGD with Weight Decay Secretly Minimizes the Ranks of Your Neural Networks . Tomer Galanti, Zachary S Siegel, Aparna Gupte, Tomaso A Poggio . Keywords: Low-Rank, SGD, Implicit Bias, Rank, Rank Minimization, Weight Decay . Collaborative and Efficient Personalization with Mixtures of Adaptors . Abdulla Jasem Almansoori, Samuel Horváth, Martin Takáč . Keywords: federated learning, personalization, multi-task learning, clustering, parameter-efficient . On How Iterative Magnitude Pruning Discovers Local Receptive Fields in Fully Connected Neural Networks . William T Redman, Zhangyang Wang, Alessandro Ingrosso, Sebastian Goldt . Keywords: iterative magnitude pruning, lottery tickets, sparse machine learning, gaussian statistics . Streaming Kernel PCA Algorithm With Small Space . Yichuan Deng, Jiangxuan Long, Zhao Song, Zifan Wang, Han Zhang . Keywords: Principal Component Analysis, Kernel Method, Streaming Algorithm . Progressive Gradient Flow for Robust N:M Sparsity Training in Transformers . Abhimanyu Rajeshkumar Bambhaniya, Amir Yazdanbakhsh, Suvinay Subramanian, Sheng-Chun Kao, Shivani Agrawal, Utku Evci, Tushar Krishna . Keywords: N:M structured sparsity, sparsity, model compression, attention-based models, sparse training recipe . Sparse MoE as a New Treatment: Addressing Forgetting, Fitting, Learning Issues in Multi-Modal Multi-Task Learning . Jie Peng, Sukwon Yun, Kaixiong Zhou, Ruida Zhou, Thomas Hartvigsen, Yanyong Zhang, Zhangyang Wang, Tianlong Chen . Keywords: transformer, sparse mixture-of-experts, multi-modal learning, multi-task learning . Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients . Zhenyu Zhang, AJAY KUMAR JAISWAL, Lu Yin, Shiwei Liu, Jiawei Zhao, Yuandong Tian, Zhangyang Wang . Keywords: Large Language Models; Memory Efficient Training; Low Rank . Fast and Efficient Matching Algorithm with Deadline Instances . Zhao Song, Weixin Wang, Chenbo Yin, Junze Yin . Keywords: online weighted matching problem, sketching . Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization . DONGWEI WANG, Huanrui Yang . Keywords: LLM quantization, Hessian trace, Noise-aware finetuning . Adversarially Robust Spiking Neural Networks with Sparse Connectivity . Mathias Schmolli, Maximilian Baronig, Robert Legenstein, Ozan Ozdenizci . Keywords: adversarial robustness, spiking neural networks, ANN-to-SNN conversion, sparsity, robust pruning . The Computational Limits of State-Space Models and Mamba via the Lens of Circuit Complexity . Yifang Chen, Xiaoyu Li, Yingyu Liang, Zhenmei Shi, Zhao Song . Keywords: State-Space Models, Mamba, Circuit Complexity, Computational Limits . Theoretical and Empirical Advances in Forest Pruning . Albert Dorador . Keywords: Regression, Decision Trees, Ensemble Learning, Pruning, Interpretable Machine Learning . Unlock the Theory behind Scaling 1-bit Neural Networks . Majid Daliri, Zhao Song, Chiwun Yang . Keywords: 1-bit neural network, neural tangent kernel, scaling law theory . Greedy Output Approximation: Towards Efficient Structured Pruning for LLMs Without Retraining . Jianwei Li, Yijun Dong, Qi Lei . Keywords: Efficient, Structured Pruning, LLMs . A unified framework for Sparse plus Low-Rank Matrix Decomposition for LLMs . Mehdi Makni, Kayhan Behdin, Zheng Xu, Natalia Ponomareva, Rahul Mazumder . Keywords: model compression, sparse plus low-rank, optimization, inference acceleration, 2:4 sparsity, hardware and system co-design . Dimension Mixer: Group Mixing of Input Dimensions for Efficient Function Approximation . Suman Sapkota, Binod Bhattarai . Keywords: Sparse Architectures, Structured Sparsity, Butterfly Sparsity, Butterfly MLP, Butterfly Attention, Long Range Arena (LRA), Solving Pathfinder-X, Patch Only MLP-Mixer, Dimension Mixer . Adaptive Batch Size Schedules for Distributed Training of Language Models with Data and Model Parallelism . Tim Tsz-Kit Lau, Weijian Li, Chenwei Xu, Han Liu, Mladen Kolar . Keywords: Distributed training, adaptive batch size, data parallelism, model parallelism . HSR-Enhanced Sparse Attention Acceleration . Bo Chen, Yingyu Liang, Zhizhou Sha, Zhenmei Shi, Zhao Song . Keywords: Half-Space Reporting, Attention Acceleration, Sparse Attention . Learning of Patch-Based Smooth-Plus-Sparse Models for Image Reconstruction . Stanislas Ducotterd, Sebastian Neumayer, Michael Unser . Keywords: Image reconstruction, sparsity, dictionary learning, deep equilibrium . Fast John Ellipsoid Computation with Differential Privacy Optimization . Xiaoyu Li, Yingyu Liang, Zhenmei Shi, Zhao Song, Junwei Yu . Keywords: Fast Optimization, Differential Privacy, John Ellipsoid Computation . Towards Vector Optimization on Low-Dimensional Vector Symbolic Architecture . Shijin Duan, Yejia Liu, Gaowen Liu, Ramana Rao Kompella, Shaolei Ren, Xiaolin Xu . Keywords: Vector Symbolic Architecture, Batch Normalization, Knowledge Distillation . ",
+    "url": "/proceedings_track/#highlight-talks-1",
     
-    "relUrl": "/proceedings_track/#oral-session-1"
-  },"48": {
+    "relUrl": "/proceedings_track/#highlight-talks-1"
+  },"60": {
     "doc": "Proceedings Track",
-    "title": "Oral Session 2",
-    "content": "Time: Day 2 (Jan 4) – Thursday – 11:20 AM to 12:20 PM . 1. Efficiently Disentangle Causal Representations . Yuanpeng Li, Joel Hestness, Mohamed Elhoseiny, Liang Zhao, Kenneth Church . Keywords: causal representation learning . 2. Unsupervised Learning of Structured Representation via Closed-Loop Transcription . Shengbang Tong, Xili Dai, Yubei Chen, Mingyang Li, ZENGYI LI, Brent Yi, Yann LeCun, Yi Ma . Keywords: Unsupervised/Self-supervised Learning, Closed-Loop Transcription . 3. An Adaptive Tangent Feature Perspective of Neural Networks . Daniel LeJeune, Sina Alemohammad . Keywords: adaptive, kernel learning, tangent kernel, neural networks, low rank . 4. Sparse Activations with Correlated Weights in Cortex-Inspired Neural Networks . Chanwoo Chun, Daniel Lee . Keywords: Correlated weights, Biological neural network, Cortex, Neural network gaussian process, Sparse neural network, Bayesian neural network, Generalization theory, Kernel ridge regression, Deep neural network, Random neural network . 5. Exploring Minimally Sufficient Representation in Active Learning through Label-Irrelevant Patch Augmentation . Zhiyu Xue, Yinlong Dai, Qi Lei . Keywords: Active Learning, Data Augmentation, Minimally Sufficient Representation . ",
-    "url": "/proceedings_track/#oral-session-2",
+    "title": "Highlight Talks 2",
+    "content": "Time: Day 2 (Mar 25) – Tuesday – 12:00 PM to 12:30 PM . Large-Scale Multiway Clustering with Seeded Clustering . Jiaxin Hu . Keywords: scalable algorithm, time complexity, space complexity, large-scale data, tensor clustering, seeded clustering . Hamiltonian Mechanics of Feature Learning: Bottleneck Structure in Leaky ResNets . Arthur Jacot, Alexandre Kaiser . Keywords: Low-rank bias, NeuralODE, Hamiltonian, Bottleneck structure . AgentHPO: Large Language Model Agent for Hyper-Parameter Optimization . Siyi Liu, Chen Gao, Yong Li . Keywords: Large Language Models, Agent, Hyperparameter Optimization . Exact and Rich Feature Learning Dynamics of Two-Layer Linear Networks . Wei Huang, Wuyang Chen, zhiqiang xu, Zhangyang Wang, Taiji Suzuki . Keywords: Neural networks dyanmics, Feature Learning, Optimization . FedOSAA: Improving Federated Learning with One-Step Anderson Acceleration . Xue Feng, M. Paul Laiu, Thomas Strohmer . Keywords: federated learning, quasi-Newton methods, Anderson acceleration . Quantum EigenGame for excited state calculation . David A. Quiroga, Jason Han, Anastasios Kyrillidis . Keywords: variational quantum algorithms, PCA, EigenGame, eigensolvers . Grouped Sequential Optimization Strategy - the Application of Hyperparameter Importance Assessment in Deep Learning . Ruinan Wang, Ian T. Nabney, MOHAMMAD GOLBABAEE . Keywords: Optimization, Hyperparameter Optimization, Hyperparameter Importance Assessment, Model Efficiency, Search Space Exploration, Resource Allocation . Asymptotic Behavior of the Coordinate Ascent Variational Inference in Singular Models . Sean C Plummer, Anirban Bhattacharya, Debdeep Pati, Yun Yang . Keywords: Coordinate Ascent Variational Inference, Singular Models, Dynmaical Systems . MoXCo: How I learned to stop exploring and love my local minima? . Esha Singh, Shoham Sabach, Yu-Xiang Wang . Keywords: optimization, deep learning, adaptive methods . FedPeWS: Personalized Warmup via Subnetworks for Enhanced Heterogeneous Federated Learning . Nurbek Tastan, Samuel Horváth, Martin Takáč, Karthik Nandakumar . Keywords: federated learning, heterogeneous federated learning, personalized warmup, subnetworks . Provable Model-Parallel Distributed Principal Component Analysis with Parallel Deflation . Fangshuo Liao, Wenyi Su, Anastasios Kyrillidis . Keywords: Principal Component Analysis, Distributed Learning . A Validation Approach to Over-parameterized Matrix and Image Recovery . Lijun Ding, Zhen Qin, Liwei Jiang, Jinxin Zhou, Zhihui Zhu . Keywords: Matrix recovery, low-rank, validation, gradient descent, nonconvex optimization . Revisiting the Initial Steps in Adaptive Gradient Descent Optimization . Abulikemu Abuduweili, Changliu Liu . Keywords: Optimization, Adam, Adaptive Gradient Decent, Neural Networks . Do Global and Local Perform Cooperatively or Adversarially in Heterogeneous Federated Learning? . Huiwen Wu, Shuo Zhang . Keywords: federated learning; multilevel optimization; learning dynamics . AdaProx: A Novel Method for Bilevel Optimization under Pessimistic Framework . Ziwei Guan, Daouda Sow, Sen Lin, Yingbin Liang . Keywords: pessimistic bilevel optimization, convergence analysis, nonconvex, gradient-based method . Are all layers created equal: A neural collapse perspective . Jinxin Zhou, Jiachen Jiang, Zhihui Zhu . Keywords: Deep Learning, Neural Collapse, Robustness, Generalization, Memorization, Understanding . ",
+    "url": "/proceedings_track/#highlight-talks-2",
     
-    "relUrl": "/proceedings_track/#oral-session-2"
-  },"49": {
+    "relUrl": "/proceedings_track/#highlight-talks-2"
+  },"61": {
     "doc": "Proceedings Track",
-    "title": "Oral Session 3",
-    "content": "Time: Day 2 (Jan 4) – Thursday – 2:30 PM to 3:30 PM . 1. Investigating the Catastrophic Forgetting in Multimodal Large Language Model Fine-Tuning . Yuexiang Zhai, Shengbang Tong, Xiao Li, Mu Cai, Qing Qu, Yong Jae Lee, Yi Ma . Keywords: Multimodal LLM, Supervised Fine-Tuning, Catastrophic Forgetting . 2. WS-iFSD: Weakly Supervised Incremental Few-shot Object Detection Without Forgetting . Xinyu Gong, Li Yin, Juan-Manuel Perez-Rua, Zhangyang Wang, Zhicheng Yan . Keywords: few-shot object detection . 3. Continual Learning with Dynamic Sparse Training: Exploring Algorithms for Effective Model Updates . Murat Onur Yildirim, Elif Ceren Gok, Ghada Sokar, Decebal Constantin Mocanu, Joaquin Vanschoren . Keywords: continual learning, sparse neural networks, dynamic sparse training . 4. FIXED: Frustratingly Easy Domain Generalization with Mixup . Wang Lu, Jindong Wang, Han Yu, Lei Huang, Xiang Zhang, Yiqiang Chen, Xing Xie . Keywords: Domain generalization, Data Augmentation, Out-of-distribution generalization . 5. Domain Generalization via Nuclear Norm Regularization . Zhenmei Shi, Yifei Ming, Ying Fan, Frederic Sala, Yingyu Liang . Keywords: Domain Generalization, Nuclear Norm, Deep Learning . ",
-    "url": "/proceedings_track/#oral-session-3",
+    "title": "Highlight Talks 3",
+    "content": "Time: Day 4 (Mar 27) – Thursday – 10:00 AM to 11:00 AM . A Case Study of Low Ranked Self-Expressive Structures in Neural Network Representations . Uday Singh Saini, William Shiao, Yahya Sattar, Yogesh Dahiya, Samet Oymak, Evangelos E. Papalexakis . Keywords: Subspace Clustering, Centered Kernel Alignment, Representation Similarity Measures. White-box Error Correction Code Transformer . Ziyan Zheng, Chin Wa Lau, Nian Guo, Xiang Shi, Shao-Lun Huang . Keywords: Error Correction Codes, Neural Decoder, White-box Transformer, Sparse Rate Reduction, Tanner Graph . Sufficient and Necessary Explanations (and What Lies in Between) . Beepul Bharti, Paul Yi, Jeremias Sulam . Keywords: interpretability, explainability . Vanishing Feature: Diagnosing Model Merging and Beyond . Xingyu Qu, Samuel Horváth . Keywords: Model Merging, Efficiency, Deep Learning, Efficient Deep Learning . Enhancing Video Representation Learning with Temporal Differentiation . Siyi Chen, Minkyu Choi, Zesen Zhao, Kuan Han, Qing Qu, Zhongming Liu . Keywords: video representation learning, physics-inspired . Closure Discovery for Coarse-Grained Partial Differential Equations Using Grid-based Reinforcement Learning . Jan-Philipp von Bassewitz, Sebastian Kaltenbach, Petros Koumoutsakos . Keywords: Closure Discovery, Inductive Bias, Multi-Agent Reinforcement Learning . Learning Effective Dynamics across Spatio-Temporal Scales of Complex Flows . Han Gao, Sebastian Kaltenbach, Petros Koumoutsakos . Keywords: Learned Effective Dynamics, Reduced-Order Modeling, Multiscale Systems, Turbulent Flows . RecCrysFormer: Refined Protein Structural Prediction from 3D Patterson Maps via Recycling Training Runs . Tom Pan, Evan Dramko, Mitchell D. Miller, George N Phillips Jr., Anastasios Kyrillidis . Keywords: Protein Structural Prediction, Transformers, Patterson Maps . Improving Neuron-level Interpretability with White-box Language Models . Hao Bai, Yi Ma . Keywords: White-box models, deep learning architectures, neuron-level interpretation . You Only Debias Once: Towards Flexible Accuracy-Fairness Trade-offs at Inference Time . Xiaotian Han, Tianlong Chen, Kaixiong Zhou, Zhimeng Jiang, Zhangyang Wang, Xia Hu . Keywords: fairness, weight space, neural network subspace . Curse of Attention: A Kernel-Based Perspective for Why Transformers Fail to Generalize on Time Series Forecasting and Beyond . Yekun Ke, Yingyu Liang, Zhenmei Shi, Zhao Song, Chiwun Yang . Keywords: Time Series Forecasting, Transformer Generalization, Kernel Methods . Bridging Domain Adaptation and Graph Neural Networks: A Tensor-Based Framework for Effective Label Propagation . Tao Wen, Elynn Chen, Yuzhou Chen, Qi Lei . Keywords: Graph Classification, Domain Adaptation, Label Propagation . Concept Bottleneck Model with Zero Performance Loss . Zhenzhen Wang, Aleksander Popel, Jeremias Sulam . Keywords: interpretability, explainability, concept bottleneck model, concept explanations . Meta ControlNet: Enhancing Task Adaptation via Meta Learning . Junjie Yang, Jinze Zhao, Peihao Wang, Zhangyang Wang, Yingbin Liang . Keywords: Meta Learning, Diffusion Models, Generalization . Dual Reasoning: A GNN-LLM Collaborative Framework for Knowledge Graph Question Answering . Guangyi Liu, Yongqi Zhang, Yong Li, Quanming Yao . Keywords: Large Language Model, Knowledge Graph, Question Answering . Heterogeneous Decision Making in Mixed Traffic: Uncertainty-aware Planning and Bounded Rationality . Hang Wang, Qiaoyi Fang, Junshan Zhang . Keywords: Mixed Traffic, Reinforcement Learning, Planning, Bounded Rationality . Explaining and Mitigating the Modality Gap in Contrastive Multimodal Learning . Can Yaras, Siyi Chen, Peng Wang, Qing Qu . Keywords: multimodal learning, modality gap, contrastive learning . ",
+    "url": "/proceedings_track/#highlight-talks-3",
     
-    "relUrl": "/proceedings_track/#oral-session-3"
-  },"50": {
-    "doc": "Proceedings Track",
-    "title": "Oral Session 4",
-    "content": "Time: Day 3 (Jan 5) – Friday – 11:20 AM to 12:20 PM . 1. Balance is Essence: Accelerating Sparse Training via Adaptive Gradient Correction . Bowen Lei, Dongkuan Xu, Ruqi Zhang, Shuren He, Bani Mallick . Keywords: Sparse Training, Space-time Co-efficiency, Acceleration, Stability, Gradient Correction . 2. Probing Biological and Artificial Neural Networks with Task-dependent Neural Manifolds . Michael Kuoch, Chi-Ning Chou, Nikhil Parthasarathy, Joel Dapello, James J. DiCarlo, Haim Sompolinsky, SueYeon Chung . Keywords: Computational Neuroscience, Neural Manifolds, Neural Geometry, Representational Geometry, Biologically inspired vision models, Neuro-AI . 3. Decoding Micromotion in Low-dimensional Latent Spaces from StyleGAN . Qiucheng Wu, Yifan Jiang, Junru Wu, Kai Wang, Eric Zhang, Humphrey Shi, Zhangyang Wang, Shiyu Chang . Keywords: generative model, low-rank decomposition . 4. Sparse Fréchet sufficient dimension reduction via nonconvex optimization . Jiaying Weng, Chenlu Ke, Pei Wang . Keywords: Fréchet regression; minimax concave penalty; multitask regression; sufficient dimension reduction; sufficient variable selection. 5. Less is More – Towards parsimonious multi-task models using structured sparsity . Richa Upadhyay, Ronald Phlypo, Rajkumar Saini, Marcus Liwicki . Keywords: Multi-task learning, structured sparsity, group sparsity, parameter pruning, semantic segmentation, depth estimation, surface normal estimation . ",
-    "url": "/proceedings_track/#oral-session-4",
-    
-    "relUrl": "/proceedings_track/#oral-session-4"
-  },"51": {
-    "doc": "Proceedings Track",
-    "title": "Oral Session 5",
-    "content": "Time: Day 3 (Jan 5) – Friday – 2:30 PM to 3:30 PM . 1. Deep Self-expressive Learning . Chen Zhao, Chun-Guang Li, Wei He, Chong You . Keywords: Self-Expressive Model; Subspace Clustering; Manifold Clustering . 2. PC-X: Profound Clustering via Slow Exemplars . Yuangang Pan, Yinghua Yao, Ivor Tsang . Keywords: Deep clustering, interpretable machine learning, Optimization . 3. Piecewise-Linear Manifolds for Deep Metric Learning . Shubhang Bhatnagar, Narendra Ahuja . Keywords: Deep metric learning, Unsupervised representation learning . 4. Algorithm Design for Online Meta-Learning with Task Boundary Detection . Daouda Sow, Sen Lin, Yingbin Liang, Junshan Zhang . Keywords: online meta-learning, task boundary detection, domain shift, dynamic regret, out of distribution detection . 5. HARD: Hyperplane ARrangement Descent . Tianjiao Ding, Liangzu Peng, Rene Vidal . Keywords: hyperplane clustering, subspace clustering, generalized principal component analysis . ",
-    "url": "/proceedings_track/#oral-session-5",
-    
-    "relUrl": "/proceedings_track/#oral-session-5"
-  },"52": {
-    "doc": "Proceedings Track",
-    "title": "Oral Session 6",
-    "content": "Time: Day 3 (Jan 5) – Friday – 4:00 PM to 5:00 PM . 1. Closed-Loop Transcription via Convolutional Sparse Coding . Xili Dai, Ke Chen, Shengbang Tong, Jingyuan Zhang, Xingjian Gao, Mingyang Li, Druv Pai, Yuexiang Zhai, Xiaojun Yuan, Heung-Yeung Shum, Lionel Ni, Yi Ma . Keywords: Convolutional Sparse Coding, Inverse Problem, Closed-Loop Transcription . 2. Leveraging Sparse Input and Sparse Models: Efficient Distributed Learning in Resource-Constrained Environments . Emmanouil Kariotakis, Grigorios Tsagkatakis, Panagiotis Tsakalides, Anastasios Kyrillidis . Keywords: sparse neural network training, efficient training . 3. Cross-Quality Few-Shot Transfer for Alloy Yield Strength Prediction: A New Materials Science Benchmark and A Sparsity-Oriented Optimization Framework . Xuxi Chen, Tianlong Chen, Everardo Yeriel Olivares, Kate Elder, Scott McCall, Aurelien Perron, Joseph McKeown, Bhavya Kailkhura, Zhangyang Wang, Brian Gallagher . Keywords: AI4Science, sparsity, bi-level optimization . 4. Deep Leakage from Model in Federated Learning . Zihao Zhao, Mengen Luo, Wenbo Ding . Keywords: Federated learning, distributed learning, privacy leakage . 5. Image Quality Assessment: Integrating Model-centric and Data-centric Approaches . Peibei Cao, Dingquan Li, Kede Ma . Keywords: Learning-based IQA, model-centric IQA, data-centric IQA, sampling-worthiness. ",
-    "url": "/proceedings_track/#oral-session-6",
-    
-    "relUrl": "/proceedings_track/#oral-session-6"
-  },"53": {
+    "relUrl": "/proceedings_track/#highlight-talks-3"
+  },"62": {
     "doc": "Proceedings Track",
     "title": "Proceedings Track",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/proceedings_track/",
     
     "relUrl": "/proceedings_track/"
-  },"54": {
+  },"63": {
+    "doc": "Program at a Glance",
+    "title": "Program at a Glance",
+    "content": "All times below are in Pacific Daylight Time (UTC-7). | 08:00 AM | 08:30 AM | 09:00 AM | 09:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 01:00 PM | 01:30 PM | 02:00 PM | 02:30 PM | 03:00 PM | 03:30 PM | 04:00 PM | 04:30 PM | 05:00 PM | 05:30 PM | 06:00 PM | 06:30 PM | 07:00 PM | 07:30 PM | 08:00 PM | . | ",
+    "url": "/program_schedule/#program-at-a-glance",
+    
+    "relUrl": "/program_schedule/#program-at-a-glance"
+  },"64": {
+    "doc": "Program at a Glance",
+    "title": "Day 1 (Mar 24)Monday",
+    "content": ". | Tutorial Session 1T1: Deep Representation Learning: from Knowledge to IntelligenceT2: Foundations on Interpretable AI 9:15 AM–11:45 AM Main Auditorium | Lunch Break | Tutorial Session 2T3: Methods, Analysis, and Insights from Multimodal LLM Pre-training and Post-trainingT4: Harnessing Low Dimensionality in Diffusion Models: From Theory to Practice 1:15 PM–3:45 PM Main Auditorium | Coffee Break | Tutorial Session 3T5: A Function-Space Tour of Data ScienceT6: Sparsity and Mixture-of-Experts in the Era of LLMs: A New Odyssey 4:15 PM–6:45 PM Main Auditorium | . | ",
+    "url": "/program_schedule/",
+    
+    "relUrl": "/program_schedule/"
+  },"65": {
+    "doc": "Program at a Glance",
+    "title": "Day 2 (Mar 25)Tuesday",
+    "content": ". | Opening Remarks 8:50 AM–9:00 AM Main Auditorium | Richard Baraniuk 9:00 AM–10:00 AM Main Auditorium \"Plenary Talk 1\" | Highlight Talks 1 10:00 AM–10:30 AM Main Auditorium | Coffee Break | Alison Gopnik 11:00 AM–12:00 PM Main Auditorium \"Plenary Talk 2\" | Highlight Talks 2 12:00 PM–12:30 PM Main Auditorium | Lunch Break | Rising Stars Talks 1 2:00 PM–3:00 PM Main Auditorium | Jason Lee 3:00 PM–4:00 PM Main Auditorium \"Plenary Talk 3\" | Wellness Session 4:00 PM–4:45 PM Main Auditorium | Reception + Poster Session 1 4:45 PM–6:15 PM Main Auditorium | . | ",
+    "url": "/program_schedule/",
+    
+    "relUrl": "/program_schedule/"
+  },"66": {
+    "doc": "Program at a Glance",
+    "title": "Day 3 (Mar 26)Wednesday",
+    "content": ". | Fred Kjolstad 9:00 AM–10:00 AM Main Auditorium \"Plenary Talk 1\" | Yingyu Liang 10:00 AM–11:00 AM Main Auditorium \"Plenary Talk 2\" | Coffee Break | Michael Unser 11:30 AM–12:30 PM Main Auditorium \"Plenary Talk 3\" | Lunch Break | Rising Stars Talks 2 1:30 PM–2:30 PM Main Auditorium | Coffee Break | Doris Tsao 3:00 PM–4:00 PM Main Auditorium \"Plenary Talk 4\" | Panel Discussion 4:00 PM–4:45 PM Main Auditorium | Poster Session 2 4:45 PM–6:15 PM Main Auditorium | . | ",
+    "url": "/program_schedule/",
+    
+    "relUrl": "/program_schedule/"
+  },"67": {
+    "doc": "Program at a Glance",
+    "title": "Day 4 (Mar 27)Thursday",
+    "content": ". | Andrea Montanari 9:00 AM–10:00 AM Main Auditorium \"Plenary Talk 1\" | Highlight Talks 3 10:00 AM–11:00 AM Main Auditorium | Coffee Break + Poster Session 3 11:00 AM–12:30 PM Main Auditorium | Lunch Break | Konrad Kording 1:30 PM–2:30 PM Main Auditorium \"Plenary Talk 2\" | Rising Stars Talks 3 2:30 PM–3:30 PM Main Auditorium | Yuandong Tian 3:30 PM–4:30 PM Main Auditorium \"Plenary Talk 3\" | Closing Remarks 4:30 PM–5:00 PM Main Auditorium | . | . ",
+    "url": "/program_schedule/",
+    
+    "relUrl": "/program_schedule/"
+  },"68": {
+    "doc": "Program at a Glance",
+    "title": "Program at a Glance",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
+    "url": "/program_schedule/",
+    
+    "relUrl": "/program_schedule/"
+  },"69": {
     "doc": "Register & Attend",
     "title": "Register & Attend",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/register_and_attend/",
     
     "relUrl": "/register_and_attend/"
-  },"55": {
+  },"70": {
     "doc": "Registration",
     "title": "Registration",
     "content": "All CPAL attendees are required to register to attend the conference. Please complete your registration at the Stanford Data Science website. Register Now . ",
     "url": "/registration/#registration",
     
     "relUrl": "/registration/#registration"
-  },"56": {
+  },"71": {
     "doc": "Registration",
     "title": "Registration Help",
     "content": "For any questions regarding the registration form, please contact the Stanford Data Science team at datascience@stanford.edu. ",
     "url": "/registration/#registration-help",
     
     "relUrl": "/registration/#registration-help"
-  },"57": {
+  },"72": {
     "doc": "Registration",
     "title": "Registration Cost and Options",
-    "content": "CPAL 2025 attendees can register for the following two (separate) tickets: . | CPAL Conference Pass: Includes access to all academic sessions, except tutorials, and coffee breaks. | Tutorials Ticket: Includes access to all CPAL tutorials, to be held on March 24th, 2025 (first day of the conference) from 10 AM – 4 PM in two parallel sessions. | . The ticket prices are as follows: . | CPAL Conference Pass: $425.00 | Tutorials Ticket: $275.00 | . ",
+    "content": "CPAL 2025 attendees can register for the following two (separate) tickets: . | CPAL Conference Pass: Includes access to all academic sessions, except tutorials, and coffee breaks. | Tutorials Ticket: Includes access to all CPAL tutorials, to be held on March 24th, 2025 (first day of the conference) in two parallel sessions. See the schedule and the tutorials page for more details. | . The ticket prices are as follows: . | CPAL Conference Pass: $425.00 | Tutorials Ticket: $275.00 | . ",
     "url": "/registration/#registration-cost-and-options",
     
     "relUrl": "/registration/#registration-cost-and-options"
-  },"58": {
+  },"73": {
     "doc": "Registration",
     "title": "Student Discounts",
     "content": "Students can receive a discount of 60% off all tickets they purchase. To receive the discount: . | Select “Masters/PhD Student” as Registration Type on the SDS form; | Upload a photo of your university ID card. | . The student ticket prices are as follows: . | CPAL Conference Pass: $170.00 | Tutorials Ticket: $110.00 | . ",
     "url": "/registration/#student-discounts",
     
     "relUrl": "/registration/#student-discounts"
-  },"59": {
+  },"74": {
     "doc": "Registration",
     "title": "Registration",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/registration/",
     
     "relUrl": "/registration/"
-  },"60": {
+  },"75": {
     "doc": "Review Guidelines",
     "title": "Reviewer Guidelines",
     "content": " ",
     "url": "/review_guidelines/#reviewer-guidelines",
     
     "relUrl": "/review_guidelines/#reviewer-guidelines"
-  },"61": {
+  },"76": {
     "doc": "Review Guidelines",
     "title": "Notable Innovations in Our Review Mechanism",
     "content": "CPAL strives for providing every paper with high-quality, accountable reviews, and therefore takes the following actions in addition: . | Shepherding by an Action PC: Every paper’s final decision, after being recommended by AC, will go through the direct shepherding of all program chairs (led by one “action PC”). The action PC has two main duties: . | (before final decision released) The action PC will pay particular attention to the borderline cases and the dispute (large score variations) cases, and will be asked to write additional “meta-meta reviews” in those cases and potentially calibrate on top of AC recommendations. Final decisions will be scrutinized and made in a joint meeting by all program chairs. | (after receiving the camera-ready) Each accepted paper’s authors will be asked to submit a one-page cover letter, summarizing what revisions are made between the paper’s submitted and camera-ready versions. The action PC will ensure: (1) all “promised” changes by authors during the discussion stage are indeed implemented; (2) no change that is “too substantial” and “unsoliciated” shall be made to the paper, unless in exceptional circumstances where the action PC has to approve case-by-case. The action PC reserves the right to reject a camera-ready submission and exclude it from the conference proceedings. | . | Semi-Open Identity for Accountability (Action PC and/or AC): For every accepted paper, the names of its AC and action PC will be publicly released on its OpenReview page too. For every rejected paper (excluding withdrawals), only the name of its action PC will be displayed. This decision was not reached lightly; but we hope it would meaningfully add credibility and accountability for every paper’s final outcome. | Reviewer Rating and “Dynamic Sparse Selection”: each AC will be asked to rate every reviewer in their batch, in terms of timeliness and quality. Program chairs, who know all reviewers’ identities, will compile a list of reviewers sorted by their average ratings received. Reviewers that receive consistent low reviewer rating for multiple papers / from multiple ACs will be excluded from future review processes. | . ",
     "url": "/review_guidelines/#notable-innovations-in-our-review-mechanism",
     
     "relUrl": "/review_guidelines/#notable-innovations-in-our-review-mechanism"
-  },"62": {
+  },"77": {
     "doc": "Review Guidelines",
     "title": "General Guidelines",
     "content": "We all like the Acceptance Criteria made by TMLR https://jmlr.org/tmlr/acceptance-criteria.html and would instruct our ACs and reviewers to honor the same. In particular we note: . “Crucially, it should not be used as a reason to reject work that isn’t considered “significant” or “impactful” because it isn’t achieving a new state-of-the-art on some benchmark. Nor should it form the basis for rejecting work on a method considered not “novel enough”, as novelty of the studied method is not a necessary criteria for acceptance. We explicitly avoid these terms (“significant”, “impactful”, “novel”), and focus instead on the notion of “interest”. If the authors make it clear that there is something to be learned by some researchers in their area from their work, then the criteria of interest is considered satisfied. ",
     "url": "/review_guidelines/#general-guidelines",
     
     "relUrl": "/review_guidelines/#general-guidelines"
-  },"63": {
+  },"78": {
     "doc": "Review Guidelines",
     "title": "Review Guidelines",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/review_guidelines/",
     
     "relUrl": "/review_guidelines/"
-  },"64": {
+  },"79": {
     "doc": "Rising Stars Award",
     "title": "Rising Stars Award",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/rising_stars/",
     
     "relUrl": "/rising_stars/"
-  },"65": {
-    "doc": "Application",
+  },"80": {
+    "doc": "Call for Applications",
     "title": "CPAL Rising Stars Award",
     "content": "The Conference on Parsimony and Learning (CPAL) launches the Rising Stars Award program to highlight exceptional junior researchers at a critical inflection and starting point in their career: last-year PhD students, postdoctoral scholars, first-year tenure track faculty, or industry researcher within two years of graduation. CPAL is an annual research conference focused on addressing the parsimonious, low dimensional structures that prevail in machine learning, signal processing, optimization, and beyond. As in the last year, CPAL Rising Stars Award program will provide PhD students, postdocs, junior faculties and industry researchers the opportunity to plug into these networks, platforms, and opportunities. The program also aims to increase representation and diversity in this area by providing a platform and a supportive mentoring network to navigate academic careers. All graduate students and postdocs, including those who belong to groups underrepresented, are encouraged to apply, including but not limited to people of all racial, ethnic, geographic, and socioeconomic backgrounds, sexual orientations, genders, and persons with disabilities. Apply here, and see details below. ",
     "url": "/rising_stars_guidelines/#cpal-rising-stars-award",
     
     "relUrl": "/rising_stars_guidelines/#cpal-rising-stars-award"
-  },"66": {
-    "doc": "Application",
+  },"81": {
+    "doc": "Call for Applications",
     "title": "Key Dates",
     "content": ". | Applications Due: December 15th, 2024 | Notification Deadline: January 21st, 2025 | Conference: March 24th-27th 2025 at Stanford University (in person) | . ",
     "url": "/rising_stars_guidelines/#key-dates",
     
     "relUrl": "/rising_stars_guidelines/#key-dates"
-  },"67": {
-    "doc": "Application",
+  },"82": {
+    "doc": "Call for Applications",
     "title": "Program Format",
     "content": ". | Dedicated poster session for selected awardees | Panels (career development) | Roundtable dinners or 1-1 meetings with senior researchers | Selected awardees need to confirm in-person attendance and will be supported with a full registration waiver to attend the CPAL 2025 conference at Stanford University, USA | . ",
     "url": "/rising_stars_guidelines/#program-format",
     
     "relUrl": "/rising_stars_guidelines/#program-format"
-  },"68": {
-    "doc": "Application",
+  },"83": {
+    "doc": "Call for Applications",
     "title": "Application Requirements",
     "content": "The application is available through Google Forms. | Name &amp; Contact | Resume/CV | Tentative Poster Title | Research statement outlining research goals, potential projects of interest, and long-term career goals, and commitment to creating a more diverse and inclusive scientific community (1 page, standard font at a size 11 or larger) | List names of 1-2 references with emails | . ",
     "url": "/rising_stars_guidelines/#application-requirements",
     
     "relUrl": "/rising_stars_guidelines/#application-requirements"
-  },"69": {
-    "doc": "Application",
+  },"84": {
+    "doc": "Call for Applications",
     "title": "Eligibility and Guidelines",
     "content": ". | Applicants must be full time graduate students in their last year of obtaining a PhD, or current postdoctoral scholars/fellows, first-year tenure track faculty, or industry researchers within two years of graduation | We welcome applicants from a wide variety of fields and backgrounds: any eligible PhD or postdoc or junior faculty or junior industry researchers, who are engaging in addressing the parsimonious, low dimensional structures that prevail in machine learning, signal processing, optimization, systems, interdisciplinary applications and beyond are encouraged to apply. | Applicants from all institutions worldwide are encouraged to apply. | An applicant may only submit one application. | . ",
     "url": "/rising_stars_guidelines/#eligibility-and-guidelines",
     
     "relUrl": "/rising_stars_guidelines/#eligibility-and-guidelines"
-  },"70": {
-    "doc": "Application",
+  },"85": {
+    "doc": "Call for Applications",
     "title": "Review Criteria",
     "content": "Proposals will be reviewed by the CPAL Rising Stars Program Committee based on research impact, academic progress (if applicable), career potential, and commitment to broadening participation. ",
     "url": "/rising_stars_guidelines/#review-criteria",
     
     "relUrl": "/rising_stars_guidelines/#review-criteria"
-  },"71": {
-    "doc": "Application",
+  },"86": {
+    "doc": "Call for Applications",
     "title": "Contact",
     "content": "Please email liyues@umich.edu with questions. ",
     "url": "/rising_stars_guidelines/#contact",
     
     "relUrl": "/rising_stars_guidelines/#contact"
-  },"72": {
-    "doc": "Application",
-    "title": "Application",
+  },"87": {
+    "doc": "Call for Applications",
+    "title": "Call for Applications",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/rising_stars_guidelines/",
     
     "relUrl": "/rising_stars_guidelines/"
-  },"73": {
+  },"88": {
+    "doc": "Rising Stars Presentations",
+    "title": "CPAL Rising Stars Presentation Sessions",
+    "content": " ",
+    "url": "/rising_stars_presentations/#cpal-rising-stars-presentation-sessions",
+    
+    "relUrl": "/rising_stars_presentations/#cpal-rising-stars-presentation-sessions"
+  },"89": {
+    "doc": "Rising Stars Presentations",
+    "title": "Presentation Format",
+    "content": "Each awarded CPAL Rising Star will give a talk about their research in one of three sessions during the conference. Presentations are ten minutes in duration, with two minutes for Q&amp;A. The ordering of session numbers matches their chronological ordering, and presentations will be delivered in the order they are listed. See the full program for the precise time and location of each CPAL Rising Stars session. CPAL Rising Stars awardees and presentation information will be announced imminently. ",
+    "url": "/rising_stars_presentations/#presentation-format",
+    
+    "relUrl": "/rising_stars_presentations/#presentation-format"
+  },"90": {
+    "doc": "Rising Stars Presentations",
+    "title": "Rising Stars Presentations",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
+    "url": "/rising_stars_presentations/",
+    
+    "relUrl": "/rising_stars_presentations/"
+  },"91": {
     "doc": "Keynote Speakers",
     "title": "Keynote Speakers",
-    "content": "<!-- ",
+    "content": "Clicking a speaker’s photo will jump to their talk information below. <!-- ",
     "url": "/speakers/#keynote-speakers",
     
     "relUrl": "/speakers/#keynote-speakers"
-  },"74": {
+  },"92": {
     "doc": "Keynote Speakers",
     "title": "Confirmed Distinguished Speakers",
     "content": "--> Richard Baraniuk . Rice University . Alison Gopnik . University of California, Berkeley . Fred Kjolstad . Stanford University . Konrad Kording . University of Pennsylvania . Jason Lee . Princeton University . Yingyu Liang . University of Hong Kong, University of Wisconsin-Madison . Andrea Montanari . Stanford University . Yuandong Tian . Meta AI Research . Doris Tsao . University of California, Berkeley . Michael Unser . École Polytechnique Fédérale de Lausanne (EPFL) . ",
     "url": "/speakers/",
     
     "relUrl": "/speakers/"
-  },"75": {
+  },"93": {
+    "doc": "Keynote Speakers",
+    "title": "Talk Details",
+    "content": "Richard Baraniuk . Rice University . Title: Plenary Talk 1 . Time and Location: Day 2, 9:00 AM PT, Main Auditorium . Abstract . TBA . Bio . TBA . Alison Gopnik . University of California, Berkeley . Title: Plenary Talk 2 . Time and Location: Day 2, 11:00 AM PT, Main Auditorium . Abstract . TBA . Bio . TBA . Fred Kjolstad . Stanford University . Title: Plenary Talk 1 . Time and Location: Day 3, 9:00 AM PT, Main Auditorium . Abstract . TBA . Bio . TBA . Konrad Kording . University of Pennsylvania . Title: Plenary Talk 2 . Time and Location: Day 4, 1:30 PM PT, Main Auditorium . Abstract . TBA . Bio . TBA . Jason Lee . Princeton University . Title: Plenary Talk 3 . Time and Location: Day 2, 3:00 PM PT, Main Auditorium . Abstract . TBA . Bio . TBA . Yingyu Liang . University of Hong Kong, University of Wisconsin-Madison . Title: Plenary Talk 2 . Time and Location: Day 3, 10:00 AM PT, Main Auditorium . Abstract . TBA . Bio . TBA . Andrea Montanari . Stanford University . Title: Plenary Talk 1 . Time and Location: Day 4, 9:00 AM PT, Main Auditorium . Abstract . TBA . Bio . TBA . Yuandong Tian . Meta AI Research . Title: Plenary Talk 3 . Time and Location: Day 4, 3:30 PM PT, Main Auditorium . Abstract . TBA . Bio . TBA . Doris Tsao . University of California, Berkeley . Title: Plenary Talk 4 . Time and Location: Day 3, 3:00 PM PT, Main Auditorium . Abstract . TBA . Bio . TBA . Michael Unser . École Polytechnique Fédérale de Lausanne (EPFL) . Title: Plenary Talk 3 . Time and Location: Day 3, 11:30 AM PT, Main Auditorium . Abstract . TBA . Bio . TBA . ",
+    "url": "/speakers/#talk-details",
+    
+    "relUrl": "/speakers/#talk-details"
+  },"94": {
     "doc": "Keynote Speakers",
     "title": "Keynote Speakers",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/speakers/",
     
     "relUrl": "/speakers/"
-  },"76": {
+  },"95": {
     "doc": "Sponsors",
     "title": " Conference Sponsors ",
     "content": " ",
     "url": "/sponsors/",
     
     "relUrl": "/sponsors/"
-  },"77": {
+  },"96": {
     "doc": "Sponsors",
     "title": "Conference Host",
     "content": " ",
     "url": "/sponsors/",
     
     "relUrl": "/sponsors/"
-  },"78": {
+  },"97": {
     "doc": "Sponsors",
     "title": "Platinum Sponsor",
     "content": " ",
     "url": "/sponsors/",
     
     "relUrl": "/sponsors/"
-  },"79": {
+  },"98": {
     "doc": "Sponsors",
     "title": "Sponsors",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/sponsors/",
     
     "relUrl": "/sponsors/"
-  },"80": {
+  },"99": {
     "doc": "Conference Sponsors",
     "title": "Conference Sponsors",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/sponsors_base/",
     
     "relUrl": "/sponsors_base/"
-  },"81": {
+  },"100": {
     "doc": "Sponsorship Opportunities",
     "title": " Conference Sponsors ",
     "content": " ",
     "url": "/sponsorship_opportunities/",
     
     "relUrl": "/sponsorship_opportunities/"
-  },"82": {
+  },"101": {
     "doc": "Sponsorship Opportunities",
     "title": "Conference Host",
     "content": " ",
     "url": "/sponsorship_opportunities/",
     
     "relUrl": "/sponsorship_opportunities/"
-  },"83": {
+  },"102": {
     "doc": "Sponsorship Opportunities",
     "title": "Platinum Sponsor",
     "content": "--> ",
     "url": "/sponsorship_opportunities/",
     
     "relUrl": "/sponsorship_opportunities/"
-  },"84": {
+  },"103": {
     "doc": "Sponsorship Opportunities",
     "title": "CPAL 2025 Sponsorship Opportunities",
     "content": "The 2nd Conference on Parsimony and Learning (CPAL), chaired by Professors Emmanuel Candès and Yi Ma, will take place at Stanford University from March 24–27, 2025. CPAL grew from the SlowDNN workshop, which ran successfully for three years (2021-2023) and evolved into the inaugural CPAL 2024 held in Hong Kong. CPAL 2024 brought together over 200 elite researchers specializing in sparsity and efficient AI for four days of in-depth, in-person interactions. The conference also attracted significant sponsorship support from both international and local partners: https://2024.cpal.cc/sponsors/ . CPAL 2025 aims to foster collaboration and share cutting-edge research in sparse and low-dimensional structure modeling in deep learning, bridging theory, algorithms, and practical applications. We expect experts from machine learning, applied mathematics, signal processing, optimization, systems, and natural sciences like physics and neuroscience to join us. Located on Stanford’s campus in the heart of Silicon Valley, CPAL 2025 is poised to attract a high-caliber audience and create broader, more impactful connections. Given this exciting opportunity, we invite interested parties to help sponsor CPAL 2025. We believe this presents a valuable opportunity to engage with leading minds in these fields. Additionally, sponsoring CPAL offers various opportunities to connect with conference participants and showcase leadership in advancing AI research. ",
     "url": "/sponsorship_opportunities/#cpal-2025-sponsorship-opportunities",
     
     "relUrl": "/sponsorship_opportunities/#cpal-2025-sponsorship-opportunities"
-  },"85": {
+  },"104": {
     "doc": "Sponsorship Opportunities",
     "title": "Sponsorship Tiers",
     "content": "We offer the following sponsorship tiers for CPAL 2025: . Silver Tier - $5,000 . | Display the company logo on our website and during live sessions | Access to the list of conference registrants, along with their CVs (with attendee consent) | 2 full registrations for key personnel | . Gold Tier - $10,000 . | Display the company logo on our website and during live sessions | Access to the list of conference registrants, along with their CVs (with attendee consent) | Opportunity to display a short company advertisement between sessions | Exhibit space during the main conference | 4 full registrations for key personnel | . Diamond Tier - $15,000 . | Display the company logo on our website and during live sessions | Access to the list of conference registrants, along with their CVs (with attendee consent) | Opportunity to give a keynote presentation | Opportunity to display a short company advertisement between sessions | Exhibit space during the main conference | 8 full registrations for key personnel | Exclusive in-person interactions with participants interested in recruitment, arranged during the conference’s social gatherings | . ",
     "url": "/sponsorship_opportunities/#sponsorship-tiers",
     
     "relUrl": "/sponsorship_opportunities/#sponsorship-tiers"
-  },"86": {
+  },"105": {
     "doc": "Sponsorship Opportunities",
     "title": "Sponsorship Opportunities",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford <!-- ",
     "url": "/sponsorship_opportunities/",
     
     "relUrl": "/sponsorship_opportunities/"
-  },"87": {
+  },"106": {
     "doc": "Spotlight Track",
     "title": "Spotlight Track: Accepted Papers",
     "content": " ",
     "url": "/spotlight_track/#spotlight-track-accepted-papers",
     
     "relUrl": "/spotlight_track/#spotlight-track-accepted-papers"
-  },"88": {
-    "doc": "Spotlight Track",
-    "title": "Presentation Format",
-    "content": "Accepted papers will be presented in one of two spotlight poster sessions during the conference. The ordering of session numbers matches their chronological ordering. See the full program for the precise time and location of each spotlight presentation session. ",
-    "url": "/spotlight_track/#presentation-format",
-    
-    "relUrl": "/spotlight_track/#presentation-format"
-  },"89": {
-    "doc": "Spotlight Track",
-    "title": "Spotlight Poster Session 1",
-    "content": "Time: Day 2 (Jan 4) – Thursday – 5:00 PM to 6:30 PM . Principled and Efficient Transfer Learning of Deep Models via Neural Collapse . Xiao Li, Sheng Liu, Jinxin Zhou, Xinyu Lu, Carlos Fernandez-Granda, Zhihui Zhu, Qing Qu . Keywords: representation learning, neural collapse, transfer learning . Variational Information Pursuit for Interpretable Predictions . Aditya Chattopadhyay, Kwan Ho Ryan Chan, Benjamin David Haeffele, Donald Geman, Rene Vidal . Keywords: Interpretable ML, Explainable AI, Information Pursuit . Classification Bias on a Data Diet . Tejas Pote, Mohammed Adnan, Yigit Yargic, Yani Ioannou . Keywords: data diet, model bias, classification bias, data pruning . Junk DNA Hypothesis: A Task-Centric Angle of LLM Pre-trained Weights through Sparsity . Lu Yin, Shiwei Liu, AJAY KUMAR JAISWAL, Souvik Kundu, Zhangyang Wang . Keywords: Junk DNA Hypothesis, low-magnitude weights, large-scale language models . FedNAR: Federated Optimization with Normalized Annealing Regularization . Junbo Li, Ang Li, Chong Tian, Qirong Ho, Eric Xing, Hongyi Wang . Keywords: Federated learning, weight decay, adaptive hyperparameters . Model Compression Beyond Size Reduction . Mubarek Mohammed . Keywords: Knowledge Distillation, Pruning, Model Compression, Neural Networks . The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers . Zonglin Li, Chong You, Srinadh Bhojanapalli, Daliang Li, Ankit Singh Rawat, Sashank Reddi, Ke Ye, Felix Chern, Felix Yu, Ruiqi Guo, Sanjiv Kumar . Keywords: Transformer efficiency, activation sparsity, robustness, calibration . Block Coordinate Descent on Smooth Manifolds: Convergence Theory and Twenty-One Examples . Liangzu Peng, Rene Vidal . Keywords: Block Coordinate Descent, Alternating Minimization, Non-Convex Optimization, Manifold Optimization, Convergence Analysis . Stochastic Collapse: How Gradient Noise Attracts SGD Dynamics Towards Simpler Subnetworks . Feng Chen, Daniel Kunin, Atsushi Yamamura, Surya Ganguli . Keywords: Implicit Bias, sparsity, SGD Dynamics, Implicit regularization, Learning rate schedule, Stochastic Gradient Descent, Invariant set, Attractive saddle points, Stochastic collapse, Permutation invariance, Simplicity bias, Teacher-student . Benign Overfitting and Grokking in ReLU Networks for XOR Cluster Data . Zhiwei Xu, Yutong Wang, Spencer Frei, Gal Vardi, Wei Hu . Keywords: Grokking, benign overfitting, deep learning . Neural Dependencies Emerging from Learning Massive Categories . Ruili Feng, Deli Zhao, Zheng-Jun Zha . Keywords: Deep Learning Theory, Interpretability . SpecFormer: Guarding Vision Transformer Robustness via Maximum Singular Value Penalization . Xixu HU . Keywords: Vision Transformer, Adversarial Robustness, Lipschitz Continuity, Computer Vision . Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time . Zichang Liu, Jue WANG, Tri Dao, Tianyi Zhou, Binhang Yuan, Zhao Song, Anshumali Shrivastava, Ce Zhang, Yuandong Tian, Christopher Re, Beidi Chen . Keywords: Large language Model; Efficient Inference; Sparsity . Towards a Better Theoretical Understanding of Independent Subnetwork Training . Egor Shulgin, Peter Richtárik . Keywords: Optimization, Distributed Learning, Independent Subnetwork Training, Federated Learning . Sparsity-aware generalization theory for deep neural networks . Ramchandran Muthukumar, Jeremias Sulam . Keywords: Generalization, Sparsity, Sensitivity, PAC-Bayes . GMRLNet: A graph-based manifold regularization learning framework for placental insufficiency diagnosis on incomplete multimodal ultrasound data . Jing Jiao, Huang Yi FDU, LiXiaokang, Yi Guo . Keywords: Manifold regularization learning, Incomplete multimodal learning, graph neural network, knowledge transfer, prenatal diagnosis . Outlier Weighed Layerwise Sparsity (OWL): A Missing Secret Sauce for Pruning LLMs to High Sparsity . Lu Yin, You Wu, Zhenyu Zhang, Cheng-Yu Hsieh, Yaqing Wang, Yiling Jia, Mykola Pechenizkiy, Yi Liang, Zhangyang Wang, Shiwei Liu . Keywords: Large language model, pruning, sparsity . Profiling and Pairing Catchments and Hydrological Models With Latent Factor Model . Yang Yang, Ting Fong May Chui . Keywords: Hydrological modeling, latent factor model, recommender system, machine learning . Model Sparsity Can Simplify Machine Unlearning . Jinghan Jia, Jiancheng Liu, Parikshit Ram, Yuguang Yao, Gaowen Liu, Yang Liu, Pranay Sharma, Sijia Liu . Keywords: Truthworthy AI, Sparsity, Privacy . Alternating Updates for Efficient Transformers . Cenk Baykal, Dylan J Cutler, Nishanth Dikkala, Nikhil Ghosh, Rina Panigrahy, Xin Wang . Keywords: efficiency, efficient transformers . Invariant Low-Dimensional Subspaces in Gradient Descent for Learning Deep Linear Networks . Can Yaras, Peng Wang, Wei Hu, Zhihui Zhu, Laura Balzano, Qing Qu . Keywords: implicit bias, low dimensional structures, deep linear networks . Dynamic Sparsity Is Channel-Level Sparsity Learner . Lu Yin, Gen Li, Meng Fang, Li Shen, Tianjin Huang, Zhangyang Wang, Vlado Menkovski, Xiaolong Ma, Mykola Pechenizkiy, Shiwei Liu . Keywords: dynamic sparsity, dynamic sparse training, channel-level sparsity . Three-way trade-off in multi-objective learning: Optimization, generalization and conflict-avoidance . Lisha Chen, Heshan Devaka Fernando, Yiming Ying, Tianyi Chen . Keywords: multi-objective learning, generalization, algorithm stability, stochastic optimization . Sparse MoE with Language Guided Routing for Multilingual Machine Translation . Xinyu Zhao, Xuxi Chen, Yu Cheng, Tianlong Chen . Keywords: Sparse Mixture-of-Experts, Multilingual Machine Translation, Language Guided Routing . The Emergence of Reproducibility and Consistency in Diffusion Models . Huijie Zhang, Jinfan Zhou, Yifu Lu, Minzhe Guo, Liyue Shen, Qing Qu . Keywords: Diffusion model; Consistent model reproducibility; Phenomenon; Uniquely identifiable encoding . Graph Neural Networks Provably Benefit from Structural Information: A Feature Learning Perspective . Wei Huang, Yuan Cao, Haonan Wang, Xin Cao, Taiji Suzuki . Keywords: Graph Neural Network, Feature Learning, Graph Convolution, Deep Learning Theory, Benign Overfitting . Nonparametric Classification on Low Dimensional Manifolds using Overparameterized Convolutional Residual Networks . Kaiqi Zhang, Zixuan Zhang, Minshuo Chen, Yuma Takeda, Mengdi Wang, Tuo Zhao, Yu-Xiang Wang . Keywords: Nonparametric Classification; Low Dimensional Manifolds; Overparameterized ResNets; Function Approximation . $H_2O$: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models . Zhenyu Zhang, Ying Sheng, Tianyi Zhou, Tianlong Chen, Lianmin Zheng, Ruisi Cai, Zhao Song, Yuandong Tian, Christopher Re, Clark Barrett, Zhangyang Wang, Beidi Chen . Keywords: Large Language Models; Efficient Generative Inference . Sparse Mixture-of-Experts are Domain Generalizable Learners . Bo Li, Yifei Shen, Jingkang Yang, Yezhen Wang, Jiawei Ren, Tong Che, Jun Zhang, Ziwei Liu . Keywords: domain generalization, mixture-of-experts, algorithmic alignment, visual attributes . Low-Rank Matrix Completion Theory via Plucker Coordinates . Manolis C. Tsakiris . Keywords: algebraic geometry, Grassmannian, low-rank matrix completion, non-random observation patterns, Plucker coordinates . ",
-    "url": "/spotlight_track/#spotlight-poster-session-1",
-    
-    "relUrl": "/spotlight_track/#spotlight-poster-session-1"
-  },"90": {
-    "doc": "Spotlight Track",
-    "title": "Spotlight Poster Session 2",
-    "content": "Time: Day 3 (Jan 5) – Friday – 5:00 PM to 6:30 PM . Neural Collapse in Multi-label Learning with Pick-all-label Loss . Pengyu Li, Yutong Wang, Xiao Li, Qing Qu . Keywords: Multi-label learning, Neural Collapse, Representation Learning . Efficient Low-Dimensional Compression of Overparameterized Networks . Soo Min Kwon, Zekai Zhang, Dogyoon Song, Laura Balzano, Qing Qu . Keywords: overparameterization, deep networks, low-dimensional modeling . Scan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer . Yuandong Tian, Yiping Wang, Beidi Chen, Simon Shaolei Du . Keywords: transformer, training dynamics, theoretical analysis, self-attention, interpretability, neural network understanding . High Probability Guarantees for Random Reshuffling . Hengxu Yu, Xiao Li . Keywords: random reshuffling, shuffled SGD, high-probability sample complexity, stopping criterion, the last iteration result . A Linearly Convergent GAN Inversion-based Algorithm for Reverse Engineering of Deceptions . Darshan Thaker, Paris Giampouras, Rene Vidal . Keywords: reverse engineering deceptions, GAN inversion, optimization, adversarial attacks, generative models, inverse problems . Simultaneous linear connectivity of neural networks modulo permutation . Ekansh Sharma, Devin Kwok, tom denton, Daniel M. Roy, David Rolnick, Gintare Karolina Dziugaite . Keywords: linear mode connectivity, loss landscape, permutation symmetry, iterative magnitude pruning, lottery ticket . Accurate Neural Network Pruning Requires Rethinking Sparse Optimization . Denis Kuznedelev, Eldar Kurtic, Eugenia Iofinova, Elias Frantar, Alexandra Peste, Dan Alistarh . Keywords: Efficient ML, Pruning, optimization, sparsity . Dynamic Sparse Training with Structured Sparsity . Mike Lasby, Anna Golubeva, Utku Evci, Mihai Nica, Yani Ioannou . Keywords: Machine Learning, dynamic sparse training, structured sparsity, N:M sparsity, efficient deep learning, RigL, SRigL, constant fan-in, dynamic neuron ablation, neuron ablation, structured and fine-grained sparsity, online inference, accelerating inference . Ultrafast Neural Estimation of Mutual Information . Zhengyang Hu, Song Kang, Qunsong Zeng, Kaibin Huang, Yanchao Yang . Keywords: Deep Learning, Efficient Mutual Information Estimation, Real-Time Correlation Computation, Maximum Correlation Coefficient . Understanding Hierarchical Representations in Deep Networks via Feature Compression and Discrimination . Peng Wang, Xiao Li, Can Yaras, Zhihui Zhu, Laura Balzano, Wei Hu, Qing Qu . Keywords: representation learning; neural collapse; deep linear networks . Deep Neural Network Initialization with Sparsity Inducing Activations . Ilan Price, Nicholas Daultry Ball, Adam Christopher Jones, Samuel Chun Hei Lam, Jared Tanner . Keywords: Deep neural network, random initialisation, sparsity, gaussian process . How Structured Data Guides Feature Learning: A Case Study of Sparse Parity Problem . Atsushi Nitanda, Kazusato Oko, Taiji Suzuki, Denny Wu . Keywords: neural network optimization, representation learning, mean-field Langevin dynamics . The Emergence of Essential Sparsity in Large Pre-trained Models: The Weights that Matter . AJAY KUMAR JAISWAL, Shiwei Liu, Tianlong Chen, Zhangyang Wang . Keywords: Pre-trained Models, Sparsity, Emergence, Transformers, Pruning . Divided Attention: Unsupervised Multiple-object Discovery and Segmentation with Interpretable Contextually Separated Slots . Dong Lao, Zhengyang Hu, Francesco Locatello, Yanchao Yang, Stefano Soatto . Keywords: Moving object segmentation, Slot attention, Unsupervised object discovery . Compressing LLMs: The Truth is Rarely Pure and Never Simple . AJAY KUMAR JAISWAL, Zhe Gan, Xianzhi Du, Bowen Zhang, Zhangyang Wang, Yinfei Yang . Keywords: Compression, Large Language Models, Pruning, Quantization . On Bias-Variance Alignment in Deep Models . Lin Chen, Michal Lukasik, Wittawat Jitkrittum, Chong You, Sanjiv Kumar . Keywords: bias-variance decomposition, ensemble, deep learning . Canonical Factors for Hybrid Neural Fields . Brent Yi, Weijia Zeng, Sam Buchanan, Yi Ma . Keywords: 3d representation learning, neural fields, NeRF, voxel grids, invariance, non-convex optimization . On Separability of Covariance in Multiway Data Analysis . Dogyoon Song, Alfred Hero . Keywords: Multiway data, Separable covariance, Kronecker PCA, Low-rank covariance model, Tensor decomposition, Frank-Wolfe method . Low Complexity Homeomorphic Projection to Ensure Neural-Network Solution Feasibility for Optimization over (Non-)Convex Set . Enming Liang, Minghua Chen, Steven Low . Keywords: Constraint optimization, Feasibility, Neural Network, Homeomorphism, Invertible Neural Network, Projection . The Cost of Down-Scaling Language Models: Fact Recall Deteriorates before In-Context Learning . Tian Jin, Nolan Clement, Xin Dong, Vaishnavh Nagarajan, Michael Carbin, Jonathan Ragan-Kelley, Gintare Karolina Dziugaite . Keywords: large language model, scaling, pruning, sparsity . Generalized Neural Collapse for A Large Number of Classes . Jiachen Jiang, Jinxin Zhou, Peng Wang, Qing Qu, Dustin G. Mixon, Chong You, Zhihui Zhu . Keywords: Neural Collapse, Tammes Problem, Sphere Packing, Deep Learning . Sparse MoE as a New Treatment: Addressing Forgetting, Fitting, Learning Issues in Multi-Modal Multi-Task Learning . Jie Peng, Kaixiong Zhou, Ruida Zhou, Thomas Hartvigsen, Yanyong Zhang, Zhangyang Wang, Tianlong Chen . Keywords: multi-task learning, multimodal learning, transformer . Solving Inverse Problems with Latent Diffusion Models via Hard Data Consistency . Bowen Song, Soo Min Kwon, Zecheng Zhang, Xinyu Hu, Qing Qu, Liyue Shen . Keywords: inverse problems; latent diffusion models . Unsupervised Manifold Linearizing and Clustering . Tianjiao Ding, Shengbang Tong, Kwan Ho Ryan Chan, Xili Dai, Yi Ma, Benjamin David Haeffele . Keywords: Clustering, Manifold Embedding, Manifold Clustering . Masked Completion via Structured Diffusion with White-Box Transformers . Druv Pai, Ziyang Wu, Sam Buchanan, Tianzhe Chu, Yaodong Yu, Yi Ma . Keywords: masked autoencoding, white-box transformers, coding rate reduction, representation learning . Approximately Equivariant Graph Networks . Ningyuan Teresa Huang, Ron Levie, Soledad Villar . Keywords: graph neural networks, equivariant machine learning, symmetry, generalization, statistical learning . Neural Collapse meets Differential Privacy: Curious behaviors of NoisySGD with Near-Perfect Representation Learning . Chendi Wang, Yuqing Zhu, Weijie J Su, Yu-Xiang Wang . Keywords: Neural collapse, differential privacy, representation learning . JoMA: Demystifying Multilayer Transformers via JOint Dynamics of MLP and Attention . Yuandong Tian, Yiping Wang, Zhenyu Zhang, Beidi Chen, Simon Shaolei Du . Keywords: transformer, training dynamics, theoretical analysis, self-attention, interpretability, neural network understanding . Learning in the Presence of Low-dimensional Structure: A Spiked Random Matrix Perspective . Jimmy Ba, Murat A Erdogdu, Taiji Suzuki, Zhichao Wang, Denny Wu . Keywords: random matrix theory, high-dimensional statistics, neural network, kernel method, representation learning . How Over-Parameterization Slows Down Gradient Descent in Matrix Sensing: The Curses of Symmetry and Initialization . Nuoya Xiong, Lijun Ding, Simon Shaolei Du . Keywords: non-convex optimization, random initialization, global convergence, matrix recovery, matrix sensing . Robust Physics-based Deep MRI Reconstruction Via Diffusion Purification . Ismail Alkhouri, Shijun Liang, Rongrong Wang, Qing Qu, Saiprasad Ravishankar . Keywords: Robust MRI reconstruction, model-based deep learning, diffusion purification, computational imaging, machine learning . Sparsity Enhances Non-Gaussian Data Statistics During Local Receptive Field Formation . William T Redman, Zhangyang Wang, Alessandro Ingrosso, Sebastian Goldt . Keywords: iterative magnitude pruning, sparse machine learning, statistics of internal representations, learning local receptive fields . ",
-    "url": "/spotlight_track/#spotlight-poster-session-2",
-    
-    "relUrl": "/spotlight_track/#spotlight-poster-session-2"
-  },"91": {
+  },"107": {
     "doc": "Spotlight Track",
     "title": "Spotlight Track",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/spotlight_track/",
     
     "relUrl": "/spotlight_track/"
-  },"92": {
+  },"108": {
     "doc": "Subject Areas",
     "title": "Subject Areas",
     "content": " ",
     "url": "/subject_areas/#subject-areas",
     
     "relUrl": "/subject_areas/#subject-areas"
-  },"93": {
+  },"109": {
     "doc": "Subject Areas",
     "title": "Theory &amp; Foundations",
     "content": ". | Theories for sparse coding, structured sparsity, subspace learning, low-dimensional manifolds, and general low-dimensional structures. | Dictionary learning and representation learning for low-dimensional structures and their connections to deep learning theory. | Equivariance and invariance modeling. | Theoretical neuroscience and cognitive science foundation for parsimony, and biologically inspired computational mechanisms. | . ",
     "url": "/subject_areas/#theory--foundations",
     
     "relUrl": "/subject_areas/#theory--foundations"
-  },"94": {
+  },"110": {
     "doc": "Subject Areas",
     "title": "Optimization &amp; Algorithms",
     "content": ". | Optimization, robustness, and generalization methods for learning compact and structured representations. | Interpretable and efficient deep architectures (e.g., based on unrolled optimization). | Data-efficient and computation-efficient training and inference. | Adaptive and robust learning and inference algorithms. | Distributed, networked, or federated learning at scale. | Other nonlinear dimension-reduction and representation-learning methods. | . ",
     "url": "/subject_areas/#optimization--algorithms",
     
     "relUrl": "/subject_areas/#optimization--algorithms"
-  },"95": {
+  },"111": {
     "doc": "Subject Areas",
     "title": "Data, Systems &amp; Applications",
     "content": ". | Domain-specific datasets, benchmarks, and evaluation metrics. | Parsimonious and structured representation learning from data. | Inverse problems that benefit from parsimonious priors. | Hardware and system co-design for parsimonious learning algorithms. | Parsimonious learning in intelligent systems that integrate perception-action cycles. | Applications in science, engineering, medicine, and social sciences. | . The above is intended as a high-level overview of CPAL’s focus and by no means exclusive. If you doubt that your paper fits the venue, feel free to contact the program chairs via email at pcs@cpal.cc. ",
     "url": "/subject_areas/#data-systems--applications",
     
     "relUrl": "/subject_areas/#data-systems--applications"
-  },"96": {
+  },"112": {
     "doc": "Subject Areas",
     "title": "Subject Areas",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/subject_areas/",
     
     "relUrl": "/subject_areas/"
-  },"97": {
+  },"113": {
     "doc": "Submission Tracks",
     "title": "Deadlines for Submission",
     "content": "All deadlines can be found on the deadlines page. ",
     "url": "/tracks/#deadlines-for-submission",
     
     "relUrl": "/tracks/#deadlines-for-submission"
-  },"98": {
+  },"114": {
     "doc": "Submission Tracks",
     "title": "Submission Tracks and Review Process",
     "content": "CPAL has two submission tracks: . | Proceedings track (archival) | “Recent spotlight” track (non-archival) | . Submissions to both tracks are to be prepared using the CPAL LaTeX style files, available as a zip archive or as an Overleaf template. CPAL OpenReview Submission Portal . ",
     "url": "/tracks/#submission-tracks-and-review-process",
     
     "relUrl": "/tracks/#submission-tracks-and-review-process"
-  },"99": {
+  },"115": {
     "doc": "Submission Tracks",
     "title": "Proceedings Track  (archival)",
     "content": "The submission and review stage will be double-blind. We use OpenReview to host papers and record discussions between authors and reviewers. Before the end of the Authors-Reviewers Discussion Stage, authors can participate in the discussion as well as update their submission at any time. After that, there will be an internal discussion period amongst reviewers and ACs with the aim of summarizing the review process, after which the final decisions are made by ACs. After the notification deadline, accepted and opted-in rejected papers will be made public and open for non-anonymous public commenting. Their anonymous reviews, meta-reviews, author responses and reviewer responses will also be made public. Authors of rejected papers will have two weeks after the notification deadline to opt in to make their de-anonymized rejected papers public in OpenReview. Submissions that are substantially similar to papers previously published, or submitted in parallel to other peer-reviewed venues with proceedings or journals may not be submitted to the Proceedings Track. Papers previously presented at workshops are permitted, so long as they did not appear in a conference proceedings (e.g., CVPRW proceedings), a journal or a book. The existence of non-anonymous preprints (on arXiv or other online repositories, personal websites, social media) will not result in rejection. Authors may submit anonymized work to CPAL that is already available as a preprint (e.g., on arXiv) without citing it. Accepted papers will be published in the Proceedings for Machine Learning Research (PMLR). Full proceedings papers can have up to nine pages with unlimited pages for references and appendix. Upon acceptance of a paper, at least one of the authors must join the conference. Using Large Language Models (LLMs) . We follow the rule by NeurIPS 2023, quoted as follows: . “We welcome authors to use any tool that is suitable for preparing high-quality papers and research. However, we ask authors to keep in mind two important criteria. First, we expect papers to fully describe their methodology, and any tool that is important to that methodology, including the use of LLMs, should be described also. For example, authors should mention tools (including LLMs) that were used for data processing or filtering, visualization, facilitating or running experiments, and proving theorems. It may also be advisable to describe the use of LLMs in implementing the method (if this corresponds to an important, original, or non-standard component of the approach). Second, authors are responsible for the entire content of the paper, including all text and figures, so while authors are welcome to use any tool they wish for writing the paper, they must ensure that all text is correct and original.” . ",
     "url": "/tracks/#proceedings-track--archival",
     
     "relUrl": "/tracks/#proceedings-track--archival"
-  },"100": {
+  },"116": {
     "doc": "Submission Tracks",
     "title": "“Recent Spotlight” Track (non-archival)",
     "content": "We meanwhile aim to showcase the latest research innovations at all stages of the research process, from work-in-progress to recently published papers. Concretely, we ask members of the community to submit to OpenReview either: . | A conference-style submission describing the work, which may be prepared using the CPAL style files, but need not conform to any specific formatting requirements (e.g., page limits); | A poster (in PDF form) presenting results of work-in-progress; | The camera-ready version of work that has been published prior (e.g., conferences, journals). | . Please also upload a short (250 word) abstract to OpenReview. OpenReview submissions may also include any of the following supplemental materials that describe the work in further detail: . | A link to a blog post (e.g., distill.pub, Medium) describing results. | Appendices with detailed derivations and additional experiments. | . This track is non-archival and has no proceedings. We permit under-review or concurrent submissions, as well as papers officially accepted by a journal or conference within 12 months of the submission deadline for the Recent Spotlight Track. Reviewing will be performed in a single-blind fashion (authors should not anonymize their submissions), and will be held with the same high quality bar with the Proceedings Track. ",
     "url": "/tracks/#recent-spotlight-track-non-archival",
     
     "relUrl": "/tracks/#recent-spotlight-track-non-archival"
-  },"101": {
+  },"117": {
     "doc": "Submission Tracks",
     "title": "Submission Tracks",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/tracks/",
     
     "relUrl": "/tracks/"
-  },"102": {
-    "doc": "Submission Information",
+  },"118": {
+    "doc": "Call for Tutorials",
     "title": "Call for Tutorials",
     "content": "The CPAL 2025 Organizing Committee invites proposals for in-person tutorials on advancing our understanding of intelligence through the lens of parsimonious learning and its various facets. We welcome tutorials on a wide range of topics, including . | Theories of parsimonious learning | Algorithms and implementations | Applications in various domains | Hardware and systems for efficient learning | Scientific foundations and connections to other fields | . Tutorials should be broadly appealing to the CPAL community and are expected to be accessible to PhD students working in the areas of machine learning and intelligence in general. Tutorials should represent a sufficiently mature area of research or practice and should provide a balanced and accessible overview. We encourage proposals with speakers from different institutions to reduce knowledge bias. ",
     "url": "/tutorial_call/#call-for-tutorials",
     
     "relUrl": "/tutorial_call/#call-for-tutorials"
-  },"103": {
-    "doc": "Submission Information",
+  },"119": {
+    "doc": "Call for Tutorials",
     "title": "Submission Guidelines",
     "content": "Tutorial proposals should be submitted via this form before the indicated deadline. Your proposal should answer the following questions and should be no more than 2 pages: . | Title | Abstract: A summary of the tutorial content (up to 250 words). | Outline: A detailed outline of the topics covered, including references and estimated time allocation. | Target audience: A description of the intended audience and their expected background. | Presenters: For each presenter, include their name, affiliation, email address, and a short bio. Please discuss how time is split between the presenters. All presenters are required to attend in person. | . ",
     "url": "/tutorial_call/#submission-guidelines",
     
     "relUrl": "/tutorial_call/#submission-guidelines"
-  },"104": {
-    "doc": "Submission Information",
+  },"120": {
+    "doc": "Call for Tutorials",
     "title": "Selection Criteria",
     "content": "Tutorials will be selected based on: . | Relevance to CPAL’s theme of parsimonious learning | Clarity and comprehensiveness of the proposal | Potential impact on the audience | Speaker experience and diversity | . ",
     "url": "/tutorial_call/#selection-criteria",
     
     "relUrl": "/tutorial_call/#selection-criteria"
-  },"105": {
-    "doc": "Submission Information",
+  },"121": {
+    "doc": "Call for Tutorials",
     "title": "Tutorial Format",
     "content": "Tutorials will be held entirely in-person and will be 120-180 minutes long. Each tutorial must have at least two presenters. We look forward to receiving your proposals! . The Organizing Committee, CPAL 2025 . ",
     "url": "/tutorial_call/#tutorial-format",
     
     "relUrl": "/tutorial_call/#tutorial-format"
-  },"106": {
-    "doc": "Submission Information",
-    "title": "Submission Information",
+  },"122": {
+    "doc": "Call for Tutorials",
+    "title": "Call for Tutorials",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/tutorial_call/",
     
     "relUrl": "/tutorial_call/"
-  },"107": {
-    "doc": "Call for Tutorials",
-    "title": "Call for Tutorials",
+  },"123": {
+    "doc": "List of Tutorials",
+    "title": "General Information",
+    "content": "Attendees must register for the tutorial package to attend the tutorials. The first day of CPAL 2025 features six tutorial presentations, arranged into two parallel tracks across three sessions throughout the day. Each tutorial consists of 2.5 hours of lectures from leading experts in the intersection between low-dimensional modeling and deep learning, with topics ranging from theory to practice and presentations in an accessible format. See the schedule for the precise times of each tutorial. The content of the six tutorials is summarized below. Check back soon for a more detailed account of lectures, as well as materials from the tutorials after the conference. ",
+    "url": "/tutorial_info/#general-information",
+    
+    "relUrl": "/tutorial_info/#general-information"
+  },"124": {
+    "doc": "List of Tutorials",
+    "title": "List of Tutorials",
+    "content": " ",
+    "url": "/tutorial_info/#list-of-tutorials",
+    
+    "relUrl": "/tutorial_info/#list-of-tutorials"
+  },"125": {
+    "doc": "List of Tutorials",
+    "title": "T1: Deep Representation Learning: from Knowledge to Intelligence",
+    "content": "Presenters: Sam Buchanan (TTIC), Yi Ma (HKU, UC Berkeley), Druv Pai (UC Berkeley), Peng Wang (University of Michigan) . Abstract: . Modern generative AI systems, powered by deep learning, are currently revolutionizing science and engineering. At the same time, a fundamental lack of transparency in the way these systems learn from data and make decisions presents safety concerns of ever-increasing severity. This tutorial aims to provide a rigorous and systematic overview of the mathematical and computational principles of deep learning. The tutorial will commence with a broad overview of the history and current state of the field of AI, and then focus in on an important common problem: how to effectively and efficiently learn a low-dimensional distribution of data in a high-dimensional space and then transform the distribution to a compact and structured representation, referred to as a memory. The tutorial will show, starting from classical linear models and building up to general data distributions, how a general framework for learning structured memories arises from a universal computational principle: compression. Particularly, popular approaches for representation learning (such as denoising score-matching) as well as modern network architectures (such as residual networks and transformers) can be understood and improved as (unrolled) optimization algorithms to achieve better compression and representation. To chart a path beyond the current practices of representation learning towards developing truly autonomous and intelligent systems, the tutorial will conclude with a discussion of effective autoencoding architectures centered around the powerful framework of closed-loop transcription, enabling networks to self-improve via closed-loop feedback. Concepts will be illustrated throughout with experiments on supervised and unsupervised learning of diverse data modalities. ",
+    "url": "/tutorial_info/#t1-deep-representation-learning-from-knowledge-to-intelligence",
+    
+    "relUrl": "/tutorial_info/#t1-deep-representation-learning-from-knowledge-to-intelligence"
+  },"126": {
+    "doc": "List of Tutorials",
+    "title": "T2: Foundations on Interpretable AI",
+    "content": "Presenters: Rene Vidal (University of Pennsylvania), Jeremias Sulam (Johns Hopkins University), Aditya Chattopadhyay (Amazon) . Abstract: . In recent years, interpretability has emerged as a significant barrier to the widespread adoption of deep learning techniques, particularly in domains where AI decisions can have consequential impacts on human lives, such as healthcare and finance. Recent attempts at interpreting the decisions made by a deep network can be broadly classified in two categories, (i) methods that seek to explain existing models (post-hoc explainability), and (ii) methods that seek to build models that are explainable by design. This tutorial aims to provide a comprehensive overview of both approaches along with a discussion on their limitations. ",
+    "url": "/tutorial_info/#t2-foundations-on-interpretable-ai",
+    
+    "relUrl": "/tutorial_info/#t2-foundations-on-interpretable-ai"
+  },"127": {
+    "doc": "List of Tutorials",
+    "title": "T3: Methods, Analysis, and Insights from Multimodal LLM Pre-training and Post-training",
+    "content": "Presenters: Zhe Gan (Apple), Haotian Zhang (Apple) . Abstract: . Multimodal Large Language Models (LLMs) have become an increasing hot research topic. In this tutorial, we will present how to build performant multimodal LLMs, along several fronts: (1) multimodal LLM pre-training, with focus on crucial design lessons for model architectures and pre-training data choices; (2) multimodal LLM post-training, with focus on text-rich image understanding, visual referring and grounding, and multi-image reasoning; (3) visual encoder pre-training, with focus on training objective design and pre-training data curation; and (4) generalist UI agents, with focus on how to adapt multimodal LLMs into generalist UI agents capable of control digital devices to complete human tasks. ",
+    "url": "/tutorial_info/#t3-methods-analysis-and-insights-from-multimodal-llm-pre-training-and-post-training",
+    
+    "relUrl": "/tutorial_info/#t3-methods-analysis-and-insights-from-multimodal-llm-pre-training-and-post-training"
+  },"128": {
+    "doc": "List of Tutorials",
+    "title": "T4: Harnessing Low Dimensionality in Diffusion Models: From Theory to Practice",
+    "content": "Presenters: Yuxin Chen (University of Pennsylvania, Wharton), Qing Qu (University of Michigan), Liyue Shen (University of Michigan) . Abstract: . Diffusion models have recently gained attention as a powerful class of deep generative models, achieving state-of-the-art results in data generation tasks. In a nutshell, they are designed to learn an unknown data distribution starting from Gaussian noise, mimicking the process of non-equilibrium thermodynamic diffusion. Despite their outstanding empirical successes, the mathematical and algorithmic foundations of diffusion models remain far from mature. For instance: (i) Generalization: it remains unclear how diffusion models, trained on finite samples, can generate new and meaningful data that differ from the training set; (ii) Efficiency: due to the enormous model capacity and the requirement of many sampling steps, they often suffer from slow training and sampling speeds; (iii) Controllability: it remains computationally challenging to guide and control diffusion models for solving inverse problems across many scientific imaging applications, due to the necessity of data consistency and the limitations imposed by limited and noisy measurements. This tutorial will introduce a mathematical framework for understanding the generalization and improving the efficiency of diffusion models, through exploring the low-dimensional structures in both the data and model. We show how to overcome fundamental barriers to improve the generalization, efficiency, and controllability in developing diffusion models, by exploring how these models adaptively learn underlying data distributions, how to achieve faster convergence at the sampling stage, and unveiling the intrinsic properties of the learned denoiser. Leveraging the theoretical studies, we will show how to effectively employ diffusion models for solving inverse problems in scientific imaging applications. ",
+    "url": "/tutorial_info/#t4-harnessing-low-dimensionality-in-diffusion-models-from-theory-to-practice",
+    
+    "relUrl": "/tutorial_info/#t4-harnessing-low-dimensionality-in-diffusion-models-from-theory-to-practice"
+  },"129": {
+    "doc": "List of Tutorials",
+    "title": "T5: A Function-Space Tour of Data Science",
+    "content": "Presenters: Rahul Parhi (UC San Diego), Greg Ongie (Marquette University) . Abstract: . Parametric methods aim to explain data with a finite number of learnable parameters. These models are typically applied in settings where the number of data is greater than the number of parameters. Nonparametric methods, on the other hand, model data using infinite-dimensional function spaces and/or allow the number of parameters to grow beyond the number of data (a.k.a. the overparameterized regime). Many classical methods in data science fit into this latter framework, including kernel methods and wavelet methods. Furthermore, modern methods based on overparameterized neural networks also fit into this framework. The common theme being that these methods aim to minimize a quantity in function space. This tutorial will provide a tour of nonparametric methods in data science through the lens of function spaces starting with classical methods such as kernel methods (reproducing kernel Hilbert spaces) and wavelet methods (bounded variation spaces, Besov spaces) and ending with modern, high-dimensional methods such as overparameterized neural networks (variation spaces, Barron spaces). Remarkably, all of these methods can be viewed through the lens of abstract representer theorems (beyond Hilbert spaces). A particular emphasis will be made on the difference between $\\ell_2$ regularization (kernel methods) and sparsity-promoting $\\ell_1$-regularization (wavelet methods, neural networks) through the concept of adaptivity. For each method/function space, topics such as generalization bounds, metric entropy, and minimax rates will be covered. ",
+    "url": "/tutorial_info/#t5-a-function-space-tour-of-data-science",
+    
+    "relUrl": "/tutorial_info/#t5-a-function-space-tour-of-data-science"
+  },"130": {
+    "doc": "List of Tutorials",
+    "title": "T6: Sparsity and Mixture-of-Experts in the Era of LLMs: A New Odyssey",
+    "content": "Presenters: Shiwei Liu (Oxford), Tianlong Chen (University of North Carolina, Chapel Hill), Yu Cheng (Chinese University of Hong Kong) . Abstract: . Recently, Large Language Models (LLMs) have showcased remarkable generalization capabilities across a plethora of tasks, yielding notable successes. The scale of these models stands out as a pivotal determinant in enhancing LLM performance. However, the escalation in model size significantly amplifies the costs associated with both pre-training and fine-tuning, while simultaneously constraining inference speed. Consequently, there has been a surge in exploration aimed at devising novel techniques for model scaling. Among these, the sparse Mixture-of-Experts (MoE) has garnered considerable attention due to its ability to expedite pre-training and enhance inference speed, especially when compared to dense models with equivalent parameter counts. This tutorial endeavors to offer a comprehensive overview of MoE within the context of LLMs. The discussion commences by revisiting extant research on MoE, elucidating critical challenges encountered within this domain. Subsequent exploration delves into the intricate relationship between MoE and LLMs, encompassing sparse scaling of pre-training models and the conversion of existing dense models into sparse MoE counterparts. Moreover, the tutorial elucidates the broader advantages conferred by MoE beyond mere efficiency. Overall, this tutorial delineates the evolutionary trajectory of MoE within the landscape of LLMs, underscoring its pivotal role in the era of LLMs. ",
+    "url": "/tutorial_info/#t6-sparsity-and-mixture-of-experts-in-the-era-of-llms-a-new-odyssey",
+    
+    "relUrl": "/tutorial_info/#t6-sparsity-and-mixture-of-experts-in-the-era-of-llms-a-new-odyssey"
+  },"131": {
+    "doc": "List of Tutorials",
+    "title": "List of Tutorials",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
+    "url": "/tutorial_info/",
+    
+    "relUrl": "/tutorial_info/"
+  },"132": {
+    "doc": "Tutorials",
+    "title": "Tutorials",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/tutorials/",
     
     "relUrl": "/tutorials/"
-  },"108": {
+  },"133": {
     "doc": "Travel: Visa Information",
     "title": "General Visa Information",
     "content": "For attendees who require a visa, please consult the US Department of State resources at https://www.state.gov/visas/. ",
     "url": "/visa/#general-visa-information",
     
     "relUrl": "/visa/#general-visa-information"
-  },"109": {
+  },"134": {
     "doc": "Travel: Visa Information",
     "title": "Letter of Invitation",
     "content": "If you require a letter of invitation to apply for a visa, please contact the Stanford Data Science team at datascience@stanford.edu as soon as possible. ",
     "url": "/visa/#letter-of-invitation",
     
     "relUrl": "/visa/#letter-of-invitation"
-  },"110": {
+  },"135": {
     "doc": "Travel: Visa Information",
     "title": "Questions",
     "content": "For any further questions, please contact the Stanford Data Science team at datascience@stanford.edu. ",
     "url": "/visa/#questions",
     
     "relUrl": "/visa/#questions"
-  },"111": {
+  },"136": {
     "doc": "Travel: Visa Information",
     "title": "Travel: Visa Information",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/visa/",
     
     "relUrl": "/visa/"
-  },"112": {
+  },"137": {
     "doc": "Conference Vision",
     "title": "Conference Vision",
     "content": "“Everything should be made as simple as possible, but not any simpler.” . – Albert Einstein . One of the most fundamental reasons for the very existence and therefore emergence of intelligence or science is that the world is not fully random, but highly structured and predictable. Hence, a fundamental purpose and function of intelligence or science is to learn parsimonious models (or laws) for such predicable structures, from massive sensed data of the world. Over the past decade, the advent of machine learning and large-scale computing has immeasurably changed the ways we process, interpret, and predict with data in engineering and science. The ‘traditional’ approach to algorithm design, based around parametric models for specific structures of signals and measurements – say sparse and low-rank models – and the associated optimization toolkit, is now significantly enriched with data-driven learning-based techniques, where large-scale networks are pre-trained and then adapted to a variety of specific tasks. Nevertheless, the successes of both modern data-driven and classic model-based paradigms rely crucially on correctly identifying the low-dimensional structures present in real-world data, to the extent that we see the roles of learning and compression of data processing algorithms – whether explicit or implicit, as with deep networks – as inextricably linked. Over the last ten or so years, several rich lines of research, including theoretical, computational, and practical, have explored the interplay between learning and compression. Some works explore the role of signal models in the era of deep learning, attempting to understand the interaction between deep networks and nonlinear, multi-modal data structures. Others have applied these insights to the principled design of deep architectures that incorporate desired structures in data into the learning process. Still others have considered generic deep networks as first-class citizens in their own right, exploring ways to compress and sparsify models for greater efficiency, often accompanied by hardware or system-aware co-designs. Across each of these settings, theoretical works rooted in low-dimensional modeling have begun to explain the foundations of deep architectures and efficient learning – from optimization to generalization – in spite of “overparameterization” and other obstructions. Most recently, the advent of foundation models has led some to posit that parsimony and compression itself are a fundamental part of the learning objective of an intelligent system, connecting to ideas from neuroscience on compression as a guiding principle for the brain representing the sensory data of the world. By and large, these lines of work have so far developed somewhat in isolation from one another, in spite of their common basis and purpose for parsimony and learning. Our intention in organizing this conference is to address this issue and go beyond: we envision the conference as a general scientific forum where researchers in machine learning, applied mathematics, signal processing, optimization, intelligent systems, and all associated science and engineering fields can gather, share insights, and ultimately work towards a common modern theoretical and computational framework for understanding intelligence and science from the perspective of parsimonious learning. ",
     "url": "/vision/#conference-vision",
     
     "relUrl": "/vision/#conference-vision"
-  },"113": {
+  },"138": {
     "doc": "Conference Vision",
     "title": "Conference Vision",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",

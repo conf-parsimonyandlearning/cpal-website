@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Submission Information
+title: Call for Tutorials
 description: Information about tutorial proposal format and logistics for CPAL 2025
-parent: Call for Tutorials
+parent: Tutorials
+nav_order: 9
 ---
 
 {% include splash.html %}

@@ -32,7 +32,9 @@ CPAL 2025 attendees can register for the following two (separate) tickets:
 - **CPAL Conference Pass**: Includes access to all academic sessions, except
   tutorials, and coffee breaks.
 - **Tutorials Ticket**: Includes access to all CPAL tutorials, to be held on March
-  24th, 2025 (first day of the conference) from 10 AM -- 4 PM in two parallel sessions.
+  24th, 2025 (first day of the conference) in two parallel sessions. See the
+  [schedule]({{site.baseurl}}/program_schedule/) and the [tutorials
+  page]({{site.baseurl}}/tutorial_info) for more details.
 
 The ticket prices are as follows:
 - CPAL Conference Pass: $425.00

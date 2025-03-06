@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Deadlines and Key Dates
-nav_order: 1
+title: Key Dates
+nav_order: 7
 ---
 <script src="//code.jquery.com/jquery.js"></script>
 <script src="{{ site.baseurl }}/assets/js/jquery.countdown.min.js"></script>
@@ -60,5 +60,6 @@ The Spotlight Track submission deadline has been extended to January 12th, 2025.
 
 | Event                     | Date                            |
 |:--------------------------|:--------------------------------|
-| Registration Deadline     | TBA                             |
 | Conference Program        | March 24th - March 27th, 2025   |
+
+<!-- | Registration Deadline     | TBA                             | -->

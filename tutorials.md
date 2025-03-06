@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Call for Tutorials
+title: Tutorials
 nav_order: 5
 has_children: true
 ---

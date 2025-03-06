@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Application
+title: Call for Applications
 parent: Rising Stars Award
 nav_order: 1
 ---
