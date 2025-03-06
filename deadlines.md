@@ -58,8 +58,7 @@ The Spotlight Track submission deadline has been extended to January 12th, 2025.
 
 ## Main Conference
 
-| Event                     | Date                            |
-|:--------------------------|:--------------------------------|
-| Conference Program        | March 24th - March 27th, 2025   |
-
-<!-- | Registration Deadline     | TBA                             | -->
+| Event                           | Date                            |
+|:--------------------------------|:--------------------------------|
+| Conference Program              | March 24th - March 27th, 2025   |
+| Early Registration Deadline     | March 17th, 2025                |

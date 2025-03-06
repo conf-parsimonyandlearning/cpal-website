@@ -22,9 +22,7 @@
         <li class="calendar-event {% if event.class %}{{ event.class }}{% else %}{{ event.name | slugify }}{% endif %}"
             style="top: {{ top }}px; height: {{ height }}px;">
           <div class="name">{{ event.name }}</div>
-          {% if event.class != 'break' %}
           <div class="time">{{ event.start }}–{{ event.end }}</div>
-          {% endif %}
           {% if event.location %}
               {% if event.class != 'break' %}
               <div class="location">{{ event.location }}</div>

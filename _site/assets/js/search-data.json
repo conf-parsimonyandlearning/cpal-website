@@ -1,7 +1,7 @@
 {"0": {
     "doc": "Home",
     "title": "Register for CPAL: March 24th–27th, 2025",
-    "content": "We are pleased to announce the Second Conference on Parsimony and Learning, to be held in concert with Stanford Data Science at Stanford University in California, USA! . All CPAL attendees are required to register. See the registration page for details about available tickets and costs. Register Now . ",
+    "content": "We are pleased to announce the Second Conference on Parsimony and Learning, to be held in concert with Stanford Data Science at Stanford University in California, USA! . All CPAL attendees are required to register. See the registration page for details about available tickets and costs. The deadline for early registration pricing is March 17th, 2025. After this date, registration pricing will increase. Register Now . ",
     "url": "/#register-for-cpal-march-24th27th-2025",
     
     "relUrl": "/#register-for-cpal-march-24th27th-2025"
@@ -183,7 +183,7 @@
   },"26": {
     "doc": "Key Dates",
     "title": "Main Conference",
-    "content": "| Event | Date | . | Conference Program | March 24th - March 27th, 2025 | . ",
+    "content": "| Event | Date | . | Conference Program | March 24th - March 27th, 2025 | . | Early Registration Deadline | March 17th, 2025 | . ",
     "url": "/deadlines/#main-conference",
     
     "relUrl": "/deadlines/#main-conference"
@@ -428,28 +428,28 @@
   },"61": {
     "doc": "Program at a Glance",
     "title": "Day 1 (Mar 24)Monday",
-    "content": ". | Tutorial Session 1T1: Deep Representation Learning: from Knowledge to IntelligenceT2: Foundations on Interpretable AI 9:15 AM–11:45 AM Main Auditorium | Lunch Break | Tutorial Session 2T3: Methods, Analysis, and Insights from Multimodal LLM Pre-training and Post-trainingT4: Harnessing Low Dimensionality in Diffusion Models: From Theory to Practice 1:15 PM–3:45 PM Main Auditorium | Coffee Break | Tutorial Session 3T5: A Function-Space Tour of Data ScienceT6: Sparsity and Mixture-of-Experts in the Era of LLMs: A New Odyssey 4:15 PM–6:45 PM Main Auditorium | . | ",
+    "content": ". | Tutorial Session 1T1: Deep Representation Learning: from Knowledge to IntelligenceT2: Foundations on Interpretable AI 9:15 AM–11:45 AM Main Auditorium | Lunch Break 11:45 AM–1:15 PM | Tutorial Session 2T3: Methods, Analysis, and Insights from Multimodal LLM Pre-training and Post-trainingT4: Harnessing Low Dimensionality in Diffusion Models: From Theory to Practice 1:15 PM–3:45 PM Main Auditorium | Coffee Break 3:45 PM–4:15 PM | Tutorial Session 3T5: A Function-Space Tour of Data ScienceT6: Sparsity and Mixture-of-Experts in the Era of LLMs: A New Odyssey 4:15 PM–6:45 PM Main Auditorium | . | ",
     "url": "/program_schedule/",
     
     "relUrl": "/program_schedule/"
   },"62": {
     "doc": "Program at a Glance",
     "title": "Day 2 (Mar 25)Tuesday",
-    "content": ". | Opening Remarks 8:50 AM–9:00 AM Main Auditorium | Richard Baraniuk 9:00 AM–10:00 AM Main Auditorium \"Plenary Talk 1\" | Highlight Talks 1 10:00 AM–10:30 AM Main Auditorium | Coffee Break | Alison Gopnik 11:00 AM–12:00 PM Main Auditorium \"Plenary Talk 2\" | Highlight Talks 2 12:00 PM–12:30 PM Main Auditorium | Lunch Break | Rising Stars Talks 1 2:00 PM–3:00 PM Main Auditorium | Jason Lee 3:00 PM–4:00 PM Main Auditorium \"Plenary Talk 3\" | Wellness Session 4:00 PM–4:45 PM Main Auditorium | Reception + Poster Session 1 4:45 PM–6:15 PM Main Auditorium | . | ",
+    "content": ". | Opening Remarks 8:50 AM–9:00 AM Main Auditorium | Richard Baraniuk 9:00 AM–10:00 AM Main Auditorium \"Plenary Talk 1\" | Highlight Talks 1 10:00 AM–10:30 AM Main Auditorium | Coffee Break 10:30 AM–11:00 AM | Alison Gopnik 11:00 AM–12:00 PM Main Auditorium \"Plenary Talk 2\" | Highlight Talks 2 12:00 PM–12:30 PM Main Auditorium | Lunch Break 12:30 PM–2:00 PM | Rising Stars Talks 1 2:00 PM–3:00 PM Main Auditorium | Jason Lee 3:00 PM–4:00 PM Main Auditorium \"Plenary Talk 3\" | Wellness Session 4:00 PM–4:45 PM Main Auditorium | Reception + Poster Session 1 4:45 PM–6:15 PM Main Auditorium | . | ",
     "url": "/program_schedule/",
     
     "relUrl": "/program_schedule/"
   },"63": {
     "doc": "Program at a Glance",
     "title": "Day 3 (Mar 26)Wednesday",
-    "content": ". | Fred Kjolstad 9:00 AM–10:00 AM Main Auditorium \"Plenary Talk 1\" | Coffee Break | Michael Unser 11:30 AM–12:30 PM Main Auditorium \"Plenary Talk 3\" | Lunch Break | Rising Stars Talks 2 1:30 PM–2:30 PM Main Auditorium | Coffee Break | Doris Tsao 3:00 PM–4:00 PM Main Auditorium \"Plenary Talk 4\" | Panel Discussion 4:00 PM–4:45 PM Main Auditorium | Poster Session 2 4:45 PM–6:15 PM Main Auditorium | . | ",
+    "content": ". | Fred Kjolstad 9:00 AM–10:00 AM Main Auditorium \"Plenary Talk 1\" | Coffee Break 11:00 AM–11:30 AM | Michael Unser 11:30 AM–12:30 PM Main Auditorium \"Plenary Talk 3\" | Lunch Break 12:30 PM–1:30 PM | Rising Stars Talks 2 1:30 PM–2:30 PM Main Auditorium | Coffee Break 2:30 PM–3:00 PM | Doris Tsao 3:00 PM–4:00 PM Main Auditorium \"Plenary Talk 4\" | Panel Discussion 4:00 PM–4:45 PM Main Auditorium | Poster Session 2 4:45 PM–6:15 PM Main Auditorium | . | ",
     "url": "/program_schedule/",
     
     "relUrl": "/program_schedule/"
   },"64": {
     "doc": "Program at a Glance",
     "title": "Day 4 (Mar 27)Thursday",
-    "content": ". | Yingyu Liang 9:00 AM–10:00 AM Main Auditorium \"Plenary Talk 1\" | Highlight Talks 3 10:00 AM–11:00 AM Main Auditorium | Coffee Break + Poster Session 3 11:00 AM–12:30 PM Main Auditorium | Lunch Break | Konrad Kording 1:30 PM–2:30 PM Main Auditorium \"Plenary Talk 2\" | Rising Stars Talks 3 2:30 PM–3:30 PM Main Auditorium | Yuandong Tian 3:30 PM–4:30 PM Main Auditorium \"Plenary Talk 3\" | Closing Remarks 4:30 PM–5:00 PM Main Auditorium | . | . ",
+    "content": ". | Yingyu Liang 9:00 AM–10:00 AM Main Auditorium \"Plenary Talk 1\" | Highlight Talks 3 10:00 AM–11:00 AM Main Auditorium | Coffee Break + Poster Session 3 11:00 AM–12:30 PM Main Auditorium | Lunch Break 12:30 PM–1:30 PM | Konrad Kording 1:30 PM–2:30 PM Main Auditorium \"Plenary Talk 2\" | Rising Stars Talks 3 2:30 PM–3:30 PM Main Auditorium | Yuandong Tian 3:30 PM–4:30 PM Main Auditorium \"Plenary Talk 3\" | Closing Remarks 4:30 PM–5:00 PM Main Auditorium | . | . ",
     "url": "/program_schedule/",
     
     "relUrl": "/program_schedule/"
@@ -470,7 +470,7 @@
   },"67": {
     "doc": "Registration",
     "title": "Registration",
-    "content": "All CPAL attendees are required to register to attend the conference. Please complete your registration at the Stanford Data Science website. Register Now . ",
+    "content": "All CPAL attendees are required to register to attend the conference. Please complete your registration at the Stanford Data Science website. The deadline for early registration pricing is March 17th, 2025. After this date, registration pricing will increase. Register Now . ",
     "url": "/registration/#registration",
     
     "relUrl": "/registration/#registration"
@@ -484,7 +484,7 @@
   },"69": {
     "doc": "Registration",
     "title": "Registration Cost and Options",
-    "content": "CPAL 2025 attendees can register for the following two (separate) tickets: . | CPAL Conference Pass: Includes access to all academic sessions, except tutorials, and coffee breaks. | Tutorials Ticket: Includes access to all CPAL tutorials, to be held on March 24th, 2025 (first day of the conference) in two parallel sessions. See the schedule and the tutorials page for more details. | . The ticket prices are as follows: . | CPAL Conference Pass: $425.00 | Tutorials Ticket: $275.00 | . ",
+    "content": "CPAL 2025 attendees can register for the following two (separate) tickets: . | CPAL Conference Pass: Includes access to all academic sessions, except tutorials, and coffee breaks. | Tutorials Ticket: Includes access to all CPAL tutorials, to be held on March 24th, 2025 (first day of the conference) in two parallel sessions. See the schedule and the tutorials page for more details. | . The ticket prices are as follows: . | CPAL Conference Pass: $425.00 | Tutorials Ticket: $275.00 | . The deadline for the early registration pricing above is March 17th, 2025. After this date, registration pricing will increase. ",
     "url": "/registration/#registration-cost-and-options",
     
     "relUrl": "/registration/#registration-cost-and-options"

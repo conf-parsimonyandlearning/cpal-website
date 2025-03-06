@@ -28,8 +28,8 @@ California, USA!
 
 All CPAL attendees are required to register. See the [registration page]({{
 site.baseurl }}/registration) for details about available tickets and costs.
-<!-- **The deadline to register has -->
-<!-- been extended to December 23rd, 2023.** -->
+**The deadline for early registration pricing is March 17th, 2025.** After this
+date, registration pricing will increase.
 
 <span class="fs-6">
 [Register Now](https://cvent.me/X5aaar){: .btn}

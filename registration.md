@@ -14,7 +14,8 @@ nav_order: 0
 All CPAL attendees are required to register to attend the conference.
 Please complete your registration at the [Stanford Data Science
 website](https://cvent.me/X5aaar).
-<!-- **The deadline to register is December 23rd, 2023.** -->
+**The deadline for early registration pricing is March 17th, 2025.** After this
+date, registration pricing will increase.
 
 <span class="fs-6">
 [Register Now](https://cvent.me/X5aaar){: .btn}
@@ -39,6 +40,9 @@ CPAL 2025 attendees can register for the following two (separate) tickets:
 The ticket prices are as follows:
 - CPAL Conference Pass: $425.00
 - Tutorials Ticket: $275.00
+
+**The deadline for the early registration pricing above is March 17th, 2025.**
+After this date, registration pricing will increase.
 
 # Student Discounts
 
