@@ -11,50 +11,25 @@ parent: Accepted Papers
 
 ## Presentation Format
 
-Accepted papers will be presented in one of six oral sessions during the conference.
-
-Presentations are ten minutes in duration, with two minutes for Q&A.
-
-The ordering of session numbers matches their chronological ordering, and
-presentations will be delivered in the order they are listed.
+Accepted Proceedings Track papers are presented as
+[posters]({{site.baseurl}}/posters) at CPAL 2025.
+A select number of accepted Proceedings Track papers will be presented as
+[orals]({{site.baseurl}}/orals); they are labeled below with ***(Oral)***.
 See the [full program]({{ site.baseurl }}/program_schedule/) for the precise
-time and location of each oral session.
+time and location of each oral and poster session.
 
-<!-- Loop over oral sessions in the calendar. -->
-{% assign calendars = site.calendars %}
-
-{% for calendar in calendars %}
-{% for day in calendar.calendar %}
-{% assign event_day = day.name | replace: '<br>', ' -- ' %}
-
-{% for event in day.events %}
-
-{% if event.class == 'oral' %}
-
-<!-- print information for this session. -->
-{% assign event_name = event.name | strip_html %}
-{% assign event_time = event.start | strip_html %}
-{% assign event_end = event.end | strip_html %}
-## {{ event_name }}
-#### Time: [{{ event_day }} -- {{ event_time }} to {{ event_end }}]({{ site.baseurl }}/program_schedule/)
-
-<!-- print papers for this session. -->
-{% assign session_number = event_name | split: " " | last %}
-
-{% assign papers = site.proceedings | where: 'session', session_number | sort: 'order' %}
+{% assign papers = site.proceedings | sort: 'id' %}
 {% for paper in papers %}
 
-### {{ paper.order }}. [{{ paper.title }}]({{ paper.link }})
+{% assign suffix = '' %}
+{% if paper.type == 'oral' %}
+  {% assign suffix = '(Oral)' %}
+{% endif %}
+
+### [{{ paper.title }}]({{ paper.link }}){% if suffix != '' %} ***{{suffix}}***{% endif %}
 {{ paper.authors }}
 
 {: .fs-2 }
 Keywords: *{{ paper.keywords }}*
 
-{% endfor %}
-
-{% endif %}
-
-{% endfor %}
-
-{% endfor %}
 {% endfor %}
