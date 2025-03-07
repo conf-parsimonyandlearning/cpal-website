@@ -9,10 +9,16 @@ nav_order: 2
 {% include splash.html %}
 
 # Oral Sessions at CPAL 2025
+{: .no_toc}
 
 A select number of papers from the CPAL 2025 Proceedings Track will be presented
 as oral presentations at the conference. The oral presentations are listed
 below, in their corresponding oral sessions.
+
+## Quick Links
+{: .no_toc}
+1. TOC
+{:toc}
 
 <!-- Loop over oral sessions in the calendar. -->
 {% assign calendars = site.calendars %}
@@ -30,7 +36,7 @@ below, in their corresponding oral sessions.
 {% assign event_time = event.start | strip_html %}
 {% assign event_end = event.end | strip_html %}
 ## {{ event_name }}
-#### Time: [{{ event_day }} -- {{ event_time }} to {{ event_end }}]({{ site.baseurl }}/program_schedule/)
+#### Time: [{{ event_day }} -- {{ event_time }} to {{ event_end }}]({{ site.baseurl }}/program_schedule/) 
 
 <!-- print papers for this session. -->
 {% assign session_number = event_name | split: " " | last %}
@@ -39,6 +45,7 @@ below, in their corresponding oral sessions.
 {% for paper in papers %}
 
 ### [{{ paper.title }}]({{ paper.link }})
+{: .no_toc}
 {{ paper.authors }}
 
 {: .fs-2 }

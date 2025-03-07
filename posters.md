@@ -9,8 +9,10 @@ nav_order: 3
 {% include splash.html %}
 
 # Poster Sessions at CPAL 2025
+{: .no_toc}
 
 ## Presentation Format
+{: .no_toc}
 
 All accepted papers at CPAL 2025, from both the Proceedings and Spotlight
 tracks, will be presented as posters at the conference. A select number of
@@ -21,9 +23,14 @@ See the [full program]({{ site.baseurl }}/program_schedule/) for an aggregated
 view of the precise times and locations of each poster and oral session.
 
 ## Logistical Information
+{: .no_toc}
 
 Posters should be printed in ***A0 size***, with vertical orientation preferred.
 
+## Quick Links
+{: .no_toc}
+1. TOC
+{:toc}
 
 <!-- Loop over oral sessions in the calendar. -->
 {% assign calendars = site.calendars %}
@@ -53,6 +60,7 @@ Posters should be printed in ***A0 size***, with vertical orientation preferred.
 {% for paper in papers %}
 
 ### {{ paper.num }}. [{{ paper.title }}]({{ paper.link }})
+{: .no_toc}
 {{ paper.authors }}
 
 {: .fs-2 }
