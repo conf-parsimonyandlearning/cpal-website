@@ -15,7 +15,8 @@ All CPAL attendees are required to register to attend the conference.
 Please complete your registration at the [Stanford Data Science
 website](https://cvent.me/X5aaar).
 **The deadline for early registration pricing is March 17th, 2025.** After this
-date, registration pricing will increase.
+date, registration pricing will increase. Please note that **no refunds** to paid
+registrations can be made.
 
 <span class="fs-6">
 [Register Now](https://cvent.me/X5aaar){: .btn}
