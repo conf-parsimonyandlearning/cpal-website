@@ -42,6 +42,8 @@ accepted papers!
 
 The tentative program has been announced, and can be found on the [schedule
 page]({{site.baseurl}}/program_schedule).
+For information about the conference venue, see the [logistics
+page]({{site.baseurl}}/venue).
 
 Accepted papers for the [Proceedings Track]({{site.baseurl}}/proceedings_track)
 and [Recent Spotlight Track]({{site.baseurl}}/spotlight_track) have been
