@@ -6950,12 +6950,15 @@ blockquote.quote-title {
       flex-direction: row; } }
   .sponsor img {
     border-radius: 0px;
-    max-width: 620px;
+    max-width: 90%;
     max-height: 140px;
     height: auto;
     width: auto;
     opacity: 1;
     margin: 10px 10px 10px 10px; }
+    @media (min-width: 50rem) {
+      .sponsor img {
+        max-height: 140px; } }
 
 .misc-img {
   display: flex;

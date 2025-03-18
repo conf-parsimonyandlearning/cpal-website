@@ -15,7 +15,7 @@
   },"2": {
     "doc": "Home",
     "title": "Keynote Speakers",
-    "content": "<!-- ",
+    "content": "Information on the speakers’ planned talks is available here. <!-- ",
     "url": "/#keynote-speakers",
     
     "relUrl": "/#keynote-speakers"
@@ -449,7 +449,7 @@
   },"64": {
     "doc": "Program at a Glance",
     "title": "Program at a Glance",
-    "content": "All times below are in Pacific Daylight Time (UTC-7). | 08:00 AM | 08:30 AM | 09:00 AM | 09:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 01:00 PM | 01:30 PM | 02:00 PM | 02:30 PM | 03:00 PM | 03:30 PM | 04:00 PM | 04:30 PM | 05:00 PM | 05:30 PM | 06:00 PM | 06:30 PM | 07:00 PM | 07:30 PM | 08:00 PM | . | ",
+    "content": "All times below are in Pacific Daylight Time (UTC-7). For attendance logistics and venue information, see the logistics page. | 08:00 AM | 08:30 AM | 09:00 AM | 09:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 01:00 PM | 01:30 PM | 02:00 PM | 02:30 PM | 03:00 PM | 03:30 PM | 04:00 PM | 04:30 PM | 05:00 PM | 05:30 PM | 06:00 PM | 06:30 PM | 07:00 PM | 07:30 PM | 08:00 PM | . | ",
     "url": "/program_schedule/#program-at-a-glance",
     
     "relUrl": "/program_schedule/#program-at-a-glance"
@@ -965,41 +965,83 @@
     
     "relUrl": "/tutorials/"
   },"138": {
+    "doc": "CPAL Logistics and Venue",
+    "title": "Logistics Information",
+    "content": "We can’t wait to welcome you on Monday, March 24, at the CPAL 2025! To help you make the most of the event, here are the key details you need to know: . ",
+    "url": "/venue/#logistics-information",
+    
+    "relUrl": "/venue/#logistics-information"
+  },"139": {
+    "doc": "CPAL Logistics and Venue",
+    "title": "🗓️ Event Details",
+    "content": ". | Date: Monday, March 24th through Thursday, March 27th . | 🕓 Time: Varies by the day, but every day starts promptly at 9 am . | 8:30 – 9:00 AM: Registration, Monday (for Tutorials) and Tuesday (for the main Conference) . | NOTE: Monday, March 24th – is ONLY for those registered for the Tutorial Session. Badges will not be issued to anyone not registered for this day. We have not arranged catering for anyone not registered. Take this day to explore and enjoy the Stanford Campus! . | 9:00 AM: Conference starts each day. Tuesday and Wednesday, this is followed by a poster session lasting until around 6:15 pm. On Thursday, we plan to end around 5 pm . | Link to agenda (subject to change) . | The Conference will provide light breakfast refreshments and coffee breaks with snacks morning and afternoon, but NOT lunch. We have arranged a delivery point with two of our most popular local eateries. They will take advance orders and deliver these each day to a location in the rear courtyard of the building. From there you can stay and enjoy the patio tables, find seating anywhere else in the building, or take a walk to enjoy your lunch elsewhere on campus. Using these will avoid the queues and wait times at any of the other campus locations: . | Tootsies at the Stanford Barn – select for ‘pickup’, set a day and time (Monday, 11:45 am, Tues-Thurs, 12:30 pm), and use the word CODA in the ‘special instructions’ area on the order form. The restaurant will know that the meal is for delivery by them to the rear courtyard of our building (weather permitting – if not, they’ll bring it inside). | Hummus Mediterranean Kitchen – we are waiting for final instructions. | . | . | . ",
+    "url": "/venue/#%EF%B8%8F-event-details",
+    
+    "relUrl": "/venue/#️-event-details"
+  },"140": {
+    "doc": "CPAL Logistics and Venue",
+    "title": "📍Location",
+    "content": "Simonyi Conference Center (4th Floor) Computation and Data Science Building (CoDa) . 389 Jane Stanford Way, Stanford, CA 94305; Google Maps . Accessible ramps are located at the front and back of the building. ",
+    "url": "/venue/#location",
+    
+    "relUrl": "/venue/#location"
+  },"141": {
+    "doc": "CPAL Logistics and Venue",
+    "title": "🅿️ Parking &amp; Transportation",
+    "content": ". | The nearest all day visitor parking is at the Via Ortega, Roble Field, or Stock Farm garages (payable onsite via the ParkMobile app). | The closest (free) Marguerite bus stop is the #79, C line on Jane Stanford Way in front of CoDa. This service covers the Stock Farm Garage. The P line will bring you from the train station to the Oval. | The closest drop-off point for shared rides is at the top of the Oval (#20 Palm Drive). | . ",
+    "url": "/venue/#%F0%9F%85%BF%EF%B8%8F-parking--transportation",
+    
+    "relUrl": "/venue/#🅿️-parking--transportation"
+  },"142": {
+    "doc": "CPAL Logistics and Venue",
+    "title": "🌱 Sustainability",
+    "content": ". | Stanford Data Science is committed to the university’s zero-waste efforts. | Please use the appropriate bins for recycling, compost, and waste to help us stay sustainable. | . Please don’t hesitate to reach out if you have any questions. ",
+    "url": "/venue/#-sustainability",
+    
+    "relUrl": "/venue/#-sustainability"
+  },"143": {
+    "doc": "CPAL Logistics and Venue",
+    "title": "CPAL Logistics and Venue",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
+    "url": "/venue/",
+    
+    "relUrl": "/venue/"
+  },"144": {
     "doc": "Travel: Visa Information",
     "title": "General Visa Information",
     "content": "For attendees who require a visa, please consult the US Department of State resources at https://www.state.gov/visas/. ",
     "url": "/visa/#general-visa-information",
     
     "relUrl": "/visa/#general-visa-information"
-  },"139": {
+  },"145": {
     "doc": "Travel: Visa Information",
     "title": "Letter of Invitation",
     "content": "If you require a letter of invitation to apply for a visa, please contact the Stanford Data Science team at datascience@stanford.edu as soon as possible. ",
     "url": "/visa/#letter-of-invitation",
     
     "relUrl": "/visa/#letter-of-invitation"
-  },"140": {
+  },"146": {
     "doc": "Travel: Visa Information",
     "title": "Questions",
     "content": "For any further questions, please contact the Stanford Data Science team at datascience@stanford.edu. ",
     "url": "/visa/#questions",
     
     "relUrl": "/visa/#questions"
-  },"141": {
+  },"147": {
     "doc": "Travel: Visa Information",
     "title": "Travel: Visa Information",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",
     "url": "/visa/",
     
     "relUrl": "/visa/"
-  },"142": {
+  },"148": {
     "doc": "Conference Vision",
     "title": "Conference Vision",
     "content": "“Everything should be made as simple as possible, but not any simpler.” . – Albert Einstein . One of the most fundamental reasons for the very existence and therefore emergence of intelligence or science is that the world is not fully random, but highly structured and predictable. Hence, a fundamental purpose and function of intelligence or science is to learn parsimonious models (or laws) for such predicable structures, from massive sensed data of the world. Over the past decade, the advent of machine learning and large-scale computing has immeasurably changed the ways we process, interpret, and predict with data in engineering and science. The ‘traditional’ approach to algorithm design, based around parametric models for specific structures of signals and measurements – say sparse and low-rank models – and the associated optimization toolkit, is now significantly enriched with data-driven learning-based techniques, where large-scale networks are pre-trained and then adapted to a variety of specific tasks. Nevertheless, the successes of both modern data-driven and classic model-based paradigms rely crucially on correctly identifying the low-dimensional structures present in real-world data, to the extent that we see the roles of learning and compression of data processing algorithms – whether explicit or implicit, as with deep networks – as inextricably linked. Over the last ten or so years, several rich lines of research, including theoretical, computational, and practical, have explored the interplay between learning and compression. Some works explore the role of signal models in the era of deep learning, attempting to understand the interaction between deep networks and nonlinear, multi-modal data structures. Others have applied these insights to the principled design of deep architectures that incorporate desired structures in data into the learning process. Still others have considered generic deep networks as first-class citizens in their own right, exploring ways to compress and sparsify models for greater efficiency, often accompanied by hardware or system-aware co-designs. Across each of these settings, theoretical works rooted in low-dimensional modeling have begun to explain the foundations of deep architectures and efficient learning – from optimization to generalization – in spite of “overparameterization” and other obstructions. Most recently, the advent of foundation models has led some to posit that parsimony and compression itself are a fundamental part of the learning objective of an intelligent system, connecting to ideas from neuroscience on compression as a guiding principle for the brain representing the sensory data of the world. By and large, these lines of work have so far developed somewhat in isolation from one another, in spite of their common basis and purpose for parsimony and learning. Our intention in organizing this conference is to address this issue and go beyond: we envision the conference as a general scientific forum where researchers in machine learning, applied mathematics, signal processing, optimization, intelligent systems, and all associated science and engineering fields can gather, share insights, and ultimately work towards a common modern theoretical and computational framework for understanding intelligence and science from the perspective of parsimonious learning. ",
     "url": "/vision/#conference-vision",
     
     "relUrl": "/vision/#conference-vision"
-  },"143": {
+  },"149": {
     "doc": "Conference Vision",
     "title": "Conference Vision",
     "content": "Conference on Parsimony and Learning (CPAL) March 2025,&nbsp;Stanford ",

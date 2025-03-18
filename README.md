@@ -54,7 +54,7 @@ oral presentations can be found [here]({{site.baseurl}}/orals).
 
 # Keynote Speakers
 
-<!-- Information on the speakers' planned talks is available [here]({{site.baseurl}}/speakers/#talk-details). -->
+Information on the speakers' planned talks is available [here]({{site.baseurl}}/speakers/#talk-details).
 
 {% include speakers.html %}
 
