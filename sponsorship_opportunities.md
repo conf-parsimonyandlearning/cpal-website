@@ -4,6 +4,7 @@ title: Sponsorship Opportunities
 description: Information about sponsorship opportunities for CPAL 2025
 parent: Conference Sponsors
 nav_order: 10
+nav_exclude: True
 ---
 
 {% include splash.html %}
