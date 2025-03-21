@@ -13,12 +13,12 @@
     <li class="calendar-day">
       <h2 class="calendar-header no_anchor">{{ day.name }}</h2>
       {% if day.events %}
-      <ul class="calendar-events" style="height: {{ page.timeline | size | times: 80 }}px">
+      <ul class="calendar-events" style="height: {{ page.timeline | size | times: 100 }}px">
       {% for event in day.events %}
         {% capture start %}{% include minutes.liquid time=event.start %}{% endcapture %}
         {% capture end %}{% include minutes.liquid time=event.end %}{% endcapture %}
-        {% assign top = start | minus: offset | times: 80 | divided_by: 30 %}
-        {% assign height = end | minus: start | times: 80 | divided_by: 30 %}
+        {% assign top = start | minus: offset | times: 100 | divided_by: 30 %}
+        {% assign height = end | minus: start | times: 100 | divided_by: 30 %}
         <li class="calendar-event {% if event.class %}{{ event.class }}{% else %}{{ event.name | slugify }}{% endif %}"
             style="top: {{ top }}px; height: {{ height }}px;">
           <div class="name">{{ event.name }}</div>

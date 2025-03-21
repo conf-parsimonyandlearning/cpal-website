@@ -2,8 +2,8 @@
   @include abstract-card();
   overflow-x: scroll;
   position: relative;
-  $header-size: 80px;
-  $cell-size: 80px;
+  $header-size: 100px;
+  $cell-size: 100px;
 
   li::before {
     display: none;
@@ -113,6 +113,10 @@
 
     &.meta {
       background-color: $red-000;
+    }
+
+    &.remarks {
+      background-color: $purple-000;
     }
 
     &.oral {

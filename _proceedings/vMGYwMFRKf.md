@@ -5,7 +5,7 @@ keywords: Subspace Clustering, Centered Kernel Alignment, Representation Similar
   Measures.
 link: https://openreview.net/forum?id=vMGYwMFRKf
 num: 3
-oral_session: 3
+oral_session: 4
 session: 3
 title: A Case Study of Low Ranked Self-Expressive Structures in Neural Network Representations
 type: oral
