@@ -20,11 +20,9 @@ into two parallel tracks across three sessions throughout the day.
 Each tutorial consists of 2.5 hours of lectures from leading experts in the
 intersection between low-dimensional modeling and deep learning, with topics
 ranging from theory to practice and presentations in an accessible format.
-See the [schedule]({{site.baseurl}}/program_schedule) for the precise times of each tutorial.
+See the [schedule]({{site.baseurl}}/program_schedule) for the precise times and locations of each tutorial.
 
-The content of the six tutorials is summarized below. Check back soon for a more
-detailed account of lectures, as well as materials from the tutorials after the
-conference.
+The content of the six tutorials is summarized below. 
 
 
 # List of Tutorials

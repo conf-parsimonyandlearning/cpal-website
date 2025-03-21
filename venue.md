@@ -40,6 +40,12 @@ Computation and Data Science Building (CoDa)
 
 *Accessible ramps are located at the front and back of the building.*
 
+{: .highlight}
+{: .fs-5}
+**Note**: On the first day of the conference, tutorials will also be held in the
+Fortinet Seminar Room on the first floor of CoDa (E160). Please check the
+[schedule]({{ site.baseurl }}/program_schedule/) for details.
+
 ## 🅿️ Parking & Transportation
 
 - The nearest all day [**visitor parking**](https://drive.google.com/file/d/1gXviAXUVCCgZrXvvz4c9pIe4qnxtrLGO/view) is at the **[Via Ortega](https://maps.app.goo.gl/iyXiioceVVwdeTZx7), [Roble Field](https://maps.app.goo.gl/8GqTuFQEHuEFXEPS9)**, or [**Stock Farm**](https://maps.app.goo.gl/32yEx6ianLfr3xew9) garages (payable onsite via the [**ParkMobile**](https://scribehow.com/shared/Create_a_ParkMobile_Account_Step-by-Step__-H0gjiboTemNJIposvxI0w) app).

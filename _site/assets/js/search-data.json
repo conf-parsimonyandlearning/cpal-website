@@ -904,7 +904,7 @@
   },"129": {
     "doc": "List of Tutorials",
     "title": "General Information",
-    "content": "Attendees must register for the tutorial package to attend the tutorials. The first day of CPAL 2025 features six tutorial presentations, arranged into two parallel tracks across three sessions throughout the day. Each tutorial consists of 2.5 hours of lectures from leading experts in the intersection between low-dimensional modeling and deep learning, with topics ranging from theory to practice and presentations in an accessible format. See the schedule for the precise times of each tutorial. The content of the six tutorials is summarized below. Check back soon for a more detailed account of lectures, as well as materials from the tutorials after the conference. ",
+    "content": "Attendees must register for the tutorial package to attend the tutorials. The first day of CPAL 2025 features six tutorial presentations, arranged into two parallel tracks across three sessions throughout the day. Each tutorial consists of 2.5 hours of lectures from leading experts in the intersection between low-dimensional modeling and deep learning, with topics ranging from theory to practice and presentations in an accessible format. See the schedule for the precise times and locations of each tutorial. The content of the six tutorials is summarized below. ",
     "url": "/tutorial_info/#general-information",
     
     "relUrl": "/tutorial_info/#general-information"
@@ -988,7 +988,7 @@
   },"141": {
     "doc": "CPAL Logistics and Venue",
     "title": "📍Location",
-    "content": "Simonyi Conference Center (4th Floor) Computation and Data Science Building (CoDa) . 389 Jane Stanford Way, Stanford, CA 94305; Google Maps . Accessible ramps are located at the front and back of the building. ",
+    "content": "Simonyi Conference Center (4th Floor) Computation and Data Science Building (CoDa) . 389 Jane Stanford Way, Stanford, CA 94305; Google Maps . Accessible ramps are located at the front and back of the building. Note: On the first day of the conference, tutorials will also be held in the Fortinet Seminar Room on the first floor of CoDa (E160). Please check the schedule for details. ",
     "url": "/venue/#location",
     
     "relUrl": "/venue/#location"
