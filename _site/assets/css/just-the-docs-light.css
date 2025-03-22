@@ -6759,7 +6759,8 @@ blockquote.quote-title {
 .misc-img {
   display: flex;
   position: relative;
-  flex-direction: column; }
+  flex-direction: column;
+  background: transparent; }
   @media (min-width: 31.25rem) {
     .misc-img {
       flex-direction: row; } }

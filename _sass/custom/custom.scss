@@ -81,6 +81,7 @@ $content-width-0: 1200px;
   display: flex;
   position: relative;
   flex-direction: column;
+  background: transparent;
 
   @include mq(sm) {
     flex-direction: row;
