@@ -64,7 +64,7 @@
   },"9": {
     "doc": "Home",
     "title": "Silver Sponsors",
-    "content": " ",
+    "content": ". ",
     "url": "/",
     
     "relUrl": "/"
@@ -736,7 +736,7 @@
   },"105": {
     "doc": "Sponsors",
     "title": "Silver Sponsors",
-    "content": " ",
+    "content": ". ",
     "url": "/sponsors/",
     
     "relUrl": "/sponsors/"
@@ -785,7 +785,7 @@
   },"112": {
     "doc": "Sponsorship Opportunities",
     "title": "Silver Sponsors",
-    "content": "–&gt; . ",
+    "content": ". –&gt; . ",
     "url": "/sponsorship_opportunities/",
     
     "relUrl": "/sponsorship_opportunities/"
