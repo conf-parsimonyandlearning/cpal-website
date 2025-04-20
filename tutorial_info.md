@@ -58,10 +58,10 @@ Diffusion models have recently gained attention as a powerful class of deep gene
 
 ## T5: A Function-Space Tour of Data Science
 
-#### Presenters: Rahul Parhi (UC San Diego), Greg Ongie (Marquette University)
-
 This tutorial has a dedicated website with slides and more:
 [https://function-space-tour.github.io/cpal/](https://function-space-tour.github.io/cpal/)
+
+#### Presenters: Rahul Parhi (UC San Diego), Greg Ongie (Marquette University)
 
 #### Abstract:
 Parametric methods aim to explain data with a finite number of learnable parameters. These models are typically applied in settings where the number of data is greater than the number of parameters. Nonparametric methods, on the other hand, model data using infinite-dimensional function spaces and/or allow the number of parameters to grow beyond the number of data (a.k.a. the overparameterized regime). Many classical methods in data science fit into this latter framework, including kernel methods and wavelet methods. Furthermore, modern methods based on overparameterized neural networks also fit into this framework. The common theme being that these methods aim to minimize a quantity in function space. This tutorial will provide a tour of nonparametric methods in data science through the lens of function spaces starting with classical methods such as kernel methods (reproducing kernel Hilbert spaces) and wavelet methods (bounded variation spaces, Besov spaces) and ending with modern, high-dimensional methods such as overparameterized neural networks (variation spaces, Barron spaces). Remarkably, all of these methods can be viewed through the lens of abstract representer theorems (beyond Hilbert spaces). A particular emphasis will be made on the difference between $\ell_2$ regularization (kernel methods) and sparsity-promoting $\ell_1$-regularization (wavelet methods, neural networks) through the concept of adaptivity. For each method/function space, topics such as generalization bounds, metric entropy, and minimax rates will be covered.
