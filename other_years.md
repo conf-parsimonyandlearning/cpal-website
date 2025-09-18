@@ -9,6 +9,8 @@ nav_order: 100
 
 # Past CPAL Websites
 
-[2025](https://cpal.cc)
+[2026](https://cpal.cc)
+
+[2025](https://2025.cpal.cc)
 
 [2024](https://2024.cpal.cc)
