@@ -32,10 +32,10 @@ heading_anchors: true
 permalink: pretty
 logo: "/assets/images/logo.svg"
 aux_links:
-  Registration:
-    - 'https://cvent.me/X5aaar'
+  # Registration:
+  #   - 'https://cvent.me/X5aaar'
   CPAL OpenReview:
-    - 'https://openreview.net/group?id=CPAL.cc/2025'
+    - 'https://openreview.net/group?id=CPAL.cc/2026'
   # CPAL Proceedings:
   #   - 'https://proceedings.mlr.press/v234/'
   # CPAL at HKU:
