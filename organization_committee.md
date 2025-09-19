@@ -82,19 +82,6 @@ nav_order: 0
 
 
 
-## Panel Chairs
-
-<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
-  flex-start;">
-
-  {% assign pancs = site.organizers | where: 'role', 'Panel Chair' %}
-  {% for organizer in pancs %}
-  {{ organizer }}
-  {% endfor %}
-
-</div>
-
-
 ## Tutorial Chairs
 
 <div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
@@ -145,6 +132,14 @@ nav_order: 0
 
 </div>
 
+## Local Support
 
-{: .fs-1 .text-grey-dk-000}
-\* Ordered alphabetically
+<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
+  flex-start;">
+
+  {% assign locs = site.organizers | where: 'role', 'Local Support' %}
+  {% for organizer in locs %}
+  {{ organizer }}
+  {% endfor %}
+
+</div>

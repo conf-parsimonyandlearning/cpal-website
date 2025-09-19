@@ -67,5 +67,12 @@ Stay tuned for further updates!
 <!-- <br> -->
 
 
+# Keynote Speakers
+
+<!-- Information on the speakers' planned talks is available [here]({{site.baseurl}}/speakers/#talk-details). -->
+
+{% include speakers.html %}
+
+
 <!-- ![Stanford Data Science logo]({{ site.baseurl }}/assets/images/SDS_logo_large.png) -->
 
