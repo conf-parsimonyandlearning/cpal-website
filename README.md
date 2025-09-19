@@ -27,8 +27,7 @@ more detail [here]({{ site.baseurl }}/vision).
 <!-- [Submit your Work on OpenReview](https://openreview.net/group?id=CPAL.cc/2026/Conference) -->
 
 We are pleased to announce the Third Conference on Parsimony and Learning,
-to be held in concert with Stanford Data Science at Stanford University in
-California, USA!
+to be held in Tübingen, Germany!
 
 Paper submissions for the third Conference on
 Parsimony and Learning will be opened soon.
@@ -49,7 +48,7 @@ Stay tuned for further updates!
 - **3rd Week of November, 2025**: Submission Deadline
 - **1st Week of Jan, 2026**: Rebuttal
 - **January 31st, 2026**: Decisions Released
-- **Week of March 23rd 2026**: Conference in-person, Stanford, CA
+- **Week of March 23rd 2026**: Conference in-person, Tübingen, Germany
 
 <!-- {: .highlight} -->
 <!-- See the [deadlines page]({{ site.baseurl }}/deadlines) for a complete list of -->
