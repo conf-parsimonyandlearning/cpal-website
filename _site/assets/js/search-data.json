@@ -8,7 +8,7 @@
   },"1": {
     "doc": "Home",
     "title": "Key Dates and Deadlines (Tentative)",
-    "content": "All deadlines are 23:59 Anywhere-on-Earth (AOE) . | 3rd Week of November, 2025: Submission Deadline | 1st Week of Jan, 2026: Rebuttal | January 31st, 2026: Decisions Released | Week of March 23rd 2026: Conference in-person, Tübingen, Germany | . ",
+    "content": "All deadlines are 23:59 Anywhere-on-Earth (AOE) . | December 5, 2025: Conference paper submission deadline | December 10, 2025: Tutorial proposal deadline | December 15, 2025: “Rising Stars” application deadline | January 5, 2026: Review deadline | January 8–11, 2026: Paper rebuttal period | January 14, 2026: Tutorial results announced | January 15, 2026: “Recent Spotlight” article submission deadline | January 20, 2026: Final paper decisions released | March 23–27, 2026: Conference held in Tübingen, Germany | . ",
     "url": "/#key-dates-and-deadlines-tentative",
     
     "relUrl": "/#key-dates-and-deadlines-tentative"
@@ -22,7 +22,7 @@
   },"3": {
     "doc": "Home",
     "title": "Confirmed Distinguished Speakers",
-    "content": "--> Francis Bach . INRIA - École Normale Supérieure . Niao He . ETH Zurich . Bernhard Schölkopf . Max Planck Institute for Intelligent Systems . Taiji Suzuki . University of Tokyo / RIKEN AIP . ",
+    "content": "--> Francis Bach . INRIA - École Normale Supérieure . Niao He . ETH Zurich . Bernhard Schölkopf . Max Planck Institute for Intelligent Systems . Taiji Suzuki . University of Tokyo / RIKEN AIP . Fanny Yang . ETH Zurich . ",
     "url": "/",
     
     "relUrl": "/"
@@ -92,7 +92,7 @@
   },"13": {
     "doc": "Organization Committee",
     "title": "Program Chairs",
-    "content": "Rebekka Burkholz . CISPA . Program Chair . Shiwei Liu . ELLIS . Program Chair . Saiprasad Ravishankar . Michigan State University . Program Chair . William T. Redman . Johns Hopkins University . Program Chair . ",
+    "content": "Rebekka Burkholz . CISPA . Program Chair . Shiwei Liu . ELLIS Institute Tübingen and Max Planck Institute for Intelligent Systems . Program Chair . Saiprasad Ravishankar . Michigan State University . Program Chair . William T. Redman . Johns Hopkins University . Program Chair . ",
     "url": "/organization_committee/#program-chairs",
     
     "relUrl": "/organization_committee/#program-chairs"
@@ -106,7 +106,7 @@
   },"15": {
     "doc": "Organization Committee",
     "title": "Local Chairs",
-    "content": "Jonas Geiping . ELLIS Institute Tubingen . Local Chair . Haotong Qin . ETH . Local Chair . ",
+    "content": "Jonas Geiping . ELLIS Institute Tübingen and Max Planck Institute for Intelligent Systems . Local Chair . Haotong Qin . ETH . Local Chair . ",
     "url": "/organization_committee/#local-chairs",
     
     "relUrl": "/organization_committee/#local-chairs"
@@ -232,7 +232,7 @@
   },"33": {
     "doc": "Keynote Speakers",
     "title": "Confirmed Distinguished Speakers",
-    "content": "--> Francis Bach . INRIA - École Normale Supérieure . Niao He . ETH Zurich . Bernhard Schölkopf . Max Planck Institute for Intelligent Systems . Taiji Suzuki . University of Tokyo / RIKEN AIP . ",
+    "content": "--> Francis Bach . INRIA - École Normale Supérieure . Niao He . ETH Zurich . Bernhard Schölkopf . Max Planck Institute for Intelligent Systems . Taiji Suzuki . University of Tokyo / RIKEN AIP . Fanny Yang . ETH Zurich . ",
     "url": "/speakers/",
     
     "relUrl": "/speakers/"

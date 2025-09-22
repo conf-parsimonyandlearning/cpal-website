@@ -45,10 +45,15 @@ Stay tuned for further updates!
 
 *All deadlines are 23:59 [Anywhere-on-Earth (AOE)](https://www.ieee802.org/16/aoe.html)*
 
-- **3rd Week of November, 2025**: Submission Deadline
-- **1st Week of Jan, 2026**: Rebuttal
-- **January 31st, 2026**: Decisions Released
-- **Week of March 23rd 2026**: Conference in-person, Tübingen, Germany
+- **December 5, 2025**: Conference paper submission deadline
+- **December 10, 2025**: Tutorial proposal deadline
+- **December 15, 2025**: "Rising Stars" application deadline
+- **January 5, 2026**: Review deadline
+- **January 8–11, 2026**: Paper rebuttal period
+- **January 14, 2026**: Tutorial results announced
+- **January 15, 2026**: "Recent Spotlight" article submission deadline
+- **January 20, 2026**: Final paper decisions released
+- **March 23–27, 2026**: Conference held in Tübingen, Germany
 
 <!-- {: .highlight} -->
 <!-- See the [deadlines page]({{ site.baseurl }}/deadlines) for a complete list of -->
