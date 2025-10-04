@@ -1,7 +1,7 @@
 ---
 name: "Matthias Tröndle"
 role: "Local Support"
-affiliation: "Tubingen AI Center"
+affiliation: "MPI-IS"
 website: "https://is.mpg.de/person/mtroendl"
 photo: "troendle.png"
 ---
