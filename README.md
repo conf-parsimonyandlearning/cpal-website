@@ -53,7 +53,7 @@ Stay tuned for further updates!
 - **January 14, 2026**: Tutorial results announced
 - **January 15, 2026**: "Recent Spotlight" article submission deadline
 - **January 20, 2026**: Final paper decisions released
-- **March 23–27, 2026**: Conference held in Tübingen, Germany
+- **March 23–26, 2026**: Conference held in Tübingen, Germany
 
 <!-- {: .highlight} -->
 <!-- See the [deadlines page]({{ site.baseurl }}/deadlines) for a complete list of -->
