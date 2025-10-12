@@ -41,7 +41,6 @@ def make_risingstars():
             name="Tianlong Chen",
             role="Assistant Professor",
             website="https://tianlong-chen.github.io/",
-            email="tianlong@cs.unc.edu",
             affiliation="The University of North Carolina at Chapel Hill",
             photo="image1.png",
             session=1,
@@ -56,7 +55,6 @@ def make_risingstars():
             name="Grigorios Chrysos",
             role="Assistant Professor",
             website="https://grigoris.ece.wisc.edu/. ",
-            email="chrysos@wisc.edu",
             affiliation="University of Wisconsin-Madison",
             photo="image2.png",
             session=1,
@@ -71,7 +69,6 @@ def make_risingstars():
             name="Yihua Zhang",
             role="Ph.D. Candidate",
             website="https://www.yihua-zhang.com/",
-            email="zhan1908@msu.edu",
             affiliation="Michigan State University",
             photo="image3.png",
             session=1,
@@ -86,7 +83,6 @@ def make_risingstars():
             name="Congyue Deng",
             role="Ph.D. Candidate",
             website="https://cs.stanford.edu/~congyue/ ",
-            email="congyue@stanford.edu",
             affiliation="Stanford University",
             photo="image4.png",
             session=1,
@@ -101,7 +97,6 @@ def make_risingstars():
             name="Nived Rajaraman",
             role="Ph.D. Candidate",
             website="https://nivedr.github.io/ ",
-            email="nived.rajaraman@berkeley.edu",
             affiliation="University of California, Berkeley",
             photo="image5.png",
             session=1,
@@ -116,7 +111,6 @@ def make_risingstars():
             name="Ming Yin",
             role="Postdoctoral Associate",
             website="https://mingyin0312.github.io/",
-            email="my0049@princeton.edu",
             affiliation="Princeton University",
             photo="image6.png",
             session=2,
@@ -131,7 +125,6 @@ def make_risingstars():
             name="Wei Huang",
             role="Research Scientist",
             website="https://weihuang05.github.io/",
-            email="wei.huang.vr@riken.jp",
             affiliation="RIKEN",
             photo="image7.png",
             session=2,
@@ -146,7 +139,6 @@ def make_risingstars():
             name="Hadi Daneshmand",
             role="Assistant Professor",
             website="https://www.mit.edu/~hdanesh/index.html ",
-            email="xay7te@virginia.edu",
             affiliation="University of Virginia",
             photo="image8.png",
             session=2,
@@ -161,7 +153,6 @@ def make_risingstars():
             name="Souvik Kundu",
             role="Lead Research Scientist",
             website="https://ksouvik52.github.io/ ",
-            email="souvikku@usc.edu",
             affiliation="Intel AI Lab",
             photo="image9.png",
             session=2,
@@ -176,7 +167,6 @@ def make_risingstars():
             name="Denny Wu",
             affiliation="New York University & Flatiron Institute",
             website="https://dennywu1.github.io/",
-            email="dennywu@nyu.edu",
             role="CDS-Flatiron Faculty Fellow",
             photo="image10.png",
             session=2,
@@ -191,7 +181,6 @@ def make_risingstars():
             name="Yu Sun",
             role="Assistant Professor",
             website="https://sunyumark.github.io/",
-            email="ysun214@jh.edu",
             affiliation="Johns Hopkins University",
             photo="image11.png",
             session=3,
@@ -206,7 +195,6 @@ def make_risingstars():
             name="Ismail Alkhouri",
             role="Research Scientist; Visiting Scholar",
             website="https://sites.google.com/view/ismailalkhouri/about",
-            email="ismailal@umich.edu",
             affiliation="DARPA; University of Michigan at Ann Arbor, Michigan State University",
             photo="image12.png",
             session=3,
@@ -221,7 +209,6 @@ def make_risingstars():
             name="Yingcong Li",
             role="Ph.D. Student",
             website="https://yingcong-li.github.io/",
-            email="yingcong@umich.edu",
             affiliation="University of Michigan, Ann Arbor",
             photo="image13.png",
             session=3,
@@ -236,7 +223,6 @@ def make_risingstars():
             name="Soufiane Hayou",
             role="Researcher",
             website="https://www.soufianehayou.com/",
-            email="hayou@berkeley.edu",
             affiliation="Simons Institute, UC Berkeley",
             photo="image14.png",
             session=3,
@@ -251,7 +237,6 @@ def make_risingstars():
             name="Yanchao Yang",
             role="Assistant Professor",
             website="https://yanchaoyang.github.io/",
-            email="yanchao0yang@gmail.com",
             affiliation="The University of Hong Kong",
             photo="image15.png",
             session=3,
@@ -362,7 +347,6 @@ def make_tutorials():
         Tutorial(
             name="Yi Ma",
             role="Professor",
-            email="yima@eecs.berkeley.edu",
             website="https://people.eecs.berkeley.edu/~yima/",
             affiliation="UC Berkeley / HKU IDS",
             photo="ma.jpeg",
@@ -377,7 +361,6 @@ def make_tutorials():
         Tutorial(
             name="Sam Buchanan",
             role="Research Assistant Professor",
-            email="sam@ttic.edu",
             website="https://sdbuchanan.com",
             affiliation="TTIC",
             photo="sdb.jpg",
@@ -406,7 +389,6 @@ def make_tutorials():
         Tutorial(
             name="Qing Qu",
             role="Assistant Professor",
-            email="qingqu@umich.edu",
             website="https://qingqu.engin.umich.edu/",
             affiliation="University of Michigan",
             photo="qq.jpeg",
@@ -422,7 +404,6 @@ def make_tutorials():
         Tutorial(
             name="Saiprasad Ravishankar",
             role="Assistant Professor",
-            email="ravisha3@msu.edu",
             website="https://sites.google.com/site/sairavishankar3/",
             affiliation="Michigan State University",
             photo="ravishankar.jpg",
@@ -438,7 +419,6 @@ def make_tutorials():
             name="Bihan Wen",
             role="Nanyang Assistant Professor",
             website="https://personal.ntu.edu.sg/bihan.wen/",
-            email="bihan.wen@ntu.edu.sg",
             affiliation="Nanyang Technological University",
             photo="wen.jpeg",
             tutorial='"Sparse Modeling to Deep Learning for Image Restoration"',
@@ -452,7 +432,6 @@ def make_tutorials():
         Tutorial(
             name="Saiprasad Ravishankar",
             role="Assistant Professor",
-            email="ravisha3@msu.edu",
             website="https://sites.google.com/site/sairavishankar3/",
             affiliation="Michigan State University",
             photo="ravishankar.jpg",
@@ -515,7 +494,6 @@ def make_organizers():
         Organizer(
             name="Yi Ma",
             role="General Chair",
-            email="yima@eecs.berkeley.edu",
             website="https://people.eecs.berkeley.edu/~yima/",
             affiliation="University of Hong Kong",
             photo="ma.jpeg",
@@ -536,7 +514,6 @@ def make_organizers():
         Organizer(
             name="Gitta Kutyniok",
             role="General Chair",
-            email="kutyniok@math.lmu.de",
             website="https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html",
             affiliation="LMU Munchen",
             photo="kutyniok.jpg",
@@ -549,7 +526,6 @@ def make_organizers():
             name="Shiwei Liu",
             role="Program Chair",
             website="https://shiweiliuiiiiiii.github.io/",
-            email="s.liu3@tue.nl",
             affiliation="ELLIS Institute Tübingen and Max Planck Institute for Intelligent Systems",
             photo="sliu.png",
         )
@@ -569,7 +545,6 @@ def make_organizers():
         Organizer(
             name="Saiprasad Ravishankar",
             role="Program Chair",
-            email="ravisha3@msu.edu",
             website="https://sites.google.com/site/sairavishankar3/",
             affiliation="Michigan State University",
             photo="ravishankar.jpg",
@@ -582,7 +557,6 @@ def make_organizers():
             role="Program Chair",
             website="https://wredman4.wixsite.com/wtredman",
             affiliation="Johns Hopkins University",
-            email="wredman@ucsb.edu",
             photo="redman.jpeg",
         )
     )
@@ -592,7 +566,6 @@ def make_organizers():
         Organizer(
             name="Qing Qu",
             role="Senior Advisor to PCs",
-            email="qingqu@umich.edu",
             website="https://qingqu.engin.umich.edu/",
             affiliation="University of Michigan",
             photo="qq.jpeg",
@@ -603,7 +576,6 @@ def make_organizers():
         Organizer(
             name="Atlas Wang",
             role="Senior Advisor to PCs",
-            email="atlaswang@utexas.edu",
             website="https://vita-group.github.io/",
             affiliation="UT Austin",
             photo="aw.png",
@@ -614,7 +586,6 @@ def make_organizers():
         Organizer(
             name="Jere Sulam",
             role="Senior Advisor to PCs",
-            email="jsulam@jhu.edu",
             website="https://sites.google.com/view/jsulam",
             affiliation="Johns Hopkins University",
             photo="js.png",
@@ -626,7 +597,6 @@ def make_organizers():
             name="Sijia Liu",
             role="Senior Advisor to PCs",
             website="https://lsjxjtu.github.io/",
-            email="lsjxjtu@gmail.com",
             affiliation="Michigan State University",
             photo="liu.png",
         )
@@ -637,7 +607,6 @@ def make_organizers():
             name="Yu-Xiang Wang",
             role="Senior Advisor to PCs",
             website="https://cseweb.ucsd.edu/~yuxiangw/",
-            email="yuxiangw@ucsd.edu",
             affiliation="UCSD",
             photo="wang.jpeg",
         )
@@ -679,7 +648,6 @@ def make_organizers():
         Organizer(
             name="Zhihui Zhu",
             role="Publication Chair",
-            email="zhihui.zhu@du.edu",
             website="https://zhihuizhu.github.io",
             affiliation="Ohio State University",
             photo="zz.jpeg",
@@ -690,7 +658,6 @@ def make_organizers():
         Organizer(
             name="Weijie Su",
             role="Publication Chair",
-            email="suw@wharton.upenn.edu",
             website="http://stat.wharton.upenn.edu/~suw/",
             affiliation="University of Pennsylvania",
             photo="su.jpeg",
@@ -702,7 +669,6 @@ def make_organizers():
             name="Wei Huang",
             role="Publication Chair",
             website="https://weihuang05.github.io/",
-            email="wei.huang.vr@riken.jp",
             affiliation="RIKEN AIP",
             photo="huang.png",
         )
@@ -723,7 +689,6 @@ def make_organizers():
             name="Souvik Kundu",
             role="Industry Liaison Chair",
             website="https://ksouvik52.github.io/",
-            email="souvikku@usc.edu",
             affiliation="Google",
             photo="kundu.jpeg",
         )
@@ -744,7 +709,6 @@ def make_organizers():
         Organizer(
             name="Sam Buchanan",
             role="Web Chair",
-            email="sam@ttic.edu",
             website="https://sdbuchanan.com/",
             affiliation="UC Berkeley",
             photo="sdb.jpg",
@@ -757,7 +721,6 @@ def make_organizers():
             name="Tianlong Chen",
             role="Rising Stars Award Chair",
             website="https://tianlong-chen.github.io/",
-            email="tianlong@cs.unc.edu",
             affiliation="UNC Chapel Hill",
             photo="chen_t.jpeg",
         )
@@ -768,7 +731,6 @@ def make_organizers():
         Organizer(
             name="Chong You",
             role="Tutorial Chair",
-            email="chong.you1987@gmail.com",
             website="https://sites.google.com/view/cyou",
             affiliation="Google",
             photo="cy.jpeg",
@@ -782,7 +744,6 @@ def make_organizers():
             role="Publicity Chair",
             website="https://liyueshen.engin.umich.edu/",
             affiliation="University of Michigan",
-            email="liyues@umich.edu",
             photo="shen-liyue.jpeg",
         )
     )
@@ -814,7 +775,6 @@ def make_organizers():
             name="Alex Dimakis",
             role="Advisory Committee",
             website="https://users.ece.utexas.edu/~dimakis/",
-            email="dimakis@austin.utexas.edu",
             affiliation="UC Berkeley",
             photo="dimakis.jpeg",
         )
@@ -825,7 +785,6 @@ def make_organizers():
             name="Michael Elad",
             role="Advisory Committee",
             website="https://elad.cs.technion.ac.il/",
-            email="elad@cs.technion.ac.il",
             affiliation="Technion",
             photo="elad.jpeg",
         )
@@ -835,7 +794,6 @@ def make_organizers():
         Organizer(
             name="Stefano Soatto",
             role="Advisory Committee",
-            email="soatto@ucla.edu",
             website="https://web.cs.ucla.edu/~soatto/",
             affiliation="UCLA",
             photo="soatto.jpeg",
@@ -847,7 +805,6 @@ def make_organizers():
             name="Rebecca Willett",
             role="Advisory Committee",
             website="https://willett.psd.uchicago.edu/",
-            email="willett@g.uchicago.edu",
             affiliation="UChicago",
             photo="willett.jpeg",
         )
@@ -857,7 +814,6 @@ def make_organizers():
         Organizer(
             name="Eric P. Xing",
             role="Advisory Committee",
-            email="epxing@cs.cmu.edu",
             website="https://www.cs.cmu.edu/~epxing/",
             affiliation="MBZUAI / Carnegie Mellon University",
             photo="ex.jpeg",
@@ -867,7 +823,6 @@ def make_organizers():
     organizers.append(
         Organizer(
             name="Tong Zhang",
-            email="tongzhang@tongzhang-ml.org",
             role="Advisory Committee",
             website="http://tongzhang-ml.org/",
             affiliation="University of Illinois Urbana-Champaign",
@@ -879,7 +834,6 @@ def make_organizers():
         Organizer(
             name="Anima Anandkumar",
             role="Advisory Committee",
-            email="anima@caltech.edu",
             website="http://tensorlab.cms.caltech.edu/users/anima/",
             affiliation="Caltech / NVIDIA",
             photo="anandkumar.jpeg",
@@ -891,7 +845,6 @@ def make_organizers():
             name="Emmanuel Candès",
             role="Advisory Committee",
             website="https://candes.su.domains/",
-            email="candes@stanford.edu",
             affiliation="Stanford",
             photo="ecandes.jpeg",
         )
@@ -902,7 +855,6 @@ def make_organizers():
             name="Peyman Milanfar",
             role="Advisory Committee",
             website="http://www.milanfar.org/",
-            email="peyman.milanfar@gmail.com",
             affiliation="Google Research",
             photo="milanfar.jpeg",
         )
@@ -912,7 +864,6 @@ def make_organizers():
         Organizer(
             name="Yi Ma",
             role="Advisory Committee",
-            email="yima@eecs.berkeley.edu",
             website="https://people.eecs.berkeley.edu/~yima/",
             affiliation="University of Hong Kong",
             photo="ma.jpeg",

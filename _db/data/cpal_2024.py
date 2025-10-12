@@ -39,7 +39,6 @@ def make_risingstars():
             name="Rahul Parhi",
             role="Postdoctoral Researcher",
             website="https://rahul.sh/",
-            email="rahul@parhi.com",
             affiliation="École Polytechnique Fédérale de Lausanne",
             photo="parhi.jpg",
             session=2,
@@ -54,7 +53,6 @@ def make_risingstars():
             name="Daniel Paul Kunin",
             role="Ph.D. Student",
             website="https://daniel-kunin.com/",
-            email="kunin@stanford.edu",
             affiliation="Stanford University",
             photo="kunin.png",
             session=1,
@@ -69,7 +67,6 @@ def make_risingstars():
             name="Bahareh Tolooshams",
             role="Postdoctoral Researcher",
             website="https://btolooshams.github.io/",
-            email="btoloosh@caltech.edu",
             affiliation="California Institute of Technology",
             photo="tolooshams.png",
             session=3,
@@ -84,7 +81,6 @@ def make_risingstars():
             name="Ravid Shwartz Ziv",
             role="CDS Faculty Fellow",
             website="https://www.ravid-shwartz-ziv.com/",
-            email="",
             affiliation="New York University",
             photo="ziv.png",
             session=3,
@@ -99,7 +95,6 @@ def make_risingstars():
             name="Peng Wang",
             role="Postdoctoral Researcher",
             website="https://peng8wang.github.io/",
-            email="pengwa@umich.edu",
             affiliation="University of Michigan",
             photo="wangp.jpeg",
             session=1,
@@ -114,7 +109,6 @@ def make_risingstars():
             name="Lijun Ding",
             role="IFDS Postdoctoral Researcher",
             website="https://www.lijunding.net/",
-            email="lijunbrianding@gmail.com",
             affiliation="University of Wisconsin / University of Washington",
             photo="ding.jpg",
             session=3,
@@ -129,7 +123,6 @@ def make_risingstars():
             name="Shuang Li",
             role="Assistant Professor",
             website="https://www.ece.iastate.edu/~lishuang/",
-            email="lishuang@iastate.edu",
             affiliation="Iowa State University",
             photo="li.jpg",
             session=3,
@@ -144,7 +137,6 @@ def make_risingstars():
             name="Daniel LeJeune",
             role="Postdoctoral Researcher",
             website="https://dlej.net/",
-            email="daniel@dlej.net",
             affiliation="Stanford University",
             photo="lejeune.png",
             session=1,
@@ -159,7 +151,6 @@ def make_risingstars():
             name="Shiwei Liu",
             role="IFML Postdoctoral Researcher",
             website="https://shiweiliuiiiiiii.github.io/",
-            email="s.liu3@tue.nl",
             affiliation="University of Texas at Austin / Eindhoven University of Technology / University of Oxford",
             photo="liu.png",
             session=2,
@@ -174,7 +165,6 @@ def make_risingstars():
             name="Yaodong Yu",
             role="Ph.D. Student",
             website="https://yaodongyu.github.io/",
-            email="yyu@eecs.berkeley.edu",
             affiliation="University of California, Berkeley",
             photo="yu.jpg",
             session=1,
@@ -189,7 +179,6 @@ def make_risingstars():
             name="Ambar Pal",
             role="Ph.D. Student",
             website="https://www.cis.jhu.edu/~ambar/",
-            email="ambar@jhu.edu",
             affiliation="Johns Hopkins University",
             photo="pal.png",
             session=1,
@@ -204,7 +193,6 @@ def make_risingstars():
             name="Hongyi Wang",
             role="Senior Project Scientist",
             website="https://hwang595.github.io/",
-            email="hongyiwa@andrew.cmu.edu",
             affiliation="Carnegie Mellon University",
             photo="wangh.png",
             session=3,
@@ -219,7 +207,6 @@ def make_risingstars():
             name="Yiping Lu",
             role="Courant Instructor",
             website="https://2prime.github.io/",
-            email="yiping.lu@nyu.edu",
             affiliation="New York University",
             photo="lu.png",
             session=3,
@@ -234,7 +221,6 @@ def make_risingstars():
             name="Ramchandran Muthukumar",
             role="Ph.D. Student",
             website="https://ramcha24.github.io/",
-            email="ramcha1994@gmail.com",
             affiliation="Johns Hopkins University",
             photo="muthukumar.png",
             session=2,
@@ -249,7 +235,6 @@ def make_risingstars():
             name="Ningyuan Huang",
             role="Ph.D. Student",
             website="https://nhuang37.github.io/",
-            email="nhuang19@jhu.edu",
             affiliation="Johns Hopkins University",
             photo="huang.png",
             session=2,
@@ -264,7 +249,6 @@ def make_risingstars():
             name="Omar Montasser",
             role="FODSI-Simons Postdoctoral Researcher",
             website="https://home.ttic.edu/~omar/",
-            email="omar@ttic.edu",
             affiliation="University of California, Berkeley",
             photo="montasser.png",
             session=2,
@@ -285,7 +269,6 @@ def make_speakers():
             name="Dan Alistarh",
             role="Speaker",
             website="https://people.csail.mit.edu/alistarh/",
-            email="dan.alistarh@ist.ac.at",
             affiliation="Institute of Science and Technology Austria / Neural Magic",
             photo="alistarh.jpeg",
             talk='"Accurate Model Compression at GPT Scale"',
@@ -304,7 +287,6 @@ def make_speakers():
             role="Speaker",
             website="https://www.cs.umd.edu/~tomg/",
             affiliation="University of Maryland",
-            email="tomg@cs.umd.edu",
             photo="goldstein.jpeg",
             talk='"Statistical methods for addressing safety and security issues of generative models"',
             abstract='"This talk will have two parts.  In the first part, I’ll talk about mathematical perspectives on how to watermark generative models to prevent parameter theft,  ways to watermark generative model outputs to enable detection, and ways to perform post-hoc detection of language models without relying on watermarks.  I’ll emphasize the important idea of using statistical hypothesis testing and p-values to provide rigorous control of the false-positive rate of detection. In the second part of the talk, I’ll present methods for constructing neural networks that exhibit “slow” thinking abilities akin to human logical reasoning.  Rather than learning simple pattern matching rules, these networks have the ability to synthesize algorithmic reasoning processes and solve difficult discrete search and planning problems that cannot be solved by conventional AI systems.  Interestingly, these reasoning systems naturally exhibit error correction and robustness properties that make them more difficult to break than their fast thinking counterparts."',
@@ -322,7 +304,6 @@ def make_speakers():
             role="Speaker",
             website="https://sites.google.com/view/yingbinliang/home",
             affiliation="Ohio State University",
-            email="liang.889@osu.edu",
             photo="liang.jpeg",
             talk='"In-Context Convergence of Transformers"',
             abstract='"Transformers have recently revolutionized many machine learning domains and one salient discovery is their remarkable in-context learning capability, where models can capture an unseen task by utilizing task-specific prompts without further parameters fine-tuning. In this talk, I will present our recent work that aims at understanding the in-context learning mechanism of transformers. Our focus is on the learning dynamics of a one-layer transformer with softmax attention trained via gradient descent in order to in-context learn linear function classes. I will first present our characterization of the training convergence of in-context learning for data with balanced and imbalanced features, respectively. I will then discuss the insights that we obtain about attention models and training processes. I will also talk about the analysis techniques that we develop which may be useful for a broader set of problems. I will finally conclude my talk with comments on a few future directions.<br>This is a joint work with Yu Huang (UPenn) and Yuan Cheng (NUS)."',
@@ -340,7 +321,6 @@ def make_speakers():
     #         role='Speaker',
     #         website='https://nowak.ece.wisc.edu/',
     #         affiliation='University of Wisconsin-Madison',
-    #         email='rdnowak@wisc.edu',
     #         photo='nowak.jpeg'
     #     )
     # )
@@ -349,7 +329,6 @@ def make_speakers():
         Speaker(
             name="Stefano Soatto",
             role="Speaker",
-            email="soatto@ucla.edu",
             website="https://web.cs.ucla.edu/~soatto/",
             affiliation="University of California, Los Angeles",
             photo="soatto.jpeg",
@@ -369,7 +348,6 @@ def make_speakers():
             role="Speaker",
             website="https://papail.io/",
             affiliation="University of Wisconsin-Madison",
-            email="dimitris@papail.io",
             photo="papailiopoulos.jpeg",
             talk='"Teaching arithmetic to small language models"',
             abstract='"Can a language model truly “understand” arithmetic? We explore this by trying to teach small transformers from scratch to perform elementary arithmetic operations, using the next-token prediction objective. We first demonstrate that conventional training data (i.e., “A+B=C”) is not effective for arithmetic learning, and simple formatting changes can significantly improve accuracy. This leads to sharp phase transitions which, in some cases, can be explained through connections to low-rank matrix completion. We then train these small models on chain-of-thought data that includes intermediate steps. Even in the complete absence of pretraining, this approach significantly and simultaneously improves accuracy, sample complexity, and convergence speed. We finally discuss the issue of length generalization: can a model trained on n digits add n+1 digit numbers? Humans don’t need to be taught every digit length of addition to be able to perform it. It turns out that language models aren’t great at length generalization, but we catch glimpses of it in “unstable” scenarios. Surprisingly, the infamous U-shaped overfitting curve makes an appearance!"',
@@ -387,7 +365,6 @@ def make_speakers():
             role="Speaker",
             website="https://bispl.weebly.com/professor.html",
             affiliation="Korea Advanced Institute of Science and Technology (KAIST)",
-            email="jong.ye@kaist.ac.kr",
             photo="jongchulye.png",
             talk="Enlarging the Capability of Diffusion Inverse Solvers by Guidance",
             abstract="The recent advent of diffusion models has led to significant progress in solving inverse problems, leveraging these models as effective generative priors. Nonetheless, challenges related to the ill-posed nature of such problems remain, such as 3D extension and overcoming inherent ambiguities in measurements. In this talk, we introduce  strategies to address these issues. First, to enable 3D extension using only 2D diffusion models, we propose a novel approach using two perpendicular pre-trained 2D diffusion models which guides each solver to solve the 3D inverse problem. Specifically, by modeling the 3D data distribution as a product of 2D distributions sliced in different directions, our method effectively addresses the curse of dimensionality from the image guidance from the perpendicular direction. Second, drawing inspiration from the human ability to resolve visual ambiguities through perceptual biases, we introduce a novel latent diffusion inverse solver by incorporating guidance by text prompts. Specifically, our method applies the textual description of the preconception of the solution during the reverse sampling phase, of which description is dynamically reinforced through null-text optimization for adaptive negation. Our comprehensive experimental results show that our method successfully mitigates ambiguity in latent diffusion inverse solvers, enhancing their effectiveness and accuracy.",
@@ -405,7 +382,6 @@ def make_speakers():
             role="Speaker",
             website="https://sites.google.com/site/sueyeonchung/",
             affiliation="New York University / Flatiron Institute",
-            email="sueyeon@nyu.edu",
             photo="sueyeon.jpeg",
             talk='"Multi-level theory of neural representations: Capacity of neural manifolds in biological and artificial neural networks"',
             abstract='"A central goal in neuroscience is to understand how orchestrated computations in the brain arise from the properties of single neurons and networks of such neurons. Answering this question requires theoretical advances that shine a light on the ‘black box’ of representations in neural circuits. In this talk, we will demonstrate theoretical approaches that help describe how cognitive task implementations emerge from the structure in neural populations and from biologically plausible neural networks. <br> We will introduce a new theory that connects geometric structures that arise from neural population responses (i.e., neural manifolds) to the neural representation’s efficiency in implementing a task. In particular, this theory describes how many neural manifolds can be represented (or ‘packed’) in the neural activity space while they can be linearly decoded by a downstream readout neuron. The intuition from this theory is remarkably simple: like a sphere packing problem in physical space, we can encode many “neural manifolds” into the neural activity space if these manifolds are small and low-dimensional, and vice versa. <br> Next, we will describe how such an approach can, in fact, open the ‘black box’ of distributed neuronal circuits in a range of settings, such as experimental neural datasets and artificial neural networks. In particular, our method overcomes the limitations of traditional dimensionality reduction techniques, as it operates directly on the high-dimensional representations. Furthermore, this method allows for simultaneous multi-level analysis, by measuring geometric properties in neural population data and estimating the amount of task information embedded in the same population. <br> Finally, we will discuss our recent efforts to fully extend this multi-level description of neural populations by (1) understanding how task-implementing neural manifolds emerge across brain regions and during learning, (2) investigating how neural tuning properties shape the representation geometry in early sensory areas, and (3) demonstrating the impressive task performance and neural predictivity achieved by optimizing a deep network to maximize the capacity of neural manifolds. By expanding our mathematical toolkit for analyzing representations underlying complex neuronal networks, we hope to contribute to the long-term challenge of understanding the neuronal basis of tasks and behaviors."',
@@ -423,7 +399,6 @@ def make_speakers():
             role="Speaker",
             website="https://people.ece.uw.edu/fazel_maryam/",
             affiliation="University of Washington",
-            email="mfazel@uw.edu",
             photo="mfazel.jpeg",
             talk='"Flat Minima and Generalization in Learning: The Case of Low-rank Matrix Recovery"',
             abstract='"Many behaviors observed in deep neural networks still lack satisfactory explanation; e.g., how does an overparameterized neural network avoid overfitting and generalize to unseen data? Empirical evidence suggests that generalization depends on which zero-loss local minimum is attained during training. The shape of the training loss around a local minimum affects the model’s performance: “Flat” minima---around which the loss grows slowly—appear to generalize well. Clarifying this phenomenon helps explain generalization properties, which still largely remain a mystery.<br> In this talk we focus on a simple class of overparameterized nonlinear models, those arising in low-rank matrix recovery. We study several key models: matrix sensing, phase retrieval, robust Principal Component Analysis, covariance matrix estimation, and single hidden layer neural networks with quadratic activation. We prove that in these models, flat minima (measured by average curvature) exactly recover the ground truth under standard statistical assumptions, and we prove weak recovery for matrix completion. These results suggest (i) a theoretical basis for favoring methods that bias iterates towards flat solutions, (ii) use of Hessian trace as a good regularizer. Since the landscape properties we prove are algorithm-agnostic, a future direction is to pair these findings with the analysis of common training algorithms to better understand the interplay between the loss landscape and algorithmic implicit bias."',
@@ -441,7 +416,6 @@ def make_speakers():
             role="Speaker",
             website="https://www.cis.upenn.edu/~kostas/",
             affiliation="University of Pennsylvania",
-            email="kostas@cis.upenn.edu",
             photo="kostas.jpeg",
             talk="Parsimony through Equivariance",
             abstract="Equivariant representations are crucial in various scientific and engineering domains because they encode the inherent symmetries present in physical and biological systems, thereby providing a more natural and efficient way to model them. In the context of machine learning and perception, equivariant representations ensure that the output of a model changes in a predictable way in response to transformations of its input, such as 2D or 3D rotation or scaling. In this talk, we will show a systematic way of how to achieve equivariance by design and how such an approach can yield parsimony in training data and model capacity.",
@@ -463,7 +437,6 @@ def make_tutorials():
         Tutorial(
             name="Yi Ma",
             role="Professor",
-            email="yima@eecs.berkeley.edu",
             website="https://people.eecs.berkeley.edu/~yima/",
             affiliation="UC Berkeley / HKU IDS",
             photo="ma.jpeg",
@@ -478,7 +451,6 @@ def make_tutorials():
         Tutorial(
             name="Sam Buchanan",
             role="Research Assistant Professor",
-            email="sam@ttic.edu",
             website="https://sdbuchanan.com",
             affiliation="TTIC",
             photo="sdb.jpg",
@@ -507,7 +479,6 @@ def make_tutorials():
         Tutorial(
             name="Qing Qu",
             role="Assistant Professor",
-            email="qingqu@umich.edu",
             website="https://qingqu.engin.umich.edu/",
             affiliation="University of Michigan",
             photo="qq.jpeg",
@@ -523,7 +494,6 @@ def make_tutorials():
         Tutorial(
             name="Saiprasad Ravishankar",
             role="Assistant Professor",
-            email="ravisha3@msu.edu",
             website="https://sites.google.com/site/sairavishankar3/",
             affiliation="Michigan State University",
             photo="ravishankar.jpg",
@@ -539,7 +509,6 @@ def make_tutorials():
             name="Bihan Wen",
             role="Nanyang Assistant Professor",
             website="https://personal.ntu.edu.sg/bihan.wen/",
-            email="bihan.wen@ntu.edu.sg",
             affiliation="Nanyang Technological University",
             photo="wen.jpeg",
             tutorial='"Sparse Modeling to Deep Learning for Image Restoration"',
@@ -553,7 +522,6 @@ def make_tutorials():
         Tutorial(
             name="Saiprasad Ravishankar",
             role="Assistant Professor",
-            email="ravisha3@msu.edu",
             website="https://sites.google.com/site/sairavishankar3/",
             affiliation="Michigan State University",
             photo="ravishankar.jpg",
@@ -615,7 +583,6 @@ def make_organizers():
         Organizer(
             name="Dan Alistarh",
             role="Industry Liaison Chair",
-            email="dan.alistarh@ist.ac.at",
             website="https://people.csail.mit.edu/alistarh/",
             affiliation="IST Austria / Neural Magic",
             photo="alistarh.jpeg",
@@ -626,7 +593,6 @@ def make_organizers():
         Organizer(
             name="Chenglong Bao",
             role="Area Chair",
-            email="clbao@mail.tsinghua.edu.cn",
             website="https://matbc.github.io/",
             affiliation="Tsinghua University",
             photo="bao.jpeg",
@@ -637,7 +603,6 @@ def make_organizers():
         Organizer(
             name="Babak Ehteshami Bejnordi",
             role="Area Chair",
-            email="behtesha@qti.qualcomm.com",
             website="http://babakint.com/",
             affiliation="Qualcomm",
             photo="bejnordi.jpeg",
@@ -648,7 +613,6 @@ def make_organizers():
         Organizer(
             name="Sam Buchanan",
             role="Web Chair",
-            email="sam@ttic.edu",
             website="https://sdbuchanan.com/",
             affiliation="TTIC",
             photo="sdb.jpg",
@@ -661,7 +625,6 @@ def make_organizers():
             role="Area Chair",
             website="https://www.andrew.cmu.edu/user/beidic/",
             affiliation="Meta / Carnegie Mellon University",
-            email="beidic@andrew.cmu.edu",
             photo="chen0.jpeg",
         )
     )
@@ -671,7 +634,6 @@ def make_organizers():
             name="Tianlong Chen",
             role="Area Chair",
             website="https://tianlong-chen.github.io/",
-            email="tianlong.chen@utexas.edu",
             affiliation="UT Austin / MIT",
             photo="chen_t.jpeg",
         )
@@ -682,7 +644,6 @@ def make_organizers():
             name="Yubei Chen",
             role="Area Chair",
             website="https://yubeichen.com",
-            email="yubeichen@ucdavis.edu",
             affiliation="UC Davis",
             photo="chen_yubei.jpeg",
         )
@@ -693,7 +654,6 @@ def make_organizers():
             name="Yubei Chen",
             role="Rising Stars Award Chair",
             website="https://yubeichen.com",
-            email="yubeichen@ucdavis.edu",
             affiliation="UC Davis",
             photo="chen_yubei.jpeg",
         )
@@ -704,7 +664,6 @@ def make_organizers():
             name="Yuxin Chen",
             role="Area Chair",
             website="https://yuxinchen2020.github.io/",
-            email="yuxinc@wharton.upenn.edu",
             affiliation="UPenn",
             photo="chen_yuxin.jpeg",
         )
@@ -714,7 +673,6 @@ def make_organizers():
         Organizer(
             name="Yuejie Chi",
             role="Program Chair",
-            email="yuejiechi@cmu.edu",
             website="https://users.ece.cmu.edu/~yuejiec/",
             affiliation="Carnegie Mellon University",
             photo="yc.jpeg",
@@ -726,7 +684,6 @@ def make_organizers():
             name="Alex Dimakis",
             role="Advisory Committee",
             website="https://users.ece.utexas.edu/~dimakis/",
-            email="dimakis@austin.utexas.edu",
             affiliation="UT Austin",
             photo="dimakis.jpeg",
         )
@@ -737,7 +694,6 @@ def make_organizers():
             name="Ivan Dokmanić",
             role="Area Chair",
             website="https://dmi.unibas.ch/en/persons/dokmanic-ivan/",
-            email="ivan.dokmanic@unibas.ch",
             affiliation="University of Basel",
             photo="dokmanic.jpeg",
         )
@@ -748,7 +704,6 @@ def make_organizers():
             name="Simon Du",
             role="Area Chair",
             website="https://simonshaoleidu.com/",
-            email="ssdu@cs.washington.edu",
             affiliation="University of Washington",
             photo="du.jpeg",
         )
@@ -758,7 +713,6 @@ def make_organizers():
         Organizer(
             name="Gintare Karolina Dziugaite",
             role="Program Chair",
-            email="gkdz@google.com",
             website="https://gkdz.org/",
             affiliation="Google DeepMind",
             photo="gintare.jpeg",
@@ -770,7 +724,6 @@ def make_organizers():
             name="Michael Elad",
             role="Advisory Committee",
             website="https://elad.cs.technion.ac.il/",
-            email="elad@cs.technion.ac.il",
             affiliation="Technion",
             photo="elad.jpeg",
         )
@@ -781,7 +734,6 @@ def make_organizers():
             name="Utku Evci",
             role="Area Chair",
             website="https://research.google/people/UtkuEvci/",
-            email="utkuevci@gmail.com",
             affiliation="Google DeepMind",
             photo="evci.jpeg",
         )
@@ -793,7 +745,6 @@ def make_organizers():
             role="Publicity Chair",
             website="https://yani.ai/",
             affiliation="University of Calgary",
-            email="yani.ioannou@gmail.com",
             photo="ioannou.jpeg",
         )
     )
@@ -803,7 +754,6 @@ def make_organizers():
             name="Souvik Kundu",
             role="Area Chair",
             website="https://ksouvik52.github.io/",
-            email="souvikku@usc.edu",
             affiliation="Intel Labs, USA",
             photo="kundu.jpeg",
         )
@@ -813,7 +763,6 @@ def make_organizers():
         Organizer(
             name="Gitta Kutyniok",
             role="General Chair",
-            email="kutyniok@math.lmu.de",
             website="https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html",
             affiliation="LMU Munich",
             photo="kutyniok.jpg",
@@ -825,7 +774,6 @@ def make_organizers():
             name="Qi Lei",
             role="Area Chair",
             website="https://cecilialeiqi.github.io/",
-            email="ql518@nyu.edu",
             affiliation="NYU",
             photo="lei0.jpeg",
         )
@@ -835,7 +783,6 @@ def make_organizers():
         Organizer(
             name="Xiao Li",
             role="Area Chair",
-            email="lixiao@cuhk.edu.cn",
             website="https://www.xiao-li.org/",
             affiliation="CUHK Shenzhen",
             photo="li.png",
@@ -847,7 +794,6 @@ def make_organizers():
             name="Sijia Liu",
             role="Panel Chair",
             website="https://lsjxjtu.github.io/",
-            email="lsjxjtu@gmail.com",
             affiliation="Michigan State University",
             photo="liu.png",
         )
@@ -857,7 +803,6 @@ def make_organizers():
         Organizer(
             name="Yi Ma",
             role="General Chair",
-            email="yima@eecs.berkeley.edu",
             website="https://people.eecs.berkeley.edu/~yima/",
             affiliation="UC Berkeley / HKU IDS",
             photo="ma.jpeg",
@@ -868,7 +813,6 @@ def make_organizers():
         Organizer(
             name="Yi Ma",
             role="Advisory Committee",
-            email="yima@eecs.berkeley.edu",
             website="https://people.eecs.berkeley.edu/~yima/",
             affiliation="UC Berkeley / HKU IDS",
             photo="ma.jpeg",
@@ -881,7 +825,6 @@ def make_organizers():
             role="Area Chair",
             website="https://people.utwente.nl/e.mocanu",
             affiliation="University of Twente",
-            email="e.mocanu@utwente.nl",
             photo="mocanu.jpeg",
         )
     )
@@ -892,7 +835,6 @@ def make_organizers():
             role="Area Chair",
             website="https://gregongie.github.io/",
             affiliation="Marquette University",
-            email="gregory.ongie@marquette.edu",
             photo="ongie.png",
         )
     )
@@ -901,7 +843,6 @@ def make_organizers():
         Organizer(
             name="Qing Qu",
             role="Program Chair",
-            email="qingqu@umich.edu",
             website="https://qingqu.engin.umich.edu/",
             affiliation="University of Michigan",
             photo="qq.jpeg",
@@ -912,7 +853,6 @@ def make_organizers():
         Organizer(
             name="Saiprasad Ravishankar",
             role="Tutorial Chair",
-            email="ravisha3@msu.edu",
             website="https://sites.google.com/site/sairavishankar3/",
             affiliation="Michigan State University",
             photo="ravishankar.jpg",
@@ -925,7 +865,6 @@ def make_organizers():
             role="Publicity Chair",
             website="https://wredman4.wixsite.com/wtredman",
             affiliation="UCSB",
-            email="wredman@ucsb.edu",
             photo="redman.jpeg",
         )
     )
@@ -936,7 +875,6 @@ def make_organizers():
             role="Publicity Chair",
             website="https://liyueshen.engin.umich.edu/",
             affiliation="University of Michigan",
-            email="liyues@umich.edu",
             photo="shen-liyue.jpeg",
         )
     )
@@ -954,7 +892,6 @@ def make_organizers():
         Organizer(
             name="Stefano Soatto",
             role="Advisory Committee",
-            email="soatto@ucla.edu",
             website="https://web.cs.ucla.edu/~soatto/",
             affiliation="UCLA",
             photo="soatto.jpeg",
@@ -964,7 +901,6 @@ def make_organizers():
     organizers.append(
         Organizer(
             name="Mahdi Soltanolkotabi",
-            email="soltanol@usc.edu",
             role="Area Chair",
             website="https://viterbi-web.usc.edu/~soltanol/",
             affiliation="USC",
@@ -976,7 +912,6 @@ def make_organizers():
         Organizer(
             name="Jeremias Sulam",
             role="Panel Chair",
-            email="jsulam@jhu.edu",
             website="https://sites.google.com/view/jsulam",
             affiliation="Johns Hopkins University",
             photo="js.png",
@@ -989,7 +924,6 @@ def make_organizers():
             role="General Chair",
             website="http://vision.jhu.edu/rvidal.html",
             affiliation="UPenn",
-            email="rvidal@jhu.edu",
             photo="vidal.jpeg",
         )
     )
@@ -998,7 +932,6 @@ def make_organizers():
         Organizer(
             name="Atlas Wang",
             role="Program Chair",
-            email="atlaswang@utexas.edu",
             website="https://vita-group.github.io/",
             affiliation="UT Austin",
             photo="aw.png",
@@ -1009,7 +942,6 @@ def make_organizers():
         Organizer(
             name="Dilin Wang",
             role="Industry Liaison Chair",
-            email="wdilin@meta.com",
             website="https://research.facebook.com/people/wang-dilin/",
             affiliation="Meta",
             photo="wangd.jpeg",
@@ -1021,7 +953,6 @@ def make_organizers():
             name="Peng Wang",
             role="Area Chair",
             website="https://peng8wang.github.io/",
-            email="pengwa@umich.edu",
             affiliation="University of Michigan",
             photo="wangp.jpeg",
         )
@@ -1032,7 +963,6 @@ def make_organizers():
             name="Yu-Xiang Wang",
             role="Area Chair",
             website="https://sites.cs.ucsb.edu/~yuxiangw/",
-            email="yuxiangw@cs.ucsb.edu",
             affiliation="UC Santa Barbara",
             photo="wang.jpeg",
         )
@@ -1043,7 +973,6 @@ def make_organizers():
             name="Bihan Wen",
             role="Area Chair",
             website="https://personal.ntu.edu.sg/bihan.wen/",
-            email="bihan.wen@ntu.edu.sg",
             affiliation="Nanyang Technological University",
             photo="wen.jpeg",
         )
@@ -1054,7 +983,6 @@ def make_organizers():
             name="Rebecca Willett",
             role="Advisory Committee",
             website="https://willett.psd.uchicago.edu/",
-            email="willett@g.uchicago.edu",
             affiliation="UChicago",
             photo="willett.jpeg",
         )
@@ -1064,7 +992,6 @@ def make_organizers():
         Organizer(
             name="John Wright",
             role="Tutorial Chair",
-            email="jw2966@columbia.edu",
             website="http://www.columbia.edu/~jw2966/",
             affiliation="Columbia University",
             photo="jw.jpg",
@@ -1075,7 +1002,6 @@ def make_organizers():
         Organizer(
             name="Eric P. Xing",
             role="Advisory Committee",
-            email="epxing@cs.cmu.edu",
             website="https://www.cs.cmu.edu/~epxing/",
             affiliation="MBZUAI / Carnegie Mellon University",
             photo="ex.jpeg",
@@ -1087,7 +1013,6 @@ def make_organizers():
             name="Yanchao Yang",
             role="Local Chair",
             website="https://yanchaoyang.github.io/",
-            email="yanchaoy@hku.hk",
             affiliation="HKU",
             photo="yyang.jpeg",
         )
@@ -1097,7 +1022,6 @@ def make_organizers():
         Organizer(
             name="Fanny Yang",
             role="Area Chair",
-            email="fan.yang@inf.ethz.ch",
             website="https://sml.inf.ethz.ch/group/fannyy/",
             affiliation="ETH Zurich",
             photo="yang.png",
@@ -1108,7 +1032,6 @@ def make_organizers():
         Organizer(
             name="Chong You",
             role="Industry Liaison Chair",
-            email="chong.you1987@gmail.com",
             website="https://sites.google.com/view/cyou",
             affiliation="Google Research",
             photo="cy.jpeg",
@@ -1120,7 +1043,6 @@ def make_organizers():
             name="Man-Chung Yue",
             role="Local Chair",
             website="https://manchungyue.com/",
-            email="mcyue@hku.hk",
             affiliation="HKU",
             photo="ymc.jpeg",
         )
@@ -1130,7 +1052,6 @@ def make_organizers():
         Organizer(
             name="Yuqian Zhang",
             role="Area Chair",
-            email="yqz.zhang@rutgers.edu",
             website="https://sites.google.com/view/yuqianzhang",
             affiliation="Rutgers University",
             photo="yz.jpg",
@@ -1140,7 +1061,6 @@ def make_organizers():
     organizers.append(
         Organizer(
             name="Tong Zhang",
-            email="tongzhang@tongzhang-ml.org",
             role="Advisory Committee",
             website="http://tongzhang-ml.org/",
             affiliation="HKUST",
@@ -1152,7 +1072,6 @@ def make_organizers():
         Organizer(
             name="Zhihui Zhu",
             role="Publication Chair",
-            email="zhihui.zhu@du.edu",
             website="https://zhihuizhu.github.io",
             affiliation="Ohio State University",
             photo="zz.jpeg",
@@ -1163,7 +1082,6 @@ def make_organizers():
         Organizer(
             name="Anima Anandkumar",
             role="Advisory Committee",
-            email="anima@caltech.edu",
             website="http://tensorlab.cms.caltech.edu/users/anima/",
             affiliation="Caltech / NVIDIA",
             photo="anandkumar.jpeg",
@@ -1174,7 +1092,6 @@ def make_organizers():
         Organizer(
             name="Tianbao Yang",
             role="Area Chair",
-            email="tianbao-yang@tamu.edu",
             website="https://people.tamu.edu/~tianbao-yang/",
             affiliation="Texas A&M",
             photo="tianbao_yang.jpeg",
@@ -1185,7 +1102,6 @@ def make_organizers():
         Organizer(
             name="Jiaqi Ma",
             role="Area Chair",
-            email="jiaqima@illinois.edu",
             website="https://www.jiaqima.com/",
             affiliation="Harvard / UIUC",
             photo="jiaqi-ma.jpeg",
@@ -1196,7 +1112,6 @@ def make_organizers():
         Organizer(
             name="Paris Giampouras",
             role="Area Chair",
-            email="parisg@jhu.edu",
             website="https://parisgiampouras.github.io/",
             affiliation="Johns Hopkins University",
             photo="giampouras.jpeg",
@@ -1208,7 +1123,6 @@ def make_organizers():
             name="Emmanuel Candès",
             role="Advisory Committee",
             website="https://candes.su.domains/",
-            email="candes@stanford.edu",
             affiliation="Stanford",
             photo="ecandes.jpeg",
         )
@@ -1218,7 +1132,6 @@ def make_organizers():
         Organizer(
             name="Weijie Su",
             role="Area Chair",
-            email="suw@wharton.upenn.edu",
             website="http://stat.wharton.upenn.edu/~suw/",
             affiliation="UPenn",
             photo="su.jpeg",
@@ -1230,7 +1143,6 @@ def make_organizers():
             name="Peyman Milanfar",
             role="Advisory Committee",
             website="http://www.milanfar.org/",
-            email="peyman.milanfar@gmail.com",
             affiliation="Google Research",
             photo="milanfar.jpeg",
         )
@@ -1240,7 +1152,6 @@ def make_organizers():
         Organizer(
             name="Tianyi Chen",
             role="Area Chair",
-            email="chentianyi19@gmail.com",
             website="https://chentianyi1991.github.io/",
             affiliation="RPI",
             photo="tianyi_chen.jpeg",
@@ -1251,7 +1162,6 @@ def make_organizers():
         Organizer(
             name="Wei Hu",
             role="Area Chair",
-            email="vvh@umich.edu",
             website="https://weihu.me/",
             affiliation="University of Michigan",
             photo="huwei.jpeg",
@@ -1262,7 +1172,6 @@ def make_organizers():
         Organizer(
             name="Navid Azizan",
             role="Area Chair",
-            email="azizan@mit.edu",
             website="https://azizan.mit.edu",
             affiliation="MIT",
             photo="NavidAzizan_c.jpg",
@@ -1273,7 +1182,6 @@ def make_organizers():
         Organizer(
             name="Laixi Shi",
             role="Area Chair",
-            email="laixis@andrew.cmu.edu",
             website="https://www.andrew.cmu.edu/user/laixis/",
             affiliation="Caltech",
             photo="shi.jpeg",
@@ -1284,7 +1192,6 @@ def make_organizers():
         Organizer(
             name="Soledad Villar",
             role="Area Chair",
-            email="soledad.villar@jhu.edu",
             website="https://www.ams.jhu.edu/villar/",
             affiliation="Johns Hopkins University",
             photo="villar.jpeg",
@@ -1295,7 +1202,6 @@ def make_organizers():
         Organizer(
             name="Sarah Dean",
             role="Area Chair",
-            email="sdean@cornell.edu",
             website="https://sdean.website/",
             affiliation="Cornell University",
             photo="dean.jpeg",
@@ -1306,7 +1212,6 @@ def make_organizers():
         Organizer(
             name="Wenjing Liao",
             role="Area Chair",
-            email="wliao60@gatech.edu",
             website="https://wliao60.math.gatech.edu/",
             affiliation="Georgia Institute of Technology",
             photo="liao.jpeg",
@@ -1317,7 +1222,6 @@ def make_organizers():
         Organizer(
             name="Vidya K. Muthukumar",
             role="Area Chair",
-            email="vmuthukumar8@gatech.edu",
             website="https://vmuthukumar.ece.gatech.edu/",
             affiliation="Georgia Institute of Technology",
             photo="muthukumar.jpeg",
