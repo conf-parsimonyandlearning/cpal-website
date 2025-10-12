@@ -1,1 +1,7 @@
 .ruby-version
+
+# Database-related ignores (from academic_sites)
+_db/data/credentials.txt
+_db/data/cpal-speaker*/
+_db/.venv/
+_db/__pycache__/
