@@ -626,7 +626,7 @@ def make_organizers():
     organizers.append(
         Organizer(
             name="Haotong Qin",
-            role="Local Chair",
+            role="Tutorial Chair",
             website="https://htqin.github.io/",
             affiliation="ETH",
             photo="qin.png",
@@ -689,7 +689,7 @@ def make_organizers():
             name="Souvik Kundu",
             role="Industry Liaison Chair",
             website="https://ksouvik52.github.io/",
-            affiliation="Google",
+            affiliation="Intel",
             photo="kundu.jpeg",
         )
     )
@@ -723,17 +723,6 @@ def make_organizers():
             website="https://tianlong-chen.github.io/",
             affiliation="UNC Chapel Hill",
             photo="chen_t.jpeg",
-        )
-    )
-
-    # Tutorial Chair
-    organizers.append(
-        Organizer(
-            name="Chong You",
-            role="Tutorial Chair",
-            website="https://sites.google.com/view/cyou",
-            affiliation="Google",
-            photo="cy.jpeg",
         )
     )
 
