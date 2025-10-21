@@ -28,7 +28,7 @@ nav_order: 7
 | Event                     | Date                           | Countdown                    |
 |:--------------------------|:-------------------------------|:-----------------------------|
 | Submission Deadline       | January 15th, 2026             |<span id="wksp-sub"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2026, month: 1, day: 15, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#wksp-sub').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
-| Final Decisions Released  | TBA            |<span id="wksp-decision"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2026, month: 1, day: 20, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#wksp-decision').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
+| Final Decisions Released  | January 20th, 2026            |<span id="wksp-decision"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2026, month: 1, day: 20, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#wksp-decision').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
 
 ## [Tutorial Proposals]({{ site.baseurl }}/call_for_tutorials)
 
