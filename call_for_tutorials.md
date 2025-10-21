@@ -9,8 +9,8 @@ nav_order: 1
 
 # Timeline
 
-**December 10, 2025: Tutorial proposal deadline**
-**January 14, 2026: Tutorial results announced**
+**December 10, 2025: Tutorial proposal deadline**<br>
+**January 14, 2026: Tutorial results announced**<br>
 March 23–26, 2026: Conference held in Tübingen, Germany
 
 # Call for Tutorials
@@ -27,7 +27,7 @@ Tutorials should be broadly appealing to the CPAL community and are expected to 
 
 **Submission Guidelines:**
 
-Tutorial proposals should be submitted via [this form](https://forms.gle/2enjscpiDJi1NAkC8) before the deadline indicated on https://cpal.cc/. Your proposal should answer the following questions:
+Tutorial proposals should be submitted via [this form](https://forms.gle/2enjscpiDJi1NAkC8) before the deadline indicated on [https://cpal.cc/](https://cpal.cc/). Your proposal should answer the following questions:
 
 * Title
 * Abstract: A summary of the tutorial content (up to 250 words).
