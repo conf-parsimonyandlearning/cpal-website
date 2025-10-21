@@ -31,7 +31,7 @@ All deadlines can be found on the [deadlines page]({{ site.baseurl
 ## Proceedings Track  (archival)
 
 The submission and review stage will be **double-blind**. We use
-[OpenReview](https://openreview.net/group?id=CPAL.cc/2026/Proceedings_Track)
+[OpenReview](https://openreview.net/group?id=CPAL.cc/2026/Conference)
 to host
 papers and record discussions between authors and reviewers. Before the end of the
 Authors-Reviewers Discussion Stage, authors can participate in the discussion as
