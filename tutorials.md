@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Rising Stars Award
+title: Tutorials
 has_children: true
-nav_order: 10
+nav_order: 9
 ---
 
 {% include splash.html %}

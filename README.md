@@ -39,6 +39,24 @@ subject areas of interest and general policies.
 Stay tuned for further updates!
 
 
+# Call for Tutorials
+
+CPAL 2026 invites proposals for in-person tutorials on advancing our understanding of intelligence through the lens of parsimonious learning and its various facets. We welcome tutorials on theories of parsimonious learning, algorithms and implementations, applications in various domains, hardware and systems for efficient learning, and scientific foundations and connections to other fields.
+
+**Tutorial proposal deadline: December 10, 2025**
+
+Please see the [**call for tutorials**]({{ site.baseurl }}/call_for_tutorials) for submission guidelines and details.
+
+
+# Rising Stars Award
+
+The CPAL Rising Stars Award program highlights exceptional junior researchers at a critical inflection point in their career: last-year PhD students, postdoctoral scholars, first-year tenure track faculty, or industry researchers within two years of graduation. Selected awardees will receive a full registration waiver and participate in dedicated poster sessions, panels, and networking opportunities with senior researchers.
+
+**Application deadline: December 15, 2025**
+
+Please see the [**call for applications**]({{ site.baseurl }}/rising_stars_guidelines) for eligibility criteria and application requirements.
+
+
 
 # Key Dates and Deadlines (Tentative)
 
