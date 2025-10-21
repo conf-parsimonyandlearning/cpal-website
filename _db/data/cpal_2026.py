@@ -274,7 +274,7 @@ def make_speakers():
             name="Bernhard Schölkopf",
             role="Keynote Speaker",
             website="https://is.mpg.de/~bs",
-            affiliation="Max Planck Institute for Intelligent Systems",
+            affiliation="Max Planck Institute for Intelligent Systems / ELLIS Institute Tübingen",
             photo="scholkopf.png",
             talk="TBA",
             abstract="TBA",
