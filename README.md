@@ -23,9 +23,6 @@ more detail [here]({{ site.baseurl }}/vision).
 
 # Call for Papers
 
-{: .fs-5 .text-center}
-[Submit your Work on OpenReview](https://openreview.net/group?id=CPAL.cc/2026/Conference)
-
 We are pleased to announce the Third Conference on Parsimony and Learning,
 to be held in Tübingen, Germany!
 
@@ -34,6 +31,9 @@ Parsimony and Learning are now open!
 Please see the [**call for papers**]({{ site.baseurl
 }}/tracks) for details about the submission and reviewing process, as well as
 subject areas of interest and general policies.
+
+{: .fs-5 .text-center}
+[Submit Your Work on OpenReview](https://openreview.net/group?id=CPAL.cc/2026/Conference)
 
 
 # Call for Tutorials
