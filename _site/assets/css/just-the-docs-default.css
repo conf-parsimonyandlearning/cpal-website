@@ -6897,10 +6897,10 @@ blockquote.quote-title {
   text-align: center; }
   .speaker .speaker-image {
     border-radius: 25%;
-    height: 200px;
-    width: 150px;
+    width: 140px;
     margin-bottom: 1rem;
-    display: block; }
+    display: block;
+    aspect-ratio: 1/1; }
   .speaker p,
   .speaker .speaker-name {
     margin: 0.25rem !important; }

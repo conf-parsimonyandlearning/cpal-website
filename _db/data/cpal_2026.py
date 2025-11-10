@@ -337,6 +337,74 @@ def make_speakers():
         )
     )
 
+    speakers.append(
+        Speaker(
+            name="Andreas Krause",
+            role="Keynote Speaker",
+            website="https://las.inf.ethz.ch/krausea",
+            affiliation="ETH Zurich",
+            photo="krause.png",
+            talk="TBA",
+            abstract="TBA",
+            bio="TBA",
+            day="TBA",
+            start="TBA",
+            end="TBA",
+            location=day_two_str,
+        )
+    )
+
+    speakers.append(
+        Speaker(
+            name="Matthias Bethge",
+            role="Keynote Speaker",
+            website="https://bethgelab.org/",
+            affiliation="University of Tübingen",
+            photo="bethge.png",
+            talk="TBA",
+            abstract="TBA",
+            bio="TBA",
+            day="TBA",
+            start="TBA",
+            end="TBA",
+            location=day_two_str,
+        )
+    )
+
+    speakers.append(
+        Speaker(
+            name="Jared Tanner",
+            role="Keynote Speaker",
+            website="https://people.maths.ox.ac.uk/tanner/",
+            affiliation="University of Oxford",
+            photo="tanner.png",
+            talk="TBA",
+            abstract="TBA",
+            bio="TBA",
+            day="TBA",
+            start="TBA",
+            end="TBA",
+            location=day_two_str,
+        )
+    )
+
+    speakers.append(
+        Speaker(
+            name="Leena Chennuru Vankadara",
+            role="Keynote Speaker",
+            website="https://leenacvankadara.com/",
+            affiliation="University College London",
+            photo="vankadara.png",
+            talk="TBA",
+            abstract="TBA",
+            bio="TBA",
+            day="TBA",
+            start="TBA",
+            end="TBA",
+            location=day_two_str,
+        )
+    )
+
     return speakers
 
 

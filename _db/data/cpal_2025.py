@@ -26,7 +26,7 @@ root = Path(__file__).parent.parent.parent
 day_one_str = "Fortinet Seminar Room, E160"  # Assuming this for Tuesday
 day_two_str = "Simonyi Conference Center"  # Assuming this for Wednesday and Thursday
 
-# Speaker photos should close to 1.33 : 1 aspect (height : width)
+# Speaker photos should be close to 1:1 aspect (height : width)
 
 # Organizer photos should be close to 1:1 aspect
 

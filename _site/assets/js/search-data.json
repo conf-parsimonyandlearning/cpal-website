@@ -1,389 +1,543 @@
 {"0": {
     "doc": "Home",
     "title": "Call for Papers",
-    "content": "We are pleased to announce the Third Conference on Parsimony and Learning, to be held in Tübingen, Germany! . Paper submissions for the third Conference on Parsimony and Learning will be opened soon. Please see the call for papers for details about the submission and reviewing process, as well as subject areas of interest and general policies. Stay tuned for further updates! . ",
+    "content": "We are pleased to announce the Third Conference on Parsimony and Learning, to be held in Tübingen, Germany! . Paper submissions for the third Conference on Parsimony and Learning are now open! Please see the call for papers for details about the submission and reviewing process, as well as subject areas of interest and general policies. Submit Your Work on OpenReview . ",
     "url": "/#call-for-papers",
     
     "relUrl": "/#call-for-papers"
   },"1": {
+    "doc": "Home",
+    "title": "Call for Tutorials",
+    "content": "CPAL 2026 invites proposals for in-person tutorials on advancing our understanding of intelligence through the lens of parsimonious learning and its various facets. We welcome tutorials on theories of parsimonious learning, algorithms and implementations, applications in various domains, hardware and systems for efficient learning, and scientific foundations and connections to other fields. Tutorial proposal deadline: December 10, 2025 . Please see the call for tutorials for submission guidelines and details. ",
+    "url": "/#call-for-tutorials",
+    
+    "relUrl": "/#call-for-tutorials"
+  },"2": {
+    "doc": "Home",
+    "title": "Rising Stars Award",
+    "content": "The CPAL Rising Stars Award program highlights exceptional junior researchers at a critical inflection point in their career: last-year PhD students, postdoctoral scholars, first-year tenure track faculty, or industry researchers within two years of graduation. Selected awardees will receive a full registration waiver and participate in dedicated poster sessions, panels, and networking opportunities with senior researchers. Application deadline: December 15, 2025 . Please see the call for applications for eligibility criteria and application requirements. ",
+    "url": "/#rising-stars-award",
+    
+    "relUrl": "/#rising-stars-award"
+  },"3": {
     "doc": "Home",
     "title": "Key Dates and Deadlines (Tentative)",
     "content": "All deadlines are 23:59 Anywhere-on-Earth (AOE) . | December 5, 2025: Conference paper submission deadline | December 10, 2025: Tutorial proposal deadline | December 15, 2025: “Rising Stars” application deadline | January 5, 2026: Review deadline | January 8–11, 2026: Paper rebuttal period | January 14, 2026: Tutorial results announced | January 15, 2026: “Recent Spotlight” article submission deadline | January 20, 2026: Final paper decisions released | March 23–26, 2026: Conference held in Tübingen, Germany | . ",
     "url": "/#key-dates-and-deadlines-tentative",
     
     "relUrl": "/#key-dates-and-deadlines-tentative"
-  },"2": {
+  },"4": {
     "doc": "Home",
     "title": "Keynote Speakers",
     "content": "<!-- ",
     "url": "/#keynote-speakers",
     
     "relUrl": "/#keynote-speakers"
-  },"3": {
+  },"5": {
     "doc": "Home",
     "title": "Confirmed Distinguished Speakers",
-    "content": "--> Francis Bach . INRIA - École Normale Supérieure . Niao He . ETH Zurich . Bernhard Schölkopf . Max Planck Institute for Intelligent Systems . Taiji Suzuki . University of Tokyo / RIKEN AIP . Fanny Yang . ETH Zurich . ",
+    "content": "--> Francis Bach . INRIA - École Normale Supérieure . Matthias Bethge . University of Tübingen . Niao He . ETH Zurich . Andreas Krause . ETH Zurich . Bernhard Schölkopf . Max Planck Institute for Intelligent Systems / ELLIS Institute Tübingen . Taiji Suzuki . University of Tokyo / RIKEN AIP . Jared Tanner . University of Oxford . Leena Chennuru Vankadara . University College London . Fanny Yang . ETH Zurich . ",
     "url": "/",
     
     "relUrl": "/"
-  },"4": {
+  },"6": {
     "doc": "Home",
     "title": "Home",
     "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen The Conference on Parsimony and Learning (CPAL) is an annual research conference focused on addressing the parsimonious, low dimensional structures that prevail in machine learning, signal processing, optimization, and beyond. We are interested in theories, algorithms, applications, hardware and systems, as well as scientific foundations for learning with parsimony. ",
     "url": "/",
     
     "relUrl": "/"
-  },"5": {
+  },"7": {
     "doc": "Advisory Committee",
     "title": "Advisory Committee",
     "content": "Anima Anandkumar . Caltech / NVIDIA . Advisory Committee . Emmanuel Candès . Stanford . Advisory Committee . Alex Dimakis . UC Berkeley . Advisory Committee . Michael Elad . Technion . Advisory Committee . Yi Ma . University of Hong Kong . Advisory Committee . Peyman Milanfar . Google Research . Advisory Committee . Stefano Soatto . UCLA . Advisory Committee . Rebecca Willett . UChicago . Advisory Committee . Eric P. Xing . MBZUAI / Carnegie Mellon University . Advisory Committee . Tong Zhang . University of Illinois Urbana-Champaign . Advisory Committee . * Ordered alphabetically . ",
     "url": "/advisory/#advisory-committee",
     
     "relUrl": "/advisory/#advisory-committee"
-  },"6": {
+  },"8": {
     "doc": "Advisory Committee",
     "title": "Advisory Committee",
     "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
     "url": "/advisory/",
     
     "relUrl": "/advisory/"
-  },"7": {
+  },"9": {
     "doc": "Area Chairs",
     "title": "Area Chairs",
     "content": "* Ordered alphabetically . ",
     "url": "/area_chairs/",
     
     "relUrl": "/area_chairs/"
-  },"8": {
+  },"10": {
+    "doc": "Call for Tutorials",
+    "title": "Timeline",
+    "content": "December 10, 2025: Tutorial proposal deadline January 14, 2026: Tutorial results announced March 23–26, 2026: Conference held in Tübingen, Germany . ",
+    "url": "/call_for_tutorials/#timeline",
+    
+    "relUrl": "/call_for_tutorials/#timeline"
+  },"11": {
+    "doc": "Call for Tutorials",
+    "title": "Call for Tutorials",
+    "content": "The CPAL 2026 Organizing Committee invites proposals for in-person tutorials on advancing our understanding of intelligence through the lens of parsimonious learning and its various facets. We welcome tutorials on a wide range of topics, including . | Theories of parsimonious learning | Algorithms and implementations | Applications in various domains | Hardware and systems for efficient learning | Scientific foundations and connections to other fields | . Tutorials should be broadly appealing to the CPAL community and are expected to be accessible to PhD candidates working in the areas of machine learning and intelligence in general. Tutorials should represent a sufficiently mature area of research or practice and should provide a balanced and accessible overview. We encourage proposals with speakers from different institutions to reduce knowledge bias. Submission Guidelines: . Tutorial proposals should be submitted via this form before the deadline indicated on https://cpal.cc/. Your proposal should answer the following questions: . | Title | Abstract: A summary of the tutorial content (up to 250 words). | Outline: A detailed outline of the topics covered, including references and estimated time allocation. | Target audience: A description of the intended audience and their expected background. | Presenters: For each presenter, include their name, affiliation, email address, and a short bio. Please discuss how time is split between the presenters. All presenters are required to attend in person. | . Selection Criteria: . Tutorials will be selected based on: . | Relevance to CPAL’s theme of parsimonious learning | Clarity and comprehensiveness of the proposal | Potential impact on the audience | Speaker experience and diversity | . Tutorial Format: . Tutorials will be held entirely in-person and will be 120-180 minutes long. Each tutorial must have at least two presenters. Questions . For other questions, please contact us (haotong.qin@pbl.ee.ethz.ch). We look forward to receiving your proposals! . The Organizing Committee, CPAL 2026 . ",
+    "url": "/call_for_tutorials/#call-for-tutorials",
+    
+    "relUrl": "/call_for_tutorials/#call-for-tutorials"
+  },"12": {
+    "doc": "Call for Tutorials",
+    "title": "Call for Tutorials",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/call_for_tutorials/",
+    
+    "relUrl": "/call_for_tutorials/"
+  },"13": {
     "doc": "Call for Papers",
     "title": "Call for Papers",
     "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
     "url": "/cfp/",
     
     "relUrl": "/cfp/"
-  },"9": {
+  },"14": {
     "doc": "Code of Conduct",
     "title": "Code of Conduct",
     "content": "(Adapted from ICML/ICLR/NeurIPS/LoG) . We strive to hold a conference in which any person can meaningfully participate in the CPAL community through: sharing ideas, presenting their work, meeting members of the community, learning from other people’s work, and discussing ways to improve the community. This conference will work towards preventing any type of discrimination based on age, disability, ethnicity, experience in the field, gender identity, nationality, physical appearance, race, religion, sexual orientation, or other protected characteristics. We strictly prohibit any actions that may prevent the participation of any attendee, including: bullying, harassment, inappropriate media, offensive language, violence, zoom bombing, and so on. Please report any violations of the code of conduct to the conference organizers, via email, slack, or any other channels. If requested, we can handle these reports anonymously, to protect the person making the report. Violators of the code of conduct will be asked to stop their inappropriate behavior, and may be removed from their right to participate in the conference. Further disciplinary action such as bans from future iterations of the conference may be taken. ",
     "url": "/code_of_conduct/#code-of-conduct",
     
     "relUrl": "/code_of_conduct/#code-of-conduct"
-  },"10": {
+  },"15": {
     "doc": "Code of Conduct",
     "title": "Code of Conduct",
     "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
     "url": "/code_of_conduct/",
     
     "relUrl": "/code_of_conduct/"
-  },"11": {
+  },"16": {
+    "doc": "Key Dates",
+    "title": "Key Dates and Deadlines",
+    "content": "Unless specified otherwise, all deadlines are 23:59 Anywhere-on-Earth (AOE) . ",
+    "url": "/deadlines/#key-dates-and-deadlines",
+    
+    "relUrl": "/deadlines/#key-dates-and-deadlines"
+  },"17": {
+    "doc": "Key Dates",
+    "title": "Conference Submission (Proceedings Track)",
+    "content": "| Event | Date | Countdown | . | Submission Deadline | December 5th, 2025 | | . | Review Deadline | January 5th, 2026 | | . | Rebuttal Period | January 8th–11th, 2026 | | . | Final Decisions Released | January 20th, 2026 | | . ",
+    "url": "/deadlines/#conference-submission-proceedings-track",
+    
+    "relUrl": "/deadlines/#conference-submission-proceedings-track"
+  },"18": {
+    "doc": "Key Dates",
+    "title": "Conference Submission (Recent Spotlight Track)",
+    "content": "| Event | Date | Countdown | . | Submission Deadline | January 15th, 2026 | | . | Final Decisions Released | January 20th, 2026 | | . ",
+    "url": "/deadlines/#conference-submission-recent-spotlight-track",
+    
+    "relUrl": "/deadlines/#conference-submission-recent-spotlight-track"
+  },"19": {
+    "doc": "Key Dates",
+    "title": "Tutorial Proposals",
+    "content": "| Event | Date | Countdown | . | Application Deadline | December 10th, 2025 | | . | Decisions Released | January 14th, 2026 | | . ",
+    "url": "/deadlines/#tutorial-proposals",
+    
+    "relUrl": "/deadlines/#tutorial-proposals"
+  },"20": {
+    "doc": "Key Dates",
+    "title": "Rising Stars Award",
+    "content": "| Event | Date | Countdown | . | Application Deadline | December 15th, 2025 | | . | Decisions Released | January 21st, 2026 | | . ",
+    "url": "/deadlines/#rising-stars-award",
+    
+    "relUrl": "/deadlines/#rising-stars-award"
+  },"21": {
+    "doc": "Key Dates",
+    "title": "Main Conference",
+    "content": "| Event | Date | . | Conference Program | March 23rd - March 26th, 2026 | . | Early Registration Deadline | TBA | . ",
+    "url": "/deadlines/#main-conference",
+    
+    "relUrl": "/deadlines/#main-conference"
+  },"22": {
+    "doc": "Key Dates",
+    "title": "Key Dates",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/deadlines/",
+    
+    "relUrl": "/deadlines/"
+  },"23": {
     "doc": "Organization Committee",
     "title": "Organization Committee",
     "content": " ",
     "url": "/organization_committee/",
     
     "relUrl": "/organization_committee/"
-  },"12": {
+  },"24": {
     "doc": "Organization Committee",
     "title": "General Chairs",
     "content": "Misha Belkin . UC San Diego . General Chair . Gitta Kutyniok . LMU Munchen . General Chair . Yi Ma . University of Hong Kong . General Chair . ",
     "url": "/organization_committee/#general-chairs",
     
     "relUrl": "/organization_committee/#general-chairs"
-  },"13": {
+  },"25": {
     "doc": "Organization Committee",
     "title": "Program Chairs",
     "content": "Rebekka Burkholz . CISPA . Program Chair . Shiwei Liu . ELLIS Institute Tübingen and Max Planck Institute for Intelligent Systems . Program Chair . Saiprasad Ravishankar . Michigan State University . Program Chair . William T. Redman . Johns Hopkins University . Program Chair . ",
     "url": "/organization_committee/#program-chairs",
     
     "relUrl": "/organization_committee/#program-chairs"
-  },"14": {
+  },"26": {
     "doc": "Organization Committee",
     "title": "Senior Advisors to Program Chairs",
     "content": "Sijia Liu . Michigan State University . Senior Advisor to PCs . Qing Qu . University of Michigan . Senior Advisor to PCs . Jere Sulam . Johns Hopkins University . Senior Advisor to PCs . Atlas Wang . UT Austin . Senior Advisor to PCs . Yu-Xiang Wang . UCSD . Senior Advisor to PCs . ",
     "url": "/organization_committee/#senior-advisors-to-program-chairs",
     
     "relUrl": "/organization_committee/#senior-advisors-to-program-chairs"
-  },"15": {
+  },"27": {
     "doc": "Organization Committee",
     "title": "Local Chairs",
-    "content": "Jonas Geiping . ELLIS Institute Tübingen and Max Planck Institute for Intelligent Systems . Local Chair . Decebal Constantin Mocanu . University of Luxembourg . Local Chair . Haotong Qin . ETH . Local Chair . ",
+    "content": "Jonas Geiping . ELLIS Institute Tübingen and Max Planck Institute for Intelligent Systems . Local Chair . Decebal Constantin Mocanu . University of Luxembourg . Local Chair . ",
     "url": "/organization_committee/#local-chairs",
     
     "relUrl": "/organization_committee/#local-chairs"
-  },"16": {
+  },"28": {
     "doc": "Organization Committee",
     "title": "Publication Chairs",
     "content": "Wei Huang . RIKEN AIP . Publication Chair . Weijie Su . University of Pennsylvania . Publication Chair . Zhihui Zhu . Ohio State University . Publication Chair . ",
     "url": "/organization_committee/#publication-chairs",
     
     "relUrl": "/organization_committee/#publication-chairs"
-  },"17": {
+  },"29": {
     "doc": "Organization Committee",
     "title": "Industry Liaison Chairs",
-    "content": "Souvik Kundu . Google . Industry Liaison Chair . Yi (Ethan) Liang . Google . Industry Liaison Chair . Zechun Liu . Meta . Industry Liaison Chair . ",
+    "content": "Souvik Kundu . Intel . Industry Liaison Chair . Yi (Ethan) Liang . Google . Industry Liaison Chair . Zechun Liu . Meta . Industry Liaison Chair . ",
     "url": "/organization_committee/#industry-liaison-chairs",
     
     "relUrl": "/organization_committee/#industry-liaison-chairs"
-  },"18": {
+  },"30": {
     "doc": "Organization Committee",
     "title": "Tutorial Chairs",
-    "content": "Chong You . Google . Tutorial Chair . ",
+    "content": "Haotong Qin . ETH . Tutorial Chair . ",
     "url": "/organization_committee/#tutorial-chairs",
     
     "relUrl": "/organization_committee/#tutorial-chairs"
-  },"19": {
+  },"31": {
     "doc": "Organization Committee",
     "title": "Publicity Chairs",
     "content": "Liyue Shen . University of Michigan . Publicity Chair . ",
     "url": "/organization_committee/#publicity-chairs",
     
     "relUrl": "/organization_committee/#publicity-chairs"
-  },"20": {
+  },"32": {
     "doc": "Organization Committee",
     "title": "Rising Stars Award Chairs",
     "content": "Tianlong Chen . UNC Chapel Hill . Rising Stars Award Chair . ",
     "url": "/organization_committee/#rising-stars-award-chairs",
     
     "relUrl": "/organization_committee/#rising-stars-award-chairs"
-  },"21": {
+  },"33": {
     "doc": "Organization Committee",
     "title": "Web Chairs",
     "content": "Sam Buchanan . UC Berkeley . Web Chair . ",
     "url": "/organization_committee/#web-chairs",
     
     "relUrl": "/organization_committee/#web-chairs"
-  },"22": {
+  },"34": {
     "doc": "Organization Committee",
     "title": "Local Support",
     "content": "Carmela Rianna . ELLIS Institute Tübingen . Local Support . Matthias Tröndle . MPI-IS . Local Support . ",
     "url": "/organization_committee/#local-support",
     
     "relUrl": "/organization_committee/#local-support"
-  },"23": {
+  },"35": {
     "doc": "Organizers",
     "title": "Organizers",
     "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
     "url": "/organizers/",
     
     "relUrl": "/organizers/"
-  },"24": {
+  },"36": {
     "doc": "Past CPAL Websites",
     "title": "Past CPAL Websites",
     "content": "2026 . 2025 . 2024 . ",
     "url": "/other_years/#past-cpal-websites",
     
     "relUrl": "/other_years/#past-cpal-websites"
-  },"25": {
+  },"37": {
     "doc": "Past CPAL Websites",
     "title": "Past CPAL Websites",
     "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
     "url": "/other_years/",
     
     "relUrl": "/other_years/"
-  },"26": {
+  },"38": {
     "doc": "Proceedings Track",
     "title": "Proceedings Track: Accepted Papers",
     "content": "Accepted Proceedings Track papers are presented as posters at CPAL 2025. A select number of accepted Proceedings Track papers will be presented as orals; they are labeled below with (Oral). See the full program for the precise time and location of each oral and poster session. ",
     "url": "/proceedings_track/#proceedings-track-accepted-papers",
     
     "relUrl": "/proceedings_track/#proceedings-track-accepted-papers"
-  },"27": {
+  },"39": {
     "doc": "Proceedings Track",
     "title": "Proceedings Track",
     "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
     "url": "/proceedings_track/",
     
     "relUrl": "/proceedings_track/"
-  },"28": {
+  },"40": {
     "doc": "Review Guidelines",
     "title": "Reviewer Guidelines",
     "content": " ",
     "url": "/review_guidelines/#reviewer-guidelines",
     
     "relUrl": "/review_guidelines/#reviewer-guidelines"
-  },"29": {
+  },"41": {
     "doc": "Review Guidelines",
     "title": "Notable Innovations in Our Review Mechanism",
     "content": "CPAL strives for providing every paper with high-quality, accountable reviews, and therefore takes the following actions in addition: . | Shepherding by an Action PC: Every paper’s final decision, after being recommended by AC, will go through the direct shepherding of all program chairs (led by one “action PC”). The action PC has two main duties: . | (before final decision released) The action PC will pay particular attention to the borderline cases and the dispute (large score variations) cases, and will be asked to write additional “meta-meta reviews” in those cases and potentially calibrate on top of AC recommendations. Final decisions will be scrutinized and made in a joint meeting by all program chairs. | (after receiving the camera-ready) Each accepted paper’s authors will be asked to submit a one-page cover letter, summarizing what revisions are made between the paper’s submitted and camera-ready versions. The action PC will ensure: (1) all “promised” changes by authors during the discussion stage are indeed implemented; (2) no change that is “too substantial” and “unsoliciated” shall be made to the paper, unless in exceptional circumstances where the action PC has to approve case-by-case. The action PC reserves the right to reject a camera-ready submission and exclude it from the conference proceedings. | . | Semi-Open Identity for Accountability (Action PC and/or AC): For every accepted paper, the names of its AC and action PC will be publicly released on its OpenReview page too. For every rejected paper (excluding withdrawals), only the name of its action PC will be displayed. This decision was not reached lightly; but we hope it would meaningfully add credibility and accountability for every paper’s final outcome. | Reviewer Rating and “Dynamic Sparse Selection”: each AC will be asked to rate every reviewer in their batch, in terms of timeliness and quality. Program chairs, who know all reviewers’ identities, will compile a list of reviewers sorted by their average ratings received. Reviewers that receive consistent low reviewer rating for multiple papers / from multiple ACs will be excluded from future review processes. | . ",
     "url": "/review_guidelines/#notable-innovations-in-our-review-mechanism",
     
     "relUrl": "/review_guidelines/#notable-innovations-in-our-review-mechanism"
-  },"30": {
+  },"42": {
     "doc": "Review Guidelines",
     "title": "General Guidelines",
     "content": "We all like the Acceptance Criteria made by TMLR https://jmlr.org/tmlr/acceptance-criteria.html and would instruct our ACs and reviewers to honor the same. In particular we note: . “Crucially, it should not be used as a reason to reject work that isn’t considered “significant” or “impactful” because it isn’t achieving a new state-of-the-art on some benchmark. Nor should it form the basis for rejecting work on a method considered not “novel enough”, as novelty of the studied method is not a necessary criteria for acceptance. We explicitly avoid these terms (“significant”, “impactful”, “novel”), and focus instead on the notion of “interest”. If the authors make it clear that there is something to be learned by some researchers in their area from their work, then the criteria of interest is considered satisfied. ",
     "url": "/review_guidelines/#general-guidelines",
     
     "relUrl": "/review_guidelines/#general-guidelines"
-  },"31": {
+  },"43": {
     "doc": "Review Guidelines",
     "title": "Review Guidelines",
     "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
     "url": "/review_guidelines/",
     
     "relUrl": "/review_guidelines/"
-  },"32": {
+  },"44": {
+    "doc": "Rising Stars Award",
+    "title": "Rising Stars Award",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/rising_stars/",
+    
+    "relUrl": "/rising_stars/"
+  },"45": {
+    "doc": "Call for Applications",
+    "title": "CPAL Rising Stars Award",
+    "content": "The Conference on Parsimony and Learning (CPAL) launches the Rising Stars Award program to highlight exceptional junior researchers at a critical inflection and starting point in their career: last-year PhD students, postdoctoral scholars, first-year tenure track faculty, or industry researcher within two years of graduation. CPAL is an annual research conference focused on addressing the parsimonious, low dimensional structures that prevail in machine learning, signal processing, optimization, and beyond. As in the last year, CPAL Rising Stars Award program will provide PhD students, postdocs, junior faculties and industry researchers the opportunity to plug into these networks, platforms, and opportunities. The program also aims to increase representation and diversity in this area by providing a platform and a supportive mentoring network to navigate academic careers. All graduate students and postdocs, including those who belong to groups underrepresented, are encouraged to apply, including but not limited to people of all racial, ethnic, geographic, and socioeconomic backgrounds, sexual orientations, genders, and persons with disabilities. Apply here, and see details below. ",
+    "url": "/rising_stars_guidelines/#cpal-rising-stars-award",
+    
+    "relUrl": "/rising_stars_guidelines/#cpal-rising-stars-award"
+  },"46": {
+    "doc": "Call for Applications",
+    "title": "Key Dates",
+    "content": ". | Applications Due: December 15, 2025 | Notification Date: January 21st, 2026 | Conference: March 23–26, 2026 at Tübingen, Germany | . ",
+    "url": "/rising_stars_guidelines/#key-dates",
+    
+    "relUrl": "/rising_stars_guidelines/#key-dates"
+  },"47": {
+    "doc": "Call for Applications",
+    "title": "Program Format",
+    "content": ". | Dedicated poster session for selected awardees | Panels (career development) | Roundtable dinners or 1-1 meetings with senior researchers | Selected awardees need to confirm in-person attendance and will be supported with a full registration waiver to attend the CPAL 2026 conference at Tübingen, Germany | . ",
+    "url": "/rising_stars_guidelines/#program-format",
+    
+    "relUrl": "/rising_stars_guidelines/#program-format"
+  },"48": {
+    "doc": "Call for Applications",
+    "title": "Application Requirements",
+    "content": "The application is available through Google Forms. | Name &amp; Contact | Resume/CV | Tentative Poster Title | Research statement outlining research goals, potential projects of interest, and long-term career goals, and commitment to creating a more diverse and inclusive scientific community (1 page, standard font at a size 11 or larger) | List names of 1-2 references with emails | . ",
+    "url": "/rising_stars_guidelines/#application-requirements",
+    
+    "relUrl": "/rising_stars_guidelines/#application-requirements"
+  },"49": {
+    "doc": "Call for Applications",
+    "title": "Eligibility and Guidelines",
+    "content": ". | Applicants must be full time graduate students in their last year of obtaining a PhD, or current postdoctoral scholars/fellows, first-year tenure track faculty, or industry researchers within two years of graduation | We welcome applicants from a wide variety of fields and backgrounds: any eligible PhD or postdoc or junior faculty or junior industry researchers, who are engaging in addressing the parsimonious, low dimensional structures that prevail in machine learning, signal processing, optimization, systems, interdisciplinary applications and beyond are encouraged to apply. | Applicants from all institutions worldwide are encouraged to apply. | An applicant may only submit one application. | . ",
+    "url": "/rising_stars_guidelines/#eligibility-and-guidelines",
+    
+    "relUrl": "/rising_stars_guidelines/#eligibility-and-guidelines"
+  },"50": {
+    "doc": "Call for Applications",
+    "title": "Review Criteria",
+    "content": "Proposals will be reviewed by the CPAL Rising Stars Program Committee based on research impact, academic progress (if applicable), career potential, and commitment to broadening participation. ",
+    "url": "/rising_stars_guidelines/#review-criteria",
+    
+    "relUrl": "/rising_stars_guidelines/#review-criteria"
+  },"51": {
+    "doc": "Call for Applications",
+    "title": "Contact",
+    "content": "Please email tianlong@cs.unc.edu with questions. ",
+    "url": "/rising_stars_guidelines/#contact",
+    
+    "relUrl": "/rising_stars_guidelines/#contact"
+  },"52": {
+    "doc": "Call for Applications",
+    "title": "Call for Applications",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/rising_stars_guidelines/",
+    
+    "relUrl": "/rising_stars_guidelines/"
+  },"53": {
     "doc": "Keynote Speakers",
     "title": "Keynote Speakers",
     "content": "<!-- ",
     "url": "/speakers/",
     
     "relUrl": "/speakers/"
-  },"33": {
+  },"54": {
     "doc": "Keynote Speakers",
     "title": "Confirmed Distinguished Speakers",
-    "content": "--> Francis Bach . INRIA - École Normale Supérieure . Niao He . ETH Zurich . Bernhard Schölkopf . Max Planck Institute for Intelligent Systems . Taiji Suzuki . University of Tokyo / RIKEN AIP . Fanny Yang . ETH Zurich . ",
+    "content": "--> Francis Bach . INRIA - École Normale Supérieure . Matthias Bethge . University of Tübingen . Niao He . ETH Zurich . Andreas Krause . ETH Zurich . Bernhard Schölkopf . Max Planck Institute for Intelligent Systems / ELLIS Institute Tübingen . Taiji Suzuki . University of Tokyo / RIKEN AIP . Jared Tanner . University of Oxford . Leena Chennuru Vankadara . University College London . Fanny Yang . ETH Zurich . ",
     "url": "/speakers/",
     
     "relUrl": "/speakers/"
-  },"34": {
+  },"55": {
     "doc": "Sponsorship Opportunities",
     "title": " Conference Sponsors ",
     "content": " ",
     "url": "/sponsorship_opportunities/",
     
     "relUrl": "/sponsorship_opportunities/"
-  },"35": {
+  },"56": {
     "doc": "Sponsorship Opportunities",
     "title": "Conference Host",
     "content": " ",
     "url": "/sponsorship_opportunities/",
     
     "relUrl": "/sponsorship_opportunities/"
-  },"36": {
+  },"57": {
     "doc": "Sponsorship Opportunities",
     "title": "Platinum Sponsor",
     "content": " ",
     "url": "/sponsorship_opportunities/",
     
     "relUrl": "/sponsorship_opportunities/"
-  },"37": {
+  },"58": {
     "doc": "Sponsorship Opportunities",
     "title": "Gold Sponsor",
     "content": "&lt;img src=\"/assets/images/cfti_logo.png\" alt=\"China Frontier Technology Institute Logo\"&gt; &lt;!-- &lt;/a&gt; --&gt; &lt;/div&gt; . &lt;/div&gt; . ",
     "url": "/sponsorship_opportunities/",
     
     "relUrl": "/sponsorship_opportunities/"
-  },"38": {
+  },"59": {
     "doc": "Sponsorship Opportunities",
     "title": "Silver Sponsors",
     "content": ". –&gt; . ",
     "url": "/sponsorship_opportunities/",
     
     "relUrl": "/sponsorship_opportunities/"
-  },"39": {
+  },"60": {
     "doc": "Sponsorship Opportunities",
     "title": "CPAL 2025 Sponsorship Opportunities",
     "content": "The 2nd Conference on Parsimony and Learning (CPAL), chaired by Professors Emmanuel Candès and Yi Ma, will take place at Stanford University from March 24–27, 2025. CPAL grew from the SlowDNN workshop, which ran successfully for three years (2021-2023) and evolved into the inaugural CPAL 2024 held in Hong Kong. CPAL 2024 brought together over 200 elite researchers specializing in sparsity and efficient AI for four days of in-depth, in-person interactions. The conference also attracted significant sponsorship support from both international and local partners: https://2024.cpal.cc/sponsors/ . CPAL 2025 aims to foster collaboration and share cutting-edge research in sparse and low-dimensional structure modeling in deep learning, bridging theory, algorithms, and practical applications. We expect experts from machine learning, applied mathematics, signal processing, optimization, systems, and natural sciences like physics and neuroscience to join us. Located on Stanford’s campus in the heart of Silicon Valley, CPAL 2025 is poised to attract a high-caliber audience and create broader, more impactful connections. Given this exciting opportunity, we invite interested parties to help sponsor CPAL 2025. We believe this presents a valuable opportunity to engage with leading minds in these fields. Additionally, sponsoring CPAL offers various opportunities to connect with conference participants and showcase leadership in advancing AI research. ",
     "url": "/sponsorship_opportunities/#cpal-2025-sponsorship-opportunities",
     
     "relUrl": "/sponsorship_opportunities/#cpal-2025-sponsorship-opportunities"
-  },"40": {
+  },"61": {
     "doc": "Sponsorship Opportunities",
     "title": "Sponsorship Tiers",
     "content": "We offer the following sponsorship tiers for CPAL 2025: . Silver Tier - $5,000 . | Display the company logo on our website and during live sessions | Access to the list of conference registrants, along with their CVs (with attendee consent) | 2 full registrations for key personnel | . Gold Tier - $10,000 . | Display the company logo on our website and during live sessions | Access to the list of conference registrants, along with their CVs (with attendee consent) | Opportunity to display a short company advertisement between sessions | Exhibit space during the main conference | 4 full registrations for key personnel | . Diamond Tier - $15,000 . | Display the company logo on our website and during live sessions | Access to the list of conference registrants, along with their CVs (with attendee consent) | Opportunity to give a keynote presentation | Opportunity to display a short company advertisement between sessions | Exhibit space during the main conference | 8 full registrations for key personnel | Exclusive in-person interactions with participants interested in recruitment, arranged during the conference’s social gatherings | . ",
     "url": "/sponsorship_opportunities/#sponsorship-tiers",
     
     "relUrl": "/sponsorship_opportunities/#sponsorship-tiers"
-  },"41": {
+  },"62": {
     "doc": "Sponsorship Opportunities",
     "title": "Sponsorship Opportunities",
     "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen <!-- ",
     "url": "/sponsorship_opportunities/",
     
     "relUrl": "/sponsorship_opportunities/"
-  },"42": {
+  },"63": {
     "doc": "Spotlight Track",
     "title": "Spotlight Track: Accepted Papers",
     "content": "Accepted Spotlight Track papers are presented as posters at CPAL 2025. See the full program for the precise time and location of each poster session. ",
     "url": "/spotlight_track/#spotlight-track-accepted-papers",
     
     "relUrl": "/spotlight_track/#spotlight-track-accepted-papers"
-  },"43": {
+  },"64": {
     "doc": "Spotlight Track",
     "title": "Spotlight Track",
     "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
     "url": "/spotlight_track/",
     
     "relUrl": "/spotlight_track/"
-  },"44": {
+  },"65": {
     "doc": "Subject Areas",
     "title": "Subject Areas",
     "content": " ",
     "url": "/subject_areas/#subject-areas",
     
     "relUrl": "/subject_areas/#subject-areas"
-  },"45": {
+  },"66": {
     "doc": "Subject Areas",
     "title": "Theory &amp; Foundations",
     "content": ". | Theories for sparse coding, structured sparsity, subspace learning, low-dimensional manifolds, and general low-dimensional structures. | Dictionary learning and representation learning for low-dimensional structures and their connections to deep learning theory. | Equivariance and invariance modeling. | Theoretical neuroscience and cognitive science foundation for parsimony, and biologically inspired computational mechanisms. | . ",
     "url": "/subject_areas/#theory--foundations",
     
     "relUrl": "/subject_areas/#theory--foundations"
-  },"46": {
+  },"67": {
     "doc": "Subject Areas",
     "title": "Optimization &amp; Algorithms",
     "content": ". | Optimization, robustness, and generalization methods for learning compact and structured representations. | Interpretable and efficient deep architectures (e.g., based on unrolled optimization). | Data-efficient and computation-efficient training and inference. | Adaptive and robust learning and inference algorithms. | Distributed, networked, or federated learning at scale. | Other nonlinear dimension-reduction and representation-learning methods. | . ",
     "url": "/subject_areas/#optimization--algorithms",
     
     "relUrl": "/subject_areas/#optimization--algorithms"
-  },"47": {
+  },"68": {
     "doc": "Subject Areas",
     "title": "Data, Systems &amp; Applications",
     "content": ". | Domain-specific datasets, benchmarks, and evaluation metrics. | Parsimonious and structured representation learning from data. | Inverse problems that benefit from parsimonious priors. | Hardware and system co-design for parsimonious learning algorithms. | Parsimonious learning in intelligent systems that integrate perception-action cycles. | Applications in science, engineering, medicine, and social sciences. | . The above is intended as a high-level overview of CPAL’s focus and by no means exclusive. If you doubt that your paper fits the venue, feel free to contact the program chairs via email at pcs@cpal.cc. ",
     "url": "/subject_areas/#data-systems--applications",
     
     "relUrl": "/subject_areas/#data-systems--applications"
-  },"48": {
+  },"69": {
     "doc": "Subject Areas",
     "title": "Subject Areas",
     "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
     "url": "/subject_areas/",
     
     "relUrl": "/subject_areas/"
-  },"49": {
+  },"70": {
     "doc": "Submission Tracks",
     "title": "Deadlines for Submission",
     "content": "All deadlines can be found on the deadlines page. ",
     "url": "/tracks/#deadlines-for-submission",
     
     "relUrl": "/tracks/#deadlines-for-submission"
-  },"50": {
+  },"71": {
     "doc": "Submission Tracks",
     "title": "Submission Tracks and Review Process",
     "content": "CPAL has two submission tracks: . | Proceedings track (archival) | “Recent spotlight” track (non-archival) | . Submissions to both tracks are to be prepared using the CPAL LaTeX style files, available as a zip archive or as an Overleaf template. CPAL OpenReview Submission Portal . ",
     "url": "/tracks/#submission-tracks-and-review-process",
     
     "relUrl": "/tracks/#submission-tracks-and-review-process"
-  },"51": {
+  },"72": {
     "doc": "Submission Tracks",
     "title": "Proceedings Track  (archival)",
     "content": "The submission and review stage will be double-blind. We use OpenReview to host papers and record discussions between authors and reviewers. Before the end of the Authors-Reviewers Discussion Stage, authors can participate in the discussion as well as update their submission at any time. After that, there will be an internal discussion period amongst reviewers and ACs with the aim of summarizing the review process, after which the final decisions are made by ACs. After the notification deadline, accepted and opted-in rejected papers will be made public and open for non-anonymous public commenting. Their anonymous reviews, meta-reviews, author responses and reviewer responses will also be made public. Authors of rejected papers will have two weeks after the notification deadline to opt in to make their de-anonymized rejected papers public in OpenReview. Submissions that are substantially similar to papers previously published, or submitted in parallel to other peer-reviewed venues with proceedings or journals may not be submitted to the Proceedings Track. Papers previously presented at workshops are permitted, so long as they did not appear in a conference proceedings (e.g., CVPRW proceedings), a journal or a book. The existence of non-anonymous preprints (on arXiv or other online repositories, personal websites, social media) will not result in rejection. Authors may submit anonymized work to CPAL that is already available as a preprint (e.g., on arXiv) without citing it. Accepted papers will be published in the Proceedings for Machine Learning Research (PMLR). Full proceedings papers can have up to nine pages with unlimited pages for references and appendix. Upon acceptance of a paper, at least one of the authors must join the conference. Using Large Language Models (LLMs) . We follow the rule by NeurIPS 2023, quoted as follows: . “We welcome authors to use any tool that is suitable for preparing high-quality papers and research. However, we ask authors to keep in mind two important criteria. First, we expect papers to fully describe their methodology, and any tool that is important to that methodology, including the use of LLMs, should be described also. For example, authors should mention tools (including LLMs) that were used for data processing or filtering, visualization, facilitating or running experiments, and proving theorems. It may also be advisable to describe the use of LLMs in implementing the method (if this corresponds to an important, original, or non-standard component of the approach). Second, authors are responsible for the entire content of the paper, including all text and figures, so while authors are welcome to use any tool they wish for writing the paper, they must ensure that all text is correct and original.” . ",
     "url": "/tracks/#proceedings-track--archival",
     
     "relUrl": "/tracks/#proceedings-track--archival"
-  },"52": {
+  },"73": {
     "doc": "Submission Tracks",
     "title": "“Recent Spotlight” Track (non-archival)",
     "content": "We meanwhile aim to showcase the latest research innovations at all stages of the research process, from work-in-progress to recently published papers. Concretely, we ask members of the community to submit to OpenReview either: . | A conference-style submission describing the work, which may be prepared using the CPAL style files, but need not conform to any specific formatting requirements (e.g., page limits); | A poster (in PDF form) presenting results of work-in-progress; | The camera-ready version of work that has been published prior (e.g., conferences, journals). | . Please also upload a short (250 word) abstract to OpenReview. OpenReview submissions may also include any of the following supplemental materials that describe the work in further detail: . | A link to a blog post (e.g., distill.pub, Medium) describing results. | Appendices with detailed derivations and additional experiments. | . This track is non-archival and has no proceedings. We permit under-review or concurrent submissions, as well as papers officially accepted by a journal or conference within 12 months of the submission deadline for the Recent Spotlight Track. Reviewing will be performed in a single-blind fashion (authors should not anonymize their submissions), and will be held with the same high quality bar with the Proceedings Track. ",
     "url": "/tracks/#recent-spotlight-track-non-archival",
     
     "relUrl": "/tracks/#recent-spotlight-track-non-archival"
-  },"53": {
+  },"74": {
     "doc": "Submission Tracks",
     "title": "Submission Tracks",
     "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
     "url": "/tracks/",
     
     "relUrl": "/tracks/"
-  },"54": {
+  },"75": {
+    "doc": "Tutorials",
+    "title": "Tutorials",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/tutorials/",
+    
+    "relUrl": "/tutorials/"
+  },"76": {
     "doc": "Conference Vision",
     "title": "Conference Vision",
     "content": "“Everything should be made as simple as possible, but not any simpler.” . – Albert Einstein . One of the most fundamental reasons for the very existence and therefore emergence of intelligence or science is that the world is not fully random, but highly structured and predictable. Hence, a fundamental purpose and function of intelligence or science is to learn parsimonious models (or laws) for such predicable structures, from massive sensed data of the world. Over the past decade, the advent of machine learning and large-scale computing has immeasurably changed the ways we process, interpret, and predict with data in engineering and science. The ‘traditional’ approach to algorithm design, based around parametric models for specific structures of signals and measurements – say sparse and low-rank models – and the associated optimization toolkit, is now significantly enriched with data-driven learning-based techniques, where large-scale networks are pre-trained and then adapted to a variety of specific tasks. Nevertheless, the successes of both modern data-driven and classic model-based paradigms rely crucially on correctly identifying the low-dimensional structures present in real-world data, to the extent that we see the roles of learning and compression of data processing algorithms – whether explicit or implicit, as with deep networks – as inextricably linked. Over the last ten or so years, several rich lines of research, including theoretical, computational, and practical, have explored the interplay between learning and compression. Some works explore the role of signal models in the era of deep learning, attempting to understand the interaction between deep networks and nonlinear, multi-modal data structures. Others have applied these insights to the principled design of deep architectures that incorporate desired structures in data into the learning process. Still others have considered generic deep networks as first-class citizens in their own right, exploring ways to compress and sparsify models for greater efficiency, often accompanied by hardware or system-aware co-designs. Across each of these settings, theoretical works rooted in low-dimensional modeling have begun to explain the foundations of deep architectures and efficient learning – from optimization to generalization – in spite of “overparameterization” and other obstructions. Most recently, the advent of foundation models has led some to posit that parsimony and compression itself are a fundamental part of the learning objective of an intelligent system, connecting to ideas from neuroscience on compression as a guiding principle for the brain representing the sensory data of the world. By and large, these lines of work have so far developed somewhat in isolation from one another, in spite of their common basis and purpose for parsimony and learning. Our intention in organizing this conference is to address this issue and go beyond: we envision the conference as a general scientific forum where researchers in machine learning, applied mathematics, signal processing, optimization, intelligent systems, and all associated science and engineering fields can gather, share insights, and ultimately work towards a common modern theoretical and computational framework for understanding intelligence and science from the perspective of parsimonious learning. ",
     "url": "/vision/#conference-vision",
     
     "relUrl": "/vision/#conference-vision"
-  },"55": {
+  },"77": {
     "doc": "Conference Vision",
     "title": "Conference Vision",
     "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",

@@ -48,11 +48,8 @@ uv run python data/image-preparer.py <input_directory> [--aspect-ratio RATIO]
 **Examples:**
 
 ```bash
-# Process images with 1:1 aspect ratio (square, for organizers/rising stars)
+# Process images with 1:1 aspect ratio (square, for organizers/rising stars/speakers)
 uv run python data/image-preparer.py path/to/raw/images --aspect-ratio 1.0
-
-# Process images with 1.33:1 aspect ratio (for speakers)
-uv run python data/image-preparer.py path/to/raw/images --aspect-ratio 1.33
 ```
 
 The processed images will be saved in `<input_directory>/processed_images/` with the suffix `_processed.png`.

@@ -7,13 +7,10 @@
 
   .speaker-image {
     border-radius: 25%;
-    //width: 200px;
-    //height: auto;
-    height: 200px;
-    // width: auto;
-    width: 150px;
+    width: 140px;
     margin-bottom: $sp-4;
     display: block;
+    aspect-ratio: 1/1;
   }
 
   p,
