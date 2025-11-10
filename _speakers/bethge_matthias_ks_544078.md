@@ -1,8 +1,8 @@
 ---
 name: "Matthias Bethge"
 role: "Keynote Speaker"
-affiliation: "Tübingen University"
-website: "https://bethgelab.org/people/matthias/"
+affiliation: "University of Tübingen"
+website: "https://bethgelab.org/"
 photo: "bethge.png"
 talk: "TBA"
 abstract: "TBA"

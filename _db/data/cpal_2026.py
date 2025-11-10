@@ -358,8 +358,8 @@ def make_speakers():
         Speaker(
             name="Matthias Bethge",
             role="Keynote Speaker",
-            website="https://bethgelab.org/people/matthias/",
-            affiliation="Tübingen University",
+            website="https://bethgelab.org/",
+            affiliation="University of Tübingen",
             photo="bethge.png",
             talk="TBA",
             abstract="TBA",
@@ -392,7 +392,7 @@ def make_speakers():
         Speaker(
             name="Leena Chennuru Vankadara",
             role="Keynote Speaker",
-            website="https://leenachennuru.github.io/",
+            website="https://leenacvankadara.com/",
             affiliation="University College London",
             photo="vankadara.png",
             talk="TBA",
