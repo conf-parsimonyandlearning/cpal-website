@@ -34,12 +34,10 @@ logo: "/assets/images/logo.svg"
 aux_links:
   Registration:
     - 'https://cvent.me/X5aaar'
+  CPAL Proceedings:
+    - 'https://proceedings.mlr.press/v280/'
   CPAL OpenReview:
     - 'https://openreview.net/group?id=CPAL.cc/2025'
-  # CPAL Proceedings:
-  #   - 'https://proceedings.mlr.press/v234/'
-  # CPAL at HKU:
-  #   - 'https://datascience.hku.hk/cpal/'
 #back_to_top: true
 #last_edit_timestamp: true
 

@@ -20,6 +20,14 @@ We describe [our]({{ site.baseurl }}/organization_committee) vision for the conf
 more detail [here]({{ site.baseurl }}/vision).
 -->
 
+# Conference Proceedings
+
+The CPAL 2025 Proceedings are now available on PMLR.
+
+<span class="fs-6">
+[CPAL 2025 Proceedings](https://proceedings.mlr.press/v280/){: .btn}
+</span>
+
 # Register for CPAL: March 24th--27th, 2025
 
 We are pleased to announce the Second Conference on Parsimony and Learning,
