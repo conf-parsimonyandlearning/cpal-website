@@ -94,8 +94,6 @@ Please see the [**call for applications**]({{ site.baseurl }}/rising_stars_guide
 {% include speakers.html %}
 
 
-# Sponsors
-
 {% include sponsors.html %}
 
 
