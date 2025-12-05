@@ -23,6 +23,10 @@ more detail [here]({{ site.baseurl }}/vision).
 
 # Call for Papers
 
+{: .highlight}
+{: .fs-5}
+**Update:** The proceedings track submission deadline has been extended by one week to December 12th, 2025 (AOE).
+
 We are pleased to announce the Third Conference on Parsimony and Learning,
 to be held in Tübingen, Germany!
 
@@ -60,7 +64,7 @@ Please see the [**call for applications**]({{ site.baseurl }}/rising_stars_guide
 
 *All deadlines are 23:59 [Anywhere-on-Earth (AOE)](https://www.ieee802.org/16/aoe.html)*
 
-- **December 5, 2025**: Conference paper submission deadline
+- **December 12, 2025**: Conference paper submission deadline
 - **December 10, 2025**: Tutorial proposal deadline
 - **December 15, 2025**: "Rising Stars" application deadline
 - **January 5, 2026**: Review deadline
