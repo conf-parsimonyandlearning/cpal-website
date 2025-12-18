@@ -68,7 +68,7 @@ Please see the [**call for applications**]({{ site.baseurl }}/rising_stars_guide
 - **December 10, 2025**: Tutorial proposal deadline
 - **December 15, 2025**: "Rising Stars" application deadline
 - **January 5, 2026**: Review deadline
-- **January 8–11, 2026**: Paper rebuttal period
+- **January 8–13, 2026**: Paper rebuttal period
 - **January 14, 2026**: Tutorial results announced
 - **January 15, 2026**: "Recent Spotlight" article submission deadline
 - **January 20, 2026**: Final paper decisions released
