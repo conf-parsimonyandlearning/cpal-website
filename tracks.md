@@ -20,7 +20,7 @@ All deadlines can be found on the [deadlines page]({{ site.baseurl
 > 1. [Proceedings track]({{ site.baseurl }}/tracks/#proceedings-track--archival) (*archival*)
 > 2. ["Recent spotlight" track]({{ site.baseurl }}/tracks/#recent-spotlight-track-non-archival) (*non-archival*)
 > 
-> Submissions to both tracks are to be prepared using the CPAL
+> Submissions to the Proceedings track are to be prepared using the CPAL
 > LaTeX style files, available as a [zip archive]({{ site.baseurl }}/assets/CPAL-2026-template.zip)
 > or as an [Overleaf template](https://www.overleaf.com/latex/templates/cpal-2026/kfczctncyftz).
 
