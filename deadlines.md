@@ -11,10 +11,6 @@ nav_order: 7
 
 # Key Dates and Deadlines
 
-{: .highlight}
-{: .fs-5}
-**Update:** The proceedings track submission deadline has been extended by one week to December 12th, 2025 (AOE).
-
 *Unless specified otherwise, all deadlines are 23:59 [Anywhere-on-Earth (AOE)](https://www.ieee802.org/16/aoe.html)*
 
 ## Conference Submission ([Proceedings Track]({{ site.baseurl }}/tracks/#proceedings-track--archival))
@@ -23,7 +19,7 @@ nav_order: 7
 |:--------------------------------------------------------|:-------------------------------|:-----------------------------|
 | Submission Deadline                                     | December 12th, 2025              |<span id="proc-sub"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2025, month: 12, day: 12, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#proc-sub').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
 | Review Deadline                                         | January 5th, 2026             |<span id="proc-review"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2026, month: 1, day: 5, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#proc-review').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
-| Rebuttal Period                                         | January 8th–13th, 2026            |<span id="proc-rebuttal"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2026, month: 1, day: 13, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#proc-rebuttal').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
+| Rebuttal Period                                         | January 8th–14th, 2026            |<span id="proc-rebuttal"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2026, month: 1, day: 14, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#proc-rebuttal').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
 | Final Decisions Released                                | January 20th, 2026            |<span id="proc-decision"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2026, month: 1, day: 20, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#proc-decision').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
 
 
