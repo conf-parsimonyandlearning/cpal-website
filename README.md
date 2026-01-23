@@ -21,37 +21,17 @@ more detail [here]({{ site.baseurl }}/vision).
 -->
 
 
-# Call for Papers
+# Register for CPAL: March 23th--26th, 2026
 
 We are pleased to announce the Third Conference on Parsimony and Learning,
-to be held in Tübingen, Germany!
+to be held in concert with Tübingen AI Center in Tübingen, Germany!
 
-Paper submissions for the third Conference on
-Parsimony and Learning are now open!
-Please see the [**call for papers**]({{ site.baseurl
-}}/tracks) for details about the submission and reviewing process, as well as
-subject areas of interest and general policies.
+All CPAL attendees are required to register. See the [registration page]({{
+site.baseurl }}/registration) for details about available tickets and costs.
 
-{: .fs-5 .text-center}
-[Submit Your Work on OpenReview](https://openreview.net/group?id=CPAL.cc/2026/Conference)
-
-
-# Call for Tutorials
-
-CPAL 2026 invites proposals for in-person tutorials on advancing our understanding of intelligence through the lens of parsimonious learning and its various facets. We welcome tutorials on theories of parsimonious learning, algorithms and implementations, applications in various domains, hardware and systems for efficient learning, and scientific foundations and connections to other fields.
-
-**Tutorial proposal deadline: December 10, 2025**
-
-Please see the [**call for tutorials**]({{ site.baseurl }}/call_for_tutorials) for submission guidelines and details.
-
-
-# Rising Stars Award
-
-The CPAL Rising Stars Award program highlights exceptional junior researchers at a critical inflection point in their career: last-year PhD students, postdoctoral scholars, first-year tenure track faculty, or industry researchers within two years of graduation. Selected awardees will receive a full registration waiver and participate in dedicated poster sessions, panels, and networking opportunities with senior researchers.
-
-**Application deadline: December 15, 2025**
-
-Please see the [**call for applications**]({{ site.baseurl }}/rising_stars_guidelines) for eligibility criteria and application requirements.
+<span class="fs-6">
+[Register Now](https://cpal2026.vokdams-ticketservice.de/payment/start){: .btn}
+</span>
 
 
 
