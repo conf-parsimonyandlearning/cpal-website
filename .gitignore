@@ -5,3 +5,5 @@ _db/data/credentials.txt
 _db/data/cpal-speaker*/
 _db/.venv/
 _db/__pycache__/
+.claude
+_site
