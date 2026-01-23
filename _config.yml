@@ -32,8 +32,8 @@ heading_anchors: true
 permalink: pretty
 logo: "/assets/images/logo.svg"
 aux_links:
-  # Registration:
-  #   - 'https://cvent.me/X5aaar'
+  Registration:
+    - 'https://cpal2026.vokdams-ticketservice.de/payment/master'
   CPAL OpenReview:
     - 'https://openreview.net/group?id=CPAL.cc/2026'
   # CPAL Proceedings:

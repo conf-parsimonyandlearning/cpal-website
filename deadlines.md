@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Key Dates
-nav_order: 7
+nav_order: 6
 ---
 <script src="//code.jquery.com/jquery.js"></script>
 <script src="{{ site.baseurl }}/assets/js/jquery.countdown.min.js"></script>
@@ -12,6 +12,14 @@ nav_order: 7
 # Key Dates and Deadlines
 
 *Unless specified otherwise, all deadlines are 23:59 [Anywhere-on-Earth (AOE)](https://www.ieee802.org/16/aoe.html)*
+
+## Main Conference
+
+| Event                           | Date                            | Countdown                    |
+|:--------------------------------|:--------------------------------|:-----------------------------|
+| [Hotel Registration Deadline]({{ site.baseurl }}/hotels/)    | February 16th, 2026             |<span id="conf-hotel"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2026, month: 2, day: 16, hour: 23, minute: 59, second: 59}, {zone: 'UTC-12',});$('#conf-hotel').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
+| Conference Program                        | March 23rd - March 26th, 2026   |<span id="conf-program"></span><script type="text/javascript">var date = luxon.DateTime.fromObject({year: 2026, month: 3, day: 23, hour: 0, minute: 0, second: 0}, {zone: 'UTC-12',});$('#conf-program').countdown(date.toJSDate(), function(event) { $(this).html(event.strftime('%D days %H:%M:%S')); });</script>|
+
 
 ## Conference Submission ([Proceedings Track]({{ site.baseurl }}/tracks/#proceedings-track--archival))
 
@@ -48,9 +56,3 @@ nav_order: 7
 
 
 
-## Main Conference
-
-| Event                           | Date                            |
-|:--------------------------------|:--------------------------------|
-| Conference Program              | March 23rd - March 26th, 2026   |
-| Early Registration Deadline     | TBA                |

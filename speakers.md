@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Keynote Speakers
-nav_order: 8
+nav_order: 2
 ---
 
 # Keynote Speakers
