@@ -24,7 +24,8 @@ more detail [here]({{ site.baseurl }}/vision).
 # Register for CPAL: March 23rd--26th, 2026
 
 We are pleased to announce the Third Conference on Parsimony and Learning,
-to be held in concert with Tübingen AI Center in Tübingen, Germany!
+to be hosted by the ELLIS Institute Tübingen, in conjunction with the Max Planck
+Institute for Intelligent Systems and the Tübingen AI Center.
 
 All CPAL attendees are required to register. See the [registration page]({{
 site.baseurl }}/registration) for details about available tickets and costs.
