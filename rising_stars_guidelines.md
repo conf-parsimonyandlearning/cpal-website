@@ -40,9 +40,6 @@ orientations, genders, and persons with disabilities.
 - Dedicated poster session for selected awardees
 - Panels (career development)
 - Roundtable dinners or 1-1 meetings with senior researchers
-- Selected awardees need to confirm in-person attendance and will be supported
-  with a full registration waiver to attend the CPAL 2026 conference at Tübingen,
-  Germany
 
 ## Application Requirements
 
