@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Spotlight Track
-description: Accepted papers for CPAL 2024 Spotlight Track
+description: Accepted papers for CPAL 2026 Spotlight Track
 parent: Accepted Papers
 ---
 
@@ -10,7 +10,7 @@ parent: Accepted Papers
 # Spotlight Track: Accepted Papers
 
 Accepted Spotlight Track papers are presented as
-[posters]({{site.baseurl}}/posters) at CPAL 2025.
+[posters]({{site.baseurl}}/posters) at CPAL 2026.
 See the [full program]({{ site.baseurl }}/program_schedule/) for the precise
 time and location of each poster session.
 

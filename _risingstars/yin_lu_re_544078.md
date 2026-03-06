@@ -2,7 +2,7 @@
 name: "Lu Yin"
 role: "Researcher"
 affiliation: "University of Surrey"
-website: ""
+website: "https://luuyin.com/"
 photo: "image4.png"
 talk: "Sustainable Compute, Smart Reasoning, and Specialized Domain Foundation Models"
 abstract: "TBD"

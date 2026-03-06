@@ -36,7 +36,7 @@ def make_risingstars():
         RisingStar(
             name="Bhavya Vasudeva",
             role="Researcher",
-            website="",
+            website="https://estija.github.io/",
             affiliation="University of Southern California",
             photo="image1.png",
             session=1,
@@ -50,7 +50,7 @@ def make_risingstars():
         RisingStar(
             name="Can Yaras",
             role="Researcher",
-            website="",
+            website="https://canyaras.com/",
             affiliation="University of Michigan",
             photo="image2.png",
             session=1,
@@ -64,7 +64,7 @@ def make_risingstars():
         RisingStar(
             name="Harry Dong",
             role="Researcher",
-            website="",
+            website="https://www.andrew.cmu.edu/user/harryd/",
             affiliation="Carnegie Mellon University",
             photo="image3.png",
             session=1,
@@ -78,7 +78,7 @@ def make_risingstars():
         RisingStar(
             name="Lu Yin",
             role="Researcher",
-            website="",
+            website="https://luuyin.com/",
             affiliation="University of Surrey",
             photo="image4.png",
             session=1,
@@ -92,7 +92,7 @@ def make_risingstars():
         RisingStar(
             name="Zhenyu Zhang",
             role="Researcher",
-            website="",
+            website="https://zhenyu.gallery/",
             affiliation="University of Texas at Austin",
             photo="image5.png",
             session=1,
@@ -106,7 +106,7 @@ def make_risingstars():
         RisingStar(
             name="Ang Li",
             role="Researcher",
-            website="",
+            website="https://www.ang-li.com/",
             affiliation="University of Maryland",
             photo="image6.png",
             session=2,
@@ -120,7 +120,7 @@ def make_risingstars():
         RisingStar(
             name="Bowen Song",
             role="Researcher",
-            website="",
+            website="https://scholar.google.com/citations?user=QQKVkfcAAAAJ&hl=zh-CN",
             affiliation="University of Michigan",
             photo="image7.png",
             session=2,
@@ -134,7 +134,7 @@ def make_risingstars():
         RisingStar(
             name="Chenyu You",
             role="Researcher",
-            website="",
+            website="https://chenyuyou.me/",
             affiliation="Stony Brook University",
             photo="image8.png",
             session=2,
@@ -148,7 +148,7 @@ def make_risingstars():
         RisingStar(
             name="Lingjiao Chen",
             role="Researcher",
-            website="",
+            website="https://lingjiaochen.com/",
             affiliation="Stanford University",
             photo="image9.png",
             session=2,
@@ -162,7 +162,7 @@ def make_risingstars():
         RisingStar(
             name="Tianjiao Ding",
             role="Researcher",
-            website="",
+            website="https://tianjiaoding.com/",
             affiliation="University of Pennsylvania",
             photo="image10.png",
             session=2,
@@ -176,7 +176,7 @@ def make_risingstars():
         RisingStar(
             name="Avrajit Ghosh",
             role="Researcher",
-            website="",
+            website="https://sites.google.com/view/avrajitghosh",
             affiliation="University of California, Berkeley",
             photo="image11.png",
             session=3,
@@ -190,7 +190,7 @@ def make_risingstars():
         RisingStar(
             name="Lingjing Kong",
             role="Researcher",
-            website="",
+            website="https://lingjing-kong.github.io/",
             affiliation="Carnegie Mellon University",
             photo="image12.png",
             session=3,
@@ -204,7 +204,7 @@ def make_risingstars():
         RisingStar(
             name="Yuko Kuroki",
             role="Researcher",
-            website="",
+            website="https://sites.google.com/view/yuko-kuroki/",
             affiliation="Intesa Sanpaolo AI Research",
             photo="image13.png",
             session=3,
@@ -218,7 +218,7 @@ def make_risingstars():
         RisingStar(
             name="Yuqing Wang",
             role="Researcher",
-            website="",
+            website="https://yzwangyuqing.github.io/",
             affiliation="Johns Hopkins University",
             photo="image14.png",
             session=3,
@@ -232,7 +232,7 @@ def make_risingstars():
         RisingStar(
             name="Zhen Tan",
             role="Researcher",
-            website="",
+            website="https://zhen-tan-dmml.github.io/",
             affiliation="Arizona State University",
             photo="image15.png",
             session=3,
@@ -1560,7 +1560,7 @@ def spotlight_to_jekyll():
     for paper in papers:
         paper = paper.to_json()
         title = paper["content"]["title"]["value"]
-        title_lower = title.lower()
+        title_lower = " ".join(title.lower().split())
 
         if title_lower in poster_map:
             session, num, _track = poster_map[title_lower]
