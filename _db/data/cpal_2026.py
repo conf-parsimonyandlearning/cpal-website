@@ -19,8 +19,10 @@ from roles import Organizer, RisingStar, Speaker, Tutorial
 root = Path(__file__).parent.parent.parent
 
 # variables for location strings
-day_one_str = "TBD"
-day_two_str = "TBD"
+mph_str = "MPH Lecture Hall, Max-Planck-Ring 6"
+mpi_str = "MPI Lecture Hall, Max-Planck-Ring 4"
+day_one_str = mph_str + " / " + mpi_str
+day_two_str = mph_str
 
 # Speaker photos should be close to 1:1 aspect (height : width)
 
@@ -35,10 +37,10 @@ def make_risingstars():
     risingstars.append(
         RisingStar(
             name="Bhavya Vasudeva",
-            role="Researcher",
-            website="",
+            role="Ph.D. Candidate",
+            website="https://estija.github.io/",
             affiliation="University of Southern California",
-            photo="image1.png",
+            photo="vasudeva_rs.png",
             session=1,
             order=1,
             talk="How Muon's Spectral Design Benefits Generalization: A Study on Imbalanced Data",
@@ -49,10 +51,10 @@ def make_risingstars():
     risingstars.append(
         RisingStar(
             name="Can Yaras",
-            role="Researcher",
-            website="",
+            role="Ph.D. Candidate",
+            website="https://canyaras.com/",
             affiliation="University of Michigan",
-            photo="image2.png",
+            photo="yaras_rs.png",
             session=1,
             order=2,
             talk="Compressing Activations via Structured Matrices in Transformers",
@@ -63,10 +65,10 @@ def make_risingstars():
     risingstars.append(
         RisingStar(
             name="Harry Dong",
-            role="Researcher",
-            website="",
+            role="Ph.D. Student",
+            website="https://www.andrew.cmu.edu/user/harryd/",
             affiliation="Carnegie Mellon University",
-            photo="image3.png",
+            photo="dong_rs.png",
             session=1,
             order=3,
             talk="Squeezing the Most Out of LLMs: The Interplay Between Efficiency and Performance",
@@ -77,10 +79,10 @@ def make_risingstars():
     risingstars.append(
         RisingStar(
             name="Lu Yin",
-            role="Researcher",
-            website="",
+            role="Assistant Professor",
+            website="https://luuyin.com/",
             affiliation="University of Surrey",
-            photo="image4.png",
+            photo="yin_rs.png",
             session=1,
             order=4,
             talk="Sustainable Compute, Smart Reasoning, and Specialized Domain Foundation Models",
@@ -91,10 +93,10 @@ def make_risingstars():
     risingstars.append(
         RisingStar(
             name="Zhenyu Zhang",
-            role="Researcher",
-            website="",
+            role="Ph.D. Student",
+            website="https://zhenyu.gallery/",
             affiliation="University of Texas at Austin",
-            photo="image5.png",
+            photo="zhang_rs.png",
             session=1,
             order=5,
             talk="Democratizing LLM Training via Low-Rank Methods",
@@ -105,10 +107,10 @@ def make_risingstars():
     risingstars.append(
         RisingStar(
             name="Ang Li",
-            role="Researcher",
-            website="",
+            role="Assistant Professor",
+            website="https://www.ang-li.com/",
             affiliation="University of Maryland",
-            photo="image6.png",
+            photo="li_rs.png",
             session=2,
             order=1,
             talk="Parsimony and Efficiency in Foundation Models: A Holistic Framework for Structural Analysis and Resource-Aware Serving",
@@ -119,10 +121,10 @@ def make_risingstars():
     risingstars.append(
         RisingStar(
             name="Bowen Song",
-            role="Researcher",
-            website="",
+            role="Ph.D. Student",
+            website="https://scholar.google.com/citations?user=QQKVkfcAAAAJ&hl=zh-CN",
             affiliation="University of Michigan",
-            photo="image7.png",
+            photo="song_rs.png",
             session=2,
             order=2,
             talk="Better spatial reasoning and analysis through depth-informed 3D geometry tokens",
@@ -133,10 +135,10 @@ def make_risingstars():
     risingstars.append(
         RisingStar(
             name="Chenyu You",
-            role="Researcher",
-            website="",
+            role="Assistant Professor",
+            website="https://chenyuyou.me/",
             affiliation="Stony Brook University",
-            photo="image8.png",
+            photo="you_rs.png",
             session=2,
             order=3,
             talk="Towards Robust, Efficient, and Generalized Medical AI",
@@ -147,10 +149,10 @@ def make_risingstars():
     risingstars.append(
         RisingStar(
             name="Lingjiao Chen",
-            role="Researcher",
-            website="",
+            role="Ph.D. Student",
+            website="https://lingjiaochen.com/",
             affiliation="Stanford University",
-            photo="image9.png",
+            photo="chen_rs.png",
             session=2,
             order=4,
             talk="Economical AI Marketplaces: From Model Cascading to Compound AI Systems",
@@ -161,10 +163,10 @@ def make_risingstars():
     risingstars.append(
         RisingStar(
             name="Tianjiao Ding",
-            role="Researcher",
-            website="",
+            role="Ph.D. Student",
+            website="https://tianjiaoding.com/",
             affiliation="University of Pennsylvania",
-            photo="image10.png",
+            photo="ding_rs.png",
             session=2,
             order=5,
             talk="Parsimonious Concept Engineering",
@@ -175,10 +177,10 @@ def make_risingstars():
     risingstars.append(
         RisingStar(
             name="Avrajit Ghosh",
-            role="Researcher",
-            website="",
+            role="Postdoctoral Researcher",
+            website="https://sites.google.com/view/avrajitghosh",
             affiliation="University of California, Berkeley",
-            photo="image11.png",
+            photo="ghosh_rs.png",
             session=3,
             order=1,
             talk="A fundamental statistical limitation of Gradient Descent in learning sparse targets from hard labels",
@@ -189,10 +191,10 @@ def make_risingstars():
     risingstars.append(
         RisingStar(
             name="Lingjing Kong",
-            role="Researcher",
-            website="",
+            role="Ph.D. Student",
+            website="https://lingjing-kong.github.io/",
             affiliation="Carnegie Mellon University",
-            photo="image12.png",
+            photo="kong_rs.png",
             session=3,
             order=2,
             talk="Parsimony through Causality: Building Trustworthy and Interpretable AI",
@@ -203,10 +205,10 @@ def make_risingstars():
     risingstars.append(
         RisingStar(
             name="Yuko Kuroki",
-            role="Researcher",
-            website="",
+            role="Research Scientist",
+            website="https://sites.google.com/view/yuko-kuroki/",
             affiliation="Intesa Sanpaolo AI Research",
-            photo="image13.png",
+            photo="kuroki_rs.png",
             session=3,
             order=3,
             talk="Sequential Learning under Uncertainty: Structure, Adaptivity, and Efficiency",
@@ -217,10 +219,10 @@ def make_risingstars():
     risingstars.append(
         RisingStar(
             name="Yuqing Wang",
-            role="Researcher",
-            website="",
+            role="Postdoctoral Researcher",
+            website="https://yzwangyuqing.github.io/",
             affiliation="Johns Hopkins University",
-            photo="image14.png",
+            photo="wang_rs.png",
             session=3,
             order=4,
             talk="Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime",
@@ -231,10 +233,10 @@ def make_risingstars():
     risingstars.append(
         RisingStar(
             name="Zhen Tan",
-            role="Researcher",
-            website="",
+            role="Ph.D. Student",
+            website="https://zhen-tan-dmml.github.io/",
             affiliation="Arizona State University",
-            photo="image15.png",
+            photo="tan_rs.png",
             session=3,
             order=5,
             talk="Fathoming the Unfathomable Foundation Models: From Algorithms to Scientific Discovery",
@@ -1034,7 +1036,7 @@ def make_conference_events():
 
     conference_events.append(
         Event(
-            name="Tutorial Session 1<br>T1: Orthogonal Training for Foundation Models<br>T2: Training Neural Networks at Any Scale",
+            name="Tutorial Session 1<br>T1: Orthogonal Training for Foundation Models (MPH)<br>T2: Training Neural Networks at Any Scale (MPI)",
             event_class="tutorial",
             day=1,
             start="9:00 AM",
@@ -1056,7 +1058,7 @@ def make_conference_events():
 
     conference_events.append(
         Event(
-            name="Tutorial Session 2<br>T1: Inference Optimization Playbook for Serving LLMs in the Industry<br>T2: Where to Spend Parameters: From Layerwise Efficiency To Federated Architecture Search",
+            name="Tutorial Session 2<br>T1: Inference Optimization Playbook for Serving LLMs in the Industry (MPH)<br>T2: Where to Spend Parameters: From Layerwise Efficiency To Federated Architecture Search (MPI)",
             event_class="tutorial",
             day=1,
             start="12:30 PM",
@@ -1078,7 +1080,7 @@ def make_conference_events():
 
     conference_events.append(
         Event(
-            name="Tutorial Session 3<br>T1: Reward Modeling in Large Language Models<br>T2: Theoretical Insights on Training Instability in Deep Learning",
+            name="Tutorial Session 3<br>T1: Reward Modeling in Large Language Models (MPH)<br>T2: Theoretical Insights on Training Instability in Deep Learning (MPI)",
             event_class="tutorial",
             day=1,
             start="3:30 PM",
@@ -1422,6 +1424,7 @@ def _parse_oral_csv():
         "March 26": 3,
     }
 
+    session_counters = {}
     with open(csv_path, "r", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
@@ -1433,7 +1436,13 @@ def _parse_oral_csv():
                     oral_session = session_num
                     break
             if oral_session is not None:
-                mapping[" ".join(title.lower().split())] = oral_session
+                session_counters[oral_session] = (
+                    session_counters.get(oral_session, 0) + 1
+                )
+                mapping[" ".join(title.lower().split())] = (
+                    oral_session,
+                    session_counters[oral_session],
+                )
     return mapping
 
 
@@ -1465,8 +1474,9 @@ def proceedings_to_jekyll():
             num = 0
 
         oral_session = 0
+        oral_order = 0
         if oral_or_poster == "oral" and title_lower in oral_map:
-            oral_session = oral_map[title_lower]
+            oral_session, oral_order = oral_map[title_lower]
 
         out = {
             "title": title,
@@ -1477,6 +1487,7 @@ def proceedings_to_jekyll():
             "session": session,
             "num": num,
             "oral_session": oral_session,
+            "oral_order": oral_order,
         }
         out_fn = paper["id"] + ".md"
         out_path = out_dir / out_fn
@@ -1560,7 +1571,7 @@ def spotlight_to_jekyll():
     for paper in papers:
         paper = paper.to_json()
         title = paper["content"]["title"]["value"]
-        title_lower = title.lower()
+        title_lower = " ".join(title.lower().split())
 
         if title_lower in poster_map:
             session, num, _track = poster_map[title_lower]

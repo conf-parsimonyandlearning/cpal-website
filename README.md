@@ -34,14 +34,6 @@ site.baseurl }}/registration) for details about available tickets and costs.
 [Register Now](https://cpal2026.vokdams-ticketservice.de/payment/start){: .btn}
 </span>
 
-# Conference Accommodations
-
-CPAL 2026 is pleased to offer a limited number of hotel rooms at special
-conference rates. See the relevant [travel page]({{ site.baseurl }}/hotels/) for
-registration details. Be sure to submit your information **before 16
-February 2026**, as the number of rooms available is limited.
-
-
 
 <!-- # Key Dates and Deadlines (Tentative) -->
 <!---->
@@ -75,9 +67,28 @@ February 2026**, as the number of rooms available is limited.
 <!-- <br> -->
 
 
+# CPAL 2026 Program Announced!
+
+The CPAL 2026 review process is complete -- congratulations to all authors of
+accepted papers!
+
+The tentative program has been announced, and can be found on the [schedule
+page]({{site.baseurl}}/program_schedule).
+For information about the conference venue, see the [logistics
+page]({{site.baseurl}}/venue).
+
+Accepted papers for the [Proceedings Track]({{site.baseurl}}/proceedings_track)
+and [Recent Spotlight Track]({{site.baseurl}}/spotlight_track) have been
+released.
+Information about ***poster presentation sessions*** at CPAL can be found
+[here]({{site.baseurl}}/posters).
+Information about ***oral sessions*** for Proceedings Track papers accepted as
+oral presentations can be found [here]({{site.baseurl}}/orals).
+
+
 # Keynote Speakers
 
-<!-- Information on the speakers' planned talks is available [here]({{site.baseurl}}/speakers/#talk-details). -->
+Information on the speakers' planned talks is available [here]({{site.baseurl}}/speakers/#talk-details).
 
 {% include speakers.html %}
 

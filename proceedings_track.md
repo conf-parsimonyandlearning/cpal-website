@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Proceedings Track
-description: Accepted papers for CPAL 2024 Proceedings Track
+description: Accepted papers for CPAL 2026 Proceedings Track
 parent: Accepted Papers
 ---
 
@@ -10,7 +10,7 @@ parent: Accepted Papers
 # Proceedings Track: Accepted Papers
 
 Accepted Proceedings Track papers are presented as
-[posters]({{site.baseurl}}/posters) at CPAL 2025.
+[posters]({{site.baseurl}}/posters) at CPAL 2026.
 A select number of accepted Proceedings Track papers will be presented as
 [orals]({{site.baseurl}}/orals); they are labeled below with ***(Oral)***.
 See the [full program]({{ site.baseurl }}/program_schedule/) for the precise
