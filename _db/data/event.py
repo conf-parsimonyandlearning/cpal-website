@@ -68,9 +68,19 @@ class Event:
             out_str += f'name: \'<a href="/posters/#{self.name.lower().replace(" ", "-").replace("+", "")}">{self.name}</a>\'\n'
         elif self.event_class == "rising":
             out_str += f'name: \'<a href="/rising_stars_presentations/#{self.name.lower().replace(" ", "-").replace("+", "")}">{self.name}</a>\'\n'
+        elif self.event_class == "tutorial":
+            out_str += f'name: \'<a href="/accepted_tutorials/">{self.name}</a>\'\n'
+        elif self.event_class == "wellness":
+            out_str += f'name: \'<a href="/wellness/">{self.name}</a>\'\n'
         else:
             out_str += f"name: '{self.name}'\n"
-        out_str += f'class: "{self.event_class}"\n'
+        # Map tutorial/wellness back to their original color categories
+        display_class = self.event_class
+        if self.event_class == "tutorial":
+            display_class = "meta"
+        elif self.event_class == "wellness":
+            display_class = "event"
+        out_str += f'class: "{display_class}"\n'
         out_str += f'start: "{self.start}"\n'
         out_str += f'end: "{self.end}"\n'
         # if self.location == "TBA":

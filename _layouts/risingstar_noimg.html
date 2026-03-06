@@ -1,0 +1,14 @@
+<div class="organizer" style="width: 545px;">
+  <div style="padding: 10px 0;">
+    <h3 class="organizer-name no_anchor">
+      {{ page.name }}
+    </h3>
+    {% if page.affiliation %}
+    <p>{{ page.affiliation }}</p>
+    {% endif %}
+    {% if page.role %}
+    <p class="organizer-meta">{{ page.role }}</p>
+    {% endif %}
+    {{ content }}
+  </div>
+</div>

@@ -20,7 +20,7 @@ description: Conference on Parsimony and Learning (CPAL) - Addressing the
 domain: cpal.cc
 url: https://cpal.cc # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "PENDING.md"]
 
 # Theme settings
 #remote_theme: just-the-docs/just-the-docs
@@ -86,7 +86,7 @@ defaults:
       path: ''
       type: risingstars
     values:
-      layout: risingstar
+      layout: risingstar_noimg  # TODO: revert to risingstar once photos/websites are ready
       subpath: '/assets/images/risingstars/'
   - scope:
       path: ''
