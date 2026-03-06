@@ -7,3 +7,4 @@ _db/.venv/
 _db/__pycache__/
 .claude
 _site
+PENDING.md
