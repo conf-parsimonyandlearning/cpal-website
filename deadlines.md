@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Key Dates
-nav_order: 6
+nav_order: 9
 ---
 <script src="//code.jquery.com/jquery.js"></script>
 <script src="{{ site.baseurl }}/assets/js/jquery.countdown.min.js"></script>
