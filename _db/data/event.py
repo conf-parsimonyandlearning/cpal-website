@@ -61,16 +61,25 @@ class Event:
         # (i.e. just-the-class formatting, for a YAML header)
         out_str = ""
         if self.event_class == "keynote":
-            out_str += f'name: \'<a href="/speakers/#{self.name.lower().replace(" ", "-").replace("+", "")}">{self.name}</a>\'\n'
+            out_str += f"name: '<a href=\"/speakers/#{self.name.lower().replace(' ', '-').replace('+', '')}\">{self.name}</a>'\n"
         elif self.event_class == "oral":
-            out_str += f'name: \'<a href="/orals/#{self.name.lower().replace(" ", "-").replace("+", "")}">{self.name}</a>\'\n'
+            out_str += f"name: '<a href=\"/orals/#{self.name.lower().replace(' ', '-').replace('+', '')}\">{self.name}</a>'\n"
         elif self.event_class == "poster":
-            out_str += f'name: \'<a href="/posters/#{self.name.lower().replace(" ", "-").replace("+", "")}">{self.name}</a>\'\n'
+            out_str += f"name: '<a href=\"/posters/#{self.name.lower().replace(' ', '-').replace('+', '')}\">{self.name}</a>'\n"
         elif self.event_class == "rising":
-            out_str += f'name: \'<a href="/rising_stars_presentations/#{self.name.lower().replace(" ", "-").replace("+", "")}">{self.name}</a>\'\n'
+            out_str += f"name: '<a href=\"/rising_stars_presentations/#{self.name.lower().replace(' ', '-').replace('+', '')}\">{self.name}</a>'\n"
+        elif self.event_class == "tutorial":
+            out_str += f"name: '<a href=\"/accepted_tutorials/\">{self.name}</a>'\n"
+        elif self.event_class == "wellness":
+            out_str += f"name: '<a href=\"/wellness/\">{self.name}</a>'\n"
         else:
             out_str += f"name: '{self.name}'\n"
-        out_str += f'class: "{self.event_class}"\n'
+        display_class = self.event_class
+        if self.event_class == "tutorial":
+            display_class = "meta"
+        elif self.event_class == "wellness":
+            display_class = "event"
+        out_str += f'class: "{display_class}"\n'
         out_str += f'start: "{self.start}"\n'
         out_str += f'end: "{self.end}"\n'
         # if self.location == "TBA":
@@ -81,7 +90,7 @@ class Event:
         #         out_str += f'location: <a href="/venue/#days-24-venue-lecture-hall-ii-cpd-lg07-10-lg-centennial-campus-hku">Lee Shau Kee Lecture Ctr.</a>\n'
         # else:
         #     out_str += f'location: {self.location}\n'
-        out_str += f'location: {self.location}\n'
+        out_str += f"location: {self.location}\n"
         # out_str += f'location: "{self.location}"\n'
         if self.event_class == "keynote":
             out_str += f'talk: "{self.talk}"\n'

@@ -51,7 +51,8 @@ class Individual:
             f.write("---\n")
             for key in to_dict.keys():
                 if key != "id" and key != "email":  # and key != 'day':
-                    f.write(key + ": " + '"' + str(to_dict[key]) + '"' + "\n")
+                    val = str(to_dict[key]).replace('\\', '\\\\').replace('"', '\\"')
+                    f.write(key + ": " + '"' + val + '"' + "\n")
             f.write("---\n")
 
 
