@@ -16,4 +16,8 @@ nav_order: 2
 
 {{ risingstar }}
 
+**Title**: {{ risingstar.talk }}
+
+**Abstract**: {{ risingstar.abstract }}
+
 {% endfor %}

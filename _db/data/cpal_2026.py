@@ -19,9 +19,8 @@ from roles import Organizer, RisingStar, Speaker, Tutorial
 root = Path(__file__).parent.parent.parent
 
 # variables for location strings
-# TBD: Update with actual Tubingen venue room names
-day_one_str = "TBD"  # Tutorial day venue
-day_two_str = "TBD"  # Main conference venue (Days 2-4)
+day_one_str = "TBD"
+day_two_str = "TBD"
 
 # Speaker photos should be close to 1:1 aspect (height : width)
 
@@ -32,8 +31,6 @@ day_two_str = "TBD"  # Main conference venue (Days 2-4)
 
 def make_risingstars():
     risingstars = []
-
-    # === Session 1: March 24 (Day 2) ===
 
     risingstars.append(
         RisingStar(
@@ -105,8 +102,6 @@ def make_risingstars():
         )
     )
 
-    # === Session 2: March 25 (Day 3) ===
-
     risingstars.append(
         RisingStar(
             name="Ang Li",
@@ -176,8 +171,6 @@ def make_risingstars():
             abstract="Large Language Models (LLMs) are being used for a wide variety of tasks. While they are capable of generating human-like responses, they can also produce undesirable output including potentially harmful information, racist or sexist language, and hallucinations. Alignment methods are designed to reduce such undesirable output, via techniques such as fine-tuning, prompt engineering, and representation engineering. However, existing methods face several challenges: some require costly fine-tuning for every alignment task; some do not adequately remove undesirable concepts, failing alignment; some remove benign concepts, lowering the linguistic capabilities of LLMs. To address these issues, we propose Parsimonious Concept Engineering (PaCE), a novel activation engineering framework for alignment. First, to sufficiently model the concepts, we construct a large-scale concept dictionary in the activation space, in which each atom corresponds to a semantic concept. Given any alignment task, we instruct a concept partitioner to efficiently annotate the concepts as benign or undesirable. Then, at inference time, we decompose the LLM activations along the concept dictionary via sparse coding, to accurately represent the activations as linear combinations of benign and undesirable components. By removing the latter ones from the activations, we reorient the behavior of the LLM towards the alignment goal. We conduct experiments on tasks such as response detoxification, faithfulness enhancement, and sentiment revising, and show that PaCE achieves state-of-the-art alignment performance while maintaining linguistic capabilities.",
         )
     )
-
-    # === Session 3: March 26 (Day 4) ===
 
     risingstars.append(
         RisingStar(
@@ -1117,8 +1110,6 @@ def make_conference_events():
         )
     )
 
-    # Keynotes on Day 2 are handled by make_speaker_events()
-
     conference_events.append(
         Event(
             name="Coffee Break",
@@ -1319,8 +1310,6 @@ def make_conference_events():
         )
     )
 
-    # Note: Bernhard Scholkopf keynote at 4:00-5:00 is handled by make_speaker_events()
-
     conference_events.append(
         Event(
             name="Closing Remarks",
@@ -1394,23 +1383,19 @@ def risingstars_to_jekyll():
 
 
 def _parse_poster_csv():
-    """Parse poster CSV to get title -> (session_number, poster_number, track) mapping."""
     csv_path = Path.home() / "Downloads" / "CPAL 2026 Program - Poster Session.csv"
-    mapping = {}  # title_lower -> (session, num, track)
+    mapping = {}
     current_session = None
 
     with open(csv_path, "r", encoding="utf-8") as f:
         reader = csv.reader(f)
         for row in reader:
-            # Skip empty rows and header
             if not any(row) or row[2] == "Title":
                 continue
-            # Detect session header (note: header row may also contain first paper)
             if row[0].startswith("Day One"):
                 current_session = 1
             elif row[0].startswith("Day Two"):
                 current_session = 2
-            # Skip rows without a title or number
             if not row[2] or not row[2].strip():
                 continue
             if not row[1] or not row[1].strip():
@@ -1421,34 +1406,27 @@ def _parse_poster_csv():
                 continue
             title = row[2].strip()
             link = row[3].strip() if len(row) > 3 else ""
-            # Determine track from referrer URL
             track = "spotlight" if "Recent_Spotlight_Track" in link else "proceedings"
-            # Normalize whitespace for matching
             normalized = " ".join(title.lower().split())
             mapping[normalized] = (current_session, num, track)
     return mapping
 
 
 def _parse_oral_csv():
-    """Parse oral CSV to get title -> (oral_session_number, date) mapping."""
     csv_path = Path.home() / "Downloads" / "CPAL 2026 Program - Oral Presentation.csv"
-    mapping = {}  # title_lower -> oral_session
+    mapping = {}
 
-    # Map dates to oral session numbers
     date_to_session = {
-        "March 24": 1,  # Highlight Talks I
-        "March 25": 2,  # Highlight Talks II
-        "March 26": 3,  # Highlight Talks III
+        "March 24": 1,
+        "March 25": 2,
+        "March 26": 3,
     }
 
     with open(csv_path, "r", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
             date_str = row["Date"]
-            # Extract title (strip leading paper number)
-            raw_title = row["Title"]
-            title = re.sub(r"^\d+\s+", "", raw_title).strip()
-            # Determine oral session from date
+            title = re.sub(r"^\d+\s+", "", row["Title"]).strip()
             oral_session = None
             for date_key, session_num in date_to_session.items():
                 if date_key in date_str:
@@ -1460,7 +1438,6 @@ def _parse_oral_csv():
 
 
 def proceedings_to_jekyll():
-    """Fetch proceedings track papers from OpenReview and write Jekyll collection files."""
     import openreview
 
     poster_map = _parse_poster_csv()
@@ -1477,11 +1454,9 @@ def proceedings_to_jekyll():
         title = paper["content"]["title"]["value"]
         title_lower = " ".join(title.lower().split())
 
-        # Determine oral or poster from venue string
         venue = paper["content"]["venue"]["value"]
         oral_or_poster = venue.split()[-1].lower()
 
-        # Look up session assignment from poster CSV
         if title_lower in poster_map:
             session, num, _track = poster_map[title_lower]
         else:
@@ -1489,7 +1464,6 @@ def proceedings_to_jekyll():
             session = 0
             num = 0
 
-        # Look up oral session
         oral_session = 0
         if oral_or_poster == "oral" and title_lower in oral_map:
             oral_session = oral_map[title_lower]
@@ -1515,12 +1489,10 @@ def proceedings_to_jekyll():
 
 
 def spotlight_to_jekyll():
-    """Fetch spotlight track papers from OpenReview and write Jekyll collection files."""
     import openreview
 
     poster_map = _parse_poster_csv()
 
-    # Try multiple possible venue IDs for spotlight track
     client = openreview.api.OpenReviewClient(baseurl="https://api2.openreview.net")
 
     papers = []
@@ -1533,13 +1505,10 @@ def spotlight_to_jekyll():
             break
 
     if not papers:
-        # Fallback: extract spotlight papers from poster CSV data directly
-        # (papers whose links reference Recent_Spotlight_Track)
         print("No spotlight papers found via OpenReview API. Using poster CSV data.")
         out_dir = root / "_spotlight"
         out_dir.mkdir(parents=True, exist_ok=True)
         count = 0
-        # Re-read CSV to get titles, links, authors for spotlight papers
         csv_path = Path.home() / "Downloads" / "CPAL 2026 Program - Poster Session.csv"
         current_session = None
         with open(csv_path, "r", encoding="utf-8") as f:

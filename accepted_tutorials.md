@@ -12,12 +12,9 @@ nav_order: 1
 
 The first day of the conference features six tutorial presentations, arranged
 into two parallel tracks across three sessions throughout the day.
-Each tutorial consists of 2.5 hours of lectures from leading experts,
-with topics ranging from theory to practice and presentations in an
-accessible format.
 
 See the [program schedule]({{ site.baseurl }}/program_schedule/) for the
-precise times and locations of each tutorial.
+times and locations of each tutorial.
 
 # List of Tutorials
 
