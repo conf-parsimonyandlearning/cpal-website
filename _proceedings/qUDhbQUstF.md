@@ -6,6 +6,7 @@ keywords: Text-to-Image (T2I) Generation, Diffusion Models, Text-to-Video (T2V) 
   Temporal Consistency, Spatial Consistency
 link: https://openreview.net/forum?id=qUDhbQUstF
 num: 4
+oral_order: 0
 oral_session: 0
 session: 2
 title: Enhancing Low-Cost Video Editing with Lightweight Adaptors and Temporal-Aware

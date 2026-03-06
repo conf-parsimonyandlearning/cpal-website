@@ -24,7 +24,7 @@ times and locations of each tutorial.
 {% assign t1_tutorials = track1 | map: 'tutorial' | uniq %}
 {% assign t2_tutorials = track2 | map: 'tutorial' | uniq %}
 
-## Track 1
+## Track 1 — MPH Lecture Hall, Max-Planck-Ring 6
 
 {% for title in t1_tutorials %}
 
@@ -40,7 +40,7 @@ times and locations of each tutorial.
 
 {% endfor %}
 
-## Track 2
+## Track 2 — MPI Lecture Hall, Max-Planck-Ring 4
 
 {% for title in t2_tutorials %}
 

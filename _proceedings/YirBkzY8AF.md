@@ -4,6 +4,7 @@ authors: Tianjin Huang, Yong Tao, Meng Fang, Li Shen, Fan Liu, Yulong Pei, Mykol
 keywords: Structure Pruning, Visual Prompt, Recurrent HyperNetwork
 link: https://openreview.net/forum?id=YirBkzY8AF
 num: 25
+oral_order: 0
 oral_session: 0
 session: 1
 title: (PASS) Visual Prompt Locates Good Structure Sparsity through a Recurrent HyperNetwork

@@ -4,6 +4,7 @@ keywords: Vector Quantization, Discrete Representation Learning, Radius Surrogat
   Codebook Transform, Gradient Coupling
 link: https://openreview.net/forum?id=31ALqciQGE
 num: 4
+oral_order: 0
 oral_session: 0
 session: 1
 title: Generalized Radius and Integrated Codebook Transforms for Differentiable Vector

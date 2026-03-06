@@ -4,6 +4,7 @@ authors: Armand Mihai Nicolicioiu, Eugenia Iofinova, Andrej Jovanovic, Eldar Kur
 keywords: LLMs, PEFT, LoRA, personalization, efficient ML
 link: https://openreview.net/forum?id=soFWnTqd23
 num: 24
+oral_order: 0
 oral_session: 0
 session: 1
 title: 'Panza: Investigating the Feasibility of Fully-Local Personalized Text Generation'

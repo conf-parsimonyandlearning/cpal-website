@@ -4,6 +4,7 @@ keywords: Physics-Informed Neural Networks, Koopman Operator, Out-Of-Distributio
   Generalization, Dynamical Systems
 link: https://openreview.net/forum?id=qPm2f2OE7j
 num: 13
+oral_order: 0
 oral_session: 0
 session: 2
 title: 'SPIKE: Sparse Koopman Regularization for Physics-Informed Neural Networks'

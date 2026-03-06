@@ -4,6 +4,7 @@ keywords: byzantine-robust optimization, federated learning, generalized smoothn
   normalized SGD
 link: https://openreview.net/forum?id=IhErR5K3EL
 num: 6
+oral_order: 0
 oral_session: 0
 session: 2
 title: Byzantine-Robust Optimization under $(L_0,L_1)$-Smoothness

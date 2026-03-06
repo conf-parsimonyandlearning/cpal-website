@@ -6,6 +6,7 @@ keywords: Reinforcement Fine-Tuning (RFT), Medical Vision-Language Models, Rewar
   Image Understanding
 link: https://openreview.net/forum?id=y3TlQ7nYOA
 num: 12
+oral_order: 0
 oral_session: 0
 session: 1
 title: Improving Medical Visual Reinforcement Fine-Tuning via Perception and Reasoning

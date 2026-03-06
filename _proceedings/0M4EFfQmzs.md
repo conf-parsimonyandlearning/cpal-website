@@ -6,6 +6,7 @@ keywords: Adapter-based Methods, Diffusion Models, Video Editing, Temporal Consi
   DDIM Inversion, Prompt Learning, Theoretical Analysis
 link: https://openreview.net/forum?id=0M4EFfQmzs
 num: 10
+oral_order: 0
 oral_session: 0
 session: 2
 title: 'Efficient Temporal Consistency in Diffusion-Based Video Editing with Adaptor

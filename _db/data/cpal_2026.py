@@ -19,8 +19,10 @@ from roles import Organizer, RisingStar, Speaker, Tutorial
 root = Path(__file__).parent.parent.parent
 
 # variables for location strings
-day_one_str = "TBD"
-day_two_str = "TBD"
+mph_str = "MPH Lecture Hall, Max-Planck-Ring 6"
+mpi_str = "MPI Lecture Hall, Max-Planck-Ring 4"
+day_one_str = mph_str + " / " + mpi_str
+day_two_str = mph_str
 
 # Speaker photos should be close to 1:1 aspect (height : width)
 
@@ -1034,7 +1036,7 @@ def make_conference_events():
 
     conference_events.append(
         Event(
-            name="Tutorial Session 1<br>T1: Orthogonal Training for Foundation Models<br>T2: Training Neural Networks at Any Scale",
+            name="Tutorial Session 1<br>T1: Orthogonal Training for Foundation Models (MPH)<br>T2: Training Neural Networks at Any Scale (MPI)",
             event_class="tutorial",
             day=1,
             start="9:00 AM",
@@ -1056,7 +1058,7 @@ def make_conference_events():
 
     conference_events.append(
         Event(
-            name="Tutorial Session 2<br>T1: Inference Optimization Playbook for Serving LLMs in the Industry<br>T2: Where to Spend Parameters: From Layerwise Efficiency To Federated Architecture Search",
+            name="Tutorial Session 2<br>T1: Inference Optimization Playbook for Serving LLMs in the Industry (MPH)<br>T2: Where to Spend Parameters: From Layerwise Efficiency To Federated Architecture Search (MPI)",
             event_class="tutorial",
             day=1,
             start="12:30 PM",
@@ -1078,7 +1080,7 @@ def make_conference_events():
 
     conference_events.append(
         Event(
-            name="Tutorial Session 3<br>T1: Reward Modeling in Large Language Models<br>T2: Theoretical Insights on Training Instability in Deep Learning",
+            name="Tutorial Session 3<br>T1: Reward Modeling in Large Language Models (MPH)<br>T2: Theoretical Insights on Training Instability in Deep Learning (MPI)",
             event_class="tutorial",
             day=1,
             start="3:30 PM",
@@ -1422,6 +1424,7 @@ def _parse_oral_csv():
         "March 26": 3,
     }
 
+    session_counters = {}
     with open(csv_path, "r", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
@@ -1433,7 +1436,13 @@ def _parse_oral_csv():
                     oral_session = session_num
                     break
             if oral_session is not None:
-                mapping[" ".join(title.lower().split())] = oral_session
+                session_counters[oral_session] = (
+                    session_counters.get(oral_session, 0) + 1
+                )
+                mapping[" ".join(title.lower().split())] = (
+                    oral_session,
+                    session_counters[oral_session],
+                )
     return mapping
 
 
@@ -1465,8 +1474,9 @@ def proceedings_to_jekyll():
             num = 0
 
         oral_session = 0
+        oral_order = 0
         if oral_or_poster == "oral" and title_lower in oral_map:
-            oral_session = oral_map[title_lower]
+            oral_session, oral_order = oral_map[title_lower]
 
         out = {
             "title": title,
@@ -1477,6 +1487,7 @@ def proceedings_to_jekyll():
             "session": session,
             "num": num,
             "oral_session": oral_session,
+            "oral_order": oral_order,
         }
         out_fn = paper["id"] + ".md"
         out_path = out_dir / out_fn

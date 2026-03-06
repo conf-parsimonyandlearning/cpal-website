@@ -42,7 +42,7 @@ below, in their corresponding oral sessions.
 {% assign session_roman = event_name | split: " " | last %}
 {% if session_roman == "I" %}{% assign session_number = "1" %}{% elsif session_roman == "II" %}{% assign session_number = "2" %}{% elsif session_roman == "III" %}{% assign session_number = "3" %}{% endif %}
 
-{% assign papers = site.proceedings | where: 'oral_session', session_number | where: 'type', 'oral' | sort: 'num' %}
+{% assign papers = site.proceedings | where: 'oral_session', session_number | where: 'type', 'oral' | sort: 'oral_order' %}
 {% for paper in papers %}
 
 ### [{{ paper.title }}]({{ paper.link }})
