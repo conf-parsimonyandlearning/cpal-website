@@ -1,9 +1,9 @@
 ---
 name: "Lu Yin"
-role: "Researcher"
+role: "Assistant Professor"
 affiliation: "University of Surrey"
 website: "https://luuyin.com/"
-photo: "image4.png"
+photo: "yin_rs.png"
 talk: "Sustainable Compute, Smart Reasoning, and Specialized Domain Foundation Models"
 abstract: "TBD"
 session: "1"

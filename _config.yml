@@ -86,8 +86,8 @@ defaults:
       path: ''
       type: risingstars
     values:
-      layout: risingstar_noimg  # TODO: revert to risingstar once photos/websites are ready
-      subpath: '/assets/images/risingstars/'
+      layout: risingstar
+      subpath: '/assets/images/'
   - scope:
       path: ''
       type: schedules
