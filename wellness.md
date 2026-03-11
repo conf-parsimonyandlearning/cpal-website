@@ -19,13 +19,13 @@ meditation techniques impact human brain and behavior. The wellness experience
 will be led by Devin O'Rourke.
 
 *"If Steve Jobs was right in saying 'everyone should learn how to program a
-computer because it teaches you how to think' I feel confident in saying every
+computer because it teaches you how to think' we feel confident in saying every
 computational scientist should learn how to meditate because it will teach them
 how to program. Clear observation and analysis of our environment is an enduring
 goal of human endeavor. Long before AI was assisting this venture, contemplative
 cultures around the world recognized they can amplify their cognitive clarity
-through deliberate practice. You've spent decades improving silicon
-architectures. For these 45 minutes we're going to focus on refining the wetware
+through deliberate practice. We have spent decades improving silicon
+architectures. During this session we're going to focus on refining the wetware
 generating the ideas."*
 
 We are offering this opportunity as a way to help ensure your experience at
