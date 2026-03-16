@@ -10,5 +10,5 @@ bio: "TBA"
 day: "4"
 start: "4:00 PM"
 end: "5:00 PM"
-location: "TBD"
+location: "MPH Lecture Hall, Max-Planck-Ring 6"
 ---

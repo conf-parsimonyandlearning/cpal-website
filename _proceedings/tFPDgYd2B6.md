@@ -1,5 +1,6 @@
 ---
 authors: Ali Joundi, Yann Traonmilin, Jean-François Aujol
+award: Best Paper Award
 keywords: Inverse Problems, Sparse Recovery, Plug-and-Play, Deep Prior, Optimization
 link: https://openreview.net/forum?id=tFPDgYd2B6
 num: 3

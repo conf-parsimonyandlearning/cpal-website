@@ -4,12 +4,28 @@ title: Keynote Speakers
 nav_order: 4
 ---
 
+{% include splash.html %}
+
 # Keynote Speakers
 
-<!-- Information on the speakers' planned talks is available [here](#talk-details). -->
+Clicking a speaker's photo will jump to their talk information below.
 
 {% include speakers.html %}
 
-<!-- ## Talk Details -->
+## Talk Details
 
-<!-- *Talk details will be announced soon.* -->
+{% assign speakers = site.speakers %}
+{% for speaker in speakers %}
+
+### [{{ speaker.name }}]({{ speaker.website }})
+
+{{ speaker.affiliation }}
+
+#### Title: {{ speaker.talk }}
+
+#### Time and Location: [Day {{ speaker.day }}, {{ speaker.start }}]({{ site.baseurl }}/program_schedule/), {{ speaker.location }}
+
+#### Abstract
+{{ speaker.abstract}}
+
+{% endfor %}

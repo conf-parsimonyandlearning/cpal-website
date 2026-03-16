@@ -17,7 +17,20 @@ See the [full program]({{ site.baseurl }}/program_schedule/) for the precise
 time and location of each oral and poster session.
 
 {% assign papers = site.proceedings | sort: 'id' %}
+
 {% for paper in papers %}
+{% unless paper.award %}{% continue %}{% endunless %}
+
+### [{{ paper.title }}]({{ paper.link }}) ***(Oral, {{ paper.award }})***
+{{ paper.authors }}
+
+{: .fs-2 }
+Keywords: *{{ paper.keywords }}*
+
+{% endfor %}
+
+{% for paper in papers %}
+{% if paper.award %}{% continue %}{% endif %}
 
 {% assign suffix = '' %}
 {% if paper.type == 'oral' %}

@@ -1,7 +1,7 @@
 ---
 name: "Weiyang Liu"
 role: "Researcher"
-affiliation: "CUHK"
+affiliation: "Max Planck Institute for Intelligent Systems"
 website: ""
 photo: "placeholder.png"
 order: "1"
