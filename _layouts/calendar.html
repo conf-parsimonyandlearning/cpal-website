@@ -24,9 +24,7 @@
           <div class="name">{{ event.name }}</div>
           <div class="time">{{ event.start }}–{{ event.end }}</div>
           {% if event.location %}
-              {% if event.class != 'break' %}
               <div class="location">{{ event.location }}</div>
-              {% endif %}
           {% endif %}
           {% if event.talk %}
           <div class="talk-title">"{{ event.talk }}"</div>

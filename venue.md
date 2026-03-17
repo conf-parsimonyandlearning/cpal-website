@@ -27,13 +27,17 @@ You can easily reach the location by taking **bus number 3** and exiting at the 
 
 ![Map to venue]({{ site.baseurl }}/assets/images/mph_map.png){: .d-block .mx-auto style="max-width: 100%;" }
 
+### Registration
+
+Registration will take place at the **MPH Lobby** (Max-Planck-Ring 6). On Monday (tutorial day), registration is from 8:30 AM to 9:00 AM. On Tuesday (first day of the main conference), registration is from 8:00 AM to 8:30 AM.
+
 ### Posters
 
-Posters for Poster Sessions can be put up any time between 12:00 noon and the start of the session. Posters for sessions 2 and 3 should be put up during the morning breaks. All posters should be taken down at the end of each day or they will be discarded.
+Poster sessions will take place at the **MPI Lecture Hall** (Max-Planck-Ring 4). Posters can be put up any time between 12:00 noon and the start of the session. All posters should be taken down at the end of each day or they will be discarded.
 
 ### Meals
 
-Lunch and coffee breaks will take place at the venue. Vegan options will be available. Please remember not to take any drinks into the lecture hall.
+Lunch and coffee breaks will be served at the **MPH Cafeteria** (Max-Planck-Ring 6). Vegan options will be available. Please remember not to take any drinks into the lecture hall.
 
 ## FAQs
 

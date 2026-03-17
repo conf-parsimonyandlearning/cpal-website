@@ -21,6 +21,8 @@ root = Path(__file__).parent.parent.parent
 # variables for location strings
 mph_str = "MPH Lecture Hall, Max-Planck-Ring 6"
 mpi_str = "MPI Lecture Hall, Max-Planck-Ring 4"
+mph_lobby_str = "MPH Lobby, Max-Planck-Ring 6"
+mph_cafeteria_str = "MPH Cafeteria, Max-Planck-Ring 6"
 day_one_str = mph_str + " / " + mpi_str
 day_two_str = mph_str
 
@@ -257,8 +259,8 @@ def make_speakers():
             website="https://yingyuliang.github.io/",
             affiliation="University of Hong Kong, University of Wisconsin-Madison",
             photo="liang.png",
-            talk="TBA",
-            abstract="TBA",
+            talk="A Tangram Theory of Generalization: Rethinking Machine Learning via the Lens of Composition",
+            abstract="Modern machine learning models display abilities that exceed the assumptions of classical statistical learning, particularly their capacity to solve test-time tasks far beyond those seen during training—an ability widely viewed as central to progress toward AGI. Such phenomena call for new theoretical frameworks. This talk presents a perspective based on composition: the idea that models generalize by recombining learned skills to address novel, more complex tasks. Empirical evidence and preliminary theoretical results will be provided to support this viewpoint, aiming to motivate further investigation into this tangram theory of generalization.",
             bio="TBA",
             day=2,  # Tuesday March 24th
             start="9:00 AM",
@@ -1030,7 +1032,7 @@ def make_conference_events():
             day=1,  # Monday March 23rd
             start="8:30 AM",
             end="9:00 AM",
-            location=day_one_str,
+            location=mph_lobby_str,
         )
     )
 
@@ -1052,7 +1054,7 @@ def make_conference_events():
             day=1,
             start="11:30 AM",
             end="12:30 PM",
-            location=day_one_str,
+            location=mph_cafeteria_str,
         )
     )
 
@@ -1074,7 +1076,7 @@ def make_conference_events():
             day=1,
             start="3:00 PM",
             end="3:30 PM",
-            location=day_one_str,
+            location=mph_cafeteria_str,
         )
     )
 
@@ -1097,7 +1099,7 @@ def make_conference_events():
             day=2,  # Tuesday March 24th
             start="8:00 AM",
             end="8:30 AM",
-            location=day_two_str,
+            location=mph_lobby_str,
         )
     )
 
@@ -1119,7 +1121,7 @@ def make_conference_events():
             day=2,
             start="10:00 AM",
             end="10:30 AM",
-            location=day_two_str,
+            location=mph_cafeteria_str,
         )
     )
 
@@ -1130,7 +1132,7 @@ def make_conference_events():
             day=2,
             start="11:30 AM",
             end="12:30 PM",
-            location=day_two_str,
+            location=mph_cafeteria_str,
         )
     )
 
@@ -1174,7 +1176,7 @@ def make_conference_events():
             day=2,
             start="4:00 PM",
             end="6:00 PM",
-            location=day_two_str,
+            location=mpi_str,
         )
     )
 
@@ -1197,7 +1199,7 @@ def make_conference_events():
             day=3,
             start="10:00 AM",
             end="10:30 AM",
-            location=day_two_str,
+            location=mph_cafeteria_str,
         )
     )
 
@@ -1208,7 +1210,7 @@ def make_conference_events():
             day=3,
             start="11:30 AM",
             end="12:30 PM",
-            location=day_two_str,
+            location=mph_cafeteria_str,
         )
     )
 
@@ -1241,7 +1243,7 @@ def make_conference_events():
             day=3,
             start="2:00 PM",
             end="2:30 PM",
-            location=day_two_str,
+            location=mph_cafeteria_str,
         )
     )
 
@@ -1252,7 +1254,7 @@ def make_conference_events():
             day=3,
             start="3:30 PM",
             end="5:30 PM",
-            location=day_two_str,
+            location=mpi_str,
         )
     )
 
@@ -1264,7 +1266,7 @@ def make_conference_events():
             day=4,
             start="10:00 AM",
             end="10:30 AM",
-            location=day_two_str,
+            location=mph_cafeteria_str,
         )
     )
 
@@ -1275,7 +1277,7 @@ def make_conference_events():
             day=4,
             start="11:30 AM",
             end="12:30 PM",
-            location=day_two_str,
+            location=mph_cafeteria_str,
         )
     )
 
@@ -1308,7 +1310,7 @@ def make_conference_events():
             day=4,
             start="2:00 PM",
             end="2:30 PM",
-            location=day_two_str,
+            location=mph_cafeteria_str,
         )
     )
 
