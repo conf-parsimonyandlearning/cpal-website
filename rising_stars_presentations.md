@@ -56,7 +56,7 @@ time and location of each CPAL Rising Stars session.
 
 {{ risingstar }}
 
-**Title**: {{ risingstar.talk }}
+**Title**: {{ risingstar.talk }}{% if risingstar.online == "True" %} ***(Online)***{% endif %}
 
 **Abstract**: {{ risingstar.abstract }}
 

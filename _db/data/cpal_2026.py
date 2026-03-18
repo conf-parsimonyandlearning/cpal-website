@@ -87,8 +87,8 @@ def make_risingstars():
             photo="yin_rs.png",
             session=1,
             order=4,
-            talk="Sustainable Compute, Smart Reasoning, and Specialized Domain Foundation Models",
-            abstract="TBD",
+            talk="Not All Layers Are Equal: Criticality and Depth Balance in LLMs",
+            abstract="Large Language Models (LLMs) have achieved remarkable success across diverse tasks, from text completion and question answering to complex reasoning. However, their increasing scale introduces practical challenges for inference, fine-tuning, and training. This talk examines these challenges through a layerwise lens. First, we show that layers differ substantially in their contributions to overall model performance. We demonstrate how layerwise importance signals enable targeted pruning and more selective fine-tuning by concentrating updates on the most influential parts of the network. We then turn to depth imbalance, where shallow and deep layers contribute unevenly during and after pretraining. We analyze possible causes of this phenomenon and present practical remedies, including layerwise learning-rate and weight-decay schedules, as well as the normalization method, to encourage balanced contributions across the full depth of the model.",
         )
     )
 
@@ -103,6 +103,7 @@ def make_risingstars():
             order=5,
             talk="Democratizing LLM Training via Low-Rank Methods",
             abstract="As Large Language Models (LLMs) continue to scale in size and capability, the cost and complexity of training -- particularly memory consumption from optimizer states -- have become critical bottlenecks. In this talk, we explore the evolution of low-rank optimization techniques for LLMs, tracing the progression from GaLore to APOLLO. GaLore introduces a memory-efficient training paradigm by applying low-rank projections to gradients and optimizer states, enabling the training of models with up to 7 billion parameters on consumer-grade GPUs such as the NVIDIA RTX 4090. Building on this foundation, APOLLO demonstrates the surprising effectiveness of rank-1 optimizer states with purely random projections, achieving SGD-level memory overhead while maintaining performance comparable to AdamW. This method brings substantial system-level improvements, including a 3x increase in throughput on 8xA100-80G GPUs and enhanced model scalability.",
+            online=True,
         )
     )
 
@@ -117,6 +118,7 @@ def make_risingstars():
             order=1,
             talk="Parsimony and Efficiency in Foundation Models: A Holistic Framework for Structural Analysis and Resource-Aware Serving",
             abstract='The increasing overparameterization of foundation models necessitates a shift toward parsimonious architectures and resource-aware serving to enable universal deployment. This research establishes a holistic framework for efficiency by identifying structural redundancies and mitigating operational bottlenecks across the AI stack. We introduce a similarity-based metric to quantify module importance, revealing that "Attention Drop" -- the strategic pruning of redundant attention layers -- can streamline Transformers while preserving core functional performance. For Mixture of Experts (MoE) architectures, we propose a unified compression strategy integrating "Expert Trimming" of structured modules with "Expert Slimming" of individual experts. To enhance sparse inference efficiency, we address the "Straggler Effect" caused by imbalanced token routing through Capacity-Aware Inference, which regulates expert workloads via token dropping and rerouting. Finally, we demonstrate system-level parsimony through EdgeLoRA, a multi-tenant serving system that utilizes adaptive adapter selection and heterogeneous memory management to maximize efficiency on edge hardware. Collectively, these contributions provide a scientific foundation for the next generation of sustainable and hardware-aware intelligent systems.',
+            online=True,
         )
     )
 
@@ -129,8 +131,8 @@ def make_risingstars():
             photo="song_rs.png",
             session=2,
             order=2,
-            talk="Better spatial reasoning and analysis through depth-informed 3D geometry tokens",
-            abstract="TBD",
+            talk="Reinforcement Learning in Blind Inverse Problems with Flow Matching Models",
+            abstract="Image restoration with Diffusion Transformers (DiTs) increasingly depends on test-time heuristics -- custom classifier-free guidance (CFG), gradient-based guidance, and initial-noise search -- to achieve high fidelity. Yet standard training objectives such as conditional flow matching primarily optimize distribution matching, creating a mismatch with inference-time restoration requirements. We address this gap with a noise-space post-training framework for reverse sampling. Our method introduces (1) a reinforcement-learning approach in noise space for controllable sampling (CS-GRPO), enabling exploration with tunable diversity during sampling, and (2) a partial flow matching objective that trains the model under partially customized reverse trajectories. Together, these components adapt flow-matching DiTs to restoration by improving reconstruction fidelity and providing fine-grained control while retaining the generative strength of pretrained models. Extensive experiments show consistent gains over vanilla conditional flow matching and strong state-of-the-art baselines across multiple benchmarks, with particularly strong robustness in out-of-domain and real-world restoration settings.",
         )
     )
 
@@ -187,6 +189,7 @@ def make_risingstars():
             order=1,
             talk="A fundamental statistical limitation of Gradient Descent in learning sparse targets from hard labels",
             abstract='The success of gradient descent in deep learning has often been attributed to a property called implicit regularization which enables finding "generalizing" solutions. Contrary to past works, we point out a statistical limitation of learning with gradient descent in the simplest but the most commonly occurring case. We study well-specified sparse logistic regression in the over-constrained regime, where the number of input-label samples (n) exceeds the dimension (d), and the learner has access only to hard discrete labels. In this setting, when gradient descent learns using a standard dot-product model between weights and inputs, it is provably suboptimal and incurs an excess risk that scales with the dimension (d). This limitation holds more broadly for a class of rotation-invariant algorithms, which includes deep neural networks with a fully connected first layer. In contrast, simple non-rotation-invariant parameterizations achieve substantially better statistical performance using early stopping, with only logarithmic dependence on the dimension. Our results highlight a limitation of the commonly celebrated implicit regularization of gradient descent and its failure to efficiently learn sparse targets from hard labels.',
+            online=True,
         )
     )
 
@@ -200,7 +203,8 @@ def make_risingstars():
             session=3,
             order=2,
             talk="Parsimony through Causality: Building Trustworthy and Interpretable AI",
-            abstract="TBD",
+            abstract="Foundation models are rapidly becoming capable assistants for knowledge work, yet real deployment remains limited by three persistent gaps: brittle transfer under distribution shift, opaque internal reasoning, and coarse-grained controllability. I will argue that these gaps are best viewed as a structure problem: whether learning recovers the underlying mechanisms of the data-generating process rather than surface correlations. I use causal thinking as a practical lens for parsimony: separating what is invariant from what changes across environments, and identifying what can be intervened upon. First, I present a mechanism-learning approach to transfer, where models learn stable, reusable components from heterogeneous data and become controllable through interventions on learned factors. Second, I connect modern self-supervised objectives (e.g., masking and diffusion) to hierarchical latent-variable models that recover sparse, compositional concept structure even from seemingly unstructured data -- yielding interpretable generative factors and enabling targeted edits at multiple levels of abstraction. Finally, I discuss when such structured representations support extrapolation to novel concept combinations, and sketch a compositional generation framework that improves prompt following beyond the training distribution.",
+            online=True,
         )
     )
 
@@ -229,6 +233,7 @@ def make_risingstars():
             order=4,
             talk="Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime",
             abstract="Data selection is crucial for data-driven decision-making, including foundation models, but beyond data quality and diversity, it is unclear whether other general quantitative principles can reliably improve complex tasks. In this talk, I will demonstrate that selecting more uniformly distributed data can improve training efficiency while enhancing performance. Specifically, we establish that more uniform (less biased) distribution leads to a larger minimum pairwise distance between data points, denoted by h_min, and prove that a smaller h_min can slow down the training dynamics of gradient descent (GD). Moreover, we theoretically show that the approximation error of neural networks decreases as h_min increases. Our analysis introduces a convergence framework for GD beyond the Neural Tangent Kernel (NTK) regime, applicable to a broad class of architectures, including transformers, without requiring Lipschitz smoothness. This framework further provides theoretical justification for the use of residual connection and function composition in deep neural architectures. In the end, I will show some comprehensive experiments, including supervised fine-tuning across various settings, different optimization strategies, model sizes, and training datasets. The results consistently demonstrate that selecting data by maximizing the minimum pairwise distance significantly accelerates training and achieves comparable or better performance across diverse datasets.",
+            online=True,
         )
     )
 
@@ -569,6 +574,20 @@ def make_tutorials():
             abstract="",
             track=2,
             order=2,
+        )
+    )
+
+    tutorials.append(
+        Tutorial(
+            name="Moritz Haas",
+            role="Researcher",
+            website="",
+            affiliation="AWS",
+            photo="placeholder.png",
+            tutorial="Training Neural Networks at Any Scale",
+            abstract="",
+            track=2,
+            order=3,
         )
     )
 
@@ -1187,7 +1206,7 @@ def make_conference_events():
             day=2,
             start="6:00 PM",
             end="8:00 PM",
-            location=day_two_str,
+            location=mph_lobby_str,
         )
     )
 

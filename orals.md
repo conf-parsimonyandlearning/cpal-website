@@ -45,7 +45,7 @@ below, in their corresponding oral sessions.
 {% assign papers = site.proceedings | where: 'oral_session', session_number | where: 'type', 'oral' | sort: 'oral_order' %}
 {% for paper in papers %}
 
-### [{{ paper.title }}]({{ paper.link }}){% if paper.award %} ***({{ paper.award }})***{% endif %}
+### [{{ paper.title }}]({{ paper.link }}){% if paper.award %} ***({{ paper.award }})***{% endif %}{% if paper.online %} *(Online)*{% endif %}
 {: .no_toc}
 {{ paper.authors }}
 

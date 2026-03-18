@@ -84,6 +84,7 @@ class RisingStar(Individual):
     abstract: str = ""
     session: int = 1
     order: int = 1
+    online: bool = False
 
     def export_jekyll(self, path):
         super().export_jekyll(path=path, subdir="_risingstars")
