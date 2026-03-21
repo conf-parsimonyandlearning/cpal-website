@@ -281,8 +281,8 @@ def make_speakers():
             website="https://ibis.t.u-tokyo.ac.jp/suzuki/",
             affiliation="University of Tokyo / RIKEN AIP",
             photo="suzuki.png",
-            talk="TBA",
-            abstract="TBA",
+            talk="Feature learning theories for test time inference",
+            abstract="Feature learning is a fundamental advantage of deep foundation models, including Transformers. Specifically, the quality of the features acquired during the pre-training stage is crucially important for effective test-time inference. While acquiring irrelevant features can severely degrade performance, learning robust representations can enable strong out-of-distribution (OOD) generalization. In this talk, I will explore this phenomenon through the lenses of associative recall and in-context learning.\nIn the first half, I will focus on associative recall, demonstrating that training data diversity allows Transformers to acquire useful features that generalize to OOD test data. Furthermore, I will show that Transformers can handle infinite-length contexts in nonlinear associative recall problems to achieve a minimax optimal rate.\nIn the second half, I will discuss in-context learning from a feature learning perspective. I will demonstrate that nonlinear feature learning can occur even at test time without gradient descent. Finally, I will show how applying test-time training can further improve performance while requiring fewer instructions.",
             bio="TBA",
             day=2,  # Tuesday March 24th
             start="10:30 AM",
@@ -298,8 +298,8 @@ def make_speakers():
             website="https://bethgelab.org/",
             affiliation="University of Tubingen",
             photo="bethge.png",
-            talk="TBA",
-            abstract="TBA",
+            talk="Designing Frontier AI Institutions as Institutional Learning Machines",
+            abstract="Advances in AI are rapidly reducing transaction costs, enabling continuous, large-scale interaction data and closed-loop optimization in real-world systems. A hallmark of frontier AI is its close symbiosis with business models and institutional data processing that optimize objectives derived from user feedback. In institutions such as firms, markets, education, and governance, objectives are traditionally implicit\u2014encoded in laws, organizational structures, and incentive systems. As these systems become increasingly digital, they can be modeled as institutional learning machines, where inputs, outputs, and feedback signals become observable and programmable with vanishing transaction costs. Building on the transition to the post-dataset era, this perspective introduces a new level of meta-adaptivity at the level of objectives, opening the door to explicit and adaptive institutional design beyond fixed and opaque objectives.\nIn this talk, I illustrate this perspective through the AIS project, an AI-based education platform that treats the school system itself as a learning system. By enabling continuous, data-driven optimization of curricula and learning processes, AIS provides a concrete example of how institutional learning machines can be built in practice. From this perspective, the central challenge shifts from optimizing models under a given objective to designing the learning signals, feedback loops, and data access mechanisms that govern how objectives evolve\u2014particularly in markets, where demand acts as a primary learning signal. The value proposition of institutional machine learning thus spans both the design of frontier AI companies and the reframing of policy debates\u2014such as Europe\u2019s search for its role in the AI race\u2014into a well-defined research agenda at the intersection of machine learning, mechanism design, and digital infrastructure. More fundamentally, it recasts frontier AI debates on social acceptance, antitrust, and data silos as a technological design problem: how institutions learn, and who controls that process to maximize public rather than privately concentrated value.",
             bio="TBA",
             day=3,  # Wednesday March 25th
             start="9:00 AM",
