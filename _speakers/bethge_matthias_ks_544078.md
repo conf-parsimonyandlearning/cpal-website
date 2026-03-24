@@ -1,7 +1,7 @@
 ---
 name: "Matthias Bethge"
 role: "Keynote Speaker"
-affiliation: "University of Tubingen"
+affiliation: "University of Tübingen"
 website: "https://bethgelab.org/"
 photo: "bethge.png"
 talk: "Designing Frontier AI Institutions as Institutional Learning Machines"

@@ -1,6 +1,6 @@
 ---
 name: "Tianjiao Ding"
-role: "Ph.D. Student"
+role: "Ph.D. Candidate"
 affiliation: "University of Pennsylvania"
 website: "https://tianjiaoding.com/"
 photo: "ding_rs.png"
