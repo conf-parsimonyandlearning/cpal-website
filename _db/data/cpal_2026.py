@@ -124,27 +124,13 @@ def make_risingstars():
 
     risingstars.append(
         RisingStar(
-            name="Bowen Song",
-            role="Ph.D. Student",
-            website="https://scholar.google.com/citations?user=QQKVkfcAAAAJ&hl=zh-CN",
-            affiliation="University of Michigan",
-            photo="song_rs.png",
-            session=2,
-            order=2,
-            talk="Reinforcement Learning in Blind Inverse Problems with Flow Matching Models",
-            abstract="Image restoration with Diffusion Transformers (DiTs) increasingly depends on test-time heuristics -- custom classifier-free guidance (CFG), gradient-based guidance, and initial-noise search -- to achieve high fidelity. Yet standard training objectives such as conditional flow matching primarily optimize distribution matching, creating a mismatch with inference-time restoration requirements. We address this gap with a noise-space post-training framework for reverse sampling. Our method introduces (1) a reinforcement-learning approach in noise space for controllable sampling (CS-GRPO), enabling exploration with tunable diversity during sampling, and (2) a partial flow matching objective that trains the model under partially customized reverse trajectories. Together, these components adapt flow-matching DiTs to restoration by improving reconstruction fidelity and providing fine-grained control while retaining the generative strength of pretrained models. Extensive experiments show consistent gains over vanilla conditional flow matching and strong state-of-the-art baselines across multiple benchmarks, with particularly strong robustness in out-of-domain and real-world restoration settings.",
-        )
-    )
-
-    risingstars.append(
-        RisingStar(
             name="Chenyu You",
             role="Assistant Professor",
             website="https://chenyuyou.me/",
             affiliation="Stony Brook University",
             photo="you_rs.png",
             session=2,
-            order=3,
+            order=2,
             talk="Towards Robust, Efficient, and Generalized Medical AI",
             abstract="Artificial intelligence has advanced biomedical image analysis dramatically, yet reliable clinical deployment remains limited. A key reason is that current models do not fully leverage the parsimonious, low-dimensional structure underlying anatomy, physiology, and disease. Scarce labeled data hinder representation learning, distribution shifts break brittle invariances, and the absence of theoretical guarantees reduces trust in high-stakes decisions. My research addresses these challenges by developing robust, efficient, and generalized medical AI methods that extract compact structural representations, unify data-driven learning with mathematical principles, and build medical foundation models that transfer across populations, modalities, and institutions. The central aim of my research is to uncover and exploit intrinsic low-dimensional structure to achieve sample efficiency, computational efficiency, and reliable generalization in real clinical environments.",
         )
@@ -158,7 +144,7 @@ def make_risingstars():
             affiliation="Stanford University",
             photo="chen_rs.png",
             session=2,
-            order=4,
+            order=3,
             talk="Economical AI Marketplaces: From Model Cascading to Compound AI Systems",
             abstract='The paradigm of machine learning has shifted from training individual models to utilizing "AI as a Service" via APIs like GPT-5 and Gemini 3 Pro. While this democratizes access, it introduces significant challenges in cost and performance optimization. With thousands of available models and infinite combinations, how do we efficiently orchestrate these services? In this talk, I will present two frameworks that address this challenge at different levels of complexity. First, I will introduce FrugalGPT, a cascading framework for single-turn queries. By learning to route easy queries to cheaper models and only escalating hard queries to expensive ones, FrugalGPT matches the performance of top-tier models with up to 98% cost reduction. Second, I will discuss LLMSelector, which extends this optimization to compound AI systems. I will show that in these complex workflows, naively using the "best" model for every step is inefficient. LLMSelector uses a data-efficient optimization algorithm to assign the optimal model to each module, achieving substantial accuracy gains over baseline approaches.',
         )
@@ -172,7 +158,7 @@ def make_risingstars():
             affiliation="University of Pennsylvania",
             photo="ding_rs.png",
             session=2,
-            order=5,
+            order=4,
             talk="Parsimonious Concept Engineering",
             abstract="Large Language Models (LLMs) are being used for a wide variety of tasks. While they are capable of generating human-like responses, they can also produce undesirable output including potentially harmful information, racist or sexist language, and hallucinations. Alignment methods are designed to reduce such undesirable output, via techniques such as fine-tuning, prompt engineering, and representation engineering. However, existing methods face several challenges: some require costly fine-tuning for every alignment task; some do not adequately remove undesirable concepts, failing alignment; some remove benign concepts, lowering the linguistic capabilities of LLMs. To address these issues, we propose Parsimonious Concept Engineering (PaCE), a novel activation engineering framework for alignment. First, to sufficiently model the concepts, we construct a large-scale concept dictionary in the activation space, in which each atom corresponds to a semantic concept. Given any alignment task, we instruct a concept partitioner to efficiently annotate the concepts as benign or undesirable. Then, at inference time, we decompose the LLM activations along the concept dictionary via sparse coding, to accurately represent the activations as linear combinations of benign and undesirable components. By removing the latter ones from the activations, we reorient the behavior of the LLM towards the alignment goal. We conduct experiments on tasks such as response detoxification, faithfulness enhancement, and sentiment revising, and show that PaCE achieves state-of-the-art alignment performance while maintaining linguistic capabilities.",
         )
@@ -417,8 +403,8 @@ def make_speakers():
             website="https://is.mpg.de/~bs",
             affiliation="Max Planck Institute for Intelligent Systems / ELLIS Institute Tübingen",
             photo="scholkopf.png",
-            talk="TBA",
-            abstract="TBA",
+            talk="Causal Representations, World Models and Digital Twins",
+            abstract="Research on understanding and building artificially intelligent systems has moved from symbolic approaches to statistical learning, and is now beginning to study interventional models relying on concepts of causality. Some of the hard open problems of machine learning and AI are intrinsically related to causality, and progress may require advances in our understanding of how to model and infer causality from data, as well as conceptual progress on what constitutes a causal representation and a causal world model. I will present basic concepts and thoughts, as well some applications to astronomy.",
             bio="TBA",
             day=4,  # Thursday March 26th
             start="4:00 PM",
