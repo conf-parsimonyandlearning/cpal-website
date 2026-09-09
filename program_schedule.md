@@ -1,20 +1,12 @@
 ---
 layout: page
 title: Program at a Glance
-description: Calendar view of the conference program
-nav_order: 0
+permalink: /program_schedule/
 parent: Conference Program
+nav_order: 1
 ---
-
-{% include splash.html %}
 
 # Program at a Glance
 
-All times below are in Central European Time (CET, UTC+1).
-
-For attendance logistics and venue information, see the [logistics
-page]({{site.baseurl}}/venue).
-
-{% for calendar in site.calendars %}
-{{ calendar }}
-{% endfor %}
+{: .forthcoming }
+The CPAL 2027 schedule will be posted here when finalized.

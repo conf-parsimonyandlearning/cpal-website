@@ -1,15 +1,9 @@
 ---
 layout: page
 title: Advisory Committee
+permalink: /advisory/
 parent: Organizers
-nav_order: 1
+nav_order: 2
+nav_exclude: true
+search_exclude: true
 ---
-
-{% include splash.html %}
-
-# Advisory Committee
-
-{% include advisory.html %}
-
-{: .fs-1 .text-grey-dk-000}
-\* Ordered alphabetically

@@ -1,136 +1,56 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole site, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Conference on Parsimony and Learning (CPAL)
-description: Conference on Parsimony and Learning (CPAL) - Addressing the
-  low-dimensional structures in high-dimensional data that prevail in machine
-  learning, signal processing, optimization, and beyond.
+description: >-
+  The Fourth Conference on Parsimony and Learning (CPAL 2027),
+  March 23–26, 2027, at Hitotsubashi Hall in Tokyo, Japan.
 domain: cpal.cc
-url: https://cpal.cc # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "PENDING.md"]
+url: "https://cpal.cc"
+baseurl: ""
+repository: conf-parsimonyandlearning/cpal-website
 
-# Theme settings
-#remote_theme: just-the-docs/just-the-docs
-theme: just-the-docs # this works offline...
-math: katex
+theme: just-the-docs
 color_scheme: cpal
+logo: "/assets/images/logo.svg"
+favicon_ico: "/assets/favicon.svg"
+
 search_enabled: true
 heading_anchors: true
 permalink: pretty
-logo: "/assets/images/logo.svg"
+nav_sort: case_insensitive
+aux_links_new_tab: false
 aux_links:
-  Registration:
-    - 'https://cpal2026.vokdams-ticketservice.de/payment/master'
-  CPAL OpenReview:
-    - 'https://openreview.net/group?id=CPAL.cc/2026'
-  # CPAL Proceedings:
-  #   - 'https://proceedings.mlr.press/v234/'
-  # CPAL at HKU:
-  #   - 'https://datascience.hku.hk/cpal/'
-#back_to_top: true
-#last_edit_timestamp: true
+  "Registration":
+    - "/registration/"
+  "CPAL OpenReview":
+    - "/openreview/"
 
-# Collections for website data
-# See academic-sites github repo for preparation of relevant data
-# # organizers: list of the organizers
-# # speakers: list of the keynote speakers
-# # tutorials: list of the tutorial deliverers + content
-# # risingstars: list of Rising Stars awardees
-# # schedules: list of (text-based) events for the conference
-# # calendars: list of (calendar-style-block-based) events for conference
-# # proceedings: list of accepted papers for proceedings track
-# # spotlight: list of accepted papers for spotlight track
-collections:
-  organizers:
-  speakers:
-  tutorials:
-  risingstars:
-  schedules:
-  calendars:
-  proceedings:
-  spotlight:
-# Default layouts for each collection type
-defaults:
-  - scope:
-      path: ''
-      type: organizers
-    values:
-      layout: organizer
-      subpath: '/assets/images/'
-  - scope:
-      path: ''
-      type: speakers
-    values:
-      layout: speaker
-      subpath: '/assets/images/speakers/'
-  - scope:
-      path: ''
-      type: tutorials
-    values:
-      layout: tutorial
-      subpath: '/assets/images/'
-  - scope:
-      path: ''
-      type: risingstars
-    values:
-      layout: risingstar
-      subpath: '/assets/images/'
-  - scope:
-      path: ''
-      type: schedules
-    values:
-      layout: module
-  - scope:
-      path: ''
-      type: calendars
-    values:
-      layout: calendar
-  - scope:
-      path: ''
-    values:
-      image: 
-        path: /assets/images/card.png
-  - scope:
-      path: ''
-      type: proceedings
-    values:
-      layout:
-  - scope:
-      path: ''
-      type: spotlight
-    values:
-      layout:
+gh_edit_link: false
+last_edit_timestamp: false
 
 callouts:
-  highlight:
-    title: 
+  announcement:
+    title: Announcement
+    color: blue
+  important:
+    title: Important
     color: yellow
-  quote:
-    title: 
+  forthcoming:
+    title: Forthcoming
     color: grey-lt
-
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  startings: []
-  blanklines: false
-  profile: false
 
 plugins:
   - jekyll-seo-tag
-    # - jekyll-liquify
-    #  - jekyll-remote-theme
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - CONTENT_STATUS.md
+  - CONTRIBUTING.md
+  - docs
+  - vendor
+  - README_INTERNAL.md
+  - CLAUDE.md
+  - scripts
+  - MIGRATION.md
+  - _db
+  - assets/todo

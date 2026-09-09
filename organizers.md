@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Organizers
+permalink: /organizers/
+nav_order: 90
 has_children: true
-nav_order: 10
+search_exclude: true
 ---
-
-{% include splash.html %}

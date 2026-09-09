@@ -1,8 +1,5 @@
-<link rel="icon" type="image/svg+xml" href="{{ '/assets/favicon.svg' | relative_url }}">
-
-{% assign math = page.math | default: layout.math | default: site.math %}
-
-{% case math %}
-  {% when "katex" %}
-    {% include katex.html %}
-{% endcase %}
+<link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
+<meta name="theme-color" content="#2f7fe7">
+<meta property="og:site_name" content="CPAL 2027">
+<meta property="og:image" content="{{ '/assets/images/social-card.svg' | absolute_url }}">
+<meta name="twitter:card" content="summary_large_image">

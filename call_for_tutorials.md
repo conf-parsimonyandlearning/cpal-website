@@ -1,57 +1,61 @@
 ---
 layout: page
 title: Call for Tutorials
+permalink: /call_for_tutorials/
 parent: Tutorials
-nav_order: 1
+nav_order: 2
 ---
-
-{% include splash.html %}
 
 # Timeline
 
-**December 10, 2025: Tutorial proposal deadline**<br>
-**January 14, 2026: Tutorial results announced**<br>
-March 23–26, 2026: Conference held in Tübingen, Germany
+**December 10, 2026: Tutorial proposal deadline**<br>
+**January 14, 2027: Tutorial results announced**<br>
+**March 23–26, 2027: Conference held in Tokyo, Japan**
 
 # Call for Tutorials
 
-The CPAL 2026 Organizing Committee invites proposals for in-person tutorials on advancing our understanding of intelligence through the lens of parsimonious learning and its various facets. We welcome tutorials on a wide range of topics, including
+The CPAL 2027 Organizing Committee invites proposals for **in-person tutorials** that advance our understanding of intelligence through the lens of parsimonious learning and its many facets. We welcome tutorials on a wide range of topics, including:
 
-* Theories of parsimonious learning
-* Algorithms and implementations
-* Applications in various domains
-* Hardware and systems for efficient learning
-* Scientific foundations and connections to other fields
+- theories and mathematical foundations of parsimonious learning;
+- algorithms, optimization, and implementations;
+- sparse, low-rank, structured, modular, and compressed learning systems;
+- efficient foundation, generative, multimodal, and agentic models;
+- applications in science, engineering, medicine, robotics, and other domains;
+- hardware and systems for efficient learning; and
+- connections to neuroscience, statistics, signal processing, applied mathematics, and related fields.
 
-Tutorials should be broadly appealing to the CPAL community and are expected to be accessible to PhD candidates working in the areas of machine learning and intelligence in general. Tutorials should represent a sufficiently mature area of research or practice and should provide a balanced and accessible overview. We encourage proposals with speakers from different institutions to reduce knowledge bias.
+Tutorials should be broadly appealing to the CPAL community and accessible to PhD students working in machine learning and intelligence. A strong tutorial should cover a sufficiently mature body of research or practice, provide a balanced and accessible overview, and help attendees understand both the core ideas and open directions. We especially encourage teams of presenters from different institutions or perspectives.
 
-**Submission Guidelines:**
+## Submission Guidelines
 
-Tutorial proposals should be submitted via [this form](https://forms.gle/2enjscpiDJi1NAkC8) before the deadline indicated on [https://cpal.cc/](https://cpal.cc/). Your proposal should answer the following questions:
+Tutorial proposals should contain:
 
-* Title
-* Abstract: A summary of the tutorial content (up to 250 words).
-* Outline: A detailed outline of the topics covered, including references and estimated time allocation.
-* Target audience:  A description of the intended audience and their expected background.
-* Presenters: For each presenter, include their name, affiliation, email address, and a short bio. Please discuss how time is split between the presenters. All presenters are required to attend in person.
+- **Title**
+- **Abstract:** a summary of the tutorial content, up to 250 words.
+- **Outline:** a detailed outline of the topics covered, including references and estimated time allocation.
+- **Target audience:** the intended audience and expected background.
+- **Presenters:** for each presenter, name, affiliation, email address, and a short bio, together with an explanation of how presentation time will be divided.
 
-**Selection Criteria:**
+All presenters are expected to attend in person. The tutorial proposal form will be linked from this page and the CPAL 2027 website.
 
-Tutorials will be selected based on:
+## Selection Criteria
 
-* Relevance to CPAL's theme of parsimonious learning
-* Clarity and comprehensiveness of the proposal
-* Potential impact on the audience
-* Speaker experience and diversity
+Tutorial proposals will be evaluated based on:
 
-**Tutorial Format:**
+- relevance to CPAL's theme of parsimonious learning;
+- clarity and comprehensiveness;
+- expected educational value and impact on the audience;
+- maturity and timeliness of the topic; and
+- presenter experience, complementarity, and diversity of perspectives.
 
-Tutorials will be held entirely in-person and will be 120-180 minutes long. Each tutorial must have at least two presenters.
+## Tutorial Format
 
-**Questions**
+Tutorials will be held entirely **in person** and will be approximately **120–180 minutes** long. Each tutorial should have at least **two presenters**.
 
-For other questions, please contact [us](mailto:haotong.qin@pbl.ee.ethz.ch) ([haotong.qin@pbl.ee.ethz.ch](mailto:haotong.qin@pbl.ee.ethz.ch)).
+## Questions
+
+For questions about the tutorial call, please contact the CPAL Program Chairs at [pcs@cpal.cc](mailto:pcs@cpal.cc).
 
 We look forward to receiving your proposals!
 
-The Organizing Committee, CPAL 2026
+*The Organizing Committee, CPAL 2027*

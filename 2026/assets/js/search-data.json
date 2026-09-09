@@ -1,0 +1,1003 @@
+{"0": {
+    "doc": "Home",
+    "title": "Register for CPAL: March 23rd–26th, 2026",
+    "content": "We are pleased to announce the Third Conference on Parsimony and Learning, to be hosted by the ELLIS Institute Tübingen, in conjunction with the Max Planck Institute for Intelligent Systems and the Tübingen AI Center. All CPAL attendees are required to register. See the registration page for details about available tickets and costs. Register Now . ",
+    "url": "/2026/#register-for-cpal-march-23rd26th-2026",
+    
+    "relUrl": "/#register-for-cpal-march-23rd26th-2026"
+  },"1": {
+    "doc": "Home",
+    "title": "CPAL 2026 Program Announced!",
+    "content": "The CPAL 2026 review process is complete – congratulations to all authors of accepted papers! . The tentative program has been announced, and can be found on the schedule page. For information about the conference venue, see the logistics page. Accepted papers for the Proceedings Track and Recent Spotlight Track have been released. Information about poster presentation sessions at CPAL can be found here. Information about oral sessions for Proceedings Track papers accepted as oral presentations can be found here. ",
+    "url": "/2026/#cpal-2026-program-announced",
+    
+    "relUrl": "/#cpal-2026-program-announced"
+  },"2": {
+    "doc": "Home",
+    "title": "Keynote Speakers",
+    "content": "Information on the speakers’ planned talks is available here. <!-- ",
+    "url": "/2026/#keynote-speakers",
+    
+    "relUrl": "/#keynote-speakers"
+  },"3": {
+    "doc": "Home",
+    "title": "Confirmed Distinguished Speakers",
+    "content": "--> Francis Bach . INRIA - Ecole Normale Superieure . Matthias Bethge . University of Tübingen . Niao He . ETH Zurich . Andreas Krause . ETH Zurich . Yingyu Liang . University of Hong Kong, University of Wisconsin-Madison . Bernhard Scholkopf . Max Planck Institute for Intelligent Systems / ELLIS Institute Tübingen . Taiji Suzuki . University of Tokyo / RIKEN AIP . Jared Tanner . University of Oxford . Leena Chennuru Vankadara . University College London . Fanny Yang . ETH Zurich . ",
+    "url": "/2026/",
+    
+    "relUrl": "/"
+  },"4": {
+    "doc": "Home",
+    "title": " Conference Hosts ",
+    "content": " ",
+    "url": "/2026/",
+    
+    "relUrl": "/"
+  },"5": {
+    "doc": "Home",
+    "title": " Conference Sponsors ",
+    "content": " ",
+    "url": "/2026/",
+    
+    "relUrl": "/"
+  },"6": {
+    "doc": "Home",
+    "title": "Diamond Sponsor",
+    "content": " ",
+    "url": "/2026/",
+    
+    "relUrl": "/"
+  },"7": {
+    "doc": "Home",
+    "title": "Silver Sponsor",
+    "content": " ",
+    "url": "/2026/",
+    
+    "relUrl": "/"
+  },"8": {
+    "doc": "Home",
+    "title": "Bronze Sponsor",
+    "content": " ",
+    "url": "/2026/",
+    
+    "relUrl": "/"
+  },"9": {
+    "doc": "Home",
+    "title": "Home",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen The Conference on Parsimony and Learning (CPAL) is an annual research conference focused on addressing the parsimonious, low dimensional structures that prevail in machine learning, signal processing, optimization, and beyond. We are interested in theories, algorithms, applications, hardware and systems, as well as scientific foundations for learning with parsimony. ",
+    "url": "/2026/",
+    
+    "relUrl": "/"
+  },"10": {
+    "doc": "Accepted Papers",
+    "title": "Accepted Papers",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/accepted_papers/",
+    
+    "relUrl": "/accepted_papers/"
+  },"11": {
+    "doc": "Accepted Tutorials",
+    "title": "Tutorials",
+    "content": "The first day of the conference features six tutorial presentations, arranged into two parallel tracks across three sessions throughout the day. See the program schedule for the times and locations of each tutorial. ",
+    "url": "/2026/accepted_tutorials/#tutorials",
+    
+    "relUrl": "/accepted_tutorials/#tutorials"
+  },"12": {
+    "doc": "Accepted Tutorials",
+    "title": "List of Tutorials",
+    "content": " ",
+    "url": "/2026/accepted_tutorials/#list-of-tutorials",
+    
+    "relUrl": "/accepted_tutorials/#list-of-tutorials"
+  },"13": {
+    "doc": "Accepted Tutorials",
+    "title": "Track 1 — MPH Lecture Hall, Max-Planck-Ring 6",
+    "content": "Orthogonal Training for Foundation Models: Theory, Algorithm and Application . Presenters: Weiyang Liu (Max Planck Institute for Intelligent Systems), Zeju Qiu (Max Planck Institute for Intelligent Systems) . Abstract . Orthogonal training offers a principled way to optimize foundation models without disturbing their core spectrum and geometry. This tutorial will present a unified framework of orthogonal training for large-scale neural networks, with a focus on language and text-to-image foundation models. We will start from first principles – how orthogonal training relates to the inductive bias of minimum description length, and then show how this idea can lead to generalizable inductive bias. Building on this foundation, we will present recent orthogonal training algorithms, including orthogonal finetuning and orthogonal pretraining. We will further analyze their impact on optimization stability, generalization, calibration, and robustness. Special attention will be given to memory- and compute-efficient implementations that enable billion-parameter models to be trained under tight hardware budgets, as well as connections to sparse training and low-rank adaptation. Finally, we will discuss practical recipes, open-source implementations, and case studies on training and fine-tuning LLMs and other foundation models with orthogonal training, highlighting both the current limitations and promising research frontiers. The tutorial targets researchers and practitioners interested in principled ways to scale foundation models more efficiently, reliably, and interpretably. Inference Optimization Playbook for Serving LLMs in the Industry: Techniques from Architecture to AI Accelerators . Presenters: Kailash Budhathoki (AWS), Jonas Kuebler (AWS), Ashish Khetan (AWS) . Abstract . The explosive growth of Large Language Models (LLMs) in production environments has made inference efficiency a critical bottleneck for industrial adoption. This tutorial provides a comprehensive playbook covering the advanced, production-proven techniques used to minimize latency and maximize throughput when serving state-of-the-art LLMs. We will guide attendees through the complete LLM lifecycle, starting by establishing the hardware constraints imposed by modern AI accelerators, detailing the interplay between memory hierarchy and compute units. We will then examine architectural design choices (e.g., Grouped-Query Attention, MoE, Speculative-Decoding Aware Architectures) and progress to post-training optimization (quantization, sparsity, speculative decoding) with a focus on practical guardrails for accuracy preservation. A significant portion of the tutorial will dive into the core of high-performance inference engines, detailing essential concepts such as continuous batching, Paged Attention, KV caching, efficient scheduling, and the use of CUDA Graphs and kernel fusion. Attendees will gain a deep, end-to-end understanding of how to architect, optimize, and serve LLMs efficiently at scale in a real-world setting. Reward Modeling in Large Language Models: Principles, Methods, and Challenges . Presenters: Meng Fang (University of Liverpool), Yudi Zhang (Eindhoven University of Technology), Mykola Pechenizkiy (Eindhoven University of Technology) . Abstract . Reward modeling has become a central mechanism for steering large language models (LLMs) toward desired behaviors. Beyond pure next-token prediction, modern systems rely on pre-defined/learned reward signals to encode preferences over outputs, shape reasoning processes, and perform test-time optimization. This tutorial provides a structured overview of how rewards are built and used in contemporary LLM pipelines. We first introduce how LLMs can be viewed as policies and how learned rewards are used both for post-training and for test-time reranking. We then illustrate reward modeling from preferences: how human feedback is collected, how explicit scalar reward models are trained, and how DPO-style methods use the pair-wise data to optimize the policy directly. Next, we compare outcome and process reward modeling, and discuss the training pipeline of process reward models. We then introduce verifiable rewards and how reinforcement learning from such signals is applied in practice. This is followed by LLM-as-reward settings, where judge models provide language-based, holistic feedback that differs from purely numeric rewards. Finally, we present a unifying view of this design space, evaluation metrics for reward models, key challenges such as data quality and reward hacking, and emerging directions including multimodal and online reward learning. ",
+    "url": "/2026/accepted_tutorials/#track-1--mph-lecture-hall-max-planck-ring-6",
+    
+    "relUrl": "/accepted_tutorials/#track-1--mph-lecture-hall-max-planck-ring-6"
+  },"14": {
+    "doc": "Accepted Tutorials",
+    "title": "Track 2 — MPI Lecture Hall, Max-Planck-Ring 4",
+    "content": "Training Neural Networks at Any Scale . Presenters: Leena Chennuru Vankadara (University College London), Volkan Cevher (EPFL, LIONS), Moritz Haas (AWS) . Abstract . At the heart of deep learning’s transformative impact lies the concept of scale – encompassing both data and computational resources, as well as their interaction with neural network architectures. Scale, however, presents critical challenges, such as increased instability during training and prohibitively expensive model-specific tuning. Given the substantial resources required to train such models, formulating high-confidence scaling hypotheses backed by a rigorous theoretical research has become paramount. The first part of the tutorial will provide an overview of significant advances in the theory of scaling in deep learning, covering its historical foundations, recent breakthroughs, and practical implications for training large-scale models. To bridge theory and practice, the tutorial explores another key mathematical ingredient of scaling: the numerical solution algorithms commonly employed in deep learning, spanning domains from vision to language models. We unify these algorithms under a common master template, making their foundational principles transparent. In doing so, we reveal the interplay between adaptation to smoothness structures via online learning and the exploitation of optimization geometry through non-Euclidean norms. Our exposition moves beyond simply building larger models – it emphasizes strategic scaling, offering insights that promise to advance the field while economizing on resources. Where to Spend Parameters: From Layerwise Efficiency To Federated Architecture Search . Presenters: Lu Yin (University of Surrey), Xilu Wang (University of Surrey) . Abstract . Large neural networks – especially Large Language Models (LLMs) and modern transformers – deliver strong performance, but their growing scale makes a central question unavoidable: where should we spend parameters to get the best capability per unit compute? This tutorial presents a unified answer across two complementary levels of design: allocation within a fixed model through layerwise efficiency, and allocation across models under distributed constraints through federated architecture search. We begin by showing that layerwise signals reveal substantial depthwise heterogeneity: different layers contribute unequally to model quality. Leveraging this structure enables targeted pruning for efficient inference and compute-aware finetuning by prioritizing updates on the most influential layers. We then examine the origin of layerwise imbalance as a pretraining deficiency and introduce simple training-time remedies that re-balance layer contributions across depth, improving utilization of the model’s capacity. Moving from “which layers to trust” to “which architectures to deploy,” we examine neural architecture search across increasingly complex settings. We begin with multitask scenarios where architectures must balance accuracy and efficiency across heterogeneous tasks and datasets, then extend to federated learning environments where additional constraints – distributed data, varying compute budgets, and privacy requirements – demand coordinated architecture discovery across participants. Together, these methods demonstrate that practical efficiency comes from learning to spend parameters deliberately – across layers within models, across architectures in model families, and across heterogeneous tasks and participants. Theoretical Insights on Training Instability in Deep Learning . Presenters: Jingfeng Wu (University of California, Berkeley), Yu-Xiang Wang (UC San Diego), Maryam Fazel (University of Washington) . Abstract . The advances in deep learning build on the dark arts of gradient-based optimization. In deep learning, the optimization process is oscillatory, spiky, and unstable. This makes little sense in classical optimization theory, which primarily operates in a well-behaved, stable regime. Yet, the best training configuration in practice constantly operates in an unstable regime. This tutorial introduces recent theoretical progress in understanding the benign nature of training instabilities, providing new insights from both optimization and statistical learning perspectives. Participants will gain a solid understanding of training instabilities in deep learning, their theoretical and practical implications, and future research directions in this critical area. ",
+    "url": "/2026/accepted_tutorials/#track-2--mpi-lecture-hall-max-planck-ring-4",
+    
+    "relUrl": "/accepted_tutorials/#track-2--mpi-lecture-hall-max-planck-ring-4"
+  },"15": {
+    "doc": "Accepted Tutorials",
+    "title": "Accepted Tutorials",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/accepted_tutorials/",
+    
+    "relUrl": "/accepted_tutorials/"
+  },"16": {
+    "doc": "Advisory Committee",
+    "title": "Advisory Committee",
+    "content": "Anima Anandkumar . Caltech / NVIDIA . Advisory Committee . Emmanuel Candès . Stanford . Advisory Committee . Alex Dimakis . UC Berkeley . Advisory Committee . Michael Elad . Technion . Advisory Committee . Yi Ma . University of Hong Kong . Advisory Committee . Peyman Milanfar . Google Research . Advisory Committee . Stefano Soatto . UCLA . Advisory Committee . Rebecca Willett . UChicago . Advisory Committee . Eric P. Xing . MBZUAI / Carnegie Mellon University . Advisory Committee . Tong Zhang . University of Illinois Urbana-Champaign . Advisory Committee . * Ordered alphabetically . ",
+    "url": "/2026/advisory/#advisory-committee",
+    
+    "relUrl": "/advisory/#advisory-committee"
+  },"17": {
+    "doc": "Advisory Committee",
+    "title": "Advisory Committee",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/advisory/",
+    
+    "relUrl": "/advisory/"
+  },"18": {
+    "doc": "Area Chairs",
+    "title": "Area Chairs",
+    "content": "* Ordered alphabetically . ",
+    "url": "/2026/area_chairs/",
+    
+    "relUrl": "/area_chairs/"
+  },"19": {
+    "doc": "Call for Tutorials",
+    "title": "Timeline",
+    "content": "December 10, 2025: Tutorial proposal deadline January 14, 2026: Tutorial results announced March 23–26, 2026: Conference held in Tübingen, Germany . ",
+    "url": "/2026/call_for_tutorials/#timeline",
+    
+    "relUrl": "/call_for_tutorials/#timeline"
+  },"20": {
+    "doc": "Call for Tutorials",
+    "title": "Call for Tutorials",
+    "content": "The CPAL 2026 Organizing Committee invites proposals for in-person tutorials on advancing our understanding of intelligence through the lens of parsimonious learning and its various facets. We welcome tutorials on a wide range of topics, including . | Theories of parsimonious learning | Algorithms and implementations | Applications in various domains | Hardware and systems for efficient learning | Scientific foundations and connections to other fields | . Tutorials should be broadly appealing to the CPAL community and are expected to be accessible to PhD candidates working in the areas of machine learning and intelligence in general. Tutorials should represent a sufficiently mature area of research or practice and should provide a balanced and accessible overview. We encourage proposals with speakers from different institutions to reduce knowledge bias. Submission Guidelines: . Tutorial proposals should be submitted via this form before the deadline indicated on https://cpal.cc/. Your proposal should answer the following questions: . | Title | Abstract: A summary of the tutorial content (up to 250 words). | Outline: A detailed outline of the topics covered, including references and estimated time allocation. | Target audience: A description of the intended audience and their expected background. | Presenters: For each presenter, include their name, affiliation, email address, and a short bio. Please discuss how time is split between the presenters. All presenters are required to attend in person. | . Selection Criteria: . Tutorials will be selected based on: . | Relevance to CPAL’s theme of parsimonious learning | Clarity and comprehensiveness of the proposal | Potential impact on the audience | Speaker experience and diversity | . Tutorial Format: . Tutorials will be held entirely in-person and will be 120-180 minutes long. Each tutorial must have at least two presenters. Questions . For other questions, please contact us (haotong.qin@pbl.ee.ethz.ch). We look forward to receiving your proposals! . The Organizing Committee, CPAL 2026 . ",
+    "url": "/2026/call_for_tutorials/#call-for-tutorials",
+    
+    "relUrl": "/call_for_tutorials/#call-for-tutorials"
+  },"21": {
+    "doc": "Call for Tutorials",
+    "title": "Call for Tutorials",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/call_for_tutorials/",
+    
+    "relUrl": "/call_for_tutorials/"
+  },"22": {
+    "doc": "Call for Papers",
+    "title": "Call for Papers",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/cfp/",
+    
+    "relUrl": "/cfp/"
+  },"23": {
+    "doc": "Code of Conduct",
+    "title": "Code of Conduct",
+    "content": "(Adapted from ICML/ICLR/NeurIPS/LoG) . We strive to hold a conference in which any person can meaningfully participate in the CPAL community through: sharing ideas, presenting their work, meeting members of the community, learning from other people’s work, and discussing ways to improve the community. This conference will work towards preventing any type of discrimination based on age, disability, ethnicity, experience in the field, gender identity, nationality, physical appearance, race, religion, sexual orientation, or other protected characteristics. We strictly prohibit any actions that may prevent the participation of any attendee, including: bullying, harassment, inappropriate media, offensive language, violence, zoom bombing, and so on. Please report any violations of the code of conduct to the conference organizers, via email, slack, or any other channels. If requested, we can handle these reports anonymously, to protect the person making the report. Violators of the code of conduct will be asked to stop their inappropriate behavior, and may be removed from their right to participate in the conference. Further disciplinary action such as bans from future iterations of the conference may be taken. ",
+    "url": "/2026/code_of_conduct/#code-of-conduct",
+    
+    "relUrl": "/code_of_conduct/#code-of-conduct"
+  },"24": {
+    "doc": "Code of Conduct",
+    "title": "Code of Conduct",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/code_of_conduct/",
+    
+    "relUrl": "/code_of_conduct/"
+  },"25": {
+    "doc": "Conference Program",
+    "title": "Conference Program",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/conference_program/",
+    
+    "relUrl": "/conference_program/"
+  },"26": {
+    "doc": "Key Dates",
+    "title": "Key Dates and Deadlines",
+    "content": "Unless specified otherwise, all deadlines are 23:59 Anywhere-on-Earth (AOE) . ",
+    "url": "/2026/deadlines/#key-dates-and-deadlines",
+    
+    "relUrl": "/deadlines/#key-dates-and-deadlines"
+  },"27": {
+    "doc": "Key Dates",
+    "title": "Main Conference",
+    "content": "| Event | Date | Countdown | . | Hotel Registration Deadline | February 16th, 2026 | | . | Conference Program | March 23rd - March 26th, 2026 | | . ",
+    "url": "/2026/deadlines/#main-conference",
+    
+    "relUrl": "/deadlines/#main-conference"
+  },"28": {
+    "doc": "Key Dates",
+    "title": "Conference Submission (Proceedings Track)",
+    "content": "| Event | Date | Countdown | . | Submission Deadline | December 12th, 2025 | | . | Review Deadline | January 5th, 2026 | | . | Rebuttal Period | January 8th–14th, 2026 | | . | Final Decisions Released | January 20th, 2026 | | . ",
+    "url": "/2026/deadlines/#conference-submission-proceedings-track",
+    
+    "relUrl": "/deadlines/#conference-submission-proceedings-track"
+  },"29": {
+    "doc": "Key Dates",
+    "title": "Conference Submission (Recent Spotlight Track)",
+    "content": "| Event | Date | Countdown | . | Submission Deadline | January 15th, 2026 | | . | Final Decisions Released | January 20th, 2026 | | . ",
+    "url": "/2026/deadlines/#conference-submission-recent-spotlight-track",
+    
+    "relUrl": "/deadlines/#conference-submission-recent-spotlight-track"
+  },"30": {
+    "doc": "Key Dates",
+    "title": "Tutorial Proposals",
+    "content": "| Event | Date | Countdown | . | Application Deadline | December 10th, 2025 | | . | Decisions Released | January 14th, 2026 | | . ",
+    "url": "/2026/deadlines/#tutorial-proposals",
+    
+    "relUrl": "/deadlines/#tutorial-proposals"
+  },"31": {
+    "doc": "Key Dates",
+    "title": "Rising Stars Award",
+    "content": "| Event | Date | Countdown | . | Application Deadline | December 15th, 2025 | | . | Decisions Released | January 21st, 2026 | | . ",
+    "url": "/2026/deadlines/#rising-stars-award",
+    
+    "relUrl": "/deadlines/#rising-stars-award"
+  },"32": {
+    "doc": "Key Dates",
+    "title": "Key Dates",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/deadlines/",
+    
+    "relUrl": "/deadlines/"
+  },"33": {
+    "doc": "Travel: Accommodations",
+    "title": "Conference-Rate Accommodations",
+    "content": "Please note that we have reserved a limited number of hotel rooms at special conference rates. These rooms are available on a first-come, first-served basis, so we strongly encourage you to submit your hotel information as soon as possible (no later than 16 February 2026). The hotel reservation link is here. Hotel Reservation Form . ",
+    "url": "/2026/hotels/#conference-rate-accommodations",
+    
+    "relUrl": "/hotels/#conference-rate-accommodations"
+  },"34": {
+    "doc": "Travel: Accommodations",
+    "title": "Travel Questions",
+    "content": "For further questions about local accommodations, please contact marco.schubert@tuebingen-info.de at the Tourist Information Center Tübingen. ",
+    "url": "/2026/hotels/#travel-questions",
+    
+    "relUrl": "/hotels/#travel-questions"
+  },"35": {
+    "doc": "Travel: Accommodations",
+    "title": "Travel: Accommodations",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/hotels/",
+    
+    "relUrl": "/hotels/"
+  },"36": {
+    "doc": "Oral Presentations",
+    "title": "Oral Sessions at CPAL 2026",
+    "content": "A select number of papers from the CPAL 2026 Proceedings Track will be presented as oral presentations at the conference. The oral presentations are listed below, in their corresponding oral sessions. ",
+    "url": "/2026/orals/#oral-sessions-at-cpal-2026",
+    
+    "relUrl": "/orals/#oral-sessions-at-cpal-2026"
+  },"37": {
+    "doc": "Oral Presentations",
+    "title": "Quick Links",
+    "content": ". | Highlight Talks I . | Time: Day 2 (Mar 24) – Tuesday – 3:30 PM to 4:00 PM | . | Highlight Talks II . | Time: Day 3 (Mar 25) – Wednesday – 1:30 PM to 2:00 PM | . | Highlight Talks III . | Time: Day 4 (Mar 26) – Thursday – 1:30 PM to 2:00 PM | . | . ",
+    "url": "/2026/orals/#quick-links",
+    
+    "relUrl": "/orals/#quick-links"
+  },"38": {
+    "doc": "Oral Presentations",
+    "title": "Highlight Talks I",
+    "content": "Time: Day 2 (Mar 24) – Tuesday – 3:30 PM to 4:00 PM . Matrix Sensing with Kernel Optimal Loss: Robustness and Optimization Landscape . Xinyuan Song, Ziye Ma . Keywords: Matrix sensing, kernel loss function, optimization . Teaching LLMs According to Their Aptitude: Adaptive Switching Between CoT and TIR for Mathematical Problem Solving . Xin Xu, Yan Xu, Tianhao Chen, Yuchen Yan, Chengwu Liu, Zaoyu Chen, Yufei Wang, Yichun Yin, Yasheng Wang, Qun Liu, Lu Yin . Keywords: Large Language Models, math QA, chain-of-thought, tool-integrated reasoning, fine-tuning . Sparse Mixture-of-Experts for Compositional Generalization: Empirical Evidence and Theoretical Foundations of Optimal Sparsity (Online) . Jinze Zhao, Peihao Wang, Junjie Yang, Ruisi Cai, Gaowen Liu, Jayanth Srinivasa, Ramana Rao Kompella, Yingbin Liang, Zhangyang Wang . Keywords: Compositional Generalization, Sparsity, Mixture of Experts . ",
+    "url": "/2026/orals/#highlight-talks-i",
+    
+    "relUrl": "/orals/#highlight-talks-i"
+  },"39": {
+    "doc": "Oral Presentations",
+    "title": "Highlight Talks II",
+    "content": "Time: Day 3 (Mar 25) – Wednesday – 1:30 PM to 2:00 PM . From sparse recovery to plug-and-play priors, understanding trade-offs for stable recovery with generalized projected gradient descent (Best Paper Award) . Ali Joundi, Yann Traonmilin, Jean-François Aujol . Keywords: Inverse Problems, Sparse Recovery, Plug-and-Play, Deep Prior, Optimization . Data-Efficient and Robust Trajectory Generation through Pathlet Dictionary Learning . yuanbo tang, Yan Tang, Zihui Zhao, Zixuan Zhang, Yang Li . Keywords: trajectory generative model, dictionary learning, sparse representation . Learning in the Null Space: Small Singular Values for Continual Learning . Cuong Anh Pham, Praneeth Vepakomma, Samuel Horváth . Keywords: continual learning, singular value decomposition, small singular values, null space . ",
+    "url": "/2026/orals/#highlight-talks-ii",
+    
+    "relUrl": "/orals/#highlight-talks-ii"
+  },"40": {
+    "doc": "Oral Presentations",
+    "title": "Highlight Talks III",
+    "content": "Time: Day 4 (Mar 26) – Thursday – 1:30 PM to 2:00 PM . Analyzing and Mitigating Model Collapse in Reflow Methods . Huminhao Zhu, Fangyikang Wang, Tianyu Ding, Qing Qu, Zhihui Zhu . Keywords: Model Collapse, Self-training, Synthetic Data, Reflow, Rectified Flow . ROSE: Reordered SparseGPT for More Accurate One-Shot Large Language Models Pruning . Mingluo Su, Huan Wang . Keywords: Large language models, Unstructured pruning, Pruning order . What Scalable Second-Order Information Knows for Pruning at Initialization . Ivo Gollini Navarrete, Nicolas Mauricio Cuadrado, Martin Takáč, Samuel Horváth . Keywords: Pruning, Hessian, One-shot, Initialization, Hutchinson, Fisher . ",
+    "url": "/2026/orals/#highlight-talks-iii",
+    
+    "relUrl": "/orals/#highlight-talks-iii"
+  },"41": {
+    "doc": "Oral Presentations",
+    "title": "Oral Presentations",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/orals/",
+    
+    "relUrl": "/orals/"
+  },"42": {
+    "doc": "Organization Committee",
+    "title": "Organization Committee",
+    "content": " ",
+    "url": "/2026/organization_committee/",
+    
+    "relUrl": "/organization_committee/"
+  },"43": {
+    "doc": "Organization Committee",
+    "title": "General Chairs",
+    "content": "Misha Belkin . UC San Diego . General Chair . Gitta Kutyniok . LMU Munchen . General Chair . Yi Ma . University of Hong Kong . General Chair . ",
+    "url": "/2026/organization_committee/#general-chairs",
+    
+    "relUrl": "/organization_committee/#general-chairs"
+  },"44": {
+    "doc": "Organization Committee",
+    "title": "Program Chairs",
+    "content": "Rebekka Burkholz . CISPA . Program Chair . Shiwei Liu . ELLIS Institute Tübingen and Max Planck Institute for Intelligent Systems . Program Chair . Saiprasad Ravishankar . Michigan State University . Program Chair . William T. Redman . Johns Hopkins University . Program Chair . ",
+    "url": "/2026/organization_committee/#program-chairs",
+    
+    "relUrl": "/organization_committee/#program-chairs"
+  },"45": {
+    "doc": "Organization Committee",
+    "title": "Senior Advisors to Program Chairs",
+    "content": "Sijia Liu . Michigan State University . Senior Advisor to PCs . Qing Qu . University of Michigan . Senior Advisor to PCs . Jere Sulam . Johns Hopkins University . Senior Advisor to PCs . Atlas Wang . UT Austin . Senior Advisor to PCs . Yu-Xiang Wang . UCSD . Senior Advisor to PCs . ",
+    "url": "/2026/organization_committee/#senior-advisors-to-program-chairs",
+    
+    "relUrl": "/organization_committee/#senior-advisors-to-program-chairs"
+  },"46": {
+    "doc": "Organization Committee",
+    "title": "Local Chairs",
+    "content": "Jonas Geiping . ELLIS Institute Tübingen and Max Planck Institute for Intelligent Systems . Local Chair . Decebal Constantin Mocanu . University of Luxembourg . Local Chair . ",
+    "url": "/2026/organization_committee/#local-chairs",
+    
+    "relUrl": "/organization_committee/#local-chairs"
+  },"47": {
+    "doc": "Organization Committee",
+    "title": "Publication Chairs",
+    "content": "Wei Huang . RIKEN AIP . Publication Chair . Weijie Su . University of Pennsylvania . Publication Chair . Zhihui Zhu . Ohio State University . Publication Chair . ",
+    "url": "/2026/organization_committee/#publication-chairs",
+    
+    "relUrl": "/organization_committee/#publication-chairs"
+  },"48": {
+    "doc": "Organization Committee",
+    "title": "Industry Liaison Chairs",
+    "content": "Souvik Kundu . Intel . Industry Liaison Chair . Yi (Ethan) Liang . Google . Industry Liaison Chair . Zechun Liu . Meta . Industry Liaison Chair . ",
+    "url": "/2026/organization_committee/#industry-liaison-chairs",
+    
+    "relUrl": "/organization_committee/#industry-liaison-chairs"
+  },"49": {
+    "doc": "Organization Committee",
+    "title": "Tutorial Chairs",
+    "content": "Haotong Qin . ETH . Tutorial Chair . ",
+    "url": "/2026/organization_committee/#tutorial-chairs",
+    
+    "relUrl": "/organization_committee/#tutorial-chairs"
+  },"50": {
+    "doc": "Organization Committee",
+    "title": "Publicity Chairs",
+    "content": "Liyue Shen . University of Michigan . Publicity Chair . ",
+    "url": "/2026/organization_committee/#publicity-chairs",
+    
+    "relUrl": "/organization_committee/#publicity-chairs"
+  },"51": {
+    "doc": "Organization Committee",
+    "title": "Rising Stars Award Chairs",
+    "content": "Tianlong Chen . UNC Chapel Hill . Rising Stars Award Chair . ",
+    "url": "/2026/organization_committee/#rising-stars-award-chairs",
+    
+    "relUrl": "/organization_committee/#rising-stars-award-chairs"
+  },"52": {
+    "doc": "Organization Committee",
+    "title": "Web Chairs",
+    "content": "Sam Buchanan . UC Berkeley . Web Chair . ",
+    "url": "/2026/organization_committee/#web-chairs",
+    
+    "relUrl": "/organization_committee/#web-chairs"
+  },"53": {
+    "doc": "Organization Committee",
+    "title": "Local Support",
+    "content": "Carmela Rianna . ELLIS Institute Tübingen . Local Support . Matthias Tröndle . MPI-IS . Local Support . ",
+    "url": "/2026/organization_committee/#local-support",
+    
+    "relUrl": "/organization_committee/#local-support"
+  },"54": {
+    "doc": "Organizers",
+    "title": "Organizers",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/organizers/",
+    
+    "relUrl": "/organizers/"
+  },"55": {
+    "doc": "Past CPAL Websites",
+    "title": "Past CPAL Websites",
+    "content": "2026 . 2025 . 2024 . ",
+    "url": "/2026/other_years/#past-cpal-websites",
+    
+    "relUrl": "/other_years/#past-cpal-websites"
+  },"56": {
+    "doc": "Past CPAL Websites",
+    "title": "Past CPAL Websites",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/other_years/",
+    
+    "relUrl": "/other_years/"
+  },"57": {
+    "doc": "Poster Presentations",
+    "title": "Poster Sessions at CPAL 2026",
+    "content": " ",
+    "url": "/2026/posters/#poster-sessions-at-cpal-2026",
+    
+    "relUrl": "/posters/#poster-sessions-at-cpal-2026"
+  },"58": {
+    "doc": "Poster Presentations",
+    "title": "Presentation Format",
+    "content": "All accepted papers at CPAL 2026, from both the Proceedings and Spotlight tracks, will be presented as posters at the conference. A select number of Proceedings track papers are also presented as orals, as specified on the orals page. See the full program for an aggregated view of the precise times and locations of each poster and oral session. ",
+    "url": "/2026/posters/#presentation-format",
+    
+    "relUrl": "/posters/#presentation-format"
+  },"59": {
+    "doc": "Poster Presentations",
+    "title": "Quick Links",
+    "content": ". | Poster Session I . | Time: Day 2 (Mar 24) – Tuesday – 4:00 PM to 6:00 PM | . | Poster Session II . | Time: Day 3 (Mar 25) – Wednesday – 3:30 PM to 5:30 PM | . | . ",
+    "url": "/2026/posters/#quick-links",
+    
+    "relUrl": "/posters/#quick-links"
+  },"60": {
+    "doc": "Poster Presentations",
+    "title": "Poster Session I",
+    "content": "Time: Day 2 (Mar 24) – Tuesday – 4:00 PM to 6:00 PM . 1. Optimal $k$-Discretization Learning . Tong Wang, Zhangyang Wang . Keywords: Clustering . 2. AlphaFormer: End-to-End Symbolic Regression of Alpha Factors with Transformers . Haotong Huang, Jie Peng, Zezhen Ding, Pingzhi Li, Tianlong Chen . Keywords: Symbolic Regression, Alpha Mining, Time Series Generative Modeling . 3. From sparse recovery to plug-and-play priors, understanding trade-offs for stable recovery with generalized projected gradient descent . Ali Joundi, Yann Traonmilin, Jean-François Aujol . Keywords: Inverse Problems, Sparse Recovery, Plug-and-Play, Deep Prior, Optimization . 4. Generalized Radius and Integrated Codebook Transforms for Differentiable Vector Quantization . Haochen You, Heng Zhang, Hongyang He, Yuqi Li, Baojing Liu . Keywords: Vector Quantization, Discrete Representation Learning, Radius Surrogate, Codebook Transform, Gradient Coupling . 5. Beyond Greedy Decoding: Model-Specific Strategy Selection via Multi-faceted Uncertainty Decomposition . Kwangje Baeg, Yubin Lim . Keywords: Uncertainty Decomposition, Adaptive Decoding, Model Heterogeneity, Behavioral Clustering, Instruction-Tuned Models . 6. Parameter-Efficient Distributional RL via Normalizing Flows and a Geometry-Aware Cramér Surrogate . Simo Alami Chehboune, Rim Kaddah, Marie-Paule CANI, Jesse Read . Keywords: Distributional Reinforcement Learning, Generative models, Deep Learning, Optimal Transport . 7. Cannistraci-Hebb Training with N:M Semi-Structured Sparsity for Pre-Training and Re-Training . Jiaqing Lyu, Ruijie Wang, Kangyou Bao, Yingtao Zhang, Carlo Vittorio Cannistraci . Keywords: Dynamic Sparse Training; Semi-Structured Sparsity; LLM; ViT . 8. Effective Learning for Small Reasoning Models: An Empirical Study on 0.5B Reasoning LLMs . Xialie Zhuang, Peixian MA, Zhikai Jia, Zane Cao, Shiwei Liu . Keywords: Small Reasoning Model, Reasoning, Reinforcement Learning . 9. ShapLoRA: Allocation of Low-rank Adaption on Large Language Models via Shapley Value Inspired Importance Estimation . Colin Zhao, Qinghua Yao, Xinyuan Song, Wei Zhu . Keywords: LLM LoRA . 10. Simplex Deep Linear Discriminant Analysis . Maxat Tezekbayev, Arman Bolatov, Zhenisbek Assylbekov . Keywords: Deep LDA, Maximum likelihood, Simplex-constrained embeddings . 11. Matrix Sensing with Kernel Optimal Loss: Robustness and Optimization Landscape . Xinyuan Song, Ziye Ma . Keywords: Matrix sensing, kernel loss function, optimization . 12. Improving Medical Visual Reinforcement Fine-Tuning via Perception and Reasoning Augmentation . Guangjing Yang, ZhangYuan Yu, Ziyuan Qin, Xinyuan Song, Huahui Yi, Qingbo Kang, Jun Gao, Yiyue Li, Chenlin Du, Qicheng Lao . Keywords: Reinforcement Fine-Tuning (RFT), Medical Vision-Language Models, Reward Design, Perception-Reasoning Augmentation, Visual Reinforcement Learning, Medical Image Understanding . 13. Token-Aware Representation Augmentation for Fine-Grained Semi-Supervised Learning . Hongyang He, Yan Zhong, Xinyuan Song, Daizong Liu, Victor Sanchez . Keywords: Semi-supervised learning, FixMatch, consistency regularization, token-aware masking, token-level augmentation, high-confidence token suppression, feature diversity . 14. Enhancing Long-Context Inference with Context-Position Duo-Mixture . Zhenyu Zhang, Sharath Nittur Sridhar, Zhangyang Wang, Souvik Kundu . Keywords: Long-Context; LLM; Efficiency . 15. Can Less Be More? Benchmarking Lightweight Models Against State-of-the-Art Deep Learning Architectures for Deployable Seizure Detection . Isaiah Essien, Donna-lee Ginsberg, Jesse Thornburg . Keywords: Parsimonious Learning, Mobile Health, Seizure Detection, TensorFlow Lite, Deep Learning, Resource-Constrained Deployment, Global Health Equity . 16. ERC-SVD: Error-Controlled SVD for Large Language Model Compression . Haolei Bai, Siyong Jian, Tuo Liang, Yu Yin, Huan Wang . Keywords: Model Compression, SVD, Large Language Models . 17. Sparsity-Aware Prompt Tuning: A Simple and Effective Way to Fine-tune High-Sparsity LLMs . Yuxin Zhang, Weizhong Huang, Yuexiao Ma, Yunshan Zhong, Xiawu Zheng, Rongrong Ji . Keywords: Large language models; Network Pruning . 18. Teaching LLMs According to Their Aptitude: Adaptive Switching Between CoT and TIR for Mathematical Problem Solving . Xin Xu, Yan Xu, Tianhao Chen, Yuchen Yan, Chengwu Liu, Zaoyu Chen, Yufei Wang, Yichun Yin, Yasheng Wang, Qun Liu, Lu Yin . Keywords: Large Language Models, math QA, chain-of-thought, tool-integrated reasoning, fine-tuning . 19. Scalable LLM Reasoning Acceleration with Low-rank Distillation . Harry Dong, Bilge Acun, Beidi Chen, Yuejie Chi . Keywords: large language model, efficiency, distillation, reasoning, scaling, low-rank, inference . 20. Sparse Mixture-of-Experts for Compositional Generalization: Empirical Evidence and Theoretical Foundations of Optimal Sparsity . Jinze Zhao, Peihao Wang, Junjie Yang, Ruisi Cai, Gaowen Liu, Jayanth Srinivasa, Ramana Rao Kompella, Yingbin Liang, Zhangyang Wang . Keywords: Compositional Generalization, Sparsity, Mixture of Experts . 21. Pruned Adaptation Modules: A Simple yet Strong Baseline for Continual Foundation Models . Elif Ceren Gok Yildirim, Murat Onur Yildirim, Joaquin Vanschoren . Keywords: continual learning, parameter efficient, foundation models . 22. Prompt Stability Matters: Evaluating and Optimizing Auto-Generated Prompt in General-Purpose Systems . Ke Chen, Xucheng Yu, Yufei Zhou, Haohan Wang . Keywords: Prompt Stability, Prompt Evaluation, Multi-Agent System, General-Purpose System, Prompt Auto-Generation, Prompt Optimization . 23. Dynamic SFT with Structured Measurements: Fast Queries, Fast Updates, Provable Guarantees . Yang Cao, Zhao Song . Keywords: sparse Fourier transform . 24. Panza: Investigating the Feasibility of Fully-Local Personalized Text Generation . Armand Mihai Nicolicioiu, Eugenia Iofinova, Andrej Jovanovic, Eldar Kurtic, Mahdi Nikdan, Andrei Panferov, Ilia Markov, Nir N Shavit, Dan Alistarh . Keywords: LLMs, PEFT, LoRA, personalization, efficient ML . 25. (PASS) Visual Prompt Locates Good Structure Sparsity through a Recurrent HyperNetwork . Tianjin Huang, Yong Tao, Meng Fang, Li Shen, Fan Liu, Yulong Pei, Mykola Pechenizkiy, Tianlong Chen . Keywords: Structure Pruning, Visual Prompt, Recurrent HyperNetwork . 26. Concept based Ambiguity Resolution in LLMs . Zhibo Hu, Chen Wang, Yanfeng Shu, Hye-young Paik, Liming Zhu . Keywords: Language Ambiguity; Large Language Model; Sparse Autoencoder; Path Kernel . 27. Data-Efficient and Robust Trajectory Generation through Pathlet Dictionary Learning . yuanbo tang, Yan Tang, Zihui Zhao, Zixuan Zhang, Yang Li . Keywords: trajectory generative model, dictionary learning, sparse representation . 28. Sign-In to the Lottery: Reparameterized Sparse Training . Advait Gadhikar, Tom Jacobs, Chao Zhou, Rebekka Burkholz . Keywords: pruning at initialization, sparse training, lottery ticket hypothesis, mirror flow, reparameterization, sign flips . 29. PoLAR: Polar-Decomposed Low-Rank Adapter Representation . Kai Lion, Liang Zhang, Bingcong Li, Niao He . Keywords: low-rank adaptation, architecture-optimizer co-design, large language models, lora, low-rank adapter, fine-tuning . 30. Kernel von Mises Formula of the Influence Function . Yaroslav Mukhin . Keywords: Influence function, Fisher-Rao gradient, first variation, tangential interpolation, semiparametric estimation, distributional robustness, kernel PCA, Mercer kernel . 31. Dual-Kernel Adapter: Expanding Spatial Horizons for Data-Constrained Medical Image Analysis . Ziquan Zhu, Hanruo Zhu, Si-Yuan Lu, Xiang Li, Yanda Meng, Yunxiao Zhang, Gaojie Jin, Lu Yin, Lijie Hu, Di Wang, Lu Liu, Tianjin Huang . Keywords: Adapter; Medical Image Analysis; Data-Limited Training; . 32. Adversarial generalization of unfolding (model-based) networks . Vicky Kouni . Keywords: unfolding networks, adversarial generalization, adversarial Rademacher complexity . 33. Revisiting Glorot Initialization for Long-Range Linear Recurrences . Noga Bar, Mariia Seleznova, Yotam Alexander, Gitta Kutyniok, Raja Giryes . Keywords: Recurrent Networks, Initialization, Signal Propagation, Joint Scaling Limits . 34. Mask in the Mirror: Implicit Sparsification . Tom Jacobs, Rebekka Burkholz . Keywords: Sparse Training, Continuous sparsification, Implicit bias, Mirror flow, Time-dependent Bregman function, Regularization, Rich regime . 35. Dimension-free error estimate for diffusion model and optimal scheduling . Valentin De Bortoli, Romuald Elie, Anna Kazeykina, Zhenjie Ren, Jiacheng Zhang . Keywords: diffusion model, score-matching, statistical error, optimal scheduling . 36. E2ENet: Dynamic Sparse Feature Fusion for Accurate and Efficient 3D Medical Image Segmentation . Boqian Wu, Qiao Xiao, Shiwei Liu, Lu Yin, Mykola Pechenizkiy, Decebal Constantin Mocanu, Maurice van Keulen, Elena Mocanu . Keywords: Medical Image Segmentation, Sparse Training, Feature Fusion . 37. Leave it to the Specialist: Repair Sparse LLMs with Sparse Fine-Tuning via Sparsity Evolution . Qiao Xiao, Alan Ansell, Boqian Wu, Lu Yin, Mykola Pechenizkiy, Shiwei Liu, Decebal Constantin Mocanu . Keywords: Large Language Models, Fine-Tuning, Sparse Training . 38. The Curse of Depth in Large Language Models . Wenfang Sun, Xinyuan Song, Pengxiang Li, Lu Yin, Yefeng Zheng, Shiwei Liu . Keywords: Curse of Depth, Large Language Models, Pre-Layer Normalization . 39. Ringleader ASGD: The First Asynchronous SGD with Optimal Time Complexity under Data Heterogeneity . Arto Maranjyan, Peter Richtárik . Keywords: asynchronous SGD, data heterogeneity, optimal time complexity, nonconvex optimization, parallel methods, stochastic optimization . 40. FOSL: A Foldable Sparse-and-Low-Rank Method for Efficient LLM Pre-training . Dong Wang, Francesco Corti, Yun Cheng, Olga Saukh . Keywords: efficient pre-training, low-rank adaption, structured sparsity, large language models, model folding . 41. LIFT the Veil for the Truth: Principal Weights Emerge after Rank Reduction for Reasoning-Focused Supervised Fine-Tuning . Zihang Liu, Tianyu Pang, Oleg Balabanov, Chaoqun Yang, Tianjin Huang, Lu Yin, Yaoqing Yang, Shiwei Liu . Keywords: Reasoning, Sparse Fine-tuning, Low-Rank Approximation, Memory Efficiency . 42. Johnson-Lindenstrauss Lemma Beyond Euclidean Geometry . Chengyuan Deng, Jie Gao, Kevin Lu, Feng Luo, Cheng Xin . Keywords: Dimension Reduction, Geometry . 43. Stackelberg Control in Combinatorial Congestion Games without Differentiating Through Equilibria . Saeed Masiha, Sepehr Elahi, Negar Kiyavash, Patrick Thiran . Keywords: Stackelberg games, zeroth-order optimization, congestion games, zero-suppressed decision diagrams (ZDDs), compact combinatorial representations . ",
+    "url": "/2026/posters/#poster-session-i",
+    
+    "relUrl": "/posters/#poster-session-i"
+  },"61": {
+    "doc": "Poster Presentations",
+    "title": "Poster Session II",
+    "content": "Time: Day 3 (Mar 25) – Wednesday – 3:30 PM to 5:30 PM . 1. Stochastic Unrolled Neural Networks . Samar Hadou, Navid NaderiAlizadeh, Alejandro Ribeiro . Keywords: unrolled optimization, learning to learn, deep unfolding, interpretable deep architecture, constrained learning . 2. Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs . Ruichen Zhang, Mufan Qiu, Zhen Tan, Mohan Zhang, Xiaopeng Lu, Jie Peng, Kaidi Xu, Leandro Z. Agudelo, Peter Zhenghao Qian, Tianlong Chen . Keywords: LLM, Agent, Knowledge Distillation, Web Agent, Symbiotic Cooperation, Privacy Preservation, Hybrid Mode . 3. FocusDC: Real-World Scene Infusion for Robust Dataset Condensation . Youbing Hu, Yun Cheng, Olga Saukh, Firat Ozdemir, Anqi Lu, Zhiqiang Cao, Min Zhang, Zhijun Li . Keywords: Dataset Distillation and Condensation, Vision Transformer . 4. Enhancing Low-Cost Video Editing with Lightweight Adaptors and Temporal-Aware Inversion . Yangfan He, Sida Li, Jianhui Wang, Xinyuan Song, Kun Li, Xinhang Yuan, Kuan Lu, Menghao Huo, Jingqun Tang, Yi Xin, Jiaqi Chen, Keqin Li, Miao Zhang, Xueqian Wang . Keywords: Text-to-Image (T2I) Generation, Diffusion Models, Text-to-Video (T2V) Editing, Temporal Consistency, Spatial Consistency . 5. MMA:Benchmarking Multi-ModalLarge Language Models in Ambiguity Contexts . Ru Wang, Selena Song, Yuquan Wang, Liang Ding, Mingming Gong, Yusuke Iwasawa, Yutaka Matsuo, Jiaxian Guo . Keywords: Multi-Modal Large Language Model, Ambiguity, Benchmark, Dataset . 6. Byzantine-Robust Optimization under $(L_0,L_1)$-Smoothness . Arman Bolatov, Samuel Horváth, Martin Takáč, Eduard Gorbunov . Keywords: byzantine-robust optimization, federated learning, generalized smoothness, normalized SGD . 7. ROSE: Reordered SparseGPT for More Accurate One-Shot Large Language Models Pruning . Mingluo Su, Huan Wang . Keywords: Large language models, Unstructured pruning, Pruning order . 8. Selective Collaboration for Robust Federated Learning . Nazarii Tupitsa, Samuel Horváth, Martin Takáč, Eduard Gorbunov . Keywords: federated learning, robust aggreagation . 9. Trainable Bitwise Soft Quantization for Input Feature Compression . Karsten Schrödter, Jan Stenkamp, Nina Herrmann, Fabian Gieseke . Keywords: Soft Quantization, Trainable Quantization, Input Compression, Tiny Machine Learning, Split Inference . 10. Efficient Temporal Consistency in Diffusion-Based Video Editing with Adaptor Modules: A Theoretical Framework . Xinyuan Song, Yangfan He, Sida Li, Jianhui Wang, Hongyang He, Xinhang Yuan, Ruoyu Wang, Jiaqi Chen, Keqin Li, Kuan Lu, Menghao Huo, Ziqian Bi, Binxu Li, Pei Liu . Keywords: Adapter-based Methods, Diffusion Models, Video Editing, Temporal Consistency, DDIM Inversion, Prompt Learning, Theoretical Analysis . 11. Learning of Discretized LSTMs . Nikolaus Kopp, Franz Pernkopf . Keywords: probabilistic, QAT, discrete LSTM, Gumbel-Softmax . 12. FLIPR: FLexible and Interpretable Prediction Regions for time series . Eshant English, Christoph Lippert . Keywords: interpretable regions, time series, conformal prediction . 13. SPIKE: Sparse Koopman Regularization for Physics-Informed Neural Networks . Jose Marie Antonio Miñoza . Keywords: Physics-Informed Neural Networks, Koopman Operator, Out-Of-Distribution Generalization, Dynamical Systems . 14. GRAIL: Post-hoc Compensation by Linear Reconstruction for Compressed Networks . Wenwu Tang, Dong Wang, Lothar Thiele, Olga Saukh . Keywords: Model Compression, Model Pruning, Model Folding, Model Compensation, LLM, Model Efficiency . 15. What Scalable Second-Order Information Knows for Pruning at Initialization . Ivo Gollini Navarrete, Nicolas Mauricio Cuadrado, Martin Takáč, Samuel Horváth . Keywords: Pruning, Hessian, One-shot, Initialization, Hutchinson, Fisher . 16. Superclass-Guided Representation Disentanglement for Spurious Correlation Mitigation . Chenruo Liu, Hongjun Liu, Zeyu Lai, Yiqiu Shen, Chen Zhao, Qi Lei . Keywords: Spurious Correlation, Group Robustness, Domain Generalization . 17. Lattice-Based Vector Quantization for Low-Bit Quantization-Aware Training . Rishika Kohli, Soma S Dhavala, Shaifu Gupta, Manoj Singh Gaur . Keywords: compression, quantization, pruning, deep learning, vector quantization, quantization aware training, post training quantization, BERT . 18. Deep Neural Regression Collapse . Akshay Rangamani, Altay Unal . Keywords: Neural Collapse, Low Rank, Neural Regression Collapse . 19. Learning in the Null Space: Small Singular Values for Continual Learning . Cuong Anh Pham, Praneeth Vepakomma, Samuel Horváth . Keywords: continual learning, singular value decomposition, small singular values, null space . 20. A Stein identity for $q$-Gaussians with bounded support . Sophia Sklaviadis, Thomas Möllenhoff, Mario A. T. Figueiredo, Andre Martins, Mohammad Emtiyaz Khan . Keywords: Generalized Stein identities, elliptical families, bounded-support q-Gaussians . 21. LLMQ: Efficient Lower-Precision LLM Training for Consumer GPUs . Erik Schultheis, Dan Alistarh . Keywords: consumer GPU, quantized training . 22. Beyond In-Distribution Success: Scaling Curves of CoT Granularity for Language Model Generalization . Ru Wang, Wei Huang, Selena Song, Haoyu Zhang, Qian Niu, Yusuke Iwasawa, Yutaka Matsuo, Jiaxian Guo . Keywords: Chain of Thought, Scaling Curve, Out-of-Distribution Generalization, Sample Efficiency . 23. Analyzing and Mitigating Model Collapse in Reflow Methods . Huminhao Zhu, Fangyikang Wang, Tianyu Ding, Qing Qu, Zhihui Zhu . Keywords: Model Collapse, Self-training, Synthetic Data, Reflow, Rectified Flow . 24. SonoEdit: Null-Space Constrained Knowledge Editing for Pronunciation Correction in LLM-Based TTS . Ayush Pratap Singh, Harshit Singh, Nityanand Mathur, Akshat Mandloi, Sudarshan Kamath . Keywords: Knowledge Editing, Text to Speech, LLMs, Parameter Efficiency . 25. KNIGHT: Knowledge Graph-Driven Multiple-Choice Question Generation with Adaptive Hardness Calibration . Mohammad Amanlou, Erfan Shafiee Moghaddam, Mahdi Nouri, Yasaman Amou Jafary, Farhan Farsi, Behnam Bahrak . Keywords: Multiple-Choice Question Generation, Knowledge Graph, Difficulty Calibration, Question Answering Dataset . 26. Emergence of Auditory Receptive Fields based on Surprise . Yashaswini, Sneha Dash, Sharba Bandyopadhyay . Keywords: Auditory receptive fields, Bayesian surprise, sparse coding, Oddball paradigm, predictive inference, Autoregressive generative modeling, efficient sensory coding, biologically inspired learning . 27. Semantic Homogeneity As Demonstration: Batch-Structured Semi-Supervised In-Context Learning for Natural Language Understanding . Cheng Chen, Yuangang Pan, Ivor Tsang . Keywords: In-Context Learning, Natural Language Understanding, Prompt Engineering / Prompting, Aggregate Ranking . 28. GNNs Getting ComFy: Community and Feature Similarity Guided Rewiring . Celia Rubio-Madrigal, Adarsh Jamadandi, Rebekka Burkholz . Keywords: graph neural networks, over-squashing, graph rewiring, community structure, homophily, feature similarity . 29. Beyond Scores: Proximal Diffusion Models . Zhenghan Fang, Mateo Diaz Diaz, Sam Buchanan, Jeremias Sulam . Keywords: Generative models, Diffusion models, Proximal operators, Backward discretization . 30. AdaBoost.SDM: Similarity and dissimilarity-based manifold regularized adaptive boosting algorithm . Azamat Mukhamediya, Amin Zollanvari . Keywords: Ensemble learning, Adaptive boosting, Manifold regularization . 31. Pay Attention to Small Weights . Chao Zhou, Tom Jacobs, Advait Gadhikar, Rebekka Burkholz . Keywords: large model, finetuning, effciency, catastrophic forgetting . 32. Dynamic Sparse Training versus Dense Training: The Unexpected Winner in Image Corruption Robustness . Boqian Wu, Qiao Xiao, Shunxin Wang, Nicola Strisciuglio, Mykola Pechenizkiy, Maurice van Keulen, Decebal Constantin Mocanu, Elena Mocanu . Keywords: Dynamic Sparse Training, Image Corruption Robustness . 33. Stable Minima of ReLU Neural Networks Suffer from the Curse of Dimensionality: The Neural Shattering Phenomenon . Tongtong Liang, Dan Qiao, Yu-Xiang Wang, Rahul Parhi . Keywords: Generalization bound, minima stability, gradient descent, large learning rate, ReLU neural network, minimax rate . 34. HyperINR: Ensuring Semantics in Weights with Implicit Function Theorem . Tianming Qiu, Christos Sonis, Hao Shen . Keywords: Implicit Function Theorem, Semantics in Weights, Weight Space Learning, Implicit Neural Representations, Hypernetworks . 35. Connectivity determines the capability of sparse neural network quantum states . Brandon Barton, Juan Felipe Carrasquilla Alvarez, Christopher Robert Roth, Agnes Valenti . Keywords: Neural network quantum states, Pruning, Lottery ticket hypothesis . 36. Computational Algebra with Attention: Transformer Oracles for Border Basis Algorithms . Hiroshi Kera, Nico Pelleriti, Yuki Ishihara, Max Zimmer, Sebastian Pokutta . Keywords: Polynomial System Solving, Border Bases, Transformer, Computational Algebra, AI4Science, AI4Math . 37. REAP the Experts: Why Pruning Prevails for One-Shot MoE compression . Mike Lasby, Ivan Lazarevich, Nish Sinnadurai, Sean Lie, Yani Ioannou, Vithursan Thangarasa . Keywords: mixture-of-experts, moe, compresson, expert pruning, expert merging, merging, pruning, LLM, evaluation . 38. Hyperbolic Aware Minimization: Implicit Bias for Sparsity . Tom Jacobs, Advait Gadhikar, Celia Rubio-Madrigal, Rebekka Burkholz . Keywords: Sparsity, Implicit bias, Sign flip, Exponential update, Training dynamics, Bregman function . 39. Beyond the Ideal: Analyzing the Inexact Muon Update . Egor Shulgin, Sultan AlRashed, Francesco Orabona, Peter Richtárik . Keywords: Optimization, Muon . 40. The Graphon Limit Hypothesis: Understanding Neural Network Pruning via Infinite Width Analysis . Hoang Pham, The-Anh Ta, Tom Jacobs, Rebekka Burkholz, Long Tran-Thanh . Keywords: Pruning Network, Graphon, Neural Tangent Kernel . 41. Fixed Aggregation Features Can Rival GNNs . Celia Rubio-Madrigal, Rebekka Burkholz . Keywords: deep learning, graph neural networks, node classification, kolmogorov-arnold representation, tabular learning, non-trainable aggregation . 42. SparseOpt: Addressing Normalization-induced Gradient Skew in Sparse Training . Mohammed Adnan, Rohan Jain, Tom Jacobs, Ekansh Sharma, Rahul G Krishnan, Rebekka Burkholz, Yani Ioannou . Keywords: sparse training, dynamic sparse training, training dynamics, normalization layers . 43. SALAAD: Sparse and Low-Rank Adaptation via ADMM for Large Language Model Inference . Hao Ma, Melis Ilayda Bal, Liang Zhang, Bingcong Li, Niao He, Melanie Zeilinger, Michael Muehlebach . Keywords: Sparse and Low-Rank Learning, Large Language Models, Structured Optimization, Model Compression, Elastic Inference . 44. LOST: Low-rank and Sparse Pre-training for Large Language Models . Jiaxi Li, Lu Yin, Li Shen, Jinjin Xu, Adarsh Kappiyath, LiWu Xu, Tianjin Huang, Wenwu Wang, Shiwei Liu, Xilu Wang . Keywords: Large language models, Low-rank, Sparse, Singular value decomposition, Pre-training . ",
+    "url": "/2026/posters/#poster-session-ii",
+    
+    "relUrl": "/posters/#poster-session-ii"
+  },"62": {
+    "doc": "Poster Presentations",
+    "title": "Poster Presentations",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/posters/",
+    
+    "relUrl": "/posters/"
+  },"63": {
+    "doc": "Proceedings Track",
+    "title": "Proceedings Track: Accepted Papers",
+    "content": "Accepted Proceedings Track papers are presented as posters at CPAL 2026. A select number of accepted Proceedings Track papers will be presented as orals; they are labeled below with (Oral). See the full program for the precise time and location of each oral and poster session. From sparse recovery to plug-and-play priors, understanding trade-offs for stable recovery with generalized projected gradient descent (Oral, Best Paper Award) . Ali Joundi, Yann Traonmilin, Jean-François Aujol . Keywords: Inverse Problems, Sparse Recovery, Plug-and-Play, Deep Prior, Optimization . Efficient Temporal Consistency in Diffusion-Based Video Editing with Adaptor Modules: A Theoretical Framework . Xinyuan Song, Yangfan He, Sida Li, Jianhui Wang, Hongyang He, Xinhang Yuan, Ruoyu Wang, Jiaqi Chen, Keqin Li, Kuan Lu, Menghao Huo, Ziqian Bi, Binxu Li, Pei Liu . Keywords: Adapter-based Methods, Diffusion Models, Video Editing, Temporal Consistency, DDIM Inversion, Prompt Learning, Theoretical Analysis . What Scalable Second-Order Information Knows for Pruning at Initialization (Oral) . Ivo Gollini Navarrete, Nicolas Mauricio Cuadrado, Martin Takáč, Samuel Horváth . Keywords: Pruning, Hessian, One-shot, Initialization, Hutchinson, Fisher . Selective Collaboration for Robust Federated Learning . Nazarii Tupitsa, Samuel Horváth, Martin Takáč, Eduard Gorbunov . Keywords: federated learning, robust aggreagation . Generalized Radius and Integrated Codebook Transforms for Differentiable Vector Quantization . Haochen You, Heng Zhang, Hongyang He, Yuqi Li, Baojing Liu . Keywords: Vector Quantization, Discrete Representation Learning, Radius Surrogate, Codebook Transform, Gradient Coupling . Enhancing Long-Context Inference with Context-Position Duo-Mixture . Zhenyu Zhang, Sharath Nittur Sridhar, Zhangyang Wang, Souvik Kundu . Keywords: Long-Context; LLM; Efficiency . FLIPR: FLexible and Interpretable Prediction Regions for time series . Eshant English, Christoph Lippert . Keywords: interpretable regions, time series, conformal prediction . SonoEdit: Null-Space Constrained Knowledge Editing for Pronunciation Correction in LLM-Based TTS . Ayush Pratap Singh, Harshit Singh, Nityanand Mathur, Akshat Mandloi, Sudarshan Kamath . Keywords: Knowledge Editing, Text to Speech, LLMs, Parameter Efficiency . Data-Efficient and Robust Trajectory Generation through Pathlet Dictionary Learning (Oral) . yuanbo tang, Yan Tang, Zihui Zhao, Zixuan Zhang, Yang Li . Keywords: trajectory generative model, dictionary learning, sparse representation . Sparse Mixture-of-Experts for Compositional Generalization: Empirical Evidence and Theoretical Foundations of Optimal Sparsity (Oral) . Jinze Zhao, Peihao Wang, Junjie Yang, Ruisi Cai, Gaowen Liu, Jayanth Srinivasa, Ramana Rao Kompella, Yingbin Liang, Zhangyang Wang . Keywords: Compositional Generalization, Sparsity, Mixture of Experts . Teaching LLMs According to Their Aptitude: Adaptive Switching Between CoT and TIR for Mathematical Problem Solving (Oral) . Xin Xu, Yan Xu, Tianhao Chen, Yuchen Yan, Chengwu Liu, Zaoyu Chen, Yufei Wang, Yichun Yin, Yasheng Wang, Qun Liu, Lu Yin . Keywords: Large Language Models, math QA, chain-of-thought, tool-integrated reasoning, fine-tuning . KNIGHT: Knowledge Graph-Driven Multiple-Choice Question Generation with Adaptive Hardness Calibration . Mohammad Amanlou, Erfan Shafiee Moghaddam, Mahdi Nouri, Yasaman Amou Jafary, Farhan Farsi, Behnam Bahrak . Keywords: Multiple-Choice Question Generation, Knowledge Graph, Difficulty Calibration, Question Answering Dataset . Emergence of Auditory Receptive Fields based on Surprise . Yashaswini, Sneha Dash, Sharba Bandyopadhyay . Keywords: Auditory receptive fields, Bayesian surprise, sparse coding, Oddball paradigm, predictive inference, Autoregressive generative modeling, efficient sensory coding, biologically inspired learning . Simplex Deep Linear Discriminant Analysis . Maxat Tezekbayev, Arman Bolatov, Zhenisbek Assylbekov . Keywords: Deep LDA, Maximum likelihood, Simplex-constrained embeddings . Concept based Ambiguity Resolution in LLMs . Zhibo Hu, Chen Wang, Yanfeng Shu, Hye-young Paik, Liming Zhu . Keywords: Language Ambiguity; Large Language Model; Sparse Autoencoder; Path Kernel . A Stein identity for $q$-Gaussians with bounded support . Sophia Sklaviadis, Thomas Möllenhoff, Mario A. T. Figueiredo, Andre Martins, Mohammad Emtiyaz Khan . Keywords: Generalized Stein identities, elliptical families, bounded-support q-Gaussians . Trainable Bitwise Soft Quantization for Input Feature Compression . Karsten Schrödter, Jan Stenkamp, Nina Herrmann, Fabian Gieseke . Keywords: Soft Quantization, Trainable Quantization, Input Compression, Tiny Machine Learning, Split Inference . GRAIL: Post-hoc Compensation by Linear Reconstruction for Compressed Networks . Wenwu Tang, Dong Wang, Lothar Thiele, Olga Saukh . Keywords: Model Compression, Model Pruning, Model Folding, Model Compensation, LLM, Model Efficiency . Learning of Discretized LSTMs . Nikolaus Kopp, Franz Pernkopf . Keywords: probabilistic, QAT, discrete LSTM, Gumbel-Softmax . Effective Learning for Small Reasoning Models: An Empirical Study on 0.5B Reasoning LLMs . Xialie Zhuang, Peixian MA, Zhikai Jia, Zane Cao, Shiwei Liu . Keywords: Small Reasoning Model, Reasoning, Reinforcement Learning . Byzantine-Robust Optimization under $(L_0,L_1)$-Smoothness . Arman Bolatov, Samuel Horváth, Martin Takáč, Eduard Gorbunov . Keywords: byzantine-robust optimization, federated learning, generalized smoothness, normalized SGD . Dynamic SFT with Structured Measurements: Fast Queries, Fast Updates, Provable Guarantees . Yang Cao, Zhao Song . Keywords: sparse Fourier transform . Superclass-Guided Representation Disentanglement for Spurious Correlation Mitigation . Chenruo Liu, Hongjun Liu, Zeyu Lai, Yiqiu Shen, Chen Zhao, Qi Lei . Keywords: Spurious Correlation, Group Robustness, Domain Generalization . Beyond Greedy Decoding: Model-Specific Strategy Selection via Multi-faceted Uncertainty Decomposition . Kwangje Baeg, Yubin Lim . Keywords: Uncertainty Decomposition, Adaptive Decoding, Model Heterogeneity, Behavioral Clustering, Instruction-Tuned Models . Can Less Be More? Benchmarking Lightweight Models Against State-of-the-Art Deep Learning Architectures for Deployable Seizure Detection . Isaiah Essien, Donna-lee Ginsberg, Jesse Thornburg . Keywords: Parsimonious Learning, Mobile Health, Seizure Detection, TensorFlow Lite, Deep Learning, Resource-Constrained Deployment, Global Health Equity . ERC-SVD: Error-Controlled SVD for Large Language Model Compression . Haolei Bai, Siyong Jian, Tuo Liang, Yu Yin, Huan Wang . Keywords: Model Compression, SVD, Large Language Models . FocusDC: Real-World Scene Infusion for Robust Dataset Condensation . Youbing Hu, Yun Cheng, Olga Saukh, Firat Ozdemir, Anqi Lu, Zhiqiang Cao, Min Zhang, Zhijun Li . Keywords: Dataset Distillation and Condensation, Vision Transformer . Scalable LLM Reasoning Acceleration with Low-rank Distillation . Harry Dong, Bilge Acun, Beidi Chen, Yuejie Chi . Keywords: large language model, efficiency, distillation, reasoning, scaling, low-rank, inference . Sparsity-Aware Prompt Tuning: A Simple and Effective Way to Fine-tune High-Sparsity LLMs . Yuxin Zhang, Weizhong Huang, Yuexiao Ma, Yunshan Zhong, Xiawu Zheng, Rongrong Ji . Keywords: Large language models; Network Pruning . (PASS) Visual Prompt Locates Good Structure Sparsity through a Recurrent HyperNetwork . Tianjin Huang, Yong Tao, Meng Fang, Li Shen, Fan Liu, Yulong Pei, Mykola Pechenizkiy, Tianlong Chen . Keywords: Structure Pruning, Visual Prompt, Recurrent HyperNetwork . Learning in the Null Space: Small Singular Values for Continual Learning (Oral) . Cuong Anh Pham, Praneeth Vepakomma, Samuel Horváth . Keywords: continual learning, singular value decomposition, small singular values, null space . Beyond In-Distribution Success: Scaling Curves of CoT Granularity for Language Model Generalization . Ru Wang, Wei Huang, Selena Song, Haoyu Zhang, Qian Niu, Yusuke Iwasawa, Yutaka Matsuo, Jiaxian Guo . Keywords: Chain of Thought, Scaling Curve, Out-of-Distribution Generalization, Sample Efficiency . Deep Neural Regression Collapse . Akshay Rangamani, Altay Unal . Keywords: Neural Collapse, Low Rank, Neural Regression Collapse . Optimal $k$-Discretization Learning . Tong Wang, Zhangyang Wang . Keywords: Clustering . MMA:Benchmarking Multi-ModalLarge Language Models in Ambiguity Contexts . Ru Wang, Selena Song, Yuquan Wang, Liang Ding, Mingming Gong, Yusuke Iwasawa, Yutaka Matsuo, Jiaxian Guo . Keywords: Multi-Modal Large Language Model, Ambiguity, Benchmark, Dataset . Token-Aware Representation Augmentation for Fine-Grained Semi-Supervised Learning . Hongyang He, Yan Zhong, Xinyuan Song, Daizong Liu, Victor Sanchez . Keywords: Semi-supervised learning, FixMatch, consistency regularization, token-aware masking, token-level augmentation, high-confidence token suppression, feature diversity . Pruned Adaptation Modules: A Simple yet Strong Baseline for Continual Foundation Models . Elif Ceren Gok Yildirim, Murat Onur Yildirim, Joaquin Vanschoren . Keywords: continual learning, parameter efficient, foundation models . Matrix Sensing with Kernel Optimal Loss: Robustness and Optimization Landscape (Oral) . Xinyuan Song, Ziye Ma . Keywords: Matrix sensing, kernel loss function, optimization . Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs . Ruichen Zhang, Mufan Qiu, Zhen Tan, Mohan Zhang, Xiaopeng Lu, Jie Peng, Kaidi Xu, Leandro Z. Agudelo, Peter Zhenghao Qian, Tianlong Chen . Keywords: LLM, Agent, Knowledge Distillation, Web Agent, Symbiotic Cooperation, Privacy Preservation, Hybrid Mode . Prompt Stability Matters: Evaluating and Optimizing Auto-Generated Prompt in General-Purpose Systems . Ke Chen, Xucheng Yu, Yufei Zhou, Haohan Wang . Keywords: Prompt Stability, Prompt Evaluation, Multi-Agent System, General-Purpose System, Prompt Auto-Generation, Prompt Optimization . Stochastic Unrolled Neural Networks . Samar Hadou, Navid NaderiAlizadeh, Alejandro Ribeiro . Keywords: unrolled optimization, learning to learn, deep unfolding, interpretable deep architecture, constrained learning . Analyzing and Mitigating Model Collapse in Reflow Methods (Oral) . Huminhao Zhu, Fangyikang Wang, Tianyu Ding, Qing Qu, Zhihui Zhu . Keywords: Model Collapse, Self-training, Synthetic Data, Reflow, Rectified Flow . Parameter-Efficient Distributional RL via Normalizing Flows and a Geometry-Aware Cramér Surrogate . Simo Alami Chehboune, Rim Kaddah, Marie-Paule CANI, Jesse Read . Keywords: Distributional Reinforcement Learning, Generative models, Deep Learning, Optimal Transport . LLMQ: Efficient Lower-Precision LLM Training for Consumer GPUs . Erik Schultheis, Dan Alistarh . Keywords: consumer GPU, quantized training . ShapLoRA: Allocation of Low-rank Adaption on Large Language Models via Shapley Value Inspired Importance Estimation . Colin Zhao, Qinghua Yao, Xinyuan Song, Wei Zhu . Keywords: LLM LoRA . Lattice-Based Vector Quantization for Low-Bit Quantization-Aware Training . Rishika Kohli, Soma S Dhavala, Shaifu Gupta, Manoj Singh Gaur . Keywords: compression, quantization, pruning, deep learning, vector quantization, quantization aware training, post training quantization, BERT . Cannistraci-Hebb Training with N:M Semi-Structured Sparsity for Pre-Training and Re-Training . Jiaqing Lyu, Ruijie Wang, Kangyou Bao, Yingtao Zhang, Carlo Vittorio Cannistraci . Keywords: Dynamic Sparse Training; Semi-Structured Sparsity; LLM; ViT . SPIKE: Sparse Koopman Regularization for Physics-Informed Neural Networks . Jose Marie Antonio Miñoza . Keywords: Physics-Informed Neural Networks, Koopman Operator, Out-Of-Distribution Generalization, Dynamical Systems . Enhancing Low-Cost Video Editing with Lightweight Adaptors and Temporal-Aware Inversion . Yangfan He, Sida Li, Jianhui Wang, Xinyuan Song, Kun Li, Xinhang Yuan, Kuan Lu, Menghao Huo, Jingqun Tang, Yi Xin, Jiaqi Chen, Keqin Li, Miao Zhang, Xueqian Wang . Keywords: Text-to-Image (T2I) Generation, Diffusion Models, Text-to-Video (T2V) Editing, Temporal Consistency, Spatial Consistency . Panza: Investigating the Feasibility of Fully-Local Personalized Text Generation . Armand Mihai Nicolicioiu, Eugenia Iofinova, Andrej Jovanovic, Eldar Kurtic, Mahdi Nikdan, Andrei Panferov, Ilia Markov, Nir N Shavit, Dan Alistarh . Keywords: LLMs, PEFT, LoRA, personalization, efficient ML . AlphaFormer: End-to-End Symbolic Regression of Alpha Factors with Transformers . Haotong Huang, Jie Peng, Zezhen Ding, Pingzhi Li, Tianlong Chen . Keywords: Symbolic Regression, Alpha Mining, Time Series Generative Modeling . ROSE: Reordered SparseGPT for More Accurate One-Shot Large Language Models Pruning (Oral) . Mingluo Su, Huan Wang . Keywords: Large language models, Unstructured pruning, Pruning order . Improving Medical Visual Reinforcement Fine-Tuning via Perception and Reasoning Augmentation . Guangjing Yang, ZhangYuan Yu, Ziyuan Qin, Xinyuan Song, Huahui Yi, Qingbo Kang, Jun Gao, Yiyue Li, Chenlin Du, Qicheng Lao . Keywords: Reinforcement Fine-Tuning (RFT), Medical Vision-Language Models, Reward Design, Perception-Reasoning Augmentation, Visual Reinforcement Learning, Medical Image Understanding . Semantic Homogeneity As Demonstration: Batch-Structured Semi-Supervised In-Context Learning for Natural Language Understanding . Cheng Chen, Yuangang Pan, Ivor Tsang . Keywords: In-Context Learning, Natural Language Understanding, Prompt Engineering / Prompting, Aggregate Ranking . ",
+    "url": "/2026/proceedings_track/#proceedings-track-accepted-papers",
+    
+    "relUrl": "/proceedings_track/#proceedings-track-accepted-papers"
+  },"64": {
+    "doc": "Proceedings Track",
+    "title": "Proceedings Track",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/proceedings_track/",
+    
+    "relUrl": "/proceedings_track/"
+  },"65": {
+    "doc": "Program at a Glance",
+    "title": "Program at a Glance",
+    "content": "All times below are in Central European Time (CET, UTC+1). For attendance logistics and venue information, see the logistics page. | 08:00 AM | 08:30 AM | 09:00 AM | 09:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 01:00 PM | 01:30 PM | 02:00 PM | 02:30 PM | 03:00 PM | 03:30 PM | 04:00 PM | 04:30 PM | 05:00 PM | 05:30 PM | 06:00 PM | 06:30 PM | 07:00 PM | 07:30 PM | 08:00 PM | . | ",
+    "url": "/2026/program_schedule/#program-at-a-glance",
+    
+    "relUrl": "/program_schedule/#program-at-a-glance"
+  },"66": {
+    "doc": "Program at a Glance",
+    "title": "Day 1 (Mar 23)Monday",
+    "content": ". | Registration 8:30 AM–9:00 AM MPH Lobby, Max-Planck-Ring 6 | Tutorial Session 1T1: Orthogonal Training for Foundation Models (MPH)T2: Training Neural Networks at Any Scale (MPI) 9:00 AM–11:30 AM MPH Lecture Hall, Max-Planck-Ring 6 / MPI Lecture Hall, Max-Planck-Ring 4 | Lunch Break 11:30 AM–12:30 PM MPH Cafeteria, Max-Planck-Ring 6 | Tutorial Session 2T1: Inference Optimization Playbook for Serving LLMs in the Industry (MPH)T2: Where to Spend Parameters: From Layerwise Efficiency To Federated Architecture Search (MPI) 12:30 PM–3:00 PM MPH Lecture Hall, Max-Planck-Ring 6 / MPI Lecture Hall, Max-Planck-Ring 4 | Coffee Break 3:00 PM–3:30 PM MPH Cafeteria, Max-Planck-Ring 6 | Tutorial Session 3T1: Reward Modeling in Large Language Models (MPH)T2: Theoretical Insights on Training Instability in Deep Learning (MPI) 3:30 PM–6:00 PM MPH Lecture Hall, Max-Planck-Ring 6 / MPI Lecture Hall, Max-Planck-Ring 4 | . | ",
+    "url": "/2026/program_schedule/",
+    
+    "relUrl": "/program_schedule/"
+  },"67": {
+    "doc": "Program at a Glance",
+    "title": "Day 2 (Mar 24)Tuesday",
+    "content": ". | Registration 8:00 AM–8:30 AM MPH Lobby, Max-Planck-Ring 6 | Opening Remarks 8:30 AM–9:00 AM MPH Lecture Hall, Max-Planck-Ring 6 | Yingyu Liang 9:00 AM–10:00 AM MPH Lecture Hall, Max-Planck-Ring 6 \"A Tangram Theory of Generalization: Rethinking Machine Learning via the Lens of Composition\" | Coffee Break 10:00 AM–10:30 AM MPH Cafeteria, Max-Planck-Ring 6 | Taiji Suzuki 10:30 AM–11:30 AM MPH Lecture Hall, Max-Planck-Ring 6 \"Feature learning theories for test time inference\" | Lunch Break 11:30 AM–12:30 PM MPH Cafeteria, Max-Planck-Ring 6 | Rising Stars Talks I 12:30 PM–1:30 PM MPH Lecture Hall, Max-Planck-Ring 6 | Wellness Session 1:30 PM–2:30 PM MPH Lecture Hall, Max-Planck-Ring 6 | Jared Tanner 2:30 PM–3:30 PM MPH Lecture Hall, Max-Planck-Ring 6 \"Deep neural network initialisation: Nonlinear activations impact on the Gaussian process\" | Highlight Talks I 3:30 PM–4:00 PM MPH Lecture Hall, Max-Planck-Ring 6 | Poster Session I 4:00 PM–6:00 PM MPI Lecture Hall, Max-Planck-Ring 4 | Reception 6:00 PM–8:00 PM MPH Lobby, Max-Planck-Ring 6 | . | ",
+    "url": "/2026/program_schedule/",
+    
+    "relUrl": "/program_schedule/"
+  },"68": {
+    "doc": "Program at a Glance",
+    "title": "Day 3 (Mar 25)Wednesday",
+    "content": ". | Matthias Bethge 9:00 AM–10:00 AM MPH Lecture Hall, Max-Planck-Ring 6 \"Designing Frontier AI Institutions as Institutional Learning Machines\" | Coffee Break 10:00 AM–10:30 AM MPH Cafeteria, Max-Planck-Ring 6 | Fanny Yang 10:30 AM–11:30 AM MPH Lecture Hall, Max-Planck-Ring 6 \"On the sample complexity of semi-supervised multi-objective learning\" | Lunch Break 11:30 AM–12:30 PM MPH Cafeteria, Max-Planck-Ring 6 | Rising Stars Talks II 12:30 PM–1:30 PM MPH Lecture Hall, Max-Planck-Ring 6 | Highlight Talks II 1:30 PM–2:00 PM MPH Lecture Hall, Max-Planck-Ring 6 | Coffee Break 2:00 PM–2:30 PM MPH Cafeteria, Max-Planck-Ring 6 | Francis Bach 2:30 PM–3:30 PM MPH Lecture Hall, Max-Planck-Ring 6 \"Recent advances in uncertainty quantification: anytime guarantees and multivariate predictions\" | Poster Session II 3:30 PM–5:30 PM MPI Lecture Hall, Max-Planck-Ring 4 | . | ",
+    "url": "/2026/program_schedule/",
+    
+    "relUrl": "/program_schedule/"
+  },"69": {
+    "doc": "Program at a Glance",
+    "title": "Day 4 (Mar 26)Thursday",
+    "content": ". | Niao He 9:00 AM–10:00 AM MPH Lecture Hall, Max-Planck-Ring 6 \"From Learning Dynamics to Minima Selection—and Back\" | Coffee Break 10:00 AM–10:30 AM MPH Cafeteria, Max-Planck-Ring 6 | Andreas Krause 10:30 AM–11:30 AM MPH Lecture Hall, Max-Planck-Ring 6 \"Learning at Test Time: Foundations and Agents\" | Lunch Break 11:30 AM–12:30 PM MPH Cafeteria, Max-Planck-Ring 6 | Rising Stars Talks III 12:30 PM–1:30 PM MPH Lecture Hall, Max-Planck-Ring 6 | Highlight Talks III 1:30 PM–2:00 PM MPH Lecture Hall, Max-Planck-Ring 6 | Coffee Break 2:00 PM–2:30 PM MPH Cafeteria, Max-Planck-Ring 6 | Leena Chennuru Vankadara 2:30 PM–3:30 PM MPH Lecture Hall, Max-Planck-Ring 6 \"Towards a theory of scaling in deep learning\" | Bernhard Scholkopf 4:00 PM–5:00 PM MPH Lecture Hall, Max-Planck-Ring 6 \"Causal Representations, World Models and Digital Twins\" | Closing Remarks 5:00 PM–5:30 PM MPH Lecture Hall, Max-Planck-Ring 6 | . | . ",
+    "url": "/2026/program_schedule/",
+    
+    "relUrl": "/program_schedule/"
+  },"70": {
+    "doc": "Program at a Glance",
+    "title": "Program at a Glance",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/program_schedule/",
+    
+    "relUrl": "/program_schedule/"
+  },"71": {
+    "doc": "Register & Attend",
+    "title": "Register & Attend",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/register_and_attend/",
+    
+    "relUrl": "/register_and_attend/"
+  },"72": {
+    "doc": "Registration",
+    "title": "Registration",
+    "content": "All CPAL attendees are required to register to attend the conference. Please complete your registration here. Register Now . ",
+    "url": "/2026/registration/#registration",
+    
+    "relUrl": "/registration/#registration"
+  },"73": {
+    "doc": "Registration",
+    "title": "Accommodations",
+    "content": "Please note that we have reserved a limited number of hotel rooms at special conference rates. See the relevant travel page for registration details. Please be sure to submit your information before 16 February 2026, as the number of rooms available is limited. ",
+    "url": "/2026/registration/#accommodations",
+    
+    "relUrl": "/registration/#accommodations"
+  },"74": {
+    "doc": "Registration",
+    "title": "Student Discounts",
+    "content": "Students can receive a discount of 40% off the regular ticket price. To receive the discount, upload a valid proof of student status during your registration. See the registration page for more details. ",
+    "url": "/2026/registration/#student-discounts",
+    
+    "relUrl": "/registration/#student-discounts"
+  },"75": {
+    "doc": "Registration",
+    "title": "Registration Help",
+    "content": "For any questions regarding the registration form, please contact the organizers at pcs@cpal.cc. For questions regarding event ticketing, please contact the following address. ",
+    "url": "/2026/registration/#registration-help",
+    
+    "relUrl": "/registration/#registration-help"
+  },"76": {
+    "doc": "Registration",
+    "title": "Registration",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/registration/",
+    
+    "relUrl": "/registration/"
+  },"77": {
+    "doc": "Review Guidelines",
+    "title": "Reviewer Guidelines",
+    "content": " ",
+    "url": "/2026/review_guidelines/#reviewer-guidelines",
+    
+    "relUrl": "/review_guidelines/#reviewer-guidelines"
+  },"78": {
+    "doc": "Review Guidelines",
+    "title": "Notable Innovations in Our Review Mechanism",
+    "content": "CPAL strives for providing every paper with high-quality, accountable reviews, and therefore takes the following actions in addition: . | Shepherding by an Action PC: Every paper’s final decision, after being recommended by AC, will go through the direct shepherding of all program chairs (led by one “action PC”). The action PC has two main duties: . | (before final decision released) The action PC will pay particular attention to the borderline cases and the dispute (large score variations) cases, and will be asked to write additional “meta-meta reviews” in those cases and potentially calibrate on top of AC recommendations. Final decisions will be scrutinized and made in a joint meeting by all program chairs. | (after receiving the camera-ready) Each accepted paper’s authors will be asked to submit a one-page cover letter, summarizing what revisions are made between the paper’s submitted and camera-ready versions. The action PC will ensure: (1) all “promised” changes by authors during the discussion stage are indeed implemented; (2) no change that is “too substantial” and “unsoliciated” shall be made to the paper, unless in exceptional circumstances where the action PC has to approve case-by-case. The action PC reserves the right to reject a camera-ready submission and exclude it from the conference proceedings. | . | Semi-Open Identity for Accountability (Action PC and/or AC): For every accepted paper, the names of its AC and action PC will be publicly released on its OpenReview page too. For every rejected paper (excluding withdrawals), only the name of its action PC will be displayed. This decision was not reached lightly; but we hope it would meaningfully add credibility and accountability for every paper’s final outcome. | Reviewer Rating and “Dynamic Sparse Selection”: each AC will be asked to rate every reviewer in their batch, in terms of timeliness and quality. Program chairs, who know all reviewers’ identities, will compile a list of reviewers sorted by their average ratings received. Reviewers that receive consistent low reviewer rating for multiple papers / from multiple ACs will be excluded from future review processes. | . ",
+    "url": "/2026/review_guidelines/#notable-innovations-in-our-review-mechanism",
+    
+    "relUrl": "/review_guidelines/#notable-innovations-in-our-review-mechanism"
+  },"79": {
+    "doc": "Review Guidelines",
+    "title": "General Guidelines",
+    "content": "We all like the Acceptance Criteria made by TMLR https://jmlr.org/tmlr/acceptance-criteria.html and would instruct our ACs and reviewers to honor the same. In particular we note: . “Crucially, it should not be used as a reason to reject work that isn’t considered “significant” or “impactful” because it isn’t achieving a new state-of-the-art on some benchmark. Nor should it form the basis for rejecting work on a method considered not “novel enough”, as novelty of the studied method is not a necessary criteria for acceptance. We explicitly avoid these terms (“significant”, “impactful”, “novel”), and focus instead on the notion of “interest”. If the authors make it clear that there is something to be learned by some researchers in their area from their work, then the criteria of interest is considered satisfied. ",
+    "url": "/2026/review_guidelines/#general-guidelines",
+    
+    "relUrl": "/review_guidelines/#general-guidelines"
+  },"80": {
+    "doc": "Review Guidelines",
+    "title": "Review Guidelines",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/review_guidelines/",
+    
+    "relUrl": "/review_guidelines/"
+  },"81": {
+    "doc": "Rising Stars Award",
+    "title": "Rising Stars Award",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/rising_stars/",
+    
+    "relUrl": "/rising_stars/"
+  },"82": {
+    "doc": "Rising Stars Awardees",
+    "title": "CPAL 2026 Rising Stars Awardees",
+    "content": "Avrajit Ghosh . University of California, Berkeley . Postdoctoral Researcher . Title: A fundamental statistical limitation of Gradient Descent in learning sparse targets from hard labels . Abstract: The success of gradient descent in deep learning has often been attributed to a property called implicit regularization which enables finding “generalizing” solutions. Contrary to past works, we point out a statistical limitation of learning with gradient descent in the simplest but the most commonly occurring case. We study well-specified sparse logistic regression in the over-constrained regime, where the number of input-label samples (n) exceeds the dimension (d), and the learner has access only to hard discrete labels. In this setting, when gradient descent learns using a standard dot-product model between weights and inputs, it is provably suboptimal and incurs an excess risk that scales with the dimension (d). This limitation holds more broadly for a class of rotation-invariant algorithms, which includes deep neural networks with a fully connected first layer. In contrast, simple non-rotation-invariant parameterizations achieve substantially better statistical performance using early stopping, with only logarithmic dependence on the dimension. Our results highlight a limitation of the commonly celebrated implicit regularization of gradient descent and its failure to efficiently learn sparse targets from hard labels. Bhavya Vasudeva . University of Southern California . Ph.D. Candidate . Title: How Muon’s Spectral Design Benefits Generalization: A Study on Imbalanced Data . Abstract: The growing adoption of spectrum-aware matrix-valued optimizers such as Muon and Shampoo in deep learning motivates a systematic study of their generalization properties and, in particular, when they might outperform competitive algorithms. We approach this question by introducing appropriate simplifying abstractions as follows: First, we use imbalanced data as a testbed. Second, we study the canonical form of such optimizers, which is Spectral Gradient Descent (SpecGD) – each update step is UV^T where USV^T is the truncated SVD of the gradient. Third, within this framework we identify a canonical setting for which we precisely quantify when SpecGD outperforms vanilla Euclidean GD. For a Gaussian mixture data model and both linear and bilinear models, we show that unlike GD, which prioritizes learning dominant principal components of the data first, SpecGD learns all principal components of the data at equal rates. We demonstrate how this translates to a growing gap in class balanced loss favoring SpecGD early in training and further show that the gap remains consistent even when the GD counterpart uses adaptive step-sizes via normalization. By extending the analysis to deep linear models, we show that depth amplifies these effects. We empirically verify our theoretical findings on a variety of imbalanced datasets. Our experiments compare practical variants of spectral methods, like Muon and Shampoo, against their Euclidean counterparts and Adam. The results validate our findings that these spectral optimizers achieve superior generalization by promoting a more balanced learning of the data’s underlying components. Ang Li . University of Maryland . Assistant Professor . Title: Parsimony and Efficiency in Foundation Models: A Holistic Framework for Structural Analysis and Resource-Aware Serving . Abstract: The increasing overparameterization of foundation models necessitates a shift toward parsimonious architectures and resource-aware serving to enable universal deployment. This research establishes a holistic framework for efficiency by identifying structural redundancies and mitigating operational bottlenecks across the AI stack. We introduce a similarity-based metric to quantify module importance, revealing that “Attention Drop” – the strategic pruning of redundant attention layers – can streamline Transformers while preserving core functional performance. For Mixture of Experts (MoE) architectures, we propose a unified compression strategy integrating “Expert Trimming” of structured modules with “Expert Slimming” of individual experts. To enhance sparse inference efficiency, we address the “Straggler Effect” caused by imbalanced token routing through Capacity-Aware Inference, which regulates expert workloads via token dropping and rerouting. Finally, we demonstrate system-level parsimony through EdgeLoRA, a multi-tenant serving system that utilizes adaptive adapter selection and heterogeneous memory management to maximize efficiency on edge hardware. Collectively, these contributions provide a scientific foundation for the next generation of sustainable and hardware-aware intelligent systems. Chenyu You . Stony Brook University . Assistant Professor . Title: Towards Robust, Efficient, and Generalized Medical AI . Abstract: Artificial intelligence has advanced biomedical image analysis dramatically, yet reliable clinical deployment remains limited. A key reason is that current models do not fully leverage the parsimonious, low-dimensional structure underlying anatomy, physiology, and disease. Scarce labeled data hinder representation learning, distribution shifts break brittle invariances, and the absence of theoretical guarantees reduces trust in high-stakes decisions. My research addresses these challenges by developing robust, efficient, and generalized medical AI methods that extract compact structural representations, unify data-driven learning with mathematical principles, and build medical foundation models that transfer across populations, modalities, and institutions. The central aim of my research is to uncover and exploit intrinsic low-dimensional structure to achieve sample efficiency, computational efficiency, and reliable generalization in real clinical environments. Lingjing Kong . Carnegie Mellon University . Ph.D. Student . Title: Parsimony through Causality: Building Trustworthy and Interpretable AI . Abstract: Foundation models are rapidly becoming capable assistants for knowledge work, yet real deployment remains limited by three persistent gaps: brittle transfer under distribution shift, opaque internal reasoning, and coarse-grained controllability. I will argue that these gaps are best viewed as a structure problem: whether learning recovers the underlying mechanisms of the data-generating process rather than surface correlations. I use causal thinking as a practical lens for parsimony: separating what is invariant from what changes across environments, and identifying what can be intervened upon. First, I present a mechanism-learning approach to transfer, where models learn stable, reusable components from heterogeneous data and become controllable through interventions on learned factors. Second, I connect modern self-supervised objectives (e.g., masking and diffusion) to hierarchical latent-variable models that recover sparse, compositional concept structure even from seemingly unstructured data – yielding interpretable generative factors and enabling targeted edits at multiple levels of abstraction. Finally, I discuss when such structured representations support extrapolation to novel concept combinations, and sketch a compositional generation framework that improves prompt following beyond the training distribution. Can Yaras . University of Michigan . Ph.D. Candidate . Title: Compressing Activations via Structured Matrices in Transformers . Abstract: Matrix multiplications between weights and activations dominate the computational cost of Transformers. Prior work primarily reduces this cost by compressing weights, whereas activation compression remains underexplored due to its online, input-dependent nature. We introduce a general framework for approximating activation matrices with structured matrices that admit fast matrix-vector multiplication, using efficient on-the-fly optimization. We demonstrate the effectiveness of this approach in the instance of attention activations with MonarchAttention, which has recently been adapted to speed up state-of-the-art video generation. Harry Dong . Carnegie Mellon University . Ph.D. Student . Title: Squeezing the Most Out of LLMs: The Interplay Between Efficiency and Performance . Abstract: Large language models (LLMs) continuously demonstrate surprising capabilities, which drive the spread of their potential to various domains and applications. Yet, inefficiencies in various components of the architecture and inference pipeline limit broader deployment of LLMs. The demanding nature of LLM inference can harm latency, throughput, and memory. Furthermore, underutilization of information can also artificially limit performance. In this talk, we take a close look at the model architecture, data, features, and hardware behavior to reveal emergent patterns and redundancy that provide clues to optimize inference efficiency and performance. Together, our methods push towards the compute-performance Pareto frontier for LLM inference. Lingjiao Chen . Stanford University . Ph.D. Student . Title: Economical AI Marketplaces: From Model Cascading to Compound AI Systems . Abstract: The paradigm of machine learning has shifted from training individual models to utilizing “AI as a Service” via APIs like GPT-5 and Gemini 3 Pro. While this democratizes access, it introduces significant challenges in cost and performance optimization. With thousands of available models and infinite combinations, how do we efficiently orchestrate these services? In this talk, I will present two frameworks that address this challenge at different levels of complexity. First, I will introduce FrugalGPT, a cascading framework for single-turn queries. By learning to route easy queries to cheaper models and only escalating hard queries to expensive ones, FrugalGPT matches the performance of top-tier models with up to 98% cost reduction. Second, I will discuss LLMSelector, which extends this optimization to compound AI systems. I will show that in these complex workflows, naively using the “best” model for every step is inefficient. LLMSelector uses a data-efficient optimization algorithm to assign the optimal model to each module, achieving substantial accuracy gains over baseline approaches. Yuko Kuroki . Intesa Sanpaolo AI Research . Research Scientist . Title: Sequential Learning under Uncertainty: Structure, Adaptivity, and Efficiency . Abstract: How can we make reliable decisions when data is limited, feedback is partial, and environments are uncertain? Many real-world decision-making problems involve complex and structured action spaces, yet only limited and noisy feedback is available. In this talk, I present a unified perspective on sequential learning under uncertainty through the lens of multi-armed bandits, achieving both statistical and computational efficiency by exploiting latent structure. First, we show how latent combinatorial structure can dramatically reduce the cost of exploration. We develop query-efficient methods for recovering clustered structures from noisy feedback. Second, we investigate adaptive algorithms for linear contextual bandits that achieve optimal performance in stochastic environments while remaining robust in adversarial settings – without prior knowledge of the regime. Finally, we connect these foundations to societal systems. We introduce a low-rank matrix bandit framework for optimizing opinion dynamics to mitigate polarization and disagreement in social networks. Looking ahead, my goal is to build a principled theory of adaptive exploration in complex systems and to translate these foundations into tools for data-driven discovery. Tianjiao Ding . University of Pennsylvania . Ph.D. Candidate . Title: Parsimonious Concept Engineering . Abstract: Large Language Models (LLMs) are being used for a wide variety of tasks. While they are capable of generating human-like responses, they can also produce undesirable output including potentially harmful information, racist or sexist language, and hallucinations. Alignment methods are designed to reduce such undesirable output, via techniques such as fine-tuning, prompt engineering, and representation engineering. However, existing methods face several challenges: some require costly fine-tuning for every alignment task; some do not adequately remove undesirable concepts, failing alignment; some remove benign concepts, lowering the linguistic capabilities of LLMs. To address these issues, we propose Parsimonious Concept Engineering (PaCE), a novel activation engineering framework for alignment. First, to sufficiently model the concepts, we construct a large-scale concept dictionary in the activation space, in which each atom corresponds to a semantic concept. Given any alignment task, we instruct a concept partitioner to efficiently annotate the concepts as benign or undesirable. Then, at inference time, we decompose the LLM activations along the concept dictionary via sparse coding, to accurately represent the activations as linear combinations of benign and undesirable components. By removing the latter ones from the activations, we reorient the behavior of the LLM towards the alignment goal. We conduct experiments on tasks such as response detoxification, faithfulness enhancement, and sentiment revising, and show that PaCE achieves state-of-the-art alignment performance while maintaining linguistic capabilities. Yuqing Wang . Johns Hopkins University . Postdoctoral Researcher . Title: Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime . Abstract: Data selection is crucial for data-driven decision-making, including foundation models, but beyond data quality and diversity, it is unclear whether other general quantitative principles can reliably improve complex tasks. In this talk, I will demonstrate that selecting more uniformly distributed data can improve training efficiency while enhancing performance. Specifically, we establish that more uniform (less biased) distribution leads to a larger minimum pairwise distance between data points, denoted by h_min, and prove that a smaller h_min can slow down the training dynamics of gradient descent (GD). Moreover, we theoretically show that the approximation error of neural networks decreases as h_min increases. Our analysis introduces a convergence framework for GD beyond the Neural Tangent Kernel (NTK) regime, applicable to a broad class of architectures, including transformers, without requiring Lipschitz smoothness. This framework further provides theoretical justification for the use of residual connection and function composition in deep neural architectures. In the end, I will show some comprehensive experiments, including supervised fine-tuning across various settings, different optimization strategies, model sizes, and training datasets. The results consistently demonstrate that selecting data by maximizing the minimum pairwise distance significantly accelerates training and achieves comparable or better performance across diverse datasets. Lu Yin . University of Surrey . Assistant Professor . Title: Not All Layers Are Equal: Criticality and Depth Balance in LLMs . Abstract: Large Language Models (LLMs) have achieved remarkable success across diverse tasks, from text completion and question answering to complex reasoning. However, their increasing scale introduces practical challenges for inference, fine-tuning, and training. This talk examines these challenges through a layerwise lens. First, we show that layers differ substantially in their contributions to overall model performance. We demonstrate how layerwise importance signals enable targeted pruning and more selective fine-tuning by concentrating updates on the most influential parts of the network. We then turn to depth imbalance, where shallow and deep layers contribute unevenly during and after pretraining. We analyze possible causes of this phenomenon and present practical remedies, including layerwise learning-rate and weight-decay schedules, as well as the normalization method, to encourage balanced contributions across the full depth of the model. Zhenyu Zhang . University of Texas at Austin . Ph.D. Student . Title: Democratizing LLM Training via Low-Rank Methods . Abstract: As Large Language Models (LLMs) continue to scale in size and capability, the cost and complexity of training – particularly memory consumption from optimizer states – have become critical bottlenecks. In this talk, we explore the evolution of low-rank optimization techniques for LLMs, tracing the progression from GaLore to APOLLO. GaLore introduces a memory-efficient training paradigm by applying low-rank projections to gradients and optimizer states, enabling the training of models with up to 7 billion parameters on consumer-grade GPUs such as the NVIDIA RTX 4090. Building on this foundation, APOLLO demonstrates the surprising effectiveness of rank-1 optimizer states with purely random projections, achieving SGD-level memory overhead while maintaining performance comparable to AdamW. This method brings substantial system-level improvements, including a 3x increase in throughput on 8xA100-80G GPUs and enhanced model scalability. Zhen Tan . Arizona State University . Ph.D. Student . Title: Fathoming the Unfathomable Foundation Models: From Algorithms to Scientific Discovery . Abstract: As foundation models become central to information systems, cybersecurity, and scientific decision-making, their opacity raises critical challenges for trust, accountability, and governance. While much prior work has focused on post-hoc explainability, my research shows that such approaches are intrinsically limited and can even obscure model failures. In this talk, I present a shift from explaining opaque systems to designing trustworthy and interpretable AI by construction. I will introduce diagnostic frameworks that reveal failures in explanation faithfulness and security, such as explanatory inversion and vulnerability to retrieval and communication attacks. I will then demonstrate how concept-based, human-centered model architectures enable glass-box reasoning, actionable interventions, and self-reflection for large language models (LLMs). I will conclude by demonstrating how these ideas translate into real-world impact across AI-driven cybersecurity, conversational agents, agricultural robotics, and neuroscience, and by outlining a vision for information-centric AI systems that are transparent, reliable, and aligned with human values. ",
+    "url": "/2026/rising_stars_awardees/#cpal-2026-rising-stars-awardees",
+    
+    "relUrl": "/rising_stars_awardees/#cpal-2026-rising-stars-awardees"
+  },"83": {
+    "doc": "Rising Stars Awardees",
+    "title": "Rising Stars Awardees",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/rising_stars_awardees/",
+    
+    "relUrl": "/rising_stars_awardees/"
+  },"84": {
+    "doc": "Call for Applications",
+    "title": "CPAL Rising Stars Award",
+    "content": "The Conference on Parsimony and Learning (CPAL) launches the Rising Stars Award program to highlight exceptional junior researchers at a critical inflection and starting point in their career: last-year PhD students, postdoctoral scholars, first-year tenure track faculty, or industry researcher within two years of graduation. CPAL is an annual research conference focused on addressing the parsimonious, low dimensional structures that prevail in machine learning, signal processing, optimization, and beyond. As in the last year, CPAL Rising Stars Award program will provide PhD students, postdocs, junior faculties and industry researchers the opportunity to plug into these networks, platforms, and opportunities. The program also aims to increase representation and diversity in this area by providing a platform and a supportive mentoring network to navigate academic careers. All graduate students and postdocs, including those who belong to groups underrepresented, are encouraged to apply, including but not limited to people of all racial, ethnic, geographic, and socioeconomic backgrounds, sexual orientations, genders, and persons with disabilities. Apply here, and see details below. ",
+    "url": "/2026/rising_stars_guidelines/#cpal-rising-stars-award",
+    
+    "relUrl": "/rising_stars_guidelines/#cpal-rising-stars-award"
+  },"85": {
+    "doc": "Call for Applications",
+    "title": "Key Dates",
+    "content": ". | Applications Due: December 15, 2025 | Notification Date: January 21st, 2026 | Conference: March 23–26, 2026 at Tübingen, Germany | . ",
+    "url": "/2026/rising_stars_guidelines/#key-dates",
+    
+    "relUrl": "/rising_stars_guidelines/#key-dates"
+  },"86": {
+    "doc": "Call for Applications",
+    "title": "Program Format",
+    "content": ". | Dedicated poster session for selected awardees | Panels (career development) | Roundtable dinners or 1-1 meetings with senior researchers | . ",
+    "url": "/2026/rising_stars_guidelines/#program-format",
+    
+    "relUrl": "/rising_stars_guidelines/#program-format"
+  },"87": {
+    "doc": "Call for Applications",
+    "title": "Application Requirements",
+    "content": "The application is available through Google Forms. | Name &amp; Contact | Resume/CV | Tentative Poster Title | Research statement outlining research goals, potential projects of interest, and long-term career goals, and commitment to creating a more diverse and inclusive scientific community (1 page, standard font at a size 11 or larger) | List names of 1-2 references with emails | . ",
+    "url": "/2026/rising_stars_guidelines/#application-requirements",
+    
+    "relUrl": "/rising_stars_guidelines/#application-requirements"
+  },"88": {
+    "doc": "Call for Applications",
+    "title": "Eligibility and Guidelines",
+    "content": ". | Applicants must be full time graduate students in their last year of obtaining a PhD, or current postdoctoral scholars/fellows, first-year tenure track faculty, or industry researchers within two years of graduation | We welcome applicants from a wide variety of fields and backgrounds: any eligible PhD or postdoc or junior faculty or junior industry researchers, who are engaging in addressing the parsimonious, low dimensional structures that prevail in machine learning, signal processing, optimization, systems, interdisciplinary applications and beyond are encouraged to apply. | Applicants from all institutions worldwide are encouraged to apply. | An applicant may only submit one application. | . ",
+    "url": "/2026/rising_stars_guidelines/#eligibility-and-guidelines",
+    
+    "relUrl": "/rising_stars_guidelines/#eligibility-and-guidelines"
+  },"89": {
+    "doc": "Call for Applications",
+    "title": "Review Criteria",
+    "content": "Proposals will be reviewed by the CPAL Rising Stars Program Committee based on research impact, academic progress (if applicable), career potential, and commitment to broadening participation. ",
+    "url": "/2026/rising_stars_guidelines/#review-criteria",
+    
+    "relUrl": "/rising_stars_guidelines/#review-criteria"
+  },"90": {
+    "doc": "Call for Applications",
+    "title": "Contact",
+    "content": "Please email tianlong@cs.unc.edu with questions. ",
+    "url": "/2026/rising_stars_guidelines/#contact",
+    
+    "relUrl": "/rising_stars_guidelines/#contact"
+  },"91": {
+    "doc": "Call for Applications",
+    "title": "Call for Applications",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/rising_stars_guidelines/",
+    
+    "relUrl": "/rising_stars_guidelines/"
+  },"92": {
+    "doc": "Rising Stars Presentations",
+    "title": "CPAL Rising Stars Presentation Sessions",
+    "content": " ",
+    "url": "/2026/rising_stars_presentations/#cpal-rising-stars-presentation-sessions",
+    
+    "relUrl": "/rising_stars_presentations/#cpal-rising-stars-presentation-sessions"
+  },"93": {
+    "doc": "Rising Stars Presentations",
+    "title": "Presentation Format",
+    "content": "Each awarded CPAL Rising Star will give a talk about their research in one of three sessions during the conference. Presentations are ten minutes in duration, with two minutes for Q&amp;A. The ordering of session numbers matches their chronological ordering, and presentations will be delivered in the order they are listed. See the full program for the precise time and location of each CPAL Rising Stars session. ",
+    "url": "/2026/rising_stars_presentations/#presentation-format",
+    
+    "relUrl": "/rising_stars_presentations/#presentation-format"
+  },"94": {
+    "doc": "Rising Stars Presentations",
+    "title": "Quick Links",
+    "content": ". | Rising Stars Talks I . | Time: Day 2 (Mar 24) – Tuesday – 12:30 PM to 1:30 PM | . | Rising Stars Talks II . | Time: Day 3 (Mar 25) – Wednesday – 12:30 PM to 1:30 PM | . | Rising Stars Talks III . | Time: Day 4 (Mar 26) – Thursday – 12:30 PM to 1:30 PM | . | . ",
+    "url": "/2026/rising_stars_presentations/#quick-links",
+    
+    "relUrl": "/rising_stars_presentations/#quick-links"
+  },"95": {
+    "doc": "Rising Stars Presentations",
+    "title": "Rising Stars Talks I",
+    "content": "Time: Day 2 (Mar 24) – Tuesday – 12:30 PM to 1:30 PM . Bhavya Vasudeva . University of Southern California . Ph.D. Candidate . Title: How Muon’s Spectral Design Benefits Generalization: A Study on Imbalanced Data . Abstract: The growing adoption of spectrum-aware matrix-valued optimizers such as Muon and Shampoo in deep learning motivates a systematic study of their generalization properties and, in particular, when they might outperform competitive algorithms. We approach this question by introducing appropriate simplifying abstractions as follows: First, we use imbalanced data as a testbed. Second, we study the canonical form of such optimizers, which is Spectral Gradient Descent (SpecGD) – each update step is UV^T where USV^T is the truncated SVD of the gradient. Third, within this framework we identify a canonical setting for which we precisely quantify when SpecGD outperforms vanilla Euclidean GD. For a Gaussian mixture data model and both linear and bilinear models, we show that unlike GD, which prioritizes learning dominant principal components of the data first, SpecGD learns all principal components of the data at equal rates. We demonstrate how this translates to a growing gap in class balanced loss favoring SpecGD early in training and further show that the gap remains consistent even when the GD counterpart uses adaptive step-sizes via normalization. By extending the analysis to deep linear models, we show that depth amplifies these effects. We empirically verify our theoretical findings on a variety of imbalanced datasets. Our experiments compare practical variants of spectral methods, like Muon and Shampoo, against their Euclidean counterparts and Adam. The results validate our findings that these spectral optimizers achieve superior generalization by promoting a more balanced learning of the data’s underlying components. Can Yaras . University of Michigan . Ph.D. Candidate . Title: Compressing Activations via Structured Matrices in Transformers . Abstract: Matrix multiplications between weights and activations dominate the computational cost of Transformers. Prior work primarily reduces this cost by compressing weights, whereas activation compression remains underexplored due to its online, input-dependent nature. We introduce a general framework for approximating activation matrices with structured matrices that admit fast matrix-vector multiplication, using efficient on-the-fly optimization. We demonstrate the effectiveness of this approach in the instance of attention activations with MonarchAttention, which has recently been adapted to speed up state-of-the-art video generation. Harry Dong . Carnegie Mellon University . Ph.D. Student . Title: Squeezing the Most Out of LLMs: The Interplay Between Efficiency and Performance . Abstract: Large language models (LLMs) continuously demonstrate surprising capabilities, which drive the spread of their potential to various domains and applications. Yet, inefficiencies in various components of the architecture and inference pipeline limit broader deployment of LLMs. The demanding nature of LLM inference can harm latency, throughput, and memory. Furthermore, underutilization of information can also artificially limit performance. In this talk, we take a close look at the model architecture, data, features, and hardware behavior to reveal emergent patterns and redundancy that provide clues to optimize inference efficiency and performance. Together, our methods push towards the compute-performance Pareto frontier for LLM inference. Lu Yin . University of Surrey . Assistant Professor . Title: Not All Layers Are Equal: Criticality and Depth Balance in LLMs . Abstract: Large Language Models (LLMs) have achieved remarkable success across diverse tasks, from text completion and question answering to complex reasoning. However, their increasing scale introduces practical challenges for inference, fine-tuning, and training. This talk examines these challenges through a layerwise lens. First, we show that layers differ substantially in their contributions to overall model performance. We demonstrate how layerwise importance signals enable targeted pruning and more selective fine-tuning by concentrating updates on the most influential parts of the network. We then turn to depth imbalance, where shallow and deep layers contribute unevenly during and after pretraining. We analyze possible causes of this phenomenon and present practical remedies, including layerwise learning-rate and weight-decay schedules, as well as the normalization method, to encourage balanced contributions across the full depth of the model. Zhenyu Zhang . University of Texas at Austin . Ph.D. Student . Title: Democratizing LLM Training via Low-Rank Methods (Online) . Abstract: As Large Language Models (LLMs) continue to scale in size and capability, the cost and complexity of training – particularly memory consumption from optimizer states – have become critical bottlenecks. In this talk, we explore the evolution of low-rank optimization techniques for LLMs, tracing the progression from GaLore to APOLLO. GaLore introduces a memory-efficient training paradigm by applying low-rank projections to gradients and optimizer states, enabling the training of models with up to 7 billion parameters on consumer-grade GPUs such as the NVIDIA RTX 4090. Building on this foundation, APOLLO demonstrates the surprising effectiveness of rank-1 optimizer states with purely random projections, achieving SGD-level memory overhead while maintaining performance comparable to AdamW. This method brings substantial system-level improvements, including a 3x increase in throughput on 8xA100-80G GPUs and enhanced model scalability. ",
+    "url": "/2026/rising_stars_presentations/#rising-stars-talks-i",
+    
+    "relUrl": "/rising_stars_presentations/#rising-stars-talks-i"
+  },"96": {
+    "doc": "Rising Stars Presentations",
+    "title": "Rising Stars Talks II",
+    "content": "Time: Day 3 (Mar 25) – Wednesday – 12:30 PM to 1:30 PM . Ang Li . University of Maryland . Assistant Professor . Title: Parsimony and Efficiency in Foundation Models: A Holistic Framework for Structural Analysis and Resource-Aware Serving (Online) . Abstract: The increasing overparameterization of foundation models necessitates a shift toward parsimonious architectures and resource-aware serving to enable universal deployment. This research establishes a holistic framework for efficiency by identifying structural redundancies and mitigating operational bottlenecks across the AI stack. We introduce a similarity-based metric to quantify module importance, revealing that “Attention Drop” – the strategic pruning of redundant attention layers – can streamline Transformers while preserving core functional performance. For Mixture of Experts (MoE) architectures, we propose a unified compression strategy integrating “Expert Trimming” of structured modules with “Expert Slimming” of individual experts. To enhance sparse inference efficiency, we address the “Straggler Effect” caused by imbalanced token routing through Capacity-Aware Inference, which regulates expert workloads via token dropping and rerouting. Finally, we demonstrate system-level parsimony through EdgeLoRA, a multi-tenant serving system that utilizes adaptive adapter selection and heterogeneous memory management to maximize efficiency on edge hardware. Collectively, these contributions provide a scientific foundation for the next generation of sustainable and hardware-aware intelligent systems. Chenyu You . Stony Brook University . Assistant Professor . Title: Towards Robust, Efficient, and Generalized Medical AI . Abstract: Artificial intelligence has advanced biomedical image analysis dramatically, yet reliable clinical deployment remains limited. A key reason is that current models do not fully leverage the parsimonious, low-dimensional structure underlying anatomy, physiology, and disease. Scarce labeled data hinder representation learning, distribution shifts break brittle invariances, and the absence of theoretical guarantees reduces trust in high-stakes decisions. My research addresses these challenges by developing robust, efficient, and generalized medical AI methods that extract compact structural representations, unify data-driven learning with mathematical principles, and build medical foundation models that transfer across populations, modalities, and institutions. The central aim of my research is to uncover and exploit intrinsic low-dimensional structure to achieve sample efficiency, computational efficiency, and reliable generalization in real clinical environments. Lingjiao Chen . Stanford University . Ph.D. Student . Title: Economical AI Marketplaces: From Model Cascading to Compound AI Systems . Abstract: The paradigm of machine learning has shifted from training individual models to utilizing “AI as a Service” via APIs like GPT-5 and Gemini 3 Pro. While this democratizes access, it introduces significant challenges in cost and performance optimization. With thousands of available models and infinite combinations, how do we efficiently orchestrate these services? In this talk, I will present two frameworks that address this challenge at different levels of complexity. First, I will introduce FrugalGPT, a cascading framework for single-turn queries. By learning to route easy queries to cheaper models and only escalating hard queries to expensive ones, FrugalGPT matches the performance of top-tier models with up to 98% cost reduction. Second, I will discuss LLMSelector, which extends this optimization to compound AI systems. I will show that in these complex workflows, naively using the “best” model for every step is inefficient. LLMSelector uses a data-efficient optimization algorithm to assign the optimal model to each module, achieving substantial accuracy gains over baseline approaches. Tianjiao Ding . University of Pennsylvania . Ph.D. Candidate . Title: Parsimonious Concept Engineering . Abstract: Large Language Models (LLMs) are being used for a wide variety of tasks. While they are capable of generating human-like responses, they can also produce undesirable output including potentially harmful information, racist or sexist language, and hallucinations. Alignment methods are designed to reduce such undesirable output, via techniques such as fine-tuning, prompt engineering, and representation engineering. However, existing methods face several challenges: some require costly fine-tuning for every alignment task; some do not adequately remove undesirable concepts, failing alignment; some remove benign concepts, lowering the linguistic capabilities of LLMs. To address these issues, we propose Parsimonious Concept Engineering (PaCE), a novel activation engineering framework for alignment. First, to sufficiently model the concepts, we construct a large-scale concept dictionary in the activation space, in which each atom corresponds to a semantic concept. Given any alignment task, we instruct a concept partitioner to efficiently annotate the concepts as benign or undesirable. Then, at inference time, we decompose the LLM activations along the concept dictionary via sparse coding, to accurately represent the activations as linear combinations of benign and undesirable components. By removing the latter ones from the activations, we reorient the behavior of the LLM towards the alignment goal. We conduct experiments on tasks such as response detoxification, faithfulness enhancement, and sentiment revising, and show that PaCE achieves state-of-the-art alignment performance while maintaining linguistic capabilities. ",
+    "url": "/2026/rising_stars_presentations/#rising-stars-talks-ii",
+    
+    "relUrl": "/rising_stars_presentations/#rising-stars-talks-ii"
+  },"97": {
+    "doc": "Rising Stars Presentations",
+    "title": "Rising Stars Talks III",
+    "content": "Time: Day 4 (Mar 26) – Thursday – 12:30 PM to 1:30 PM . Avrajit Ghosh . University of California, Berkeley . Postdoctoral Researcher . Title: A fundamental statistical limitation of Gradient Descent in learning sparse targets from hard labels (Online) . Abstract: The success of gradient descent in deep learning has often been attributed to a property called implicit regularization which enables finding “generalizing” solutions. Contrary to past works, we point out a statistical limitation of learning with gradient descent in the simplest but the most commonly occurring case. We study well-specified sparse logistic regression in the over-constrained regime, where the number of input-label samples (n) exceeds the dimension (d), and the learner has access only to hard discrete labels. In this setting, when gradient descent learns using a standard dot-product model between weights and inputs, it is provably suboptimal and incurs an excess risk that scales with the dimension (d). This limitation holds more broadly for a class of rotation-invariant algorithms, which includes deep neural networks with a fully connected first layer. In contrast, simple non-rotation-invariant parameterizations achieve substantially better statistical performance using early stopping, with only logarithmic dependence on the dimension. Our results highlight a limitation of the commonly celebrated implicit regularization of gradient descent and its failure to efficiently learn sparse targets from hard labels. Lingjing Kong . Carnegie Mellon University . Ph.D. Student . Title: Parsimony through Causality: Building Trustworthy and Interpretable AI (Online) . Abstract: Foundation models are rapidly becoming capable assistants for knowledge work, yet real deployment remains limited by three persistent gaps: brittle transfer under distribution shift, opaque internal reasoning, and coarse-grained controllability. I will argue that these gaps are best viewed as a structure problem: whether learning recovers the underlying mechanisms of the data-generating process rather than surface correlations. I use causal thinking as a practical lens for parsimony: separating what is invariant from what changes across environments, and identifying what can be intervened upon. First, I present a mechanism-learning approach to transfer, where models learn stable, reusable components from heterogeneous data and become controllable through interventions on learned factors. Second, I connect modern self-supervised objectives (e.g., masking and diffusion) to hierarchical latent-variable models that recover sparse, compositional concept structure even from seemingly unstructured data – yielding interpretable generative factors and enabling targeted edits at multiple levels of abstraction. Finally, I discuss when such structured representations support extrapolation to novel concept combinations, and sketch a compositional generation framework that improves prompt following beyond the training distribution. Yuko Kuroki . Intesa Sanpaolo AI Research . Research Scientist . Title: Sequential Learning under Uncertainty: Structure, Adaptivity, and Efficiency . Abstract: How can we make reliable decisions when data is limited, feedback is partial, and environments are uncertain? Many real-world decision-making problems involve complex and structured action spaces, yet only limited and noisy feedback is available. In this talk, I present a unified perspective on sequential learning under uncertainty through the lens of multi-armed bandits, achieving both statistical and computational efficiency by exploiting latent structure. First, we show how latent combinatorial structure can dramatically reduce the cost of exploration. We develop query-efficient methods for recovering clustered structures from noisy feedback. Second, we investigate adaptive algorithms for linear contextual bandits that achieve optimal performance in stochastic environments while remaining robust in adversarial settings – without prior knowledge of the regime. Finally, we connect these foundations to societal systems. We introduce a low-rank matrix bandit framework for optimizing opinion dynamics to mitigate polarization and disagreement in social networks. Looking ahead, my goal is to build a principled theory of adaptive exploration in complex systems and to translate these foundations into tools for data-driven discovery. Yuqing Wang . Johns Hopkins University . Postdoctoral Researcher . Title: Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime (Online) . Abstract: Data selection is crucial for data-driven decision-making, including foundation models, but beyond data quality and diversity, it is unclear whether other general quantitative principles can reliably improve complex tasks. In this talk, I will demonstrate that selecting more uniformly distributed data can improve training efficiency while enhancing performance. Specifically, we establish that more uniform (less biased) distribution leads to a larger minimum pairwise distance between data points, denoted by h_min, and prove that a smaller h_min can slow down the training dynamics of gradient descent (GD). Moreover, we theoretically show that the approximation error of neural networks decreases as h_min increases. Our analysis introduces a convergence framework for GD beyond the Neural Tangent Kernel (NTK) regime, applicable to a broad class of architectures, including transformers, without requiring Lipschitz smoothness. This framework further provides theoretical justification for the use of residual connection and function composition in deep neural architectures. In the end, I will show some comprehensive experiments, including supervised fine-tuning across various settings, different optimization strategies, model sizes, and training datasets. The results consistently demonstrate that selecting data by maximizing the minimum pairwise distance significantly accelerates training and achieves comparable or better performance across diverse datasets. Zhen Tan . Arizona State University . Ph.D. Student . Title: Fathoming the Unfathomable Foundation Models: From Algorithms to Scientific Discovery . Abstract: As foundation models become central to information systems, cybersecurity, and scientific decision-making, their opacity raises critical challenges for trust, accountability, and governance. While much prior work has focused on post-hoc explainability, my research shows that such approaches are intrinsically limited and can even obscure model failures. In this talk, I present a shift from explaining opaque systems to designing trustworthy and interpretable AI by construction. I will introduce diagnostic frameworks that reveal failures in explanation faithfulness and security, such as explanatory inversion and vulnerability to retrieval and communication attacks. I will then demonstrate how concept-based, human-centered model architectures enable glass-box reasoning, actionable interventions, and self-reflection for large language models (LLMs). I will conclude by demonstrating how these ideas translate into real-world impact across AI-driven cybersecurity, conversational agents, agricultural robotics, and neuroscience, and by outlining a vision for information-centric AI systems that are transparent, reliable, and aligned with human values. ",
+    "url": "/2026/rising_stars_presentations/#rising-stars-talks-iii",
+    
+    "relUrl": "/rising_stars_presentations/#rising-stars-talks-iii"
+  },"98": {
+    "doc": "Rising Stars Presentations",
+    "title": "Rising Stars Presentations",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/rising_stars_presentations/",
+    
+    "relUrl": "/rising_stars_presentations/"
+  },"99": {
+    "doc": "Keynote Speakers",
+    "title": "Keynote Speakers",
+    "content": "Clicking a speaker’s photo will jump to their talk information below. <!-- ",
+    "url": "/2026/speakers/#keynote-speakers",
+    
+    "relUrl": "/speakers/#keynote-speakers"
+  },"100": {
+    "doc": "Keynote Speakers",
+    "title": "Confirmed Distinguished Speakers",
+    "content": "--> Francis Bach . INRIA - Ecole Normale Superieure . Matthias Bethge . University of Tübingen . Niao He . ETH Zurich . Andreas Krause . ETH Zurich . Yingyu Liang . University of Hong Kong, University of Wisconsin-Madison . Bernhard Scholkopf . Max Planck Institute for Intelligent Systems / ELLIS Institute Tübingen . Taiji Suzuki . University of Tokyo / RIKEN AIP . Jared Tanner . University of Oxford . Leena Chennuru Vankadara . University College London . Fanny Yang . ETH Zurich . ",
+    "url": "/2026/speakers/",
+    
+    "relUrl": "/speakers/"
+  },"101": {
+    "doc": "Keynote Speakers",
+    "title": "Talk Details",
+    "content": "Francis Bach . INRIA - Ecole Normale Superieure . Title: Recent advances in uncertainty quantification: anytime guarantees and multivariate predictions . Time and Location: Day 3, 2:30 PM, MPH Lecture Hall, Max-Planck-Ring 6 . Abstract . Quantifying uncertainty in statistics and machine learning is crucial, but challenging in high-dimensional prediction problems. Probabilisitic calibration and conformal prediction have emerged as key practical theoretically well motivated frameworks. In this talk I will present recent advances that allow greater flexibility in their applications, in terms of anytime guarantees and applications in multivariate prediction problems beyond univariate regression and binary classification. Matthias Bethge . University of Tübingen . Title: Designing Frontier AI Institutions as Institutional Learning Machines . Time and Location: Day 3, 9:00 AM, MPH Lecture Hall, Max-Planck-Ring 6 . Abstract . Advances in AI are rapidly reducing transaction costs, enabling continuous, large-scale interaction data and closed-loop optimization in real-world systems. A hallmark of frontier AI is its close symbiosis with business models and institutional data processing that optimize objectives derived from user feedback. In institutions such as firms, markets, education, and governance, objectives are traditionally implicit—encoded in laws, organizational structures, and incentive systems. As these systems become increasingly digital, they can be modeled as institutional learning machines, where inputs, outputs, and feedback signals become observable and programmable with vanishing transaction costs. Building on the transition to the post-dataset era, this perspective introduces a new level of meta-adaptivity at the level of objectives, opening the door to explicit and adaptive institutional design beyond fixed and opaque objectives. In this talk, I illustrate this perspective through the AIS project, an AI-based education platform that treats the school system itself as a learning system. By enabling continuous, data-driven optimization of curricula and learning processes, AIS provides a concrete example of how institutional learning machines can be built in practice. From this perspective, the central challenge shifts from optimizing models under a given objective to designing the learning signals, feedback loops, and data access mechanisms that govern how objectives evolve—particularly in markets, where demand acts as a primary learning signal. The value proposition of institutional machine learning thus spans both the design of frontier AI companies and the reframing of policy debates—such as Europe’s search for its role in the AI race—into a well-defined research agenda at the intersection of machine learning, mechanism design, and digital infrastructure. More fundamentally, it recasts frontier AI debates on social acceptance, antitrust, and data silos as a technological design problem: how institutions learn, and who controls that process to maximize public rather than privately concentrated value. Niao He . ETH Zurich . Title: From Learning Dynamics to Minima Selection—and Back . Time and Location: Day 4, 9:00 AM, MPH Lecture Hall, Max-Planck-Ring 6 . Abstract . Deep learning operates in highly overparameterized, nonconvex regimes where the loss landscape often contains many global minimizers forming connected manifolds. In such settings, optimization does not simply find a minimizer. Empirically, even after training error reaches zero, test performance often continues to improve, suggesting that learning dynamics keep evolving within the manifold of solutions. This raises a fundamental question: which minima do learning algorithms select? More ambitiously, can we steer learning dynamics toward desirable minima? In this talk, I will present recent results that shed light on both implicit and active minima selection, highlighting the roles played by optimization dynamics (first- and zeroth-order methods), stochastic noise, and the geometry of the solution manifold. Andreas Krause . ETH Zurich . Title: Learning at Test Time: Foundations and Agents . Time and Location: Day 4, 10:30 AM, MPH Lecture Hall, Max-Planck-Ring 6 . Abstract . Test-time training (TTT) is an emerging paradigm for adapting large pre-trained foundation models to specific instances at inference time. Instead of treating the model as fixed at test time, TTT performs a small number of gradient updates using data related to the test instance. Empirical studies have shown that this simple idea can significantly improve performance across a wide range of applications. In this talk, I will present our recent work aimed at understanding why test-time training works, even when test instances are in-distribution. I will also present methods for actively selecting informative data for TTT, and recent efforts to enable reinforcement learning agents to adapt at test time when solving difficult reasoning tasks. Yingyu Liang . University of Hong Kong, University of Wisconsin-Madison . Title: A Tangram Theory of Generalization: Rethinking Machine Learning via the Lens of Composition . Time and Location: Day 2, 9:00 AM, MPH Lecture Hall, Max-Planck-Ring 6 . Abstract . Modern machine learning models display abilities that exceed the assumptions of classical statistical learning, particularly their capacity to solve test-time tasks far beyond those seen during training—an ability widely viewed as central to progress toward AGI. Such phenomena call for new theoretical frameworks. This talk presents a perspective based on composition: the idea that models generalize by recombining learned skills to address novel, more complex tasks. Empirical evidence and preliminary theoretical results will be provided to support this viewpoint, aiming to motivate further investigation into this tangram theory of generalization. Bernhard Scholkopf . Max Planck Institute for Intelligent Systems / ELLIS Institute Tübingen . Title: Causal Representations, World Models and Digital Twins . Time and Location: Day 4, 4:00 PM, MPH Lecture Hall, Max-Planck-Ring 6 . Abstract . Research on understanding and building artificially intelligent systems has moved from symbolic approaches to statistical learning, and is now beginning to study interventional models relying on concepts of causality. Some of the hard open problems of machine learning and AI are intrinsically related to causality, and progress may require advances in our understanding of how to model and infer causality from data, as well as conceptual progress on what constitutes a causal representation and a causal world model. I will present basic concepts and thoughts, as well some applications to astronomy. Taiji Suzuki . University of Tokyo / RIKEN AIP . Title: Feature learning theories for test time inference . Time and Location: Day 2, 10:30 AM, MPH Lecture Hall, Max-Planck-Ring 6 . Abstract . Feature learning is a fundamental advantage of deep foundation models, including Transformers. Specifically, the quality of the features acquired during the pre-training stage is crucially important for effective test-time inference. While acquiring irrelevant features can severely degrade performance, learning robust representations can enable strong out-of-distribution (OOD) generalization. In this talk, I will explore this phenomenon through the lenses of associative recall and in-context learning. In the first half, I will focus on associative recall, demonstrating that training data diversity allows Transformers to acquire useful features that generalize to OOD test data. Furthermore, I will show that Transformers can handle infinite-length contexts in nonlinear associative recall problems to achieve a minimax optimal rate. In the second half, I will discuss in-context learning from a feature learning perspective. I will demonstrate that nonlinear feature learning can occur even at test time without gradient descent. Finally, I will show how applying test-time training can further improve performance while requiring fewer instructions. Jared Tanner . University of Oxford . Title: Deep neural network initialisation: Nonlinear activations impact on the Gaussian process . Time and Location: Day 2, 2:30 PM, MPH Lecture Hall, Max-Planck-Ring 6 . Abstract . Randomly initialised deep neural networks are known to generate a Gaussian process for their pre-activation intermediate layers. We will review this line of research with extensions to deep networks having structured random entries such as block-sparse or low-rank weight matrices. We will then discuss how the choice of nonlinear activations impacts the evolution of the Gaussian process. Specifically we will discuss why sparsifying nonlinear activations such as soft thresholding are unstable, we will show conditions to overcome such issues, and we will show how increasing the variance of the hidden layer Gaussian process can improve training instability for sparsifying activations. This work is joint with Ilan Price (DeepMind), and from Oxford: Alireza Naderi, Thiziri Nait Saada, and Emily Dent. Leena Chennuru Vankadara . University College London . Title: Towards a theory of scaling in deep learning . Time and Location: Day 4, 2:30 PM, MPH Lecture Hall, Max-Planck-Ring 6 . Abstract . Scale plays a central role in modern deep learning, where increasing model size, data, and compute often produces regular improvements in performance, but can also bring models into qualitatively different regimes. Yet, these gains are not determined by size alone: whether larger models perform well depends crucially on how models and training procedures are scaled. In this talk, I will discuss scaling theory as a principled framework for studying these questions. I will focus on scaling limits as a natural lens for large-scale learning, showing how they help us derive principled scaling rules while shedding light on the empirical behavior of practical, finite-width networks. Fanny Yang . ETH Zurich . Title: On the sample complexity of semi-supervised multi-objective learning . Time and Location: Day 3, 10:30 AM, MPH Lecture Hall, Max-Planck-Ring 6 . Abstract . In multi-objective learning (MOL), several possibly competing prediction tasks must be solved jointly by a single model. Achieving good trade-offs may require a model class G with larger capacity than what is necessary for solving the individual tasks. This, in turn, increases the statistical cost, as reflected in known MOL bounds that depend on the complexity of G. We show that this cost is unavoidable for some losses, even in an idealized semi-supervised setting, where the learner has access to the Bayes-optimal solutions for the individual tasks as well as the marginal distributions over the covariates. On the other hand, for objectives defined with Bregman losses, we prove that the complexity of G may come into play only in terms of unlabeled data. Concretely, we establish sample complexity upper bounds, showing precisely when and how unlabeled data can significantly alleviate the need for labeled data. These rates are achieved by a simple, semi-supervised algorithm via pseudo-labeling. ",
+    "url": "/2026/speakers/#talk-details",
+    
+    "relUrl": "/speakers/#talk-details"
+  },"102": {
+    "doc": "Keynote Speakers",
+    "title": "Keynote Speakers",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/speakers/",
+    
+    "relUrl": "/speakers/"
+  },"103": {
+    "doc": "Sponsors",
+    "title": " Conference Hosts ",
+    "content": " ",
+    "url": "/2026/sponsors/",
+    
+    "relUrl": "/sponsors/"
+  },"104": {
+    "doc": "Sponsors",
+    "title": " Conference Sponsors ",
+    "content": " ",
+    "url": "/2026/sponsors/",
+    
+    "relUrl": "/sponsors/"
+  },"105": {
+    "doc": "Sponsors",
+    "title": "Diamond Sponsor",
+    "content": " ",
+    "url": "/2026/sponsors/",
+    
+    "relUrl": "/sponsors/"
+  },"106": {
+    "doc": "Sponsors",
+    "title": "Silver Sponsor",
+    "content": " ",
+    "url": "/2026/sponsors/",
+    
+    "relUrl": "/sponsors/"
+  },"107": {
+    "doc": "Sponsors",
+    "title": "Bronze Sponsor",
+    "content": " ",
+    "url": "/2026/sponsors/",
+    
+    "relUrl": "/sponsors/"
+  },"108": {
+    "doc": "Sponsors",
+    "title": "Sponsors",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/sponsors/",
+    
+    "relUrl": "/sponsors/"
+  },"109": {
+    "doc": "Sponsorship Opportunities",
+    "title": " Conference Hosts ",
+    "content": " ",
+    "url": "/2026/sponsorship_opportunities/",
+    
+    "relUrl": "/sponsorship_opportunities/"
+  },"110": {
+    "doc": "Sponsorship Opportunities",
+    "title": " Conference Sponsors ",
+    "content": " ",
+    "url": "/2026/sponsorship_opportunities/",
+    
+    "relUrl": "/sponsorship_opportunities/"
+  },"111": {
+    "doc": "Sponsorship Opportunities",
+    "title": "Diamond Sponsor",
+    "content": " ",
+    "url": "/2026/sponsorship_opportunities/",
+    
+    "relUrl": "/sponsorship_opportunities/"
+  },"112": {
+    "doc": "Sponsorship Opportunities",
+    "title": "Silver Sponsor",
+    "content": " ",
+    "url": "/2026/sponsorship_opportunities/",
+    
+    "relUrl": "/sponsorship_opportunities/"
+  },"113": {
+    "doc": "Sponsorship Opportunities",
+    "title": "Bronze Sponsor",
+    "content": "--> ",
+    "url": "/2026/sponsorship_opportunities/",
+    
+    "relUrl": "/sponsorship_opportunities/"
+  },"114": {
+    "doc": "Sponsorship Opportunities",
+    "title": "CPAL 2025 Sponsorship Opportunities",
+    "content": "The 2nd Conference on Parsimony and Learning (CPAL), chaired by Professors Emmanuel Candès and Yi Ma, will take place at Stanford University from March 24–27, 2025. CPAL grew from the SlowDNN workshop, which ran successfully for three years (2021-2023) and evolved into the inaugural CPAL 2024 held in Hong Kong. CPAL 2024 brought together over 200 elite researchers specializing in sparsity and efficient AI for four days of in-depth, in-person interactions. The conference also attracted significant sponsorship support from both international and local partners: https://2024.cpal.cc/sponsors/ . CPAL 2025 aims to foster collaboration and share cutting-edge research in sparse and low-dimensional structure modeling in deep learning, bridging theory, algorithms, and practical applications. We expect experts from machine learning, applied mathematics, signal processing, optimization, systems, and natural sciences like physics and neuroscience to join us. Located on Stanford’s campus in the heart of Silicon Valley, CPAL 2025 is poised to attract a high-caliber audience and create broader, more impactful connections. Given this exciting opportunity, we invite interested parties to help sponsor CPAL 2025. We believe this presents a valuable opportunity to engage with leading minds in these fields. Additionally, sponsoring CPAL offers various opportunities to connect with conference participants and showcase leadership in advancing AI research. ",
+    "url": "/2026/sponsorship_opportunities/#cpal-2025-sponsorship-opportunities",
+    
+    "relUrl": "/sponsorship_opportunities/#cpal-2025-sponsorship-opportunities"
+  },"115": {
+    "doc": "Sponsorship Opportunities",
+    "title": "Sponsorship Tiers",
+    "content": "We offer the following sponsorship tiers for CPAL 2025: . Silver Tier - $5,000 . | Display the company logo on our website and during live sessions | Access to the list of conference registrants, along with their CVs (with attendee consent) | 2 full registrations for key personnel | . Gold Tier - $10,000 . | Display the company logo on our website and during live sessions | Access to the list of conference registrants, along with their CVs (with attendee consent) | Opportunity to display a short company advertisement between sessions | Exhibit space during the main conference | 4 full registrations for key personnel | . Diamond Tier - $15,000 . | Display the company logo on our website and during live sessions | Access to the list of conference registrants, along with their CVs (with attendee consent) | Opportunity to give a keynote presentation | Opportunity to display a short company advertisement between sessions | Exhibit space during the main conference | 8 full registrations for key personnel | Exclusive in-person interactions with participants interested in recruitment, arranged during the conference’s social gatherings | . ",
+    "url": "/2026/sponsorship_opportunities/#sponsorship-tiers",
+    
+    "relUrl": "/sponsorship_opportunities/#sponsorship-tiers"
+  },"116": {
+    "doc": "Sponsorship Opportunities",
+    "title": "Sponsorship Opportunities",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen <!-- ",
+    "url": "/2026/sponsorship_opportunities/",
+    
+    "relUrl": "/sponsorship_opportunities/"
+  },"117": {
+    "doc": "Spotlight Track",
+    "title": "Spotlight Track: Accepted Papers",
+    "content": "Accepted Spotlight Track papers are presented as posters at CPAL 2026. See the full program for the precise time and location of each poster session. REAP the Experts: Why Pruning Prevails for One-Shot MoE compression . Mike Lasby, Ivan Lazarevich, Nish Sinnadurai, Sean Lie, Yani Ioannou, Vithursan Thangarasa . Keywords: mixture-of-experts, moe, compresson, expert pruning, expert merging, merging, pruning, LLM, evaluation . Stackelberg Control in Combinatorial Congestion Games without Differentiating Through Equilibria . Saeed Masiha, Sepehr Elahi, Negar Kiyavash, Patrick Thiran . Keywords: Stackelberg games, zeroth-order optimization, congestion games, zero-suppressed decision diagrams (ZDDs), compact combinatorial representations . Dimension-free error estimate for diffusion model and optimal scheduling . Valentin De Bortoli, Romuald Elie, Anna Kazeykina, Zhenjie Ren, Jiacheng Zhang . Keywords: diffusion model, score-matching, statistical error, optimal scheduling . Adversarial generalization of unfolding (model-based) networks . Vicky Kouni . Keywords: unfolding networks, adversarial generalization, adversarial Rademacher complexity . Dynamic Sparse Training versus Dense Training: The Unexpected Winner in Image Corruption Robustness . Boqian Wu, Qiao Xiao, Shunxin Wang, Nicola Strisciuglio, Mykola Pechenizkiy, Maurice van Keulen, Decebal Constantin Mocanu, Elena Mocanu . Keywords: Dynamic Sparse Training, Image Corruption Robustness . Mask in the Mirror: Implicit Sparsification . Tom Jacobs, Rebekka Burkholz . Keywords: Sparse Training, Continuous sparsification, Implicit bias, Mirror flow, Time-dependent Bregman function, Regularization, Rich regime . E2ENet: Dynamic Sparse Feature Fusion for Accurate and Efficient 3D Medical Image Segmentation . Boqian Wu, Qiao Xiao, Shiwei Liu, Lu Yin, Mykola Pechenizkiy, Decebal Constantin Mocanu, Maurice van Keulen, Elena Mocanu . Keywords: Medical Image Segmentation, Sparse Training, Feature Fusion . HyperINR: Ensuring Semantics in Weights with Implicit Function Theorem . Tianming Qiu, Christos Sonis, Hao Shen . Keywords: Implicit Function Theorem, Semantics in Weights, Weight Space Learning, Implicit Neural Representations, Hypernetworks . GNNs Getting ComFy: Community and Feature Similarity Guided Rewiring . Celia Rubio-Madrigal, Adarsh Jamadandi, Rebekka Burkholz . Keywords: graph neural networks, over-squashing, graph rewiring, community structure, homophily, feature similarity . The Graphon Limit Hypothesis: Understanding Neural Network Pruning via Infinite Width Analysis . Hoang Pham, The-Anh Ta, Tom Jacobs, Rebekka Burkholz, Long Tran-Thanh . Keywords: Pruning Network, Graphon, Neural Tangent Kernel . LIFT the Veil for the Truth: Principal Weights Emerge after Rank Reduction for Reasoning-Focused Supervised Fine-Tuning . Zihang Liu, Tianyu Pang, Oleg Balabanov, Chaoqun Yang, Tianjin Huang, Lu Yin, Yaoqing Yang, Shiwei Liu . Keywords: Reasoning, Sparse Fine-tuning, Low-Rank Approximation, Memory Efficiency . Beyond Scores: Proximal Diffusion Models . Zhenghan Fang, Mateo Diaz Diaz, Sam Buchanan, Jeremias Sulam . Keywords: Generative models, Diffusion models, Proximal operators, Backward discretization . Computational Algebra with Attention: Transformer Oracles for Border Basis Algorithms . Hiroshi Kera, Nico Pelleriti, Yuki Ishihara, Max Zimmer, Sebastian Pokutta . Keywords: Polynomial System Solving, Border Bases, Transformer, Computational Algebra, AI4Science, AI4Math . Dual-Kernel Adapter: Expanding Spatial Horizons for Data-Constrained Medical Image Analysis . Ziquan Zhu, Hanruo Zhu, Si-Yuan Lu, Xiang Li, Yanda Meng, Yunxiao Zhang, Gaojie Jin, Lu Yin, Lijie Hu, Di Wang, Lu Liu, Tianjin Huang . Keywords: Adapter; Medical Image Analysis; Data-Limited Training; . Ringleader ASGD: The First Asynchronous SGD with Optimal Time Complexity under Data Heterogeneity . Arto Maranjyan, Peter Richtárik . Keywords: asynchronous SGD, data heterogeneity, optimal time complexity, nonconvex optimization, parallel methods, stochastic optimization . The Curse of Depth in Large Language Models . Wenfang Sun, Xinyuan Song, Pengxiang Li, Lu Yin, Yefeng Zheng, Shiwei Liu . Keywords: Curse of Depth, Large Language Models, Pre-Layer Normalization . PoLAR: Polar-Decomposed Low-Rank Adapter Representation . Kai Lion, Liang Zhang, Bingcong Li, Niao He . Keywords: low-rank adaptation, architecture-optimizer co-design, large language models, lora, low-rank adapter, fine-tuning . Sign-In to the Lottery: Reparameterized Sparse Training . Advait Gadhikar, Tom Jacobs, Chao Zhou, Rebekka Burkholz . Keywords: pruning at initialization, sparse training, lottery ticket hypothesis, mirror flow, reparameterization, sign flips . Revisiting Glorot Initialization for Long-Range Linear Recurrences . Noga Bar, Mariia Seleznova, Yotam Alexander, Gitta Kutyniok, Raja Giryes . Keywords: Recurrent Networks, Initialization, Signal Propagation, Joint Scaling Limits . Leave it to the Specialist: Repair Sparse LLMs with Sparse Fine-Tuning via Sparsity Evolution . Qiao Xiao, Alan Ansell, Boqian Wu, Lu Yin, Mykola Pechenizkiy, Shiwei Liu, Decebal Constantin Mocanu . Keywords: Large Language Models, Fine-Tuning, Sparse Training . Johnson-Lindenstrauss Lemma Beyond Euclidean Geometry . Chengyuan Deng, Jie Gao, Kevin Lu, Feng Luo, Cheng Xin . Keywords: Dimension Reduction, Geometry . AdaBoost.SDM: Similarity and dissimilarity-based manifold regularized adaptive boosting algorithm . Azamat Mukhamediya, Amin Zollanvari . Keywords: Ensemble learning, Adaptive boosting, Manifold regularization . Hyperbolic Aware Minimization: Implicit Bias for Sparsity . Tom Jacobs, Advait Gadhikar, Celia Rubio-Madrigal, Rebekka Burkholz . Keywords: Sparsity, Implicit bias, Sign flip, Exponential update, Training dynamics, Bregman function . Connectivity determines the capability of sparse neural network quantum states . Brandon Barton, Juan Felipe Carrasquilla Alvarez, Christopher Robert Roth, Agnes Valenti . Keywords: Neural network quantum states, Pruning, Lottery ticket hypothesis . LOST: Low-rank and Sparse Pre-training for Large Language Models . Jiaxi Li, Lu Yin, Li Shen, Jinjin Xu, Adarsh Kappiyath, LiWu Xu, Tianjin Huang, Wenwu Wang, Shiwei Liu, Xilu Wang . Keywords: Large language models, Low-rank, Sparse, Singular value decomposition, Pre-training . Mirror, Mirror of the Flow: How Does Regularization Shape Implicit Bias? . Tom Jacobs, Chao Zhou, Rebekka Burkholz . Keywords: Implicit bias, explicit regularization, weight decay, matrix sensing, LoRA, attention, mirror flow, time-dependent Legendre function . Fixed Aggregation Features Can Rival GNNs . Celia Rubio-Madrigal, Rebekka Burkholz . Keywords: deep learning, graph neural networks, node classification, kolmogorov-arnold representation, tabular learning, non-trainable aggregation . FOSL: A Foldable Sparse-and-Low-Rank Method for Efficient LLM Pre-training . Dong Wang, Francesco Corti, Yun Cheng, Olga Saukh . Keywords: efficient pre-training, low-rank adaption, structured sparsity, large language models, model folding . SparseOpt: Addressing Normalization-induced Gradient Skew in Sparse Training . Mohammed Adnan, Rohan Jain, Tom Jacobs, Ekansh Sharma, Rahul G Krishnan, Rebekka Burkholz, Yani Ioannou . Keywords: sparse training, dynamic sparse training, training dynamics, normalization layers . Stable Minima of ReLU Neural Networks Suffer from the Curse of Dimensionality: The Neural Shattering Phenomenon . Tongtong Liang, Dan Qiao, Yu-Xiang Wang, Rahul Parhi . Keywords: Generalization bound, minima stability, gradient descent, large learning rate, ReLU neural network, minimax rate . Beyond the Ideal: Analyzing the Inexact Muon Update . Egor Shulgin, Sultan AlRashed, Francesco Orabona, Peter Richtárik . Keywords: Optimization, Muon . Pay Attention to Small Weights . Chao Zhou, Tom Jacobs, Advait Gadhikar, Rebekka Burkholz . Keywords: large model, finetuning, effciency, catastrophic forgetting . SALAAD: Sparse and Low-Rank Adaptation via ADMM for Large Language Model Inference . Hao Ma, Melis Ilayda Bal, Liang Zhang, Bingcong Li, Niao He, Melanie Zeilinger, Michael Muehlebach . Keywords: Sparse and Low-Rank Learning, Large Language Models, Structured Optimization, Model Compression, Elastic Inference . Kernel von Mises Formula of the Influence Function . Yaroslav Mukhin . Keywords: Influence function, Fisher-Rao gradient, first variation, tangential interpolation, semiparametric estimation, distributional robustness, kernel PCA, Mercer kernel . ",
+    "url": "/2026/spotlight_track/#spotlight-track-accepted-papers",
+    
+    "relUrl": "/spotlight_track/#spotlight-track-accepted-papers"
+  },"118": {
+    "doc": "Spotlight Track",
+    "title": "Spotlight Track",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/spotlight_track/",
+    
+    "relUrl": "/spotlight_track/"
+  },"119": {
+    "doc": "Subject Areas",
+    "title": "Subject Areas",
+    "content": " ",
+    "url": "/2026/subject_areas/#subject-areas",
+    
+    "relUrl": "/subject_areas/#subject-areas"
+  },"120": {
+    "doc": "Subject Areas",
+    "title": "Theory &amp; Foundations",
+    "content": ". | Theories for sparse coding, structured sparsity, subspace learning, low-dimensional manifolds, and general low-dimensional structures. | Dictionary learning and representation learning for low-dimensional structures and their connections to deep learning theory. | Equivariance and invariance modeling. | Theoretical neuroscience and cognitive science foundation for parsimony, and biologically inspired computational mechanisms. | . ",
+    "url": "/2026/subject_areas/#theory--foundations",
+    
+    "relUrl": "/subject_areas/#theory--foundations"
+  },"121": {
+    "doc": "Subject Areas",
+    "title": "Optimization &amp; Algorithms",
+    "content": ". | Optimization, robustness, and generalization methods for learning compact and structured representations. | Interpretable and efficient deep architectures (e.g., based on unrolled optimization). | Data-efficient and computation-efficient training and inference. | Adaptive and robust learning and inference algorithms. | Distributed, networked, or federated learning at scale. | Other nonlinear dimension-reduction and representation-learning methods. | . ",
+    "url": "/2026/subject_areas/#optimization--algorithms",
+    
+    "relUrl": "/subject_areas/#optimization--algorithms"
+  },"122": {
+    "doc": "Subject Areas",
+    "title": "Data, Systems &amp; Applications",
+    "content": ". | Domain-specific datasets, benchmarks, and evaluation metrics. | Parsimonious and structured representation learning from data. | Inverse problems that benefit from parsimonious priors. | Hardware and system co-design for parsimonious learning algorithms. | Parsimonious learning in intelligent systems that integrate perception-action cycles. | Applications in science, engineering, medicine, and social sciences. | . The above is intended as a high-level overview of CPAL’s focus and by no means exclusive. If you doubt that your paper fits the venue, feel free to contact the program chairs via email at pcs@cpal.cc. ",
+    "url": "/2026/subject_areas/#data-systems--applications",
+    
+    "relUrl": "/subject_areas/#data-systems--applications"
+  },"123": {
+    "doc": "Subject Areas",
+    "title": "Subject Areas",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/subject_areas/",
+    
+    "relUrl": "/subject_areas/"
+  },"124": {
+    "doc": "Submission Tracks",
+    "title": "Deadlines for Submission",
+    "content": "All deadlines can be found on the deadlines page. ",
+    "url": "/2026/tracks/#deadlines-for-submission",
+    
+    "relUrl": "/tracks/#deadlines-for-submission"
+  },"125": {
+    "doc": "Submission Tracks",
+    "title": "Submission Tracks and Review Process",
+    "content": "CPAL has two submission tracks: . | Proceedings track (archival) | “Recent spotlight” track (non-archival) | . Submissions to the Proceedings track are to be prepared using the CPAL LaTeX style files, available as a zip archive or as an Overleaf template. CPAL OpenReview Submission Portal . ",
+    "url": "/2026/tracks/#submission-tracks-and-review-process",
+    
+    "relUrl": "/tracks/#submission-tracks-and-review-process"
+  },"126": {
+    "doc": "Submission Tracks",
+    "title": "Proceedings Track  (archival)",
+    "content": "The submission and review stage will be double-blind. We use OpenReview to host papers and record discussions between authors and reviewers. Before the end of the Authors-Reviewers Discussion Stage, authors can participate in the discussion as well as update their submission at any time. After that, there will be an internal discussion period amongst reviewers and ACs with the aim of summarizing the review process, after which the final decisions are made by ACs. After the notification deadline, accepted and opted-in rejected papers will be made public and open for non-anonymous public commenting. Their anonymous reviews, meta-reviews, author responses and reviewer responses will also be made public. Authors of rejected papers will have two weeks after the notification deadline to opt in to make their de-anonymized rejected papers public in OpenReview. Submissions that are substantially similar to papers previously published, or submitted in parallel to other peer-reviewed venues with proceedings or journals may not be submitted to the Proceedings Track. Papers previously presented at workshops are permitted, so long as they did not appear in a conference proceedings (e.g., CVPRW proceedings), a journal or a book. The existence of non-anonymous preprints (on arXiv or other online repositories, personal websites, social media) will not result in rejection. Authors may submit anonymized work to CPAL that is already available as a preprint (e.g., on arXiv) without citing it. Accepted papers will be published in the Proceedings for Machine Learning Research (PMLR). Full proceedings papers can have up to nine pages with unlimited pages for references and appendix. Upon acceptance of a paper, at least one of the authors must join the conference. Using Large Language Models (LLMs) . We follow the rule by NeurIPS 2023, quoted as follows: . “We welcome authors to use any tool that is suitable for preparing high-quality papers and research. However, we ask authors to keep in mind two important criteria. First, we expect papers to fully describe their methodology, and any tool that is important to that methodology, including the use of LLMs, should be described also. For example, authors should mention tools (including LLMs) that were used for data processing or filtering, visualization, facilitating or running experiments, and proving theorems. It may also be advisable to describe the use of LLMs in implementing the method (if this corresponds to an important, original, or non-standard component of the approach). Second, authors are responsible for the entire content of the paper, including all text and figures, so while authors are welcome to use any tool they wish for writing the paper, they must ensure that all text is correct and original.” . ",
+    "url": "/2026/tracks/#proceedings-track--archival",
+    
+    "relUrl": "/tracks/#proceedings-track--archival"
+  },"127": {
+    "doc": "Submission Tracks",
+    "title": "“Recent Spotlight” Track (non-archival)",
+    "content": "We meanwhile aim to showcase the latest research innovations at all stages of the research process, from work-in-progress to recently published papers. Concretely, we ask members of the community to submit to OpenReview either: . | A conference-style submission describing the work, which may be prepared using the CPAL style files, but need not conform to any specific formatting requirements (e.g., page limits); | A poster (in PDF form) presenting results of work-in-progress; | The camera-ready version of work that has been published prior (e.g., conferences, journals). | . Please also upload a short (250 word) abstract to OpenReview. OpenReview submissions may also include any of the following supplemental materials that describe the work in further detail: . | A link to a blog post (e.g., distill.pub, Medium) describing results. | Appendices with detailed derivations and additional experiments. | . This track is non-archival and has no proceedings. We permit under-review or concurrent submissions, as well as papers officially accepted by a journal or conference within 12 months of the submission deadline for the Recent Spotlight Track. Reviewing will be performed in a single-blind fashion (authors should not anonymize their submissions), and will be held with the same high quality bar with the Proceedings Track. ",
+    "url": "/2026/tracks/#recent-spotlight-track-non-archival",
+    
+    "relUrl": "/tracks/#recent-spotlight-track-non-archival"
+  },"128": {
+    "doc": "Submission Tracks",
+    "title": "Submission Tracks",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/tracks/",
+    
+    "relUrl": "/tracks/"
+  },"129": {
+    "doc": "Tutorials",
+    "title": "Tutorials",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/tutorials/",
+    
+    "relUrl": "/tutorials/"
+  },"130": {
+    "doc": "Logistics and Venue",
+    "title": "Important Information",
+    "content": " ",
+    "url": "/2026/venue/#important-information",
+    
+    "relUrl": "/venue/#important-information"
+  },"131": {
+    "doc": "Logistics and Venue",
+    "title": "Transportation",
+    "content": "If you travel to Tubingen via Stuttgart airport, you can catch a direct bus to Tubingen Station. Take line 828 or X82 to Tubingen Hauptbahnhof (main station). You can buy a ticket with the driver (usually cash only), or purchase a ticket in the DB app (Deutsche Bahn). Buses depart 18 and 48 minutes past the hour, and from 11pm onwards only once per hour (~48 minutes past the hour). If you arrive on Sunday, know that shops will be closed. Your only option to buy groceries is at Stuttgart Airport at Edeka — otherwise you are welcome to peruse Tubingen’s various dining options. ",
+    "url": "/2026/venue/#transportation",
+    
+    "relUrl": "/venue/#transportation"
+  },"132": {
+    "doc": "Logistics and Venue",
+    "title": "Conference Venue",
+    "content": ". CPAL will take place at the Max-Planck-Haus (MPH), located at Max-Planck-Ring 6, 72076 Tübingen. All main conference sessions will be held sequentially in the MPH Lecture Hall, with no parallel tracks during the main program. The tutorials on the first day will run in parallel and will take place either in the MPH Lecture Hall (Max-Planck-Ring 6) or in the MPI Lecture Hall (Max-Planck-Ring 4, 72076 Tübingen). You can easily reach the location by taking bus number 3 and exiting at the “Max-Planck-Institut” stop. Getting around Tübingen is straightforward using the local bus network. You can check bus schedules via Google Maps or the official timetable website. Registration . Registration will take place at the MPH Lobby (Max-Planck-Ring 6). On Monday (tutorial day), registration is from 8:30 AM to 9:00 AM. On Tuesday (first day of the main conference), registration is from 8:00 AM to 8:30 AM. Posters . Poster sessions will take place at the MPI Lecture Hall (Max-Planck-Ring 4). Posters can be put up any time between 12:00 noon and the start of the session. All posters should be taken down at the end of each day or they will be discarded. Meals . Lunch and coffee breaks will be served at the MPH Cafeteria (Max-Planck-Ring 6). Vegan options will be available. Please remember not to take any drinks into the lecture hall. ",
+    "url": "/2026/venue/#conference-venue",
+    
+    "relUrl": "/venue/#conference-venue"
+  },"133": {
+    "doc": "Logistics and Venue",
+    "title": "FAQs",
+    "content": "What is a good place to eat and drink in Tubingen? . Tubingen is a student city, so getting dinner is one of the easiest things to do. As soon as you make it to the old town, just about everything is in walking distance. Popular coffee shops are Cafe Bota, Suedhang, Cafe Hanseatica, or for especially student friendly prices Willis and Collegium. For slightly upscale Swabian dinners, check out Krumme Brucke, Mauganeschtle, Ratskeller, Wurstkuche, Ludwig’s. While walking through the old town you will find plenty of little shops to get takeaway, too. Getting a drink in the evening is possible just about anywhere: Ludwig’s, Saints &amp; Scholars, Collegium, Stadtpost, Schmitz Katze, Liquid Kelter. And how do I get home later at night? . Tubingen has a few night buses that run until 3 am. They are marked with an “N”. Alternatively, there are a few taxi companies: . | Taxi Tubingen: +49 7071 920555 / +49 157 80989740 | Taxi Akublut: +49 7071 1438591 | Taxi Maxi Tubingen: +49 7071 7931064 | Taxi Easy: +49 173 1643229 | . And if I need money? . Contactless payment is available almost everywhere, but some places still rely on cash. You can find ATMs on Google Maps or check out places like Sparkasse, Deutsche Bank, Volksbank — they always have ATMs. What do I do in an emergency or after hours? . The most important number to know for accidents or emergencies is the rescue coordination center 112 (no area code needed). They can dispatch an ambulance, send a fire team, etc. If you need to see a doctor after-hours but it is not a life-threatening situation, the hotline +49 116 117 can tell you where to go to see the on-call doctor. In case you need to go to the hospital, you can find contact and directions to the emergency rooms at the University Hospital. ",
+    "url": "/2026/venue/#faqs",
+    
+    "relUrl": "/venue/#faqs"
+  },"134": {
+    "doc": "Logistics and Venue",
+    "title": "Logistics and Venue",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/venue/",
+    
+    "relUrl": "/venue/"
+  },"135": {
+    "doc": "Travel: Visa Information",
+    "title": "General Visa Information",
+    "content": "For attendees who require a visa, please consult the Consular Services Portal at https://digital.diplo.de/Visa. ",
+    "url": "/2026/visa/#general-visa-information",
+    
+    "relUrl": "/visa/#general-visa-information"
+  },"136": {
+    "doc": "Travel: Visa Information",
+    "title": "Letter of Invitation",
+    "content": "If you require a letter of invitation to apply for a visa, please contact pcs@cpal.cc as soon as possible. ",
+    "url": "/2026/visa/#letter-of-invitation",
+    
+    "relUrl": "/visa/#letter-of-invitation"
+  },"137": {
+    "doc": "Travel: Visa Information",
+    "title": "Questions",
+    "content": "For any further questions, please contact our team at pcs@cpal.cc. ",
+    "url": "/2026/visa/#questions",
+    
+    "relUrl": "/visa/#questions"
+  },"138": {
+    "doc": "Travel: Visa Information",
+    "title": "Travel: Visa Information",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/visa/",
+    
+    "relUrl": "/visa/"
+  },"139": {
+    "doc": "Conference Vision",
+    "title": "Conference Vision",
+    "content": "“Everything should be made as simple as possible, but not any simpler.” . – Albert Einstein . One of the most fundamental reasons for the very existence and therefore emergence of intelligence or science is that the world is not fully random, but highly structured and predictable. Hence, a fundamental purpose and function of intelligence or science is to learn parsimonious models (or laws) for such predicable structures, from massive sensed data of the world. Over the past decade, the advent of machine learning and large-scale computing has immeasurably changed the ways we process, interpret, and predict with data in engineering and science. The ‘traditional’ approach to algorithm design, based around parametric models for specific structures of signals and measurements – say sparse and low-rank models – and the associated optimization toolkit, is now significantly enriched with data-driven learning-based techniques, where large-scale networks are pre-trained and then adapted to a variety of specific tasks. Nevertheless, the successes of both modern data-driven and classic model-based paradigms rely crucially on correctly identifying the low-dimensional structures present in real-world data, to the extent that we see the roles of learning and compression of data processing algorithms – whether explicit or implicit, as with deep networks – as inextricably linked. Over the last ten or so years, several rich lines of research, including theoretical, computational, and practical, have explored the interplay between learning and compression. Some works explore the role of signal models in the era of deep learning, attempting to understand the interaction between deep networks and nonlinear, multi-modal data structures. Others have applied these insights to the principled design of deep architectures that incorporate desired structures in data into the learning process. Still others have considered generic deep networks as first-class citizens in their own right, exploring ways to compress and sparsify models for greater efficiency, often accompanied by hardware or system-aware co-designs. Across each of these settings, theoretical works rooted in low-dimensional modeling have begun to explain the foundations of deep architectures and efficient learning – from optimization to generalization – in spite of “overparameterization” and other obstructions. Most recently, the advent of foundation models has led some to posit that parsimony and compression itself are a fundamental part of the learning objective of an intelligent system, connecting to ideas from neuroscience on compression as a guiding principle for the brain representing the sensory data of the world. By and large, these lines of work have so far developed somewhat in isolation from one another, in spite of their common basis and purpose for parsimony and learning. Our intention in organizing this conference is to address this issue and go beyond: we envision the conference as a general scientific forum where researchers in machine learning, applied mathematics, signal processing, optimization, intelligent systems, and all associated science and engineering fields can gather, share insights, and ultimately work towards a common modern theoretical and computational framework for understanding intelligence and science from the perspective of parsimonious learning. ",
+    "url": "/2026/vision/#conference-vision",
+    
+    "relUrl": "/vision/#conference-vision"
+  },"140": {
+    "doc": "Conference Vision",
+    "title": "Conference Vision",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/vision/",
+    
+    "relUrl": "/vision/"
+  },"141": {
+    "doc": "Tailored Wellness Sessions",
+    "title": "Tailored Wellness Sessions @ CPAL",
+    "content": "On day 2 of the conference (Tuesday, March 24), as part of the conference program there will be a tailored wellness session from 1:30 PM to 2:30 PM. The session is organized by Dr. Saiprasad Ravishankar, who will also share some of the latest research findings from his team on how meditation techniques impact human brain and behavior. The wellness experience will be led by Devin O’Rourke. “If Steve Jobs was right in saying ‘everyone should learn how to program a computer because it teaches you how to think’ we feel confident in saying every computational scientist should learn how to meditate because it will teach them how to program. Clear observation and analysis of our environment is an enduring goal of human endeavor. Long before AI was assisting this venture, contemplative cultures around the world recognized they can amplify their cognitive clarity through deliberate practice. We have spent decades improving silicon architectures. During this session we’re going to focus on refining the wetware generating the ideas.” . We are offering this opportunity as a way to help ensure your experience at CPAL is not only informative and engaging, but uplifting as well. All are welcome to attend! No special clothing, equipment, etc. is required. ",
+    "url": "/2026/wellness/#tailored-wellness-sessions--cpal",
+    
+    "relUrl": "/wellness/#tailored-wellness-sessions--cpal"
+  },"142": {
+    "doc": "Tailored Wellness Sessions",
+    "title": "Tailored Wellness Sessions",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2026,&nbsp;Tübingen ",
+    "url": "/2026/wellness/",
+    
+    "relUrl": "/wellness/"
+  }
+}
