@@ -23,7 +23,7 @@
             loading="lazy"
             decoding="async"
             referrerpolicy="no-referrer"
-            style="object-position: {{ person.photo_position | default: '50% 50%' }}"
+            style="object-position: {{ person.photo_position | default: '50% 50%' }}; --photo-scale: {{ person.photo_scale | default: 1 }}; --photo-x: {{ person.photo_offset_x | default: '0%' }}; --photo-y: {{ person.photo_offset_y | default: '0%' }}"
             onerror="this.onerror=null;this.style.display='none';">
         </span>
       </a>
