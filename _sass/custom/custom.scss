@@ -16,8 +16,9 @@ $content-width-0: 1200px;
     display: block;
     width: 100%;
     max-width: 100%;
+    // Match the 1024 × 256 cover used by previous CPAL websites.
+    aspect-ratio: 4 / 1;
     height: auto;
-    max-height: 520px;
     object-fit: cover;
     border-radius: 20px;
     opacity: 0.48;
@@ -50,16 +51,12 @@ $content-width-0: 1200px;
   filter: saturate(0.82) brightness(1.08);
 }
 
-// Interior pages use the compact panoramic banner used throughout CPAL 2026.
-// The home page keeps the larger splash because it uses layout: default.
+// Home and interior pages share the historical 4:1 panoramic cover ratio.
 .cpal-splash-compact {
   margin-top: 0.25rem;
   margin-bottom: 1.5rem;
 
   img {
-    height: 180px;
-    min-height: 0;
-    max-height: 180px;
     object-fit: cover;
     object-position: center 48%;
     border-radius: 16px;
@@ -236,21 +233,11 @@ $content-width-0: 1200px;
 }
 
 @media (max-width: 520px) {
-  .splash:not(.cpal-splash-compact) img {
-    min-height: 280px;
-  }
-
-  .cpal-splash-compact img {
-    height: 145px;
-    min-height: 0;
-    max-height: 145px;
-  }
-
-  .cpal-splash-compact .topleft {
+  .splash .topleft {
     @include fs-4;
   }
 
-  .cpal-splash-compact .bottomright {
+  .splash .bottomright {
     @include fs-3;
   }
 
