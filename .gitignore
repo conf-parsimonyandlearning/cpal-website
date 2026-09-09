@@ -8,3 +8,9 @@ _db/__pycache__/
 .claude
 _site
 PENDING.md
+
+.bundle/
+.jekyll-cache/
+.sass-cache/
+vendor/
+_site*/

@@ -1,38 +1,40 @@
 ---
 layout: page
 title: Subject Areas
+permalink: /subject_areas/
 parent: Call for Papers
-nav_order: 1
+nav_order: 2
 ---
-
-{% include splash.html %}
 
 # Subject Areas
 
+CPAL 2027 welcomes contributions in which a clear parsimony principle is central. The following list is illustrative rather than exhaustive.
 
-## Theory & Foundations
-- Theories for sparse coding, structured sparsity, subspace learning, low-dimensional manifolds, and general low-dimensional structures. 
-- Dictionary learning and representation learning for low-dimensional structures and their connections to deep learning theory.
-- Equivariance and invariance modeling.
-- Theoretical neuroscience and cognitive science foundation for parsimony, and biologically inspired computational mechanisms.
+## Theory and Foundations
 
-## Optimization & Algorithms
-- Optimization, robustness, and generalization methods for learning compact and structured representations.
-- Interpretable and efficient deep architectures (e.g., based on unrolled optimization).
-- Data-efficient and computation-efficient training and inference.
-- Adaptive and robust learning and inference algorithms.
-- Distributed, networked, or federated learning at scale. 
-- Other nonlinear dimension-reduction and representation-learning methods.
+- Sparsity, structured sparsity, low rank, subspaces, manifolds, tensors, graphs, latent-variable models, and other low-dimensional structures.
+- Statistical and computational foundations of representation and feature learning.
+- Identifiability, generalization, robustness, implicit bias, and statistical–computational tradeoffs.
+- Symmetry, invariance, equivariance, causality, modularity, and compositional structure.
+- Information-theoretic, minimum-description-length, and compression-based views of learning.
+- Theoretical neuroscience, cognitive science, and biologically inspired mechanisms for parsimonious learning.
 
-## Data, Systems & Applications
-- Domain-specific datasets, benchmarks, and evaluation metrics. 
-- Parsimonious and structured representation learning from data.
-- Inverse problems that benefit from parsimonious priors.
-- Hardware and system co-design for parsimonious learning algorithms.
-- Parsimonious learning in intelligent systems that integrate perception-action cycles.
-- Applications in science, engineering, medicine, and social sciences.
+## Methods and Models
 
+- Sparse coding, dictionary learning, matrix and tensor methods, inverse problems, and structured recovery.
+- Optimization and feature-learning dynamics that discover or induce parsimonious structure.
+- Interpretable and structured neural architectures, including algorithm unrolling.
+- Pruning, quantization, distillation, low-rank adaptation, modular networks, mixtures of experts, and conditional computation.
+- Data-, parameter-, memory-, energy-, and compute-efficient training and inference.
+- Parsimonious foundation, generative, multimodal, federated, continual, and agentic learning.
 
-The above is intended as a high-level overview of CPAL’s focus and by no means
-exclusive. If you doubt that your paper fits the venue, feel free to contact
-the program chairs via email at [pcs@cpal.cc](mailto:pcs@cpal.cc).
+## Systems, Data, and Applications
+
+- Hardware–algorithm and software–system co-design for structured or sparse computation.
+- Benchmarks, datasets, and metrics that reveal or evaluate parsimony and accuracy–efficiency tradeoffs.
+- Parsimonious learning for perception, action, reasoning, robotics, and control.
+- Scientific machine learning, signal and image processing, neuroscience, biology, medicine, engineering, and social science.
+- Resource-constrained, distributed, networked, and real-world intelligent systems.
+
+{: .highlight }
+Submissions proposing a new notion of parsimony are especially welcome when the connection is clearly motivated. Authors who are uncertain about fit may contact the Program Chairs at [pcs@cpal.cc](mailto:pcs@cpal.cc).

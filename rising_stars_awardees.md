@@ -1,23 +1,12 @@
 ---
 layout: page
 title: Rising Stars Awardees
-description: Awardees of the CPAL 2026 Rising Stars Award
+permalink: /rising_stars_awardees/
 parent: Rising Stars Award
 nav_order: 2
 ---
 
-{% include splash.html %}
+# Rising Stars Awardees
 
-# CPAL 2026 Rising Stars Awardees
-
-{% assign risingstars = site.risingstars | sort: 'order' %}
-
-{% for risingstar in risingstars %}
-
-{{ risingstar }}
-
-**Title**: {{ risingstar.talk }}
-
-**Abstract**: {{ risingstar.abstract }}
-
-{% endfor %}
+{: .forthcoming }
+The CPAL 2027 Rising Stars Awardees will be announced here after selection is complete.

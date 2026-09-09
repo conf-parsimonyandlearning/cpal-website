@@ -1,71 +1,81 @@
 ---
 layout: page
-title: "Logistics and Venue"
+title: Logistics and Venue
+permalink: /venue/
 parent: Register & Attend
-nav_order: 0
+nav_order: 1
 ---
-
-{% include splash.html %}
 
 # Important Information
 
-## Transportation
-
-If you travel to Tubingen via Stuttgart airport, you can catch a direct bus to Tubingen Station. Take line **828** or **X82** to **Tubingen Hauptbahnhof** (main station). You can buy a ticket with the driver (usually cash only), or purchase a ticket in the [DB app](https://www.bahn.de/) (Deutsche Bahn). Buses depart 18 and 48 minutes past the hour, and from 11pm onwards only once per hour (~48 minutes past the hour).
-
-If you arrive on Sunday, know that shops will be closed. Your only option to buy groceries is at Stuttgart Airport at Edeka --- otherwise you are welcome to peruse Tubingen's various dining options.
+CPAL 2027 will take place **March 23–26, 2027** at **Hitotsubashi Hall (一橋講堂)** in central Tokyo. The hall is part of Hitotsubashi University's Chiyoda Campus and is located inside the **National Center of Sciences (学術総合センター)**.
 
 ## Conference Venue
 
-![Max-Planck-Haus]({{ site.baseurl }}/assets/images/mph_building.png){: .d-block .mx-auto style="max-width: 100%;" }
+<figure class="venue-figure">
+  <a href="https://commons.wikimedia.org/wiki/File:NII_-_National_Center_of_Sciences_Build.jpg" target="_blank" rel="noopener">
+    <img src="{{ site.baseurl }}/assets/images/venue/hitotsubashi-hall.jpg" class="venue-photo" alt="National Center of Sciences building, home of Hitotsubashi Hall">
+  </a>
+  <figcaption class="venue-source-note">National Center of Sciences, home of Hitotsubashi Hall, in Chiyoda, Tokyo.</figcaption>
+</figure>
 
-CPAL will take place at the **Max-Planck-Haus (MPH)**, located at Max-Planck-Ring 6, 72076 Tübingen. All main conference sessions will be held sequentially in the MPH Lecture Hall, with no parallel tracks during the main program.
+<div class="venue-address">
+<strong>Hitotsubashi Hall (Hitotsubashi University)</strong><br>
+National Center of Sciences Building, 2F<br>
+2-1-2 Hitotsubashi, Chiyoda-ku<br>
+Tokyo 101-8439, Japan
+</div>
 
-The tutorials on the first day will run in parallel and will take place either in the **MPH Lecture Hall** (Max-Planck-Ring 6) or in the **MPI Lecture Hall** (Max-Planck-Ring 4, 72076 Tübingen).
+The National Center of Sciences sits in the **Jimbocho / Takebashi** area, immediately north of the Imperial Palace and close to Otemachi and Tokyo Station. Hitotsubashi Hall occupies the lower floors of the complex and is a purpose-built academic conference venue.
 
-You can easily reach the location by taking **bus number 3** and exiting at the **"Max-Planck-Institut"** stop. Getting around Tübingen is straightforward using the local bus network. You can check bus schedules via Google Maps or the official [timetable website](https://www.swtue.de/oepnv/fahrplan-und-liniennetz/fahrplaene.html).
+{: .highlight }
+**Please check the address above when navigating.** The destination is Hitotsubashi University's Hitotsubashi Hall inside the **National Center of Sciences, 2-1-2 Hitotsubashi**.
 
-![Map to venue]({{ site.baseurl }}/assets/images/mph_map.png){: .d-block .mx-auto style="max-width: 100%;" }
+## Transportation
 
-### Registration
+### By subway
 
-Registration will take place at the **MPH Lobby** (Max-Planck-Ring 6). On Monday (tutorial day), registration is from 8:30 AM to 9:00 AM. On Tuesday (first day of the main conference), registration is from 8:00 AM to 8:30 AM.
+The venue is a short walk from two major subway stations:
 
-### Posters
+- **Jimbocho Station (神保町駅)** — Tokyo Metro Hanzomon Line, Toei Mita Line, or Toei Shinjuku Line. Use **Exit A8 or A9**; the venue is approximately **4–5 minutes on foot**.
+- **Takebashi Station (竹橋駅)** — Tokyo Metro Tozai Line. Use **Exit 1b**; the venue is approximately **4–5 minutes on foot**.
 
-Poster sessions will take place at the **MPI Lecture Hall** (Max-Planck-Ring 4). Posters can be put up any time between 12:00 noon and the start of the session. All posters should be taken down at the end of each day or they will be discarded.
+The official Hitotsubashi Hall access guide recommends Jimbocho Exit A9 or Takebashi Exit 1b. Both stations are convenient; Jimbocho is particularly useful if you are arriving from Shinjuku or southern Tokyo, while Takebashi provides a direct Tozai-line connection to Otemachi.
 
-### Meals
+### From Tokyo Station
 
-Lunch and coffee breaks will be served at the **MPH Cafeteria** (Max-Planck-Ring 6). Vegan options will be available. Please remember not to take any drinks into the lecture hall.
+The simplest options are:
 
-## FAQs
+1. walk through the underground/nearby connection to **Otemachi Station**, take the **Tokyo Metro Tozai Line** one stop to **Takebashi**, and walk from Exit 1b; or
+2. take a taxi directly to **Hitotsubashi Hall / National Center of Sciences (学術総合センター)**.
 
-**What is a good place to eat and drink in Tubingen?**
+### From Haneda Airport (HND)
 
-Tubingen is a student city, so getting dinner is one of the easiest things to do. As soon as you make it to the old town, just about everything is in walking distance. Popular coffee shops are Cafe Bota, Suedhang, Cafe Hanseatica, or for especially student friendly prices Willis and Collegium. For slightly upscale Swabian dinners, check out Krumme Brucke, Mauganeschtle, Ratskeller, Wurstkuche, Ludwig's. While walking through the old town you will find plenty of little shops to get takeaway, too.
+A convenient rail route is the **Keikyu Line** from Haneda Airport to **Mita Station**, followed by the **Toei Mita Line** to **Jimbocho Station**. From Jimbocho, walk from Exit A8/A9 to the venue. An alternative is an airport limousine or rail connection to Tokyo Station followed by a short taxi ride.
 
-Getting a drink in the evening is possible just about anywhere: Ludwig's, Saints & Scholars, Collegium, Stadtpost, Schmitz Katze, Liquid Kelter.
+### From Narita Airport (NRT)
 
-**And how do I get home later at night?**
+A convenient route is the **Narita Express (N'EX)** to **Tokyo Station**, then continue via Otemachi/Takebashi as above. From Tokyo Station, a taxi to the National Center of Sciences is also straightforward, especially with luggage.
 
-Tubingen has a few night buses that run until 3 am. They are marked with an "N".
+## Official Hitotsubashi Hall Access Map
 
-Alternatively, there are a few taxi companies:
+<figure class="venue-figure">
+  <a href="https://www.hit-u.ac.jp/hall/file/accesspdfen.pdf" target="_blank" rel="noopener">
+    <img src="{{ site.baseurl }}/assets/images/venue/hitotsubashi-access-map.png" class="venue-map-image" alt="Official Hitotsubashi Hall access map showing Jimbocho and Takebashi stations">
+  </a>
+  <figcaption class="venue-source-note">Official Hitotsubashi University access map. Click the map to open the original English PDF.</figcaption>
+</figure>
 
-- Taxi Tubingen: +49 7071 920555 / +49 157 80989740
-- Taxi Akublut: +49 7071 1438591
-- Taxi Maxi Tubingen: +49 7071 7931064
-- Taxi Easy: +49 173 1643229
+The university's official access information is also available on the [Hitotsubashi Hall access page](https://www.hit-u.ac.jp/hall/accessen.html) and the [Hitotsubashi University Chiyoda Campus directions page](https://www.hit-u.ac.jp/eng/about/direction/).
 
-**And if I need money?**
+## Interactive Map
 
-Contactless payment is available almost everywhere, but some places still rely on cash. You can find ATMs on Google Maps or check out places like Sparkasse, Deutsche Bank, Volksbank --- they always have ATMs.
+<iframe class="venue-map-frame" loading="lazy" allowfullscreen src="https://www.google.com/maps?q=Hitotsubashi%20Hall%2C%202-1-2%20Hitotsubashi%2C%20Chiyoda%20City%2C%20Tokyo%20101-8439%2C%20Japan&output=embed" title="Map of Hitotsubashi Hall"></iframe>
 
-**What do I do in an emergency or after hours?**
+## Around the Venue
 
-The most important number to know for accidents or emergencies is the rescue coordination center **112** (no area code needed). They can dispatch an ambulance, send a fire team, etc.
+The venue is in a highly walkable university and publishing district. **Jimbocho** is known for bookstores, cafés, curry shops, and casual restaurants; **Takebashi** borders the Imperial Palace grounds; and **Otemachi / Tokyo Station** are only a short subway or taxi ride away. Convenience stores, coffee shops, and restaurants are available throughout the surrounding blocks.
 
-If you need to see a doctor after-hours but it is not a life-threatening situation, the hotline **+49 116 117** can tell you where to go to see the on-call doctor.
+## Emergency Information
 
-In case you need to go to the hospital, you can find contact and directions to the emergency rooms at the [University Hospital](https://www.medizin.uni-tuebingen.de/en-de/kontakt/notfall#notdienst).
+For police assistance in Japan, call **110**. For an ambulance or fire emergency, call **119**. Hotel staff and venue staff can also assist with local medical and transportation questions.

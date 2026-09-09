@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Conference Program
-description: Listing of the conference program
-has_children: True
-nav_order: 3
+permalink: /conference_program/
+nav_order: 30
+has_children: true
 ---
 
-{% include splash.html %}
+# Conference Program
+
+The CPAL 2027 program will be posted here after scheduling is finalized.

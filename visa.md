@@ -1,25 +1,12 @@
 ---
 layout: page
 title: "Travel: Visa Information"
+permalink: /visa/
 parent: Register & Attend
-nav_order: 2
+nav_order: 3
 ---
 
-{% include splash.html %}
+# Travel: Visa Information
 
-
-# General Visa Information
-
-For attendees who require a visa, please consult the Consular Services Portal at
-[https://digital.diplo.de/Visa](https://digital.diplo.de/Visa).
-
-## Letter of Invitation
-
-If you require a letter of invitation to apply for a visa, please contact
-[pcs@cpal.cc](mailto:pcs@cpal.cc) as soon as possible.
-
-
-# Questions
-
-For any further questions, please contact our team at
-[pcs@cpal.cc](mailto:pcs@cpal.cc).
+{: .forthcoming }
+Visa guidance and invitation-letter procedures for CPAL 2027 will be published here when finalized.
