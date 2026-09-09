@@ -37,7 +37,7 @@ Key dates include:
 - Tutorial proposal deadline: **December 10, 2026**
 - Rising Stars application deadline: **December 15, 2026**
 - Recent Spotlight deadline: **January 18, 2027**
-- Proceedings notification: **January 25, 2027**
+- Proceedings notification: **February 1, 2027**
 - Recent Spotlight notification: **February 1, 2027**
 - Camera-ready deadline: **February 12, 2027**
 - Conference: **March 23–26, 2027**

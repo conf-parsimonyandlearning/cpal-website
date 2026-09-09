@@ -21,11 +21,13 @@ nav_order: 80
 |:--|:--|:--|
 | Abstract registration | November 23, 2026 | <span class="cpal-countdown" data-countdown="2026-11-23T23:59:59-12:00"></span> |
 | **Proceedings paper deadline** | **December 5, 2026** | <span class="cpal-countdown" data-countdown="2026-12-05T23:59:59-12:00"></span> |
-| Reviews released; author discussion begins | January 11, 2027 | <span class="cpal-countdown" data-countdown="2027-01-11T23:59:59-12:00"></span> |
-| Author rebuttal | January 11–15, 2027 | <span class="cpal-countdown" data-countdown="2027-01-15T23:59:59-12:00"></span> |
-| Author–reviewer discussion ends | January 20, 2027 | <span class="cpal-countdown" data-countdown="2027-01-20T23:59:59-12:00"></span> |
-| **Proceedings notification** | **January 25, 2027** | <span class="cpal-countdown" data-countdown="2027-01-25T23:59:59-12:00"></span> |
+| Reviews released; author rebuttal begins | January 11, 2027 | <span class="cpal-countdown" data-countdown="2027-01-11T23:59:59-12:00"></span> |
+| Author rebuttal | January 11–17, 2027 | <span class="cpal-countdown" data-countdown="2027-01-17T23:59:59-12:00"></span> |
+| Author–reviewer discussion ends | January 22, 2027 | <span class="cpal-countdown" data-countdown="2027-01-22T23:59:59-12:00"></span> |
+| **Proceedings notification** | **February 1, 2027** | <span class="cpal-countdown" data-countdown="2027-02-01T23:59:59-12:00"></span> |
 | Camera-ready deadline | February 12, 2027 | <span class="cpal-countdown" data-countdown="2027-02-12T23:59:59-12:00"></span> |
+
+Author rebuttal runs January 11–17 (7 days), followed by author–reviewer discussion January 18–22 (5 days).
 
 ## Conference Submission ([Recent Spotlight Track]({{ site.baseurl }}/tracks/#recent-spotlight-track-non-archival))
 
