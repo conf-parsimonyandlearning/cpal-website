@@ -1,0 +1,240 @@
+- name: Yi Ma
+  initials: YM
+  role_key: general
+  role: General Chair
+  affiliation: The University of Hong Kong
+  website: https://datascience.hku.hk/people/yi-ma/
+  photo: /assets/images/organizers/yi-ma.jpeg
+  photo_position: 50% 42%
+  photo_credit: CPAL 2026 organizer portrait archive
+  photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
+- name: Taiji Suzuki
+  initials: TS
+  role_key: general
+  role: General Chair
+  affiliation: The University of Tokyo & RIKEN AIP
+  website: https://ibis.t.u-tokyo.ac.jp/suzuki/
+  photo: /assets/images/organizers/taiji-suzuki.png
+  photo_position: 50% 38%
+  photo_credit: CPAL 2026 speaker portrait archive
+  photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
+- name: Wei Huang
+  initials: WH
+  role_key: program
+  role: Program Chair
+  affiliation: RIKEN AIP
+  website: https://weihuang05.github.io/
+  photo: /assets/images/organizers/wei-huang.png
+  photo_position: 50% 42%
+  photo_credit: CPAL 2026 organizer portrait archive
+  photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
+- name: Tan Minh Nguyen
+  initials: TN
+  role_key: program
+  role: Program Chair
+  affiliation: National University of Singapore
+  website: https://tanmnguyen89.github.io/
+  photo: /assets/images/organizers/tan-minh-nguyen.jpeg
+  photo_position: 50% 42%
+  photo_credit: Personal website
+  photo_credit_url: https://tanmnguyen89.github.io/
+- name: Grigorios Chrysos
+  initials: GC
+  role_key: program
+  role: Program Chair
+  affiliation: University of Wisconsin–Madison
+  website: https://grigoris.ece.wisc.edu/
+  photo: /assets/images/organizers/grigorios-chrysos.jpeg
+  photo_position: 50% 38%
+  photo_credit: Personal website
+  photo_credit_url: https://grigoris.ece.wisc.edu/
+- name: Sara Fridovich-Keil
+  initials: SF
+  role_key: program
+  role: Program Chair
+  affiliation: Georgia Institute of Technology
+  website: https://sarafridov.github.io/
+  photo: /assets/images/organizers/sara-fridovich-keil.jpeg
+  photo_position: 50% 40%
+  photo_credit: CPAL 2026 organizer portrait archive
+  photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
+- name: Liyue Shen
+  initials: LS
+  role_key: program
+  role: Program Chair
+  affiliation: University of Michigan
+  website: https://liyueshen.engin.umich.edu/
+  photo: /assets/images/organizers/liyue-shen.jpeg
+  photo_position: 50% 38%
+  photo_credit: CPAL 2026 organizer portrait archive
+  photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
+- name: Qing Qu
+  initials: QQ
+  role_key: advisor
+  role: Senior Advisor to Program Chairs
+  affiliation: University of Michigan
+  website: https://qingqu.engin.umich.edu/
+  photo: /assets/images/organizers/qing-qu.jpeg
+  photo_position: 50% 40%
+  photo_credit: CPAL 2026 organizer portrait archive
+  photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
+- name: Atlas Wang
+  initials: AW
+  role_key: advisor
+  role: Senior Advisor to Program Chairs
+  affiliation: The University of Texas at Austin
+  website: https://vita-group.github.io/
+  photo: /assets/images/organizers/atlas-wang.png
+  photo_position: 50% 38%
+  photo_credit: CPAL 2026 organizer portrait archive
+  photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
+- name: Sijia Liu
+  initials: SL
+  role_key: advisor
+  role: Senior Advisor to Program Chairs
+  affiliation: Michigan State University
+  website: https://lsjxjtu.github.io/
+  photo: /assets/images/organizers/sijia-liu.png
+  photo_position: 50% 40%
+  photo_credit: CPAL 2026 organizer portrait archive
+  photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
+- name: Jere Sulam
+  initials: JS
+  role_key: advisor
+  role: Senior Advisor to Program Chairs
+  affiliation: Johns Hopkins University
+  website: https://jsulam.github.io/
+  photo: /assets/images/organizers/jere-sulam.png
+  photo_position: 50% 36%
+  photo_credit: CPAL 2026 organizer portrait archive
+  photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website/blob/0c3481ea6da75d4cf4b98ef943dcdc5da6260ecb/assets/images/js.png
+- name: Sho Sonoda
+  initials: SS
+  role_key: local
+  role: Local Chair
+  affiliation: RIKEN AIP & CyberAgent
+  website: https://sites.google.com/view/shosonoda/home
+  photo: /assets/images/organizers/sho-sonoda.jpg
+  photo_position: 50% 42%
+  photo_credit: CyberAgent AI Lab profile
+  photo_credit_url: https://research.cyberagent.ai/people/s_sonoda/
+- name: Tomoya Wakayama
+  initials: TW
+  role_key: local
+  role: Local Chair
+  affiliation: RIKEN AIP
+  website: https://tomwaka.github.io/
+  photo: /assets/images/organizers/tomoya-wakayama.jpg
+  photo_position: 50% 38%
+  photo_credit: Personal website
+  photo_credit_url: https://tomwaka.github.io/
+- name: Peng Wang
+  initials: PW
+  role_key: publication
+  role: Publication Chair
+  affiliation: University of Macau
+  website: https://peng8wang.github.io/
+  photo: /assets/images/organizers/peng-wang.jpg
+  photo_position: 50% 42%
+  photo_credit: Personal website
+  photo_credit_url: https://peng8wang.github.io/
+- name: Zhihui Zhu
+  initials: ZZ
+  role_key: publication
+  role: Publication Chair
+  affiliation: The Ohio State University
+  website: https://zhihuizhu.github.io/
+  photo: /assets/images/organizers/zhihui-zhu.jpeg
+  photo_position: 50% 40%
+  photo_credit: CPAL 2026 organizer portrait archive
+  photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
+- name: Mingyuan Bai
+  initials: MB
+  role_key: publication
+  role: Publication Chair
+  affiliation: A*STAR & RIKEN AIP
+  website: https://scholar.google.com/citations?user=lo0_2rMAAAAJ&hl=en
+  photo: /assets/images/organizers/mingyuan-bai.jpg
+  photo_position: 50% 38%
+  photo_credit: DeLTa Workshop profile / Google Scholar-linked profile
+  photo_credit_url: https://delta-workshop.github.io/
+- name: Ambar Pal
+  initials: AP
+  role_key: industry
+  role: Industry Liaison Chair
+  affiliation: Amazon
+  website: https://www.cis.jhu.edu/~ambar/
+  photo: /assets/images/organizers/ambar-pal.png
+  photo_position: 50% 40%
+  photo_credit: CPAL 2024 Rising Stars portrait archive
+  photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website/blob/2024/assets/images/risingstars/pal.png
+- name: Joey Tianyi Zhou
+  initials: JZ
+  role_key: industry
+  role: Industry Liaison Chair
+  affiliation: Singapore Management University & A*STAR
+  website: https://joeyzhouty.github.io/index.html
+  photo: /assets/images/organizers/joey-tianyi-zhou.jpg
+  photo_position: 50% 38%
+  photo_credit: Personal website
+  photo_credit_url: https://joeyzhouty.github.io/index.html
+- name: Atsushi Nitanda
+  initials: AN
+  role_key: industry
+  role: Industry Liaison Chair
+  affiliation: A*STAR CFAR & Nanyang Technological University
+  website: https://sites.google.com/site/atsushinitanda/
+  photo: /assets/images/organizers/atsushi-nitanda.jpg
+  photo_position: 50% 38%
+  photo_credit: Portrait supplied to CPAL 2027 Web Chair
+  photo_credit_url: https://sites.google.com/site/atsushinitanda/
+- name: Yani Ioannou
+  initials: YI
+  role_key: publicity
+  role: Publicity Chair
+  affiliation: University of Calgary
+  website: https://yani.ai/
+  photo: /assets/images/organizers/yani-ioannou.jpeg
+  photo_position: 50% 36%
+  photo_credit: CPAL 2026 organizer portrait archive
+  photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
+- name: Renyuan Xu
+  initials: RX
+  role_key: publicity
+  role: Publicity Chair
+  affiliation: Stanford University
+  website: https://renyuanxu.github.io/
+  photo: /assets/images/organizers/renyuan-xu.png
+  photo_position: 50% 38%
+  photo_credit: Personal website
+  photo_credit_url: https://renyuanxu.github.io/
+- name: Tianlong Chen
+  initials: TC
+  role_key: publicity
+  role: Publicity Chair
+  affiliation: University of North Carolina at Chapel Hill
+  website: https://tianlong-chen.github.io/
+  photo: /assets/images/organizers/tianlong-chen.jpeg
+  photo_position: 50% 38%
+  photo_credit: CPAL 2026 organizer portrait archive
+  photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
+- name: Shiwei Liu
+  initials: SL
+  role_key: award
+  role: Award Chair
+  affiliation: ELLIS Institute Tübingen & Max Planck Institute for Intelligent Systems
+  website: https://shiweiliuiiiiiii.github.io/
+  photo: /assets/images/organizers/shiwei-liu.png
+  photo_position: 50% 38%
+  photo_credit: CPAL 2026 organizer portrait archive
+  photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
+- name: Dake Bu
+  initials: DB
+  role_key: web
+  role: Web Chair
+  affiliation: City University of Hong Kong
+  website: https://dakebu.github.io/
+  photo: /assets/images/organizers/dake-bu.jpg
+  photo_position: 50% 34%
+  photo_credit: Personal website
+  photo_credit_url: https://dakebu.github.io/

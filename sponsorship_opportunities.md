@@ -1,67 +1,39 @@
 ---
 layout: page
 title: Sponsorship Opportunities
-description: Information about sponsorship opportunities for CPAL 2025
-parent: Conference Sponsors
-nav_order: 10
-nav_exclude: True
+permalink: /sponsorship_opportunities/
+nav_exclude: true
 ---
 
-{% include splash.html %}
+# CPAL 2027 Sponsorship Prospectus
 
-<!-- {% include sponsors.html %} -->
+The Conference on Parsimony and Learning (CPAL) will take place in **Tokyo, Japan, March 23–26, 2027**. CPAL brings together leading AI researchers and industry experts working on parsimonious and low-dimensional structures in machine learning, signal processing, and optimization.
 
-# CPAL 2025 Sponsorship Opportunities
+For sponsorship opportunities, contact **Wei Huang** ([wei.huang.vr@riken.jp](mailto:wei.huang.vr@riken.jp)) or **Ambar Pal** ([ambarpal.cs@gmail.com](mailto:ambarpal.cs@gmail.com)).
 
-The 2nd Conference on Parsimony and Learning (CPAL), chaired by Professors
-Emmanuel Candès and Yi Ma, will take place at Stanford University from
-March 24–27, 2025.
+## Diamond Tier ($20,000 and above)
 
-CPAL grew from the [SlowDNN workshop](https://slowdnn-workshop.github.io), which ran successfully for three years
-(2021-2023) and evolved into the inaugural CPAL 2024 held in Hong Kong. CPAL
-2024 brought together over 200 elite researchers specializing in sparsity and
-efficient AI for four days of in-depth, in-person interactions. The conference
-also attracted significant sponsorship support from both international and local
-partners: [https://2024.cpal.cc/sponsors/](https://2024.cpal.cc/sponsors/)
+- All Platinum benefits
+- Large exhibition space
+- Option to host an industry session or lunch talk
+- Logo in all conference advertising and event banners
 
-CPAL 2025 aims to foster collaboration and share cutting-edge
-research in sparse and low-dimensional structure modeling in deep learning,
-bridging theory, algorithms, and practical applications. We expect experts from
-machine learning, applied mathematics, signal processing, optimization, systems,
-and natural sciences like physics and neuroscience to join us. Located on
-Stanford's campus in the heart of Silicon Valley, CPAL 2025 is poised to attract
-a high-caliber audience and create broader, more impactful connections.
+## Platinum ($10,000)
 
-Given this exciting opportunity, we invite interested parties to help sponsor
-CPAL 2025. We believe this presents a valuable opportunity to engage with
-leading minds in these fields. Additionally, sponsoring CPAL offers various
-opportunities to connect with conference participants and showcase leadership in
-advancing AI research.
+- All Gold benefits
+- Small exhibition space
+- Access to information of opted-in attendees (CV, contact) for recruiting
 
-## Sponsorship Tiers
+## Gold ($5,000)
 
-We offer the following sponsorship tiers for CPAL 2025:
+- Two complimentary registrations
+- Logo and acknowledgment on the conference website, schedule, and proceedings
+- Acknowledgment during opening remarks
 
-### Silver Tier - $5,000
+## Budget Allocation
 
-- Display the company logo on our website and during live sessions
-- Access to the list of conference registrants, along with their CVs (with attendee consent)
-- 2 full registrations for key personnel
+Sponsorship funds will be used for:
 
-### Gold Tier - $10,000
-
-- Display the company logo on our website and during live sessions
-- Access to the list of conference registrants, along with their CVs (with attendee consent)
-- Opportunity to display a short company advertisement between sessions
-- Exhibit space during the main conference
-- 4 full registrations for key personnel
-
-### Diamond Tier - $15,000
-
-- Display the company logo on our website and during live sessions
-- Access to the list of conference registrants, along with their CVs (with attendee consent)
-- Opportunity to give a keynote presentation
-- Opportunity to display a short company advertisement between sessions
-- Exhibit space during the main conference
-- 8 full registrations for key personnel
-- Exclusive in-person interactions with participants interested in recruitment, arranged during the conference’s social gatherings
+- Travel grants and registration waivers for students who are underrepresented minorities
+- Venue reservation, poster sessions, and technical support
+- Travel and accommodation for keynote speakers

@@ -1,101 +1,69 @@
 ---
 layout: page
 title: Submission Tracks
+permalink: /tracks/
 parent: Call for Papers
-nav_order: 0
+nav_order: 1
 ---
-
-{% include splash.html %}
 
 # Deadlines for Submission
 
-All deadlines can be found on the [deadlines page]({{ site.baseurl
-}}/deadlines).
-
+All deadlines can be found on the [Key Dates page]({{ site.baseurl }}/deadlines/).
 
 # Submission Tracks and Review Process
 
-{: .highlight}
-> CPAL has two submission tracks:
-> 1. [Proceedings track]({{ site.baseurl }}/tracks/#proceedings-track--archival) (*archival*)
-> 2. ["Recent spotlight" track]({{ site.baseurl }}/tracks/#recent-spotlight-track-non-archival) (*non-archival*)
-> 
-> Submissions to the Proceedings track are to be prepared using the CPAL
-> LaTeX style files, available as a [zip archive]({{ site.baseurl }}/assets/CPAL-2026-template.zip)
-> or as an [Overleaf template](https://www.overleaf.com/latex/templates/cpal-2026/kfczctncyftz).
+{: .highlight }
+> CPAL 2027 has two research submission tracks:
+> 1. [Proceedings Track](#proceedings-track-archival) (*archival*)
+> 2. [Recent Spotlight Track](#recent-spotlight-track-non-archival) (*non-archival presentation track*)
+>
+> Proceedings submissions use the CPAL 2027 LaTeX style and are reviewed double-blind. Recent Spotlight submissions are reviewed single-blind. Submission links are collected on the [CPAL OpenReview page]({{ site.baseurl }}/openreview/).
 
 {: .fs-6 .text-center}
-[CPAL OpenReview Submission Portal](https://openreview.net/group?id=CPAL.cc/2026)
+[CPAL OpenReview Submission Portal]({{ site.baseurl }}/openreview/)
 
+## Tracks at a glance
 
-## Proceedings Track  (archival)
+| Feature | [Proceedings Track](#proceedings-track-archival) | [Recent Spotlight Track](#recent-spotlight-track-non-archival) |
+|:--|:--|:--|
+| Status | Archival | Non-archival presentation track |
+| Review | Double-blind | Single-blind; do not anonymize |
+| Format | CPAL template; 9 pages of main text | 250-word abstract plus supporting material |
+| Prior/concurrent work | No substantially similar prior or concurrent archival submission | Concurrent, under-review, and recently published work permitted |
+| Publication | [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press/) | No proceedings or DOI |
+| Presentation | Poster; selected papers may receive talks | Poster; selected contributions may receive short talks |
 
-The submission and review stage will be **double-blind**. We use
-[OpenReview](https://openreview.net/group?id=CPAL.cc/2026/Conference)
-to host
-papers and record discussions between authors and reviewers. Before the end of the
-Authors-Reviewers Discussion Stage, authors can participate in the discussion as
-well as update their submission at any time. After that, there will be an
-internal discussion period amongst reviewers and ACs with the aim of
-summarizing the review process, after which the final decisions are made by
-ACs.
+See the [Call for Papers]({{ site.baseurl }}/call_for_papers/) and [Subject Areas]({{ site.baseurl }}/subject_areas/) pages for the scientific scope of CPAL 2027.
 
-After the notification deadline, accepted and opted-in rejected papers will be
-made public and open for non-anonymous public commenting. Their anonymous
-reviews, meta-reviews, author responses and reviewer responses will also be
-made public. Authors of rejected papers will have two weeks after the
-notification deadline to opt in to make their de-anonymized rejected papers
-public in OpenReview.
+## Proceedings Track (archival)
 
-Submissions that are substantially similar to papers previously published, or
-submitted in parallel to other peer-reviewed venues with proceedings or
-journals may not be submitted to the Proceedings Track. Papers previously
-presented at workshops are permitted, so long as they did not appear in a
-conference proceedings (e.g., CVPRW proceedings), a journal or a book.
+The Proceedings Track is intended for original, unpublished research. The submission and review process is **double-blind** and will be hosted on [OpenReview](https://openreview.net/). Proceedings submissions must use the CPAL 2027 LaTeX style. The main text may contain up to **nine pages**, including figures and tables; references and appendices do not count toward the limit. The main text should be self-contained, and reviewers are not required to read appendices.
 
-The existence of non-anonymous preprints (on arXiv or other online
-repositories, personal websites, social media) will not result in rejection.
-Authors may submit anonymized work to CPAL that is already available as a
-preprint (e.g., on arXiv) without citing it.
+- Submissions must be anonymized.
+- A public preprint does **not** violate the anonymity policy. Authors should refer to their own work in the third person where appropriate.
+- A submission must not be substantially similar to work already published, accepted, or simultaneously under review at another archival conference or journal.
+- Prior presentation at a non-archival workshop is permitted provided that the work did not appear in archival proceedings, a journal, or a book.
+- Accepted Proceedings Track papers will appear in the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press/).
+- At least one author of each accepted paper must register for CPAL 2027 and present the work in person.
 
-Accepted papers will be published in the [Proceedings for Machine Learning
-Research (PMLR)](https://proceedings.mlr.press/). Full proceedings papers can
-have up to nine pages with unlimited pages for references and appendix. Upon
-acceptance of a paper, at least one of the authors must join the conference.
+During the author–reviewer discussion period, authors may respond to reviewers and update their manuscript in accordance with the published instructions. Final decisions are made by the Program Chairs with Area-Chair recommendations and paper-level shepherding. See the [Key Dates page]({{ site.baseurl }}/deadlines/) for the full review calendar and the [Review Guidelines]({{ site.baseurl }}/review_guidelines/) for reviewing information.
 
-### Using Large Language Models (LLMs) 
-We follow the rule by NeurIPS 2023, quoted as follows:
+## Recent Spotlight Track (non-archival)
 
-*“We welcome authors to use any tool that is suitable for preparing high-quality papers and research. However, we ask authors to keep in mind two important criteria. First, we expect papers to fully describe their methodology, and any tool that is important to that methodology, including the use of LLMs, should be described also. For example, authors should mention tools (including LLMs) that were used for data processing or filtering, visualization, facilitating or running experiments, and proving theorems. It may also be advisable to describe the use of LLMs in implementing the method (if this corresponds to an important, original, or non-standard component of the approach). Second, authors are responsible for the entire content of the paper, including all text and figures, so while authors are welcome to use any tool they wish for writing the paper, they must ensure that all text is correct and original.”*
-{: .quote}
+The Recent Spotlight Track showcases timely research at different stages of development, from technically mature work in progress to recently accepted or published results. It is a **presentation track** and has no proceedings or DOI.
 
-## “Recent Spotlight” Track (non-archival)
+Each submission includes a **250-word abstract** and one of the following:
 
-We meanwhile aim to showcase the latest research innovations at all stages of
-the research process, from work-in-progress to recently published papers.
-Concretely, we ask members of the community to submit to
-[OpenReview](https://openreview.net/group?id=CPAL.cc/2026/Recent_Spotlight_Track)
-either:
-- A conference-style submission describing the work, which may be prepared using the
-  [CPAL style files]({{ site.baseurl }}/tracks#submission-tracks-and-review-process),
-  but need not conform to any specific formatting requirements (e.g., page
-  limits);
-- A poster (in PDF form) presenting results of work-in-progress;
-- The camera-ready version of work that has been published prior (e.g.,
-  conferences, journals).
+- a conference-style manuscript describing the work;
+- a poster PDF presenting work in progress; or
+- the camera-ready version of recently accepted or published work.
 
-Please also upload a short (250 word) abstract to
-[OpenReview](https://openreview.net/group?id=CPAL.cc/2026/Recent_Spotlight_Track).
-OpenReview submissions may also include any of the following supplemental
-materials that describe the work in further detail:
+Authors may additionally provide appendices or public links that help explain the work. Concurrent or under-review submissions are permitted, as is work accepted or published at an archival venue within the 12 months preceding the [Recent Spotlight deadline]({{ site.baseurl }}/deadlines/#conference-submission-recent-spotlight-track). Reviewing is **single-blind**, so authors should not anonymize their submissions.
 
-- A link to a blog post (e.g., distill.pub, Medium) describing results.
-- Appendices with detailed derivations and additional experiments.
+Selection considers CPAL fit, clarity, technical credibility, timeliness, and discussion value, calibrated to the stated stage of the work. Authors remain responsible for complying with the policies of any other venue to which the same work is submitted.
 
-This track is non-archival and has no proceedings. We permit under-review or
-concurrent submissions, as well as papers officially accepted by a journal or
-conference within 12 months of the [submission deadline]({{
-site.baseurl}}/deadlines) for the Recent Spotlight
-Track. Reviewing will be performed in a single-blind
-fashion (authors should not anonymize their submissions), and will be held with
-the same high quality bar with the Proceedings Track. 
+## Use of AI-assisted tools
+
+Authors may use AI-assisted tools in conducting research and preparing manuscripts, but remain fully responsible for the accuracy, originality, citations, ethics, and scientific integrity of all submitted content. Important, original, or non-standard methodological use of such tools should be disclosed sufficiently for readers to understand and reproduce the work. Routine spelling, grammar, formatting, or basic coding assistance need not be disclosed. AI systems should not be listed as authors.
+
+Reviewers and committee members must preserve submission confidentiality and may not upload unpublished submission material to external AI systems.

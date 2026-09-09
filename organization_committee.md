@@ -1,145 +1,19 @@
 ---
 layout: page
 title: Organization Committee
+permalink: /organization_committee/
 parent: Organizers
-nav_order: 0
+nav_order: 1
 ---
 
 # Organization Committee
 
-## General Chairs
-
-<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
-  flex-start;">
-
-  {% assign gcs = site.organizers | where: 'role', 'General Chair' %}
-  {% for organizer in gcs %}
-  {{ organizer }}
-  {% endfor %}
-
-</div>
-
-## Program Chairs
-
-<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
-  flex-start;">
-
-  {% assign pcs = site.organizers | where: 'role', 'Program Chair' %}
-  {% for organizer in pcs %}
-  {{ organizer }}
-  {% endfor %}
-
-</div>
-
-## Senior Advisors to Program Chairs
-
-<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
-  flex-start;">
-
-  {% assign pcs = site.organizers | where: 'role', 'Senior Advisor to PCs' %}
-  {% for organizer in pcs %}
-  {{ organizer }}
-  {% endfor %}
-
-</div>
-
-
-## Local Chairs
-
-<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
-  flex-start;">
-
-  {% assign lcs = site.organizers | where: 'role', 'Local Chair' %}
-  {% for organizer in lcs %}
-  {{ organizer }}
-  {% endfor %}
-
-</div>
-
-## Publication Chairs
-
-<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
-  flex-start;">
-
-  {% assign pubcs = site.organizers | where: 'role', 'Publication Chair' %}
-  {% for organizer in pubcs %}
-  {{ organizer }}
-  {% endfor %}
-
-</div>
-
-## Industry Liaison Chairs
-
-<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
-  flex-start;">
-
-  {% assign spcs = site.organizers | where: 'role', 'Industry Liaison Chair' %}
-  {% for organizer in spcs %}
-  {{ organizer }}
-  {% endfor %}
-
-</div>
-
-
-
-## Tutorial Chairs
-
-<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
-  flex-start;">
-
-  {% assign tutcs = site.organizers | where: 'role', 'Tutorial Chair' %}
-  {% for organizer in tutcs %}
-  {{ organizer }}
-  {% endfor %}
-
-</div>
-
-
-## Publicity Chairs
-
-<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
-  flex-start;">
-
-  {% assign publiccs = site.organizers | where: 'role', 'Publicity Chair' %}
-  {% for organizer in publiccs %}
-  {{ organizer }}
-  {% endfor %}
-
-</div>
-
-
-## Rising Stars Award Chairs
-
-<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
-  flex-start;">
-
-  {% assign rsacs = site.organizers | where: 'role', 'Rising Stars Award Chair' %}
-  {% for organizer in rsacs %}
-  {{ organizer }}
-  {% endfor %}
-
-</div>
-
-## Web Chairs
-
-<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
-  flex-start;">
-
-  {% assign wcs = site.organizers | where: 'role', 'Web Chair' %}
-  {% for organizer in wcs %}
-  {{ organizer }}
-  {% endfor %}
-
-</div>
-
-## Local Support
-
-<div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
-  flex-start;">
-
-  {% assign locs = site.organizers | where: 'role', 'Local Support' %}
-  {% for organizer in locs %}
-  {{ organizer }}
-  {% endfor %}
-
-</div>
+{% include organizer_section.html role="general" title="General Chairs" %}
+{% include organizer_section.html role="program" title="Program Chairs" %}
+{% include organizer_section.html role="advisor" title="Senior Advisors to Program Chairs" %}
+{% include organizer_section.html role="local" title="Local Chairs" %}
+{% include organizer_section.html role="publication" title="Publication Chairs" %}
+{% include organizer_section.html role="industry" title="Industry Liaison Chairs" %}
+{% include organizer_section.html role="publicity" title="Publicity Chairs" %}
+{% include organizer_section.html role="award" title="Award Chair" %}
+{% include organizer_section.html role="web" title="Web Chair" %}

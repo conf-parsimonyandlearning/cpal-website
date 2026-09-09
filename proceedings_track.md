@@ -1,46 +1,11 @@
 ---
 layout: page
 title: Proceedings Track
-description: Accepted papers for CPAL 2026 Proceedings Track
+permalink: /proceedings_track/
 parent: Accepted Papers
+nav_order: 1
 ---
 
-{% include splash.html %}
+# Proceedings Track
 
-# Proceedings Track: Accepted Papers
-
-Accepted Proceedings Track papers are presented as
-[posters]({{site.baseurl}}/posters) at CPAL 2026.
-A select number of accepted Proceedings Track papers will be presented as
-[orals]({{site.baseurl}}/orals); they are labeled below with ***(Oral)***.
-See the [full program]({{ site.baseurl }}/program_schedule/) for the precise
-time and location of each oral and poster session.
-
-{% assign papers = site.proceedings | sort: 'id' %}
-
-{% for paper in papers %}
-{% unless paper.award %}{% continue %}{% endunless %}
-
-### [{{ paper.title }}]({{ paper.link }}) ***(Oral, {{ paper.award }})***
-{{ paper.authors }}
-
-{: .fs-2 }
-Keywords: *{{ paper.keywords }}*
-
-{% endfor %}
-
-{% for paper in papers %}
-{% if paper.award %}{% continue %}{% endif %}
-
-{% assign suffix = '' %}
-{% if paper.type == 'oral' %}
-  {% assign suffix = '(Oral)' %}
-{% endif %}
-
-### [{{ paper.title }}]({{ paper.link }}){% if suffix != '' %} ***{{suffix}}***{% endif %}
-{{ paper.authors }}
-
-{: .fs-2 }
-Keywords: *{{ paper.keywords }}*
-
-{% endfor %}
+Accepted CPAL 2027 Proceedings Track papers will be listed here after decisions are released.

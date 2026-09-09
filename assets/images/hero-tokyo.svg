@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 720" role="img" aria-labelledby="title desc">
+  <title id="title">Tokyo and parsimonious learning</title>
+  <desc id="desc">A geometric Tokyo skyline connected by a sparse network of points and curves</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#d8ecff"/>
+      <stop offset="0.52" stop-color="#7db8ee"/>
+      <stop offset="1" stop-color="#367fc0"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2e6fa9"/>
+      <stop offset="1" stop-color="#173e68"/>
+    </linearGradient>
+    <pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M80 0H0V80" fill="none" stroke="#fff" stroke-opacity=".10" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1600" height="720" fill="url(#sky)"/>
+  <rect width="1600" height="720" fill="url(#grid)"/>
+  <circle cx="1315" cy="135" r="76" fill="#fff" opacity=".34"/>
+  <g fill="none" stroke="#eef8ff" stroke-width="3" opacity=".58">
+    <path d="M765 115C935 58 1102 84 1248 194S1452 294 1568 245"/>
+    <path d="M905 235c109-85 218-79 322 15s207 108 325 42" stroke-dasharray="12 14"/>
+    <path d="M640 160c102 40 177 118 225 235" stroke-dasharray="7 16"/>
+  </g>
+  <g fill="#fff" filter="url(#glow)">
+    <circle cx="765" cy="115" r="7"/><circle cx="914" cy="84" r="6"/><circle cx="1080" cy="105" r="7"/>
+    <circle cx="1248" cy="194" r="8"/><circle cx="1394" cy="277" r="6"/><circle cx="1568" cy="245" r="7"/>
+    <circle cx="905" cy="235" r="6"/><circle cx="1057" cy="196" r="7"/><circle cx="1227" cy="250" r="6"/>
+  </g>
+  <g opacity=".42" fill="#f8fcff">
+    <path d="M115 445l82-95 60 69 86-132 78 158z"/>
+    <path d="M1232 427l57-75 49 46 75-108 91 137z"/>
+  </g>
+  <path d="M0 504C239 460 422 505 635 487s370-54 590-19 273 15 375-2v254H0Z" fill="url(#ground)"/>
+  <g fill="#1a4b78" opacity=".93">
+    <path d="M48 508h93v159H48zM153 468h74v199h-74zM244 525h105v142H244zM366 438h80v229h-80zM461 492h117v175H461zM596 420h83v247h-83zM697 517h102v150H697zM824 459h89v208h-89zM935 498h133v169H935zM1091 431h77v236h-77zM1186 486h118v181h-118zM1326 446h83v221h-83zM1428 512h123v155h-123z"/>
+  </g>
+  <g fill="#2b669c">
+    <path d="M666 420h-57l28-58z"/>
+    <path d="M1119 431h-38l19-44z"/>
+  </g>
+  <g fill="none" stroke="#d9f0ff" stroke-width="5" opacity=".75">
+    <path d="M575 667c92-82 197-102 315-61s220 41 315-20"/>
+    <path d="M630 667c86-54 174-57 265-9s176 43 264-8" stroke-dasharray="8 14"/>
+  </g>
+  <g transform="translate(1010 170)" opacity=".78">
+    <path d="M0 285h165M82 0l-6 285M82 0L41 285M82 0l42 285M55 92h55M43 166h79M31 238h103" fill="none" stroke="#eef8ff" stroke-width="6"/>
+    <circle cx="82" cy="0" r="8" fill="#fff"/>
+  </g>
+</svg>

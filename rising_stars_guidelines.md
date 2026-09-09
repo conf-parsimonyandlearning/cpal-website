@@ -1,76 +1,64 @@
 ---
 layout: page
 title: Call for Applications
+permalink: /rising_stars_guidelines/
 parent: Rising Stars Award
 nav_order: 1
 ---
 
-{% include splash.html %}
+# CPAL 2027 Rising Stars Award
 
-# CPAL Rising Stars Award
+The Conference on Parsimony and Learning (CPAL) continues its **Rising Stars Award** program to recognize exceptional researchers at an early and pivotal stage of their careers, connect them with the CPAL research community, and broaden participation in research on parsimonious learning.
 
-The Conference on Parsimony and Learning (CPAL) launches the Rising Stars Award
-program to highlight exceptional junior researchers at a critical inflection and
-starting point in their career: last-year PhD students, postdoctoral scholars,
-first-year tenure track faculty, or industry researcher within two years of
-graduation.
-
-CPAL is an annual research conference focused on addressing the parsimonious,
-low dimensional structures that prevail in machine learning, signal processing,
-optimization, and beyond. As in the last year, CPAL Rising Stars Award program
-will provide PhD students, postdocs, junior faculties and industry researchers
-the opportunity to plug into these networks, platforms, and opportunities. The
-program also aims to increase representation and diversity in this area by
-providing a platform and a supportive mentoring network to navigate academic
-careers. All graduate students and postdocs, including those who belong to
-groups underrepresented, are encouraged to apply, including but not limited to
-people of all racial, ethnic, geographic, and socioeconomic backgrounds, sexual
-orientations, genders, and persons with disabilities.
-
-**[Apply here](https://docs.google.com/forms/d/e/1FAIpQLSfD6JeJA98csGOzQPZkg_3qGMngz3LWG16RsQBKEKZMQisDhg/viewform), and see details below.**
+The Rising Stars Award is a **separate call for applications**, not a paper-submission or publication track. Applications are reviewed independently from Proceedings and Recent Spotlight submissions.
 
 ## Key Dates
 
-- Applications Due: December 15, 2025
-- Notification Date: January 21st, 2026
-- Conference: March 23–26, 2026 at Tübingen, Germany
+- **Applications due:** December 15, 2026
+- **Notification:** January 21, 2027
+- **Conference:** March 23–26, 2027, Tokyo, Japan
 
 ## Program Format
 
-- Dedicated poster session for selected awardees
-- Panels (career development)
-- Roundtable dinners or 1-1 meetings with senior researchers
+Selected Rising Stars are expected to participate in CPAL 2027 in person. The program will include:
+
+- a dedicated research presentation or poster opportunity;
+- mentoring and career-development activities;
+- opportunities to meet senior researchers and other Rising Stars; and
+- community and networking activities during the conference.
 
 ## Application Requirements
 
-The [application](https://docs.google.com/forms/d/e/1FAIpQLSfD6JeJA98csGOzQPZkg_3qGMngz3LWG16RsQBKEKZMQisDhg/viewform) is available through Google Forms.
-- Name & Contact
-- Resume/CV
-- Tentative Poster Title
-- Research statement outlining research goals, potential projects of interest,
-  and long-term career goals, and commitment to creating a more diverse and
-  inclusive scientific community (1 page, standard font at a size 11 or larger)
-- List names of 1-2 references with emails
+The application will request:
+
+- name and contact information;
+- a current CV/resume;
+- a tentative poster or presentation title;
+- a **one-page research statement** describing research goals, current or potential projects, and long-term career goals; and
+- the names and email addresses of **one or two references**.
+
+The application form will be linked from this page when submissions open.
 
 ## Eligibility and Guidelines
 
-- Applicants must be full time graduate students in their last year of
-  obtaining a PhD, or current postdoctoral scholars/fellows, first-year tenure
-  track faculty, or industry researchers within two years of graduation
-- We welcome applicants from a wide variety of fields and backgrounds: any
-  eligible PhD or postdoc or junior faculty or junior industry researchers, who
-  are engaging in addressing the parsimonious, low dimensional structures that
-  prevail in machine learning, signal processing, optimization, systems,
-  interdisciplinary applications and beyond are encouraged to apply.
-- Applicants from all institutions worldwide are encouraged to apply.
-- An applicant may only submit one application.
+Eligible applicants include:
+
+- full-time PhD students in the **final year** of their doctoral program;
+- current postdoctoral scholars or fellows;
+- **first-year tenure-track faculty**; and
+- industry researchers within **two years of graduation**.
+
+Applicants from institutions worldwide are encouraged to apply. We welcome researchers from a wide variety of fields and backgrounds whose work addresses parsimonious or low-dimensional structures in machine learning, signal processing, optimization, systems, scientific applications, and related areas. Each person may submit **one application**.
 
 ## Review Criteria
 
-Proposals will be reviewed by the CPAL Rising Stars Program Committee based on
-research impact, academic progress (if applicable), career potential, and
-commitment to broadening participation.
+Applications will be reviewed by the CPAL Rising Stars Program Committee based on:
+
+- research impact;
+- academic or professional progress, where applicable;
+- career potential; and
+- commitment to broadening participation in the scientific community.
 
 ## Contact
 
-Please email [tianlong@cs.unc.edu](mailto:tianlong@cs.unc.edu) with questions.
+Questions may be sent to [pcs@cpal.cc](mailto:pcs@cpal.cc).

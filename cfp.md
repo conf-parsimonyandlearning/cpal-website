@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Call for Papers
-has_children: true
-nav_order: 9
+title: Call for Papers (legacy link)
+permalink: /cfp/
+nav_exclude: true
 ---
 
-{% include splash.html %}
+See the [CPAL 2027 Call for Papers]({{ "/call_for_papers/" | relative_url }}).

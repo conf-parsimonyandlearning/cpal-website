@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Accepted Papers
-description: Accepted papers for the conference, proceedings and spotlight tracks
-has_children: True
-nav_order: 2
+permalink: /accepted_papers/
+nav_order: 20
+has_children: true
 ---
 
-{% include splash.html %}
+# Accepted Papers
+
+Accepted-paper listings will appear here after the CPAL 2027 review process is complete.

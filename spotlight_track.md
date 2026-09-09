@@ -1,26 +1,11 @@
 ---
 layout: page
 title: Spotlight Track
-description: Accepted papers for CPAL 2026 Spotlight Track
+permalink: /spotlight_track/
 parent: Accepted Papers
+nav_order: 2
 ---
 
-{% include splash.html %}
+# Recent Spotlight Track
 
-# Spotlight Track: Accepted Papers
-
-Accepted Spotlight Track papers are presented as
-[posters]({{site.baseurl}}/posters) at CPAL 2026.
-See the [full program]({{ site.baseurl }}/program_schedule/) for the precise
-time and location of each poster session.
-
-{% assign papers = site.spotlight | sort: 'id' %}
-{% for paper in papers %}
-
-### [{{ paper.title }}]({{ paper.link }})
-{{ paper.authors }}
-
-{: .fs-2 }
-Keywords: *{{ paper.keywords }}*
-
-{% endfor %}
+Accepted CPAL 2027 Recent Spotlight contributions will be listed here after decisions are released.
