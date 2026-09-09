@@ -6,6 +6,9 @@
   website: https://datascience.hku.hk/people/yi-ma/
   photo: /assets/images/organizers/yi-ma.jpeg
   photo_position: 50% 42%
+  photo_scale: 1.000
+  photo_offset_x: -0.00%
+  photo_offset_y: -0.00%
   photo_credit: CPAL 2026 organizer portrait archive
   photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
 - name: Taiji Suzuki
@@ -16,6 +19,9 @@
   website: https://ibis.t.u-tokyo.ac.jp/suzuki/
   photo: /assets/images/organizers/taiji-suzuki.png
   photo_position: 50% 38%
+  photo_scale: 1.000
+  photo_offset_x: -0.00%
+  photo_offset_y: -0.00%
   photo_credit: CPAL 2026 speaker portrait archive
   photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
 - name: Wei Huang
@@ -26,6 +32,9 @@
   website: https://weihuang05.github.io/
   photo: /assets/images/organizers/wei-huang.png
   photo_position: 50% 42%
+  photo_scale: 1.000
+  photo_offset_x: -0.00%
+  photo_offset_y: -0.00%
   photo_credit: CPAL 2026 organizer portrait archive
   photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
 - name: Tan Minh Nguyen
@@ -36,6 +45,9 @@
   website: https://tanmnguyen89.github.io/
   photo: /assets/images/organizers/tan-minh-nguyen.jpeg
   photo_position: 50% 42%
+  photo_scale: 2.791
+  photo_offset_x: 36.27%
+  photo_offset_y: 40.64%
   photo_credit: Personal website
   photo_credit_url: https://tanmnguyen89.github.io/
 - name: Grigorios Chrysos
@@ -45,7 +57,10 @@
   affiliation: University of Wisconsin–Madison
   website: https://grigoris.ece.wisc.edu/
   photo: /assets/images/organizers/grigorios-chrysos.jpeg
-  photo_position: 50% 38%
+  photo_position: 50% 10%
+  photo_scale: 1.137
+  photo_offset_x: 2.30%
+  photo_offset_y: 3.29%
   photo_credit: Personal website
   photo_credit_url: https://grigoris.ece.wisc.edu/
 - name: Sara Fridovich-Keil
@@ -56,6 +71,9 @@
   website: https://sarafridov.github.io/
   photo: /assets/images/organizers/sara-fridovich-keil.jpeg
   photo_position: 50% 40%
+  photo_scale: 1.882
+  photo_offset_x: 1.13%
+  photo_offset_y: 20.74%
   photo_credit: CPAL 2026 organizer portrait archive
   photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
 - name: Liyue Shen
@@ -66,6 +84,9 @@
   website: https://liyueshen.engin.umich.edu/
   photo: /assets/images/organizers/liyue-shen.jpeg
   photo_position: 50% 38%
+  photo_scale: 1.184
+  photo_offset_x: -3.69%
+  photo_offset_y: 2.09%
   photo_credit: CPAL 2026 organizer portrait archive
   photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
 - name: Qing Qu
@@ -76,6 +97,9 @@
   website: https://qingqu.engin.umich.edu/
   photo: /assets/images/organizers/qing-qu.jpeg
   photo_position: 50% 40%
+  photo_scale: 1.819
+  photo_offset_x: -6.97%
+  photo_offset_y: 14.99%
   photo_credit: CPAL 2026 organizer portrait archive
   photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
 - name: Atlas Wang
@@ -86,6 +110,9 @@
   website: https://vita-group.github.io/
   photo: /assets/images/organizers/atlas-wang.png
   photo_position: 50% 38%
+  photo_scale: 1.047
+  photo_offset_x: -2.36%
+  photo_offset_y: 2.16%
   photo_credit: CPAL 2026 organizer portrait archive
   photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
 - name: Sijia Liu
@@ -96,6 +123,9 @@
   website: https://lsjxjtu.github.io/
   photo: /assets/images/organizers/sijia-liu.png
   photo_position: 50% 40%
+  photo_scale: 1.000
+  photo_offset_x: -0.00%
+  photo_offset_y: -0.00%
   photo_credit: CPAL 2026 organizer portrait archive
   photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
 - name: Jere Sulam
@@ -106,6 +136,9 @@
   website: https://jsulam.github.io/
   photo: /assets/images/organizers/jere-sulam.png
   photo_position: 50% 36%
+  photo_scale: 1.289
+  photo_offset_x: 8.53%
+  photo_offset_y: 5.09%
   photo_credit: CPAL 2026 organizer portrait archive
   photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website/blob/0c3481ea6da75d4cf4b98ef943dcdc5da6260ecb/assets/images/js.png
 - name: Sho Sonoda
@@ -116,6 +149,9 @@
   website: https://sites.google.com/view/shosonoda/home
   photo: /assets/images/organizers/sho-sonoda.jpg
   photo_position: 50% 42%
+  photo_scale: 1.460
+  photo_offset_x: 0.60%
+  photo_offset_y: 8.40%
   photo_credit: CyberAgent AI Lab profile
   photo_credit_url: https://research.cyberagent.ai/people/s_sonoda/
 - name: Tomoya Wakayama
@@ -126,6 +162,9 @@
   website: https://tomwaka.github.io/
   photo: /assets/images/organizers/tomoya-wakayama.jpg
   photo_position: 50% 38%
+  photo_scale: 1.629
+  photo_offset_x: -3.31%
+  photo_offset_y: 21.95%
   photo_credit: Personal website
   photo_credit_url: https://tomwaka.github.io/
 - name: Peng Wang
@@ -136,6 +175,9 @@
   website: https://peng8wang.github.io/
   photo: /assets/images/organizers/peng-wang.jpg
   photo_position: 50% 42%
+  photo_scale: 1.404
+  photo_offset_x: 1.92%
+  photo_offset_y: 1.86%
   photo_credit: Personal website
   photo_credit_url: https://peng8wang.github.io/
 - name: Zhihui Zhu
@@ -146,6 +188,9 @@
   website: https://zhihuizhu.github.io/
   photo: /assets/images/organizers/zhihui-zhu.jpeg
   photo_position: 50% 40%
+  photo_scale: 1.356
+  photo_offset_x: 6.19%
+  photo_offset_y: 11.67%
   photo_credit: CPAL 2026 organizer portrait archive
   photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
 - name: Mingyuan Bai
@@ -156,6 +201,9 @@
   website: https://scholar.google.com/citations?user=lo0_2rMAAAAJ&hl=en
   photo: /assets/images/organizers/mingyuan-bai.jpg
   photo_position: 50% 38%
+  photo_scale: 1.911
+  photo_offset_x: -18.40%
+  photo_offset_y: 20.14%
   photo_credit: DeLTa Workshop profile / Google Scholar-linked profile
   photo_credit_url: https://delta-workshop.github.io/
 - name: Ambar Pal
@@ -166,6 +214,9 @@
   website: https://www.cis.jhu.edu/~ambar/
   photo: /assets/images/organizers/ambar-pal.png
   photo_position: 50% 40%
+  photo_scale: 1.626
+  photo_offset_x: -6.78%
+  photo_offset_y: -0.50%
   photo_credit: CPAL 2024 Rising Stars portrait archive
   photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website/blob/2024/assets/images/risingstars/pal.png
 - name: Joey Tianyi Zhou
@@ -176,6 +227,9 @@
   website: https://joeyzhouty.github.io/index.html
   photo: /assets/images/organizers/joey-tianyi-zhou.jpg
   photo_position: 50% 38%
+  photo_scale: 1.492
+  photo_offset_x: -1.96%
+  photo_offset_y: 12.01%
   photo_credit: Personal website
   photo_credit_url: https://joeyzhouty.github.io/index.html
 - name: Atsushi Nitanda
@@ -186,6 +240,9 @@
   website: https://sites.google.com/site/atsushinitanda/
   photo: /assets/images/organizers/atsushi-nitanda.jpg
   photo_position: 50% 38%
+  photo_scale: 2.202
+  photo_offset_x: -4.39%
+  photo_offset_y: 17.87%
   photo_credit: Portrait supplied to CPAL 2027 Web Chair
   photo_credit_url: https://sites.google.com/site/atsushinitanda/
 - name: Yani Ioannou
@@ -196,6 +253,9 @@
   website: https://yani.ai/
   photo: /assets/images/organizers/yani-ioannou.jpeg
   photo_position: 50% 36%
+  photo_scale: 1.774
+  photo_offset_x: -9.70%
+  photo_offset_y: 20.37%
   photo_credit: CPAL 2026 organizer portrait archive
   photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
 - name: Renyuan Xu
@@ -206,6 +266,9 @@
   website: https://renyuanxu.github.io/
   photo: /assets/images/organizers/renyuan-xu.png
   photo_position: 50% 38%
+  photo_scale: 1.337
+  photo_offset_x: 0.99%
+  photo_offset_y: -2.78%
   photo_credit: Personal website
   photo_credit_url: https://renyuanxu.github.io/
 - name: Tianlong Chen
@@ -216,6 +279,9 @@
   website: https://tianlong-chen.github.io/
   photo: /assets/images/organizers/tianlong-chen.jpeg
   photo_position: 50% 38%
+  photo_scale: 1.549
+  photo_offset_x: -6.11%
+  photo_offset_y: 11.77%
   photo_credit: CPAL 2026 organizer portrait archive
   photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
 - name: Shiwei Liu
@@ -226,6 +292,9 @@
   website: https://shiweiliuiiiiiii.github.io/
   photo: /assets/images/organizers/shiwei-liu.png
   photo_position: 50% 38%
+  photo_scale: 1.523
+  photo_offset_x: 3.17%
+  photo_offset_y: -2.91%
   photo_credit: CPAL 2026 organizer portrait archive
   photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
 - name: Dake Bu
@@ -236,5 +305,8 @@
   website: https://dakebu.github.io/
   photo: /assets/images/organizers/dake-bu.jpg
   photo_position: 50% 34%
+  photo_scale: 3.931
+  photo_offset_x: 42.57%
+  photo_offset_y: 38.33%
   photo_credit: Personal website
   photo_credit_url: https://dakebu.github.io/
