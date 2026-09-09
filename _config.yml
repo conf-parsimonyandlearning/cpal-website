@@ -10,7 +10,7 @@ repository: conf-parsimonyandlearning/cpal-website
 theme: just-the-docs
 color_scheme: cpal
 logo: "/assets/images/logo.svg"
-favicon_ico: "/assets/images/favicon.svg"
+favicon_ico: "/assets/favicon.svg"
 
 search_enabled: true
 heading_anchors: true
