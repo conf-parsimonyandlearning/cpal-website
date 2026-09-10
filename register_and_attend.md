@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_exclude: true
 title: Register & Attend
 permalink: /register_and_attend/
 nav_order: 110

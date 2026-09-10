@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Organizers
+title: Organizers (legacy link)
 permalink: /organizers/
-nav_order: 90
-has_children: true
+nav_exclude: true
 search_exclude: true
 ---
+
+See the [CPAL 2027 Organizers]({{ '/organization_committee/' | relative_url }}).

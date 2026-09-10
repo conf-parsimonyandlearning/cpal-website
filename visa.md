@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_exclude: true
 title: "Travel: Visa Information"
 permalink: /visa/
 parent: Register & Attend

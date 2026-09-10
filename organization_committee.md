@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Organization Committee
+title: Organizers
 permalink: /organization_committee/
-parent: Organizers
-nav_order: 1
+nav_order: 90
 ---
 
 # Organization Committee

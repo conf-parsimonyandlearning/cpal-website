@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_exclude: true
 title: Logistics and Venue
 permalink: /venue/
 parent: Register & Attend
