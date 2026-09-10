@@ -300,3 +300,51 @@ $content-width-0: 1200px;
 @media (max-width: 600px) {
   .home-leadership-list { grid-template-columns: 1fr; }
 }
+
+.home-date-cards {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.875rem;
+  list-style: none;
+  padding-left: 0;
+}
+
+.home-date-cards > .home-date-card {
+  margin: 0;
+  padding: 1.125rem;
+  border: 1px solid #dce4e9;
+  border-top: 3px solid #246b82;
+  border-radius: 8px;
+  background: #f6f9fb;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.home-date-cards > li::before { display: none; }
+.home-date-label { font-size: 0.875rem; line-height: 1.5; }
+.home-date-value { color: #194e60; font-size: 1.125rem; line-height: 1.4; }
+
+.home-leadership-list > .home-chair-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1.5rem 1rem;
+  border: 1px solid #e4e8eb;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.home-chair-card .organizer-photo-link { margin: 0 0 0.5rem; }
+.home-chair-name { font-weight: 600; }
+
+@media (max-width: 600px) {
+  .home-date-cards { grid-template-columns: 1fr; }
+}
+
+.main-content .home-date-cards,
+.main-content .home-leadership-list {
+  padding-left: 0;
+}
