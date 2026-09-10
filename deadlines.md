@@ -15,26 +15,13 @@ nav_order: 3
 |:--|:--|:--|
 | **CPAL 2027** | **March 23–26, 2027** | <span class="cpal-countdown" data-countdown="2027-03-23T00:00:00+09:00"></span> |
 
-## Conference Submission ([Proceedings Track]({{ site.baseurl }}/tracks/#proceedings-track-archival))
+## Conference Submission ([Proceedings Track]({{ site.baseurl }}/call_for_papers/#proceedings-track-archival))
 
-| Event | Date | Countdown |
-|:--|:--|:--|
-| Abstract registration | November 23, 2026 | <span class="cpal-countdown" data-countdown="2026-11-23T23:59:59-12:00"></span> |
-| **Proceedings paper deadline** | **December 5, 2026** | <span class="cpal-countdown" data-countdown="2026-12-05T23:59:59-12:00"></span> |
-| Reviews released; author rebuttal begins | January 11, 2027 | <span class="cpal-countdown" data-countdown="2027-01-11T23:59:59-12:00"></span> |
-| Author rebuttal | January 11–17, 2027 | <span class="cpal-countdown" data-countdown="2027-01-17T23:59:59-12:00"></span> |
-| Author–reviewer discussion ends | January 22, 2027 | <span class="cpal-countdown" data-countdown="2027-01-22T23:59:59-12:00"></span> |
-| **Proceedings notification** | **February 1, 2027** | <span class="cpal-countdown" data-countdown="2027-02-01T23:59:59-12:00"></span> |
-| Camera-ready deadline | February 12, 2027 | <span class="cpal-countdown" data-countdown="2027-02-12T23:59:59-12:00"></span> |
+{% include proceedings_dates.md %}
 
-Author rebuttal runs January 11–17 (7 days), followed by author–reviewer discussion January 18–22 (5 days).
+## Conference Submission ([Recent Spotlight Track]({{ site.baseurl }}/call_for_papers/#recent-spotlight-track-non-archival))
 
-## Conference Submission ([Recent Spotlight Track]({{ site.baseurl }}/tracks/#recent-spotlight-track-non-archival))
-
-| Event | Date | Countdown |
-|:--|:--|:--|
-| Recent Spotlight submission deadline | January 18, 2027 | <span class="cpal-countdown" data-countdown="2027-01-18T23:59:59-12:00"></span> |
-| Recent Spotlight notification | February 1, 2027 | <span class="cpal-countdown" data-countdown="2027-02-01T23:59:59-12:00"></span> |
+{% include spotlight_dates.md %}
 
 ## [Tutorial Proposals]({{ site.baseurl }}/call_for_tutorials/)
 
@@ -50,6 +37,6 @@ Author rebuttal runs January 11–17 (7 days), followed by author–reviewer dis
 | Rising Stars application deadline | December 15, 2026 | <span class="cpal-countdown" data-countdown="2026-12-15T23:59:59-12:00"></span> |
 | Rising Stars notification | January 21, 2027 | <span class="cpal-countdown" data-countdown="2027-01-21T23:59:59-12:00"></span> |
 
-Please see the [Submission Tracks]({{ site.baseurl }}/tracks/), [Call for Tutorials]({{ site.baseurl }}/call_for_tutorials/), and [Rising Stars Call for Applications]({{ site.baseurl }}/rising_stars_guidelines/) pages for details.
+Please see the [Submission Tracks]({{ site.baseurl }}/call_for_papers/#submission-tracks), [Call for Tutorials]({{ site.baseurl }}/call_for_tutorials/), and [Rising Stars Call for Applications]({{ site.baseurl }}/rising_stars_guidelines/) pages for details.
 
 <script src="{{ site.baseurl }}/assets/js/cpal-countdown.js"></script>
