@@ -2,7 +2,7 @@
 layout: page
 title: Register & Attend
 permalink: /register_and_attend/
-nav_order: 10
+nav_order: 110
 has_children: true
 ---
 

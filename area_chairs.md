@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_exclude: true
 title: Area Chairs
 permalink: /area_chairs/
 parent: Organizers
