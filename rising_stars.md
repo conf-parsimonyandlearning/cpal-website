@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_exclude: true
 title: Rising Stars Award
 permalink: /rising_stars/
 nav_order: 50

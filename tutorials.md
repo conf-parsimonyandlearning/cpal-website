@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_exclude: true
 title: Tutorials
 permalink: /tutorials/
 nav_order: 60
