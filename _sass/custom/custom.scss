@@ -279,3 +279,24 @@ $content-width-0: 1200px;
     display: block;
   }
 }
+
+.home-leadership-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem 1.5rem;
+  list-style: none;
+  padding-left: 0;
+
+  > li { margin: 0; }
+  > li::before { display: none; }
+}
+
+.home-leadership-affiliation {
+  display: block;
+  font-size: 0.875rem;
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 600px) {
+  .home-leadership-list { grid-template-columns: 1fr; }
+}
