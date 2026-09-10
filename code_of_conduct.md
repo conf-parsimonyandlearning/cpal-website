@@ -2,9 +2,7 @@
 layout: page
 title: Code of Conduct
 permalink: /code_of_conduct/
-parent: Call for Papers
-grand_parent: Call
-nav_order: 4
+nav_exclude: true
 ---
 
 # Code of Conduct

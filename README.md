@@ -24,7 +24,7 @@ to be held at **Hitotsubashi Hall in Tokyo, Japan**.
 
 CPAL 2027 invites theoretical, methodological, empirical, and systems contributions that make **parsimony central to learning**—through sparsity, low rank, symmetry, modularity, compressibility, or structured computation. We welcome work on foundation, generative, multimodal, and agentic models when the underlying parsimony principle is explicit. Submit original, unpublished research to the **Proceedings Track**, with accepted papers published in PMLR, or timely work at different stages of development to the **Recent Spotlight Track**, presented without archival proceedings. We value technically sound research with clear insights for the community; acceptance does not require a new benchmark state of the art or novelty for its own sake.
 
-[Read the full Call for Papers]({{ '/call_for_papers/' | relative_url }}) · [Submission Tracks]({{ '/tracks/' | relative_url }}) · [Key Dates]({{ '/deadlines/' | relative_url }})
+[Read the full Call for Papers]({{ '/call_for_papers/' | relative_url }}) · [Submission Tracks]({{ '/call_for_papers/' | relative_url }}#submission-tracks) · [Key Dates]({{ '/deadlines/' | relative_url }})
 
 # Conference Sponsors
 
