@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_exclude: true
 title: Proceedings Track
 permalink: /proceedings_track/
 parent: Accepted Papers

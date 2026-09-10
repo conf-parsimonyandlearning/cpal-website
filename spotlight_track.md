@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_exclude: true
 title: Spotlight Track
 permalink: /spotlight_track/
 parent: Accepted Papers

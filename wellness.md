@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_exclude: true
 title: Tailored Wellness Sessions
 permalink: /wellness/
 parent: Conference Program

@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_exclude: true
 title: Rising Stars Presentations
 permalink: /rising_stars_presentations/
 parent: Conference Program

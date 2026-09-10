@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_exclude: true
 title: Program at a Glance
 permalink: /program_schedule/
 parent: Conference Program

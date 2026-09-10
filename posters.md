@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_exclude: true
 title: Poster Presentations
 permalink: /posters/
 parent: Conference Program

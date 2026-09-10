@@ -3,6 +3,7 @@ layout: page
 title: Submission Tracks
 permalink: /tracks/
 parent: Call for Papers
+grand_parent: Call
 nav_order: 1
 ---
 

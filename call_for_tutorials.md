@@ -2,7 +2,7 @@
 layout: page
 title: Call for Tutorials
 permalink: /call_for_tutorials/
-parent: Tutorials
+parent: Call
 nav_order: 2
 ---
 

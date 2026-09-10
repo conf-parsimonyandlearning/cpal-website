@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_exclude: true
 title: Accepted Papers
 permalink: /accepted_papers/
 nav_order: 20
