@@ -3,6 +3,7 @@ layout: page
 title: Subject Areas
 permalink: /subject_areas/
 parent: Call for Papers
+grand_parent: Call
 nav_order: 2
 ---
 

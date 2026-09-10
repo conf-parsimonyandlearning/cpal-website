@@ -2,7 +2,8 @@
 layout: page
 title: Call for Papers
 permalink: /call_for_papers/
-nav_order: 70
+parent: Call
+nav_order: 1
 has_children: true
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Call for Applications
+title: Call for Rising Stars Award
 permalink: /rising_stars_guidelines/
-parent: Rising Stars Award
-nav_order: 1
+parent: Call
+nav_order: 3
 ---
 
 # CPAL 2027 Rising Stars Award

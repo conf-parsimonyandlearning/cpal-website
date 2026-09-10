@@ -3,6 +3,7 @@ layout: page
 title: Review Guidelines
 permalink: /review_guidelines/
 parent: Call for Papers
+grand_parent: Call
 nav_order: 3
 ---
 

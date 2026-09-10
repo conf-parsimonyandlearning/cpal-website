@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_exclude: true
 title: Conference Program
 permalink: /conference_program/
 nav_order: 30

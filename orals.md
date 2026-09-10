@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_exclude: true
 title: Oral Presentations
 permalink: /orals/
 parent: Conference Program

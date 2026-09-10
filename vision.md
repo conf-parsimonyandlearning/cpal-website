@@ -2,7 +2,7 @@
 layout: page
 title: Conference Vision
 permalink: /vision/
-nav_order: 110
+nav_order: 1
 ---
 
 # Conference Vision
