@@ -14,6 +14,8 @@ This internal checklist records the public-facing information currently used on 
 - Rising Stars eligibility, application materials, review criteria, and schedule.
 - Organizing committee supplied to the Web Chair.
 
+- Confirmed keynote speakers: Masashi Sugiyama, Kenji Fukumizu, Yuejie Chi, and Yew-Soon Ong.
+
 ## Links/details still to insert when available
 
 - CPAL 2027 OpenReview group URL.
@@ -21,5 +23,5 @@ This internal checklist records the public-facing information currently used on 
 - Tutorial proposal form URL.
 - Rising Stars application form URL.
 - Registration portal, fees, and cancellation policy.
-- Invited speakers and final conference program.
+- Keynote talk titles, abstracts, speaker biographies, and final conference program.
 - Accommodation blocks, sponsors, institutional hosts, and detailed on-site room/catering instructions.
