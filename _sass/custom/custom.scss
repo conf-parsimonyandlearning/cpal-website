@@ -348,3 +348,27 @@ $content-width-0: 1200px;
 .main-content .home-leadership-list {
   padding-left: 0;
 }
+
+// Compact portrait grid inspired by the CPAL 2026 speaker overview.
+.keynote-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 2rem 1rem;
+  margin: 2rem 0;
+}
+.keynote-card { text-align: center; min-width: 0; }
+.keynote-photo-link { display: inline-block; }
+.keynote-photo-frame {
+  display: block;
+  width: 140px;
+  height: 140px;
+  max-width: 100%;
+  overflow: hidden;
+  border-radius: 25%;
+  background: #f2f5f7;
+}
+.keynote-photo-frame img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.main-content .keynote-name { font-size: 1rem !important; font-weight: 600; margin: 0.75rem 0 0.35rem; }
+.main-content .keynote-affiliation { font-size: 0.875rem; line-height: 1.45; margin: 0; }
+@media (max-width: 600px) { .keynote-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 350px) { .keynote-grid { grid-template-columns: 1fr; } }

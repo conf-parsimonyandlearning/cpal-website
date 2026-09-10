@@ -14,6 +14,7 @@ This internal checklist records the public-facing information currently used on 
 - Rising Stars eligibility, application materials, review criteria, and schedule.
 - Organizing committee supplied to the Web Chair.
 
+- Keynote portraits and affiliations verified against official personal pages; credits in `attribution.md`.
 - Confirmed keynote speakers: Masashi Sugiyama, Kenji Fukumizu, Yuejie Chi, and Yew-Soon Ong.
 
 ## Links/details still to insert when available
