@@ -2,7 +2,7 @@
 layout: page
 title: Key Dates
 permalink: /deadlines/
-nav_order: 80
+nav_order: 3
 ---
 
 # Key Dates and Deadlines
