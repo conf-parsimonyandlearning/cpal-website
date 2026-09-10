@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_exclude: true
 title: "Travel: Accommodations"
 permalink: /hotels/
 parent: Register & Attend
