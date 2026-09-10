@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_exclude: true
 title: Rising Stars Awardees
 permalink: /rising_stars_awardees/
 parent: Rising Stars Award

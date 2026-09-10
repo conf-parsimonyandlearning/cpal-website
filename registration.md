@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_exclude: true
 title: Registration
 permalink: /registration/
 parent: Register & Attend

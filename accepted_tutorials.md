@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_exclude: true
 title: Accepted Tutorials
 permalink: /accepted_tutorials/
 parent: Tutorials
