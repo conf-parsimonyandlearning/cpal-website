@@ -10,7 +10,8 @@ nav_order: 40
 CPAL keynote sessions feature invited perspectives on fundamental and emerging questions in parsimonious learning, spanning theory, algorithms, systems, and applications.
 
 <div class="keynote-grid">
-  {% for speaker in site.data.keynote_speakers %}
+  {% assign sorted_speakers = site.data.keynote_speakers | sort: "surname" %}
+  {% for speaker in sorted_speakers %}
   <article class="keynote-card">
     <a class="keynote-photo-link" href="{{ speaker.website }}" target="_blank" rel="noopener" aria-label="Visit {{ speaker.name }}'s website">
       <span class="keynote-photo-frame">
