@@ -26,6 +26,14 @@ CPAL 2027 invites theoretical, methodological, empirical, and systems contributi
 
 [Read the full Call for Papers]({{ '/call_for_papers/' | relative_url }}) · [Submission Tracks]({{ '/call_for_papers/' | relative_url }}#submission-tracks) · [Key Dates]({{ '/deadlines/' | relative_url }})
 
-# Conference Sponsors
+## Important Dates
+
+{% include home_dates.html %}
+
+All three deadlines are **23:59 Anywhere on Earth (AoE)**. [View the full schedule]({{ '/deadlines/' | relative_url }}) for review, notification, and other conference dates.
+
+{% include home_committee.html %}
+
+## Conference Sponsors
 
 CPAL 2027 welcomes support from industry, foundations, research organizations, and other partners. See the [Sponsors]({{ '/sponsors/' | relative_url }}) page and the [CPAL 2027 Sponsorship Prospectus]({{ '/sponsorship_opportunities/' | relative_url }}) for sponsorship opportunities.

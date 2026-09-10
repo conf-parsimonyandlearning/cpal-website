@@ -1,13 +1,17 @@
-<section class="home-committee">
-  <h2>Conference leadership</h2>
-  <div class="leadership-row">
-    {% assign leaders = site.data.organizers | where: "role_key", "general" %}
+<section class="home-committee" aria-labelledby="conference-leadership">
+  <h2 id="conference-leadership">Conference Leadership</h2>
+  {% assign leadership_roles = "general,program" | split: "," %}
+  {% for role_key in leadership_roles %}
+  <h3>{% if role_key == "general" %}General Chairs{% else %}Program Chairs{% endif %}</h3>
+  <ul class="home-leadership-list">
+    {% assign leaders = site.data.organizers | where: "role_key", role_key %}
     {% for person in leaders %}
-      <a class="leadership-pill" href="{{ person.website }}" target="_blank" rel="noopener">
-        <span>{{ person.name }}</span>
-        <small>General Chair</small>
-      </a>
+    <li>
+      <a href="{{ person.website }}" target="_blank" rel="noopener">{{ person.name }}</a>
+      <span class="home-leadership-affiliation">{{ person.affiliation | escape }}</span>
+    </li>
     {% endfor %}
-  </div>
-  <p><a href="{{ '/organization_committee/' | relative_url }}">View the full CPAL 2027 organizing committee →</a></p>
+  </ul>
+  {% endfor %}
+  <p><a href="{{ '/organization_committee/' | relative_url }}">View all Organizers →</a></p>
 </section>
