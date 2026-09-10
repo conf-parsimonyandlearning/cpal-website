@@ -1,10 +1,10 @@
-<table>
-  <thead><tr><th scope="col">Event</th><th scope="col">Deadline (AoE)</th></tr></thead>
-  <tbody>
-    {% assign deadline_keys = "abstract,proceedings,spotlight" | split: "," %}
-    {% for key in deadline_keys %}
-    {% assign deadline = site.data.paper_deadlines[key] %}
-    <tr><th scope="row">{{ deadline.label }}</th><td><strong>{{ deadline.date }}</strong></td></tr>
-    {% endfor %}
-  </tbody>
-</table>
+<ul class="home-date-cards" aria-label="Important submission dates">
+  {% assign deadline_keys = "abstract,proceedings,spotlight" | split: "," %}
+  {% for key in deadline_keys %}
+  {% assign deadline = site.data.paper_deadlines[key] %}
+  <li class="home-date-card">
+    <span class="home-date-label">{{ deadline.label }}</span>
+    <strong class="home-date-value">{{ deadline.date }}</strong>
+  </li>
+  {% endfor %}
+</ul>

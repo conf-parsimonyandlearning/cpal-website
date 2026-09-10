@@ -4,8 +4,16 @@
   <ul class="home-leadership-list">
     {% assign leaders = site.data.organizers | where: "role_key", "general" %}
     {% for person in leaders %}
-    <li>
-      <a href="{{ person.website }}" target="_blank" rel="noopener">{{ person.name }}</a>
+    <li class="home-chair-card">
+      <a class="organizer-photo-link" href="{{ person.website }}" target="_blank" rel="noopener" aria-label="Visit {{ person.name }}'s website">
+        <span class="organizer-photo-wrap">
+          <span class="organizer-initials" aria-hidden="true">{{ person.initials }}</span>
+          <img class="organizer-photo" src="{{ person.photo | relative_url }}" alt="Portrait of {{ person.name }}" loading="lazy" decoding="async"
+            style="object-position: {{ person.photo_position | default: '50% 50%' }}; --photo-scale: {{ person.photo_scale | default: 1 }}; --photo-x: {{ person.photo_offset_x | default: '0%' }}; --photo-y: {{ person.photo_offset_y | default: '0%' }}"
+            onerror="this.onerror=null;this.style.display='none';">
+        </span>
+      </a>
+      <a class="home-chair-name" href="{{ person.website }}" target="_blank" rel="noopener">{{ person.name }}</a>
       <span class="home-leadership-affiliation">{{ person.affiliation | escape }}</span>
     </li>
     {% endfor %}
