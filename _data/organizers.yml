@@ -284,6 +284,16 @@
   photo_offset_y: 11.77%
   photo_credit: CPAL 2026 organizer portrait archive
   photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
+- name: William T. Redman
+  initials: WR
+  role_key: publicity
+  role: Publicity Chair
+  affiliation: Johns Hopkins University
+  website: https://wredman4.wixsite.com/wtredman
+  photo: /assets/images/redman.jpeg
+  photo_position: 50% 40%
+  photo_credit: CPAL 2026 organizer portrait archive
+  photo_credit_url: https://github.com/conf-parsimonyandlearning/cpal-website
 - name: Shiwei Liu
   initials: SL
   role_key: award
