@@ -167,6 +167,19 @@
   photo_offset_y: 21.95%
   photo_credit: Personal website
   photo_credit_url: https://tomwaka.github.io/
+- name: Yiqiao Zhong
+  initials: YZ
+  role_key: tutorial
+  role: Tutorial Chair
+  affiliation: University of Wisconsin–Madison
+  website: https://pages.stat.wisc.edu/~zhong35/
+  photo: /assets/images/organizers/yiqiao-zhong.jpeg
+  photo_position: 50% 40%
+  photo_scale: 3
+  photo_offset_x: -60%
+  photo_offset_y: 24%
+  photo_credit: Official university homepage
+  photo_credit_url: https://pages.stat.wisc.edu/~zhong35/
 - name: Peng Wang
   initials: PW
   role_key: publication

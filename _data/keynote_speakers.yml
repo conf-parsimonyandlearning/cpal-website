@@ -1,3 +1,13 @@
+- name: "Weijie Su"
+  surname: "Su"
+  affiliation: "University of Pennsylvania"
+  website: "https://www.weijie-su.com/"
+  photo: "weijie-su.jpg"
+  photo_position: "50% 50%"
+  photo_scale: 1
+  photo_x: "0%"
+  photo_y: "0%"
+  source: "https://www.weijie-su.com/"
 - name: "Masashi Sugiyama"
   surname: "Sugiyama"
   affiliation: "RIKEN AIP & The University of Tokyo"
