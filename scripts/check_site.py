@@ -47,10 +47,13 @@ for path, page in pages.items():
         elif target.fragment and dest in pages and unquote(target.fragment) not in pages[dest].ids:
             report.add(f'{rel}: missing fragment {ref}')
     for src in page.portraits:
-        if not src.startswith('/assets/images/organizers/'):
+        if not src.startswith('/assets/images/'):
             report.add(f'{rel}: nonlocal portrait {src}')
 committee = pages.get(root/'organization_committee/index.html')
-if not committee or len(committee.portraits) != 24: errors.add('Expected 24 organizer portraits')
+organizer_data = Path(__file__).resolve().parents[1] / '_data/organizers.yml'
+expected_portraits = len(re.findall(r'^- name:', organizer_data.read_text(), re.M))
+if not committee or len(committee.portraits) != expected_portraits:
+    errors.add(f'Expected {expected_portraits} organizer portraits')
 for route in ('', 'call_for_papers', 'deadlines', 'organization_committee', 'venue', 'registration', 'openreview', 'past', '2026', 'cfp', 'other_years'):
     if root/route/'index.html' not in pages: errors.add(f'Missing main page: /{route}')
 if (root/'CNAME').read_text().strip() != 'cpal.cc': errors.add('Incorrect CNAME')
