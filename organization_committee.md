@@ -11,7 +11,7 @@ nav_order: 90
 {% include organizer_section.html role="program" title="Program Chairs" %}
 {% include organizer_section.html role="advisor" title="Senior Advisors to Program Chairs" %}
 {% include organizer_section.html role="local" title="Local Chairs" %}
-{% include organizer_section.html role="tutorial" title="Tutorial Chair" %}
+{% include organizer_section.html role="tutorial" title="Tutorial Chairs" %}
 {% include organizer_section.html role="publication" title="Publication Chairs" %}
 {% include organizer_section.html role="industry" title="Industry Liaison Chairs" %}
 {% include organizer_section.html role="publicity" title="Publicity Chairs" %}

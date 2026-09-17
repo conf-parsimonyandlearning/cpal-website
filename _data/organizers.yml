@@ -180,6 +180,16 @@
   photo_offset_y: 24%
   photo_credit: Official university homepage
   photo_credit_url: https://pages.stat.wisc.edu/~zhong35/
+- name: Rebekka Burkholz
+  initials: RB
+  role_key: tutorial
+  role: Tutorial Chair
+  affiliation: CISPA Helmholtz Center for Information Security
+  website: https://cispa.de/en/people/c01rebu
+  photo: /assets/images/organizers/rebekka-burkholz.jpg
+  photo_position: 50% 40%
+  photo_credit: Official CISPA profile
+  photo_credit_url: https://cispa.de/en/people/c01rebu
 - name: Peng Wang
   initials: PW
   role_key: publication
