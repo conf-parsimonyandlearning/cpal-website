@@ -37,10 +37,10 @@ Portraits are displayed for conference identification and link to the correspond
 
 ## Keynote speaker portraits
 
-Portraits are sourced from the speakers' official personal pages and displayed for conference identification. Original images are retained; framing is applied with CSS.
+Portraits are sourced from the speakers' official personal or institutional pages and displayed for conference identification. Original images are retained; framing is applied with CSS.
 
 <div class="credit-list">
 {% for speaker in site.data.keynote_speakers %}
-  <p class="credit-item"><strong>{{ speaker.name }}</strong> — <a href="{{ speaker.source }}" target="_blank" rel="noopener">official personal page</a>.</p>
+  <p class="credit-item"><strong>{{ speaker.name }}</strong> — <a href="{{ speaker.source }}" target="_blank" rel="noopener">official profile</a>.</p>
 {% endfor %}
 </div>

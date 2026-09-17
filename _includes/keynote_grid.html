@@ -10,6 +10,9 @@
     </a>
     <{{ include.heading | default: "h2" }} class="keynote-name no_anchor"><a href="{{ speaker.website }}" target="_blank" rel="noopener">{{ speaker.name }}</a></{{ include.heading | default: "h2" }}>
     <p class="keynote-affiliation">{{ speaker.affiliation | escape }}</p>
+    {% if speaker.status %}
+    <p class="keynote-status">{{ speaker.status | escape }}</p>
+    {% endif %}
   </article>
   {% endfor %}
 </div>
