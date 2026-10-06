@@ -1,11 +1,11 @@
 abstract:
   label: Abstract registration
-  date: November 23, 2026
-  timestamp: "2026-11-23T23:59:59-12:00"
+  date: November 13, 2026
+  timestamp: "2026-11-13T23:59:59-12:00"
 proceedings:
   label: Proceedings paper deadline
-  date: December 5, 2026
-  timestamp: "2026-12-05T23:59:59-12:00"
+  date: November 25, 2026
+  timestamp: "2026-11-25T23:59:59-12:00"
 spotlight:
   label: Recent Spotlight submission deadline
   date: January 18, 2027
