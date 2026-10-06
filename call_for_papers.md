@@ -99,6 +99,7 @@ See [Key Dates]({{ "/deadlines/" | relative_url }}) for the conference, tutorial
 The Proceedings Track is intended for original, unpublished research. The submission and review process is **double-blind** and will be hosted on [OpenReview](https://openreview.net/). Proceedings submissions must use the CPAL 2027 LaTeX style. The main text may contain up to **nine pages**, including figures and tables; references and appendices do not count toward the limit. The main text should be self-contained, and reviewers are not required to read appendices.
 
 - Submissions must be anonymized.
+- **Per-author submission limit:** Each author may be listed on at most **10 submissions** to the CPAL 2027 Proceedings Track. This limit applies to every coauthor, regardless of author order.
 - A public preprint does **not** violate the anonymity policy. Authors should refer to their own work in the third person where appropriate.
 - A submission must not be substantially similar to work already published, accepted, or simultaneously under review at another archival conference or journal.
 - Prior presentation at a non-archival workshop is permitted provided that the work did not appear in archival proceedings, a journal, or a book.

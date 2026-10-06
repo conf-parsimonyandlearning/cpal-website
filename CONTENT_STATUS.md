@@ -10,6 +10,7 @@ This internal checklist records the public-facing information currently used on 
 - Proceedings and Recent Spotlight track definitions and review model.
 - Abstract, paper, tutorial, Rising Stars, Spotlight, notification, rebuttal/discussion, and camera-ready dates.
 - Proceedings/PMLR publication language.
+- Proceedings Track submission limit: at most 10 submissions per author, including all coauthors regardless of author order.
 - AI-assisted-tool responsibility and reviewer-confidentiality language.
 - Rising Stars eligibility, application materials, review criteria, and schedule.
 - Organizing committee supplied to the Web Chair.
