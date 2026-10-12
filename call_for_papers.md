@@ -14,7 +14,9 @@ nav_order: 1
 CPAL 2027 invites research that makes **parsimony central to learning**. Choose the **Proceedings Track** for original, unpublished archival papers or the **Recent Spotlight Track** for non-archival presentations of timely research. Below are the scientific scope, track requirements, deadlines, and review policies in one place.
 
 [Submission portal and templates]({{ '/openreview/' | relative_url }}){: .btn .btn-primary }
-[Download Proceedings LaTeX template (ZIP)]({{ '/assets/CPAL-2027-template.zip' | relative_url }}){: .btn }
+[Download Proceedings LaTeX template (ZIP)](https://raw.githubusercontent.com/conf-parsimonyandlearning/cpal-website/main/assets/CPAL-2027-template.zip){: .btn }
+
+[Open in Overleaf](https://www.overleaf.com/docs?snip_uri=https%3A%2F%2Fraw.githubusercontent.com%2Fconf-parsimonyandlearning%2Fcpal-website%2Fmain%2Fassets%2FCPAL-2027-template.zip){: .btn }
 [Key Dates]({{ '/deadlines/' | relative_url }}){: .btn }
 
 **On this page**
@@ -73,7 +75,7 @@ Submissions proposing a new notion of parsimony are especially welcome when the 
 |:--|:--|:--|
 | Status | Archival | Non-archival presentation track |
 | Review | Double-blind | Single-blind; do not anonymize |
-| Format | [CPAL template]({{ '/assets/CPAL-2027-template.zip' | relative_url }}); 9 pages of main text | 250-word abstract plus supporting material |
+| Format | [CPAL template](https://raw.githubusercontent.com/conf-parsimonyandlearning/cpal-website/main/assets/CPAL-2027-template.zip); 9 pages of main text | 250-word abstract plus supporting material |
 | Prior/concurrent work | No substantially similar prior or concurrent archival submission | Concurrent, under-review, and recently published work permitted |
 | Deadline | See [Proceedings dates](#proceedings-dates) | See [Recent Spotlight dates](#recent-spotlight-dates) |
 | Publication | [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press/) | No proceedings or DOI |
@@ -97,7 +99,7 @@ See [Key Dates]({{ "/deadlines/" | relative_url }}) for the conference, tutorial
 
 ### Proceedings Track (archival)
 
-The Proceedings Track is intended for original, unpublished research. The submission and review process is **double-blind** and will be hosted on [OpenReview](https://openreview.net/). Proceedings submissions must use the [CPAL 2027 LaTeX style]({{ '/assets/CPAL-2027-template.zip' | relative_url }}). The main text may contain up to **nine pages**, including figures and tables; references and appendices do not count toward the limit. The main text should be self-contained, and reviewers are not required to read appendices.
+The Proceedings Track is intended for original, unpublished research. The submission and review process is **double-blind** and will be hosted on [OpenReview](https://openreview.net/). Proceedings submissions must use the [CPAL 2027 LaTeX style](https://raw.githubusercontent.com/conf-parsimonyandlearning/cpal-website/main/assets/CPAL-2027-template.zip). The main text may contain up to **nine pages**, including figures and tables; references and appendices do not count toward the limit. The main text should be self-contained, and reviewers are not required to read appendices.
 
 - Submissions must be anonymized.
 - **Per-author submission limit:** Each author may be listed on at most **10 submissions** to the CPAL 2027 Proceedings Track. This limit applies to every coauthor, regardless of author order.
@@ -159,7 +161,7 @@ Reviewers and committee members must preserve submission confidentiality and may
 
 ## Submission and Contact
 
-Proceedings and Recent Spotlight submissions will be handled through **OpenReview**. Download the [CPAL 2027 LaTeX template (ZIP)]({{ '/assets/CPAL-2027-template.zip' | relative_url }}) for the Proceedings Track. Submission portal updates and template instructions are collected on the [CPAL OpenReview page]({{ site.baseurl }}/openreview/).
+Proceedings and Recent Spotlight submissions will be handled through **OpenReview**. Download the [CPAL 2027 LaTeX template (ZIP)](https://raw.githubusercontent.com/conf-parsimonyandlearning/cpal-website/main/assets/CPAL-2027-template.zip) for the Proceedings Track. Submission portal updates and template instructions are collected on the [CPAL OpenReview page]({{ site.baseurl }}/openreview/).
 
 For questions about scientific scope or submission policy, contact the Program Chairs at [pcs@cpal.cc](mailto:pcs@cpal.cc).
 

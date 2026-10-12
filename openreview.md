@@ -13,9 +13,11 @@ See the [Submission Tracks]({{ site.baseurl }}/call_for_papers/#submission-track
 
 ## Proceedings LaTeX template
 
-[Download CPAL 2027 LaTeX template (ZIP)]({{ '/assets/CPAL-2027-template.zip' | relative_url }}){: .btn .btn-primary }
+[Download CPAL 2027 LaTeX template (ZIP)](https://raw.githubusercontent.com/conf-parsimonyandlearning/cpal-website/main/assets/CPAL-2027-template.zip){: .btn .btn-primary }
 
-Import the ZIP into Overleaf as a new project, or compile it locally. The ZIP contains the LaTeX source, style file, and example bibliography.
+[Open in Overleaf](https://www.overleaf.com/docs?snip_uri=https%3A%2F%2Fraw.githubusercontent.com%2Fconf-parsimonyandlearning%2Fcpal-website%2Fmain%2Fassets%2FCPAL-2027-template.zip){: .btn }
+
+Open the template in Overleaf to create your own project, or download the ZIP to compile locally. The ZIP contains the LaTeX source, style file, and example bibliography.
 
 For **Proceedings Track** submissions, keep the default anonymous submission mode, which hides author names and adds line numbers. Do not enable the `final` or `preprint` options for review. The main text is limited to **nine pages**, including figures and tables; references and appendices do not count toward the limit.
 
