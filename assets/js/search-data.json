@@ -1,0 +1,758 @@
+{"0": {
+    "doc": "Page not found",
+    "title": "404",
+    "content": "The requested CPAL 2027 page could not be found. Return to the CPAL 2027 homepage. ",
+    "url": "/cpal-website/404.html",
+    
+    "relUrl": "/404.html"
+  },"1": {
+    "doc": "Page not found",
+    "title": "Page not found",
+    "content": " ",
+    "url": "/cpal-website/404.html",
+    
+    "relUrl": "/404.html"
+  },"2": {
+    "doc": "Home",
+    "title": "CPAL 2027: March 23–26, 2027",
+    "content": "We are pleased to announce the Fourth Conference on Parsimony and Learning, to be held at Hitotsubashi Hall in Tokyo, Japan. ",
+    "url": "/cpal-website/#cpal-2027-march-2326-2027",
+    
+    "relUrl": "/#cpal-2027-march-2326-2027"
+  },"3": {
+    "doc": "Home",
+    "title": "Call for Papers",
+    "content": "CPAL 2027 invites theoretical, methodological, empirical, and systems contributions that make parsimony central to learning—through sparsity, low rank, symmetry, modularity, compressibility, or structured computation. We welcome work on foundation, generative, multimodal, and agentic models when the underlying parsimony principle is explicit. Submit original, unpublished research to the Proceedings Track, with accepted papers published in PMLR, or timely work at different stages of development to the Recent Spotlight Track, presented without archival proceedings. We value technically sound research with clear insights for the community; acceptance does not require a new benchmark state of the art or novelty for its own sake. Read the full Call for Papers · Submission Tracks · Key Dates . Download Proceedings LaTeX template (ZIP) . Open in Overleaf . ",
+    "url": "/cpal-website/#call-for-papers",
+    
+    "relUrl": "/#call-for-papers"
+  },"4": {
+    "doc": "Home",
+    "title": "Important Dates",
+    "content": ". | Abstract registration November 13, 2026 | Proceedings paper deadline November 25, 2026 | Recent Spotlight submission deadline January 18, 2027 | . All three deadlines are 23:59 Anywhere on Earth (AoE). View the full schedule for review, notification, and other conference dates. ",
+    "url": "/cpal-website/#important-dates",
+    
+    "relUrl": "/#important-dates"
+  },"5": {
+    "doc": "Home",
+    "title": "Keynote Speakers",
+    "content": "Mikhail Belkin . University of California San Diego . Tentative . Yuejie Chi . Yale University . Kenji Fukumizu . The Institute of Statistical Mathematics (ISM) . Yew-Soon Ong . Nanyang Technological University &amp; A*STAR . Weijie Su . University of Pennsylvania . Masashi Sugiyama . RIKEN AIP &amp; The University of Tokyo . View Keynote Speakers . ",
+    "url": "/cpal-website/#keynote-speakers",
+    
+    "relUrl": "/#keynote-speakers"
+  },"6": {
+    "doc": "Home",
+    "title": "Conference Leadership",
+    "content": "General Chairs . | YM Yi Ma The University of Hong Kong | TS Taiji Suzuki The University of Tokyo &amp; RIKEN AIP | . View all Organizers → . ",
+    "url": "/cpal-website/#conference-leadership",
+    
+    "relUrl": "/#conference-leadership"
+  },"7": {
+    "doc": "Home",
+    "title": "Conference Sponsors",
+    "content": "CPAL 2027 welcomes support from industry, foundations, research organizations, and other partners. See the Sponsors page and the CPAL 2027 Sponsorship Prospectus for sponsorship opportunities. ",
+    "url": "/cpal-website/#conference-sponsors",
+    
+    "relUrl": "/#conference-sponsors"
+  },"8": {
+    "doc": "Home",
+    "title": "Home",
+    "content": "Conference on Parsimony and Learning (CPAL) March 2027,&nbsp;Tokyo The Conference on Parsimony and Learning (CPAL) is an annual research conference focused on addressing the parsimonious, low-dimensional structures that prevail in machine learning, signal processing, optimization, and beyond. We are interested in theories, algorithms, applications, hardware and systems, as well as scientific foundations for learning with parsimony. ",
+    "url": "/cpal-website/",
+    
+    "relUrl": "/"
+  },"9": {
+    "doc": "Accepted Papers",
+    "title": "Accepted Papers",
+    "content": "Accepted-paper listings will appear here after the CPAL 2027 review process is complete. ",
+    "url": "/cpal-website/accepted_papers/",
+    
+    "relUrl": "/accepted_papers/"
+  },"10": {
+    "doc": "Accepted Tutorials",
+    "title": "Accepted Tutorials",
+    "content": "Accepted CPAL 2027 tutorials will be listed here after decisions are released. ",
+    "url": "/cpal-website/accepted_tutorials/",
+    
+    "relUrl": "/accepted_tutorials/"
+  },"11": {
+    "doc": "Area Chairs",
+    "title": "Area Chairs",
+    "content": "The CPAL 2027 Area Chair roster will be posted after appointments are confirmed. ",
+    "url": "/cpal-website/area_chairs/",
+    
+    "relUrl": "/area_chairs/"
+  },"12": {
+    "doc": "Attribution",
+    "title": "Attribution",
+    "content": " ",
+    "url": "/cpal-website/attribution/",
+    
+    "relUrl": "/attribution/"
+  },"13": {
+    "doc": "Attribution",
+    "title": "Website design and CPAL identity",
+    "content": "The CPAL 2027 website was migrated from the independent DakeBU implementation into the official CPAL repository. Its information architecture, Just the Docs styling, organizer-card pattern, CPAL logo, and footer conventions are adapted from the CPAL 2026 website repository, distributed under the MIT License. The original license text is retained in this repository’s LICENSE file. ",
+    "url": "/cpal-website/attribution/#website-design-and-cpal-identity",
+    
+    "relUrl": "/attribution/#website-design-and-cpal-identity"
+  },"14": {
+    "doc": "Attribution",
+    "title": "Tokyo splash photograph",
+    "content": "The site splash uses “20110405-TokyoTower-Sakura01.jpg”, a spring view of Zōjō-ji and Tokyo Tower by Wikimedia Commons user 東京太郎 / Taro Tokyo, licensed under CC BY-SA 3.0. Source: Wikimedia Commons. The website displays the photograph with reduced opacity and light color treatment to match CPAL’s established splash style. ",
+    "url": "/cpal-website/attribution/#tokyo-splash-photograph",
+    
+    "relUrl": "/attribution/#tokyo-splash-photograph"
+  },"15": {
+    "doc": "Attribution",
+    "title": "Venue imagery and maps",
+    "content": "The venue photograph is “NII - National Center of Sciences Build.jpg” by Gabriel Synnaeve, showing the National Center of Sciences building that houses Hitotsubashi Hall. It is sourced from Wikimedia Commons and is licensed under CC BY-SA 2.0. The access map is reproduced from the official Hitotsubashi University Hitotsubashi Hall English access PDF. The website hosts a local rasterized copy so the map renders reliably in browsers; the map itself remains attributed to Hitotsubashi University and links back to the official PDF. ",
+    "url": "/cpal-website/attribution/#venue-imagery-and-maps",
+    
+    "relUrl": "/attribution/#venue-imagery-and-maps"
+  },"16": {
+    "doc": "Attribution",
+    "title": "Organizer portraits",
+    "content": "Portraits are displayed for conference identification and link to the corresponding researcher’s personal, institutional, or Google Scholar page. The site does not claim ownership of these images. Yi Ma — CPAL 2026 organizer portrait archive. Taiji Suzuki — CPAL 2026 speaker portrait archive. Wei Huang — CPAL 2026 organizer portrait archive. Tan Minh Nguyen — Personal website. Grigorios Chrysos — Personal website. Sara Fridovich-Keil — CPAL 2026 organizer portrait archive. Liyue Shen — CPAL 2026 organizer portrait archive. Qing Qu — CPAL 2026 organizer portrait archive. Atlas Wang — CPAL 2026 organizer portrait archive. Sijia Liu — CPAL 2026 organizer portrait archive. Jere Sulam — CPAL 2026 organizer portrait archive. Sho Sonoda — CyberAgent AI Lab profile. Tomoya Wakayama — Personal website. Yiqiao Zhong — Official university homepage. Rebekka Burkholz — Official CISPA profile. Peng Wang — Personal website. Zhihui Zhu — CPAL 2026 organizer portrait archive. Mingyuan Bai — DeLTa Workshop profile / Google Scholar-linked profile. Ambar Pal — CPAL 2024 Rising Stars portrait archive. Joey Tianyi Zhou — Personal website. Atsushi Nitanda — portrait supplied directly to the CPAL 2027 Web Chair. Yani Ioannou — CPAL 2026 organizer portrait archive. Renyuan Xu — Personal website. Tianlong Chen — CPAL 2026 organizer portrait archive. William T. Redman — CPAL 2026 organizer portrait archive. Shiwei Liu — CPAL 2026 organizer portrait archive. Dake Bu — Personal website. ",
+    "url": "/cpal-website/attribution/#organizer-portraits",
+    
+    "relUrl": "/attribution/#organizer-portraits"
+  },"17": {
+    "doc": "Attribution",
+    "title": "Keynote speaker portraits",
+    "content": "Portraits are sourced from the speakers’ official personal or institutional pages and displayed for conference identification. Original images are retained; framing is applied with CSS. Mikhail Belkin — official profile. Weijie Su — official profile. Masashi Sugiyama — official profile. Kenji Fukumizu — official profile. Yuejie Chi — official profile. Yew-Soon Ong — official profile. ",
+    "url": "/cpal-website/attribution/#keynote-speaker-portraits",
+    
+    "relUrl": "/attribution/#keynote-speaker-portraits"
+  },"18": {
+    "doc": "Call for Papers",
+    "title": "Call for Papers — CPAL 2027",
+    "content": "The Fourth Conference on Parsimony and Learning March 23–26, 2027 · Hitotsubashi Hall, Tokyo, Japan . CPAL 2027 invites research that makes parsimony central to learning. Choose the Proceedings Track for original, unpublished archival papers or the Recent Spotlight Track for non-archival presentations of timely research. Below are the scientific scope, track requirements, deadlines, and review policies in one place. Submission portal and templates Download Proceedings LaTeX template (ZIP) . Open in Overleaf Key Dates . On this page . | Scope and subject areas | Compare submission tracks | Important dates | Submission requirements | Review criteria and process | Presentation and attendance | AI-assisted tools | Submission and contact | . ",
+    "url": "/cpal-website/call_for_papers/#call-for-papers--cpal-2027",
+    
+    "relUrl": "/call_for_papers/#call-for-papers--cpal-2027"
+  },"19": {
+    "doc": "Call for Papers",
+    "title": "About CPAL",
+    "content": "Modern learning systems operate in enormous ambient spaces, yet their data, representations, dynamics, and solutions often admit much simpler descriptions. The Conference on Parsimony and Learning (CPAL) brings together researchers seeking to understand, discover, and exploit these structures across machine learning, signal processing, optimization, statistics, applied mathematics, neuroscience, scientific computing, and intelligent systems. CPAL 2027 invites theoretical, methodological, empirical, and systems contributions in which parsimony is central. Parsimony may take the form of sparsity, low rank or intrinsic dimension, symmetry, modularity, compositionality, compressibility, simple mechanisms, or structured computation. Work on foundation, generative, multimodal, and agentic models is encouraged when the underlying parsimony principle is explicit. Authors should explain what the parsimonious structure is, whether it is assumed, learned, or emergent, and what it enables. Subject Areas . CPAL 2027 welcomes contributions in which a clear parsimony principle is central. The following list is illustrative rather than exhaustive. Theory and Foundations . | Sparsity, structured sparsity, low rank, subspaces, manifolds, tensors, graphs, latent-variable models, and other low-dimensional structures. | Statistical and computational foundations of representation and feature learning. | Identifiability, generalization, robustness, implicit bias, and statistical–computational tradeoffs. | Symmetry, invariance, equivariance, causality, modularity, and compositional structure. | Information-theoretic, minimum-description-length, and compression-based views of learning. | Theoretical neuroscience, cognitive science, and biologically inspired mechanisms for parsimonious learning. | . Methods and Models . | Sparse coding, dictionary learning, matrix and tensor methods, inverse problems, and structured recovery. | Optimization and feature-learning dynamics that discover or induce parsimonious structure. | Interpretable and structured neural architectures, including algorithm unrolling. | Pruning, quantization, distillation, low-rank adaptation, modular networks, mixtures of experts, and conditional computation. | Data-, parameter-, memory-, energy-, and compute-efficient training and inference. | Parsimonious foundation, generative, multimodal, federated, continual, and agentic learning. | . Systems, Data, and Applications . | Hardware–algorithm and software–system co-design for structured or sparse computation. | Benchmarks, datasets, and metrics that reveal or evaluate parsimony and accuracy–efficiency tradeoffs. | Parsimonious learning for perception, action, reasoning, robotics, and control. | Scientific machine learning, signal and image processing, neuroscience, biology, medicine, engineering, and social science. | Resource-constrained, distributed, networked, and real-world intelligent systems. | . Submissions proposing a new notion of parsimony are especially welcome when the connection is clearly motivated. Authors who are uncertain about fit may contact the Program Chairs at pcs@cpal.cc. ",
+    "url": "/cpal-website/call_for_papers/#about-cpal",
+    
+    "relUrl": "/call_for_papers/#about-cpal"
+  },"20": {
+    "doc": "Call for Papers",
+    "title": "Submission Tracks",
+    "content": "| Feature | Proceedings Track | Recent Spotlight Track | . | Status | Archival | Non-archival presentation track | . | Review | Double-blind | Single-blind; do not anonymize | . | Format | CPAL template; 9 pages of main text | 250-word abstract plus supporting material | . | Prior/concurrent work | No substantially similar prior or concurrent archival submission | Concurrent, under-review, and recently published work permitted | . | Deadline | See Proceedings dates | See Recent Spotlight dates | . | Publication | Proceedings of Machine Learning Research (PMLR) | No proceedings or DOI | . | Presentation | Poster; selected papers may receive talks | Poster; selected contributions may receive short talks | . ",
+    "url": "/cpal-website/call_for_papers/#submission-tracks",
+    
+    "relUrl": "/call_for_papers/#submission-tracks"
+  },"21": {
+    "doc": "Call for Papers",
+    "title": "Important Dates",
+    "content": "Unless otherwise stated, submission deadlines are 23:59 Anywhere on Earth (AoE). Proceedings dates . | Event | Date | Countdown | . | Abstract registration | November 13, 2026 | | . | Proceedings paper deadline | November 25, 2026 | | . | Reviews released; author rebuttal begins | January 11, 2027 | | . | Author rebuttal | January 11–17, 2027 | | . | Author–reviewer discussion ends | January 22, 2027 | | . | Proceedings notification | February 1, 2027 | | . | Camera-ready deadline | February 12, 2027 | | . Author rebuttal runs January 11–17 (7 days), followed by author–reviewer discussion January 18–22 (5 days). Recent Spotlight dates . | Event | Date | Countdown | . | Recent Spotlight submission deadline | January 18, 2027 | | . | Recent Spotlight notification | February 1, 2027 | | . See Key Dates for the conference, tutorial, and Rising Stars calendars. ",
+    "url": "/cpal-website/call_for_papers/#important-dates",
+    
+    "relUrl": "/call_for_papers/#important-dates"
+  },"22": {
+    "doc": "Call for Papers",
+    "title": "Submission Requirements",
+    "content": "Proceedings Track (archival) . The Proceedings Track is intended for original, unpublished research. The submission and review process is double-blind and will be hosted on OpenReview. Proceedings submissions must use the CPAL 2027 LaTeX style. The main text may contain up to nine pages, including figures and tables; references and appendices do not count toward the limit. The main text should be self-contained, and reviewers are not required to read appendices. | Submissions must be anonymized. | Per-author submission limit: Each author may be listed on at most 10 submissions to the CPAL 2027 Proceedings Track. This limit applies to every coauthor, regardless of author order. | A public preprint does not violate the anonymity policy. Authors should refer to their own work in the third person where appropriate. | A submission must not be substantially similar to work already published, accepted, or simultaneously under review at another archival conference or journal. | Prior presentation at a non-archival workshop is permitted provided that the work did not appear in archival proceedings, a journal, or a book. | . Recent Spotlight Track (non-archival) . The Recent Spotlight Track showcases timely research at different stages of development, from technically mature work in progress to recently accepted or published results. It is a presentation track and has no proceedings or DOI. Each submission includes a 250-word abstract and one of the following: . | a conference-style manuscript describing the work; | a poster PDF presenting work in progress; or | the camera-ready version of recently accepted or published work. | . Authors may additionally provide appendices or public links that help explain the work. Concurrent or under-review submissions are permitted, as is work accepted or published at an archival venue within the 12 months preceding the Recent Spotlight deadline. Reviewing is single-blind, so authors should not anonymize their submissions. Selection considers CPAL fit, clarity, technical credibility, timeliness, and discussion value, calibrated to the stated stage of the work. Authors remain responsible for complying with the policies of any other venue to which the same work is submitted. ",
+    "url": "/cpal-website/call_for_papers/#submission-requirements",
+    
+    "relUrl": "/call_for_papers/#submission-requirements"
+  },"23": {
+    "doc": "Call for Papers",
+    "title": "Review Process",
+    "content": "OpenReview hosts submissions, reviews, author responses, and discussion. Review Model . | Proceedings Track: double-blind review. | Recent Spotlight Track: single-blind review; authors do not anonymize their submissions. | Proceedings authors may respond to reviewers and update their manuscript during the published author–reviewer discussion period. | After author discussion, reviewers and Area Chairs discuss the submission and prepare recommendations. | Final decisions are made by the Program Chairs with Area-Chair recommendations and paper-level shepherding. | . What CPAL Reviews For . Reviewers should assess whether a submission is: . | technically sound; | clearly presented; | relevant to CPAL and explicit about its connection to parsimony; | appropriately supported by theory, experiments, or evidence for the claims being made; and | of genuine interest or discussion value to the CPAL research community. | . CPAL does not require novelty for novelty’s sake or a new benchmark state of the art. A strong submission should make clear what new understanding, method, evidence, or scientific perspective the community gains from the work. For Recent Spotlight submissions, judgments should be calibrated to the stated stage of the project. Work in progress is not expected to have the same degree of completion as an archival Proceedings submission, but it should still be technically credible, clear, timely, and valuable for discussion. Reviewers should promptly report conflicts of interest or assignment problems through the OpenReview process. Questions about review policy may be directed to the Program Chairs at pcs@cpal.cc. ",
+    "url": "/cpal-website/call_for_papers/#review-process",
+    
+    "relUrl": "/call_for_papers/#review-process"
+  },"24": {
+    "doc": "Call for Papers",
+    "title": "Presentation and Attendance",
+    "content": "At least one author of every accepted Proceedings or Recent Spotlight contribution must register for CPAL 2027 and present the work in person. All accepted paper-track contributions are expected to be presented as posters; selected Proceedings papers and Recent Spotlight contributions may additionally be invited for oral presentation. ",
+    "url": "/cpal-website/call_for_papers/#presentation-and-attendance",
+    
+    "relUrl": "/call_for_papers/#presentation-and-attendance"
+  },"25": {
+    "doc": "Call for Papers",
+    "title": "Use of AI-assisted tools",
+    "content": "Authors may use AI-assisted tools in conducting research and preparing manuscripts, but remain fully responsible for the accuracy, originality, citations, ethics, and scientific integrity of all submitted content. Important, original, or non-standard methodological use of such tools should be disclosed sufficiently for readers to understand and reproduce the work. Routine spelling, grammar, formatting, or basic coding assistance need not be disclosed. AI systems should not be listed as authors. Reviewers and committee members must preserve submission confidentiality and may not upload unpublished submission material to external AI systems. ",
+    "url": "/cpal-website/call_for_papers/#use-of-ai-assisted-tools",
+    
+    "relUrl": "/call_for_papers/#use-of-ai-assisted-tools"
+  },"26": {
+    "doc": "Call for Papers",
+    "title": "Submission and Contact",
+    "content": "Proceedings and Recent Spotlight submissions will be handled through OpenReview. Download the CPAL 2027 LaTeX template (ZIP) for the Proceedings Track. Submission portal updates and template instructions are collected on the CPAL OpenReview page. For questions about scientific scope or submission policy, contact the Program Chairs at pcs@cpal.cc. All participants are expected to follow the Code of Conduct. ",
+    "url": "/cpal-website/call_for_papers/#submission-and-contact",
+    
+    "relUrl": "/call_for_papers/#submission-and-contact"
+  },"27": {
+    "doc": "Call for Papers",
+    "title": "Call for Papers",
+    "content": " ",
+    "url": "/cpal-website/call_for_papers/",
+    
+    "relUrl": "/call_for_papers/"
+  },"28": {
+    "doc": "Call for Tutorials",
+    "title": "Timeline",
+    "content": "December 10, 2026: Tutorial proposal deadline January 14, 2027: Tutorial results announced March 23–26, 2027: Conference held in Tokyo, Japan . ",
+    "url": "/cpal-website/call_for_tutorials/#timeline",
+    
+    "relUrl": "/call_for_tutorials/#timeline"
+  },"29": {
+    "doc": "Call for Tutorials",
+    "title": "Call for Tutorials",
+    "content": "The CPAL 2027 Organizing Committee invites proposals for in-person tutorials that advance our understanding of intelligence through the lens of parsimonious learning and its many facets. We welcome tutorials on a wide range of topics, including: . | theories and mathematical foundations of parsimonious learning; | algorithms, optimization, and implementations; | sparse, low-rank, structured, modular, and compressed learning systems; | efficient foundation, generative, multimodal, and agentic models; | applications in science, engineering, medicine, robotics, and other domains; | hardware and systems for efficient learning; and | connections to neuroscience, statistics, signal processing, applied mathematics, and related fields. | . Tutorials should be broadly appealing to the CPAL community and accessible to PhD students working in machine learning and intelligence. A strong tutorial should cover a sufficiently mature body of research or practice, provide a balanced and accessible overview, and help attendees understand both the core ideas and open directions. We especially encourage teams of presenters from different institutions or perspectives. ",
+    "url": "/cpal-website/call_for_tutorials/",
+    
+    "relUrl": "/call_for_tutorials/"
+  },"30": {
+    "doc": "Call for Tutorials",
+    "title": "Submission Guidelines",
+    "content": "Tutorial proposals should contain: . | Title | Abstract: a summary of the tutorial content, up to 250 words. | Outline: a detailed outline of the topics covered, including references and estimated time allocation. | Target audience: the intended audience and expected background. | Presenters: for each presenter, name, affiliation, email address, and a short bio, together with an explanation of how presentation time will be divided. | . All presenters are expected to attend in person. The tutorial proposal form will be linked from this page and the CPAL 2027 website. ",
+    "url": "/cpal-website/call_for_tutorials/#submission-guidelines",
+    
+    "relUrl": "/call_for_tutorials/#submission-guidelines"
+  },"31": {
+    "doc": "Call for Tutorials",
+    "title": "Selection Criteria",
+    "content": "Tutorial proposals will be evaluated based on: . | relevance to CPAL’s theme of parsimonious learning; | clarity and comprehensiveness; | expected educational value and impact on the audience; | maturity and timeliness of the topic; and | presenter experience, complementarity, and diversity of perspectives. | . ",
+    "url": "/cpal-website/call_for_tutorials/#selection-criteria",
+    
+    "relUrl": "/call_for_tutorials/#selection-criteria"
+  },"32": {
+    "doc": "Call for Tutorials",
+    "title": "Tutorial Format",
+    "content": "Tutorials will be held entirely in person and will be approximately 120–180 minutes long. Each tutorial should have at least two presenters. ",
+    "url": "/cpal-website/call_for_tutorials/#tutorial-format",
+    
+    "relUrl": "/call_for_tutorials/#tutorial-format"
+  },"33": {
+    "doc": "Call for Tutorials",
+    "title": "Questions",
+    "content": "For questions about the tutorial call, please contact the CPAL Program Chairs at pcs@cpal.cc. We look forward to receiving your proposals! . The Organizing Committee, CPAL 2027 . ",
+    "url": "/cpal-website/call_for_tutorials/#questions",
+    
+    "relUrl": "/call_for_tutorials/#questions"
+  },"34": {
+    "doc": "Call for Papers (legacy link)",
+    "title": "Call for Papers (legacy link)",
+    "content": "See the CPAL 2027 Call for Papers. ",
+    "url": "/cpal-website/cfp/",
+    
+    "relUrl": "/cfp/"
+  },"35": {
+    "doc": "Code of Conduct",
+    "title": "Code of Conduct",
+    "content": "CPAL is committed to a professional, inclusive, and respectful conference environment. ",
+    "url": "/cpal-website/code_of_conduct/",
+    
+    "relUrl": "/code_of_conduct/"
+  },"36": {
+    "doc": "Conference Program",
+    "title": "Conference Program",
+    "content": "The CPAL 2027 program will be posted here after scheduling is finalized. ",
+    "url": "/cpal-website/conference_program/",
+    
+    "relUrl": "/conference_program/"
+  },"37": {
+    "doc": "Key Dates",
+    "title": "Key Dates and Deadlines",
+    "content": "Unless specified otherwise, all submission deadlines are 23:59 Anywhere on Earth (AoE). ",
+    "url": "/cpal-website/deadlines/#key-dates-and-deadlines",
+    
+    "relUrl": "/deadlines/#key-dates-and-deadlines"
+  },"38": {
+    "doc": "Key Dates",
+    "title": "Main Conference",
+    "content": "| Event | Date | Countdown | . | CPAL 2027 | March 23–26, 2027 | | . ",
+    "url": "/cpal-website/deadlines/#main-conference",
+    
+    "relUrl": "/deadlines/#main-conference"
+  },"39": {
+    "doc": "Key Dates",
+    "title": "Conference Submission (Proceedings Track)",
+    "content": "| Event | Date | Countdown | . | Abstract registration | November 13, 2026 | | . | Proceedings paper deadline | November 25, 2026 | | . | Reviews released; author rebuttal begins | January 11, 2027 | | . | Author rebuttal | January 11–17, 2027 | | . | Author–reviewer discussion ends | January 22, 2027 | | . | Proceedings notification | February 1, 2027 | | . | Camera-ready deadline | February 12, 2027 | | . Author rebuttal runs January 11–17 (7 days), followed by author–reviewer discussion January 18–22 (5 days). ",
+    "url": "/cpal-website/deadlines/#conference-submission-proceedings-track",
+    
+    "relUrl": "/deadlines/#conference-submission-proceedings-track"
+  },"40": {
+    "doc": "Key Dates",
+    "title": "Conference Submission (Recent Spotlight Track)",
+    "content": "| Event | Date | Countdown | . | Recent Spotlight submission deadline | January 18, 2027 | | . | Recent Spotlight notification | February 1, 2027 | | . ",
+    "url": "/cpal-website/deadlines/#conference-submission-recent-spotlight-track",
+    
+    "relUrl": "/deadlines/#conference-submission-recent-spotlight-track"
+  },"41": {
+    "doc": "Key Dates",
+    "title": "Tutorial Proposals",
+    "content": "| Event | Date | Countdown | . | Tutorial proposal deadline | December 10, 2026 | | . | Tutorial results announced | January 14, 2027 | | . ",
+    "url": "/cpal-website/deadlines/#tutorial-proposals",
+    
+    "relUrl": "/deadlines/#tutorial-proposals"
+  },"42": {
+    "doc": "Key Dates",
+    "title": "Rising Stars Award",
+    "content": "| Event | Date | Countdown | . | Rising Stars application deadline | December 15, 2026 | | . | Rising Stars notification | January 21, 2027 | | . Please see the Submission Tracks, Call for Tutorials, and Rising Stars Call for Applications pages for details. ",
+    "url": "/cpal-website/deadlines/#rising-stars-award",
+    
+    "relUrl": "/deadlines/#rising-stars-award"
+  },"43": {
+    "doc": "Key Dates",
+    "title": "Key Dates",
+    "content": " ",
+    "url": "/cpal-website/deadlines/",
+    
+    "relUrl": "/deadlines/"
+  },"44": {
+    "doc": "Travel: Accommodations",
+    "title": "Travel: Accommodations",
+    "content": "Recommended hotels and accommodation guidance for CPAL 2027 will be posted here. ",
+    "url": "/cpal-website/hotels/",
+    
+    "relUrl": "/hotels/"
+  },"45": {
+    "doc": "CPAL OpenReview",
+    "title": "CPAL OpenReview",
+    "content": "CPAL 2027 uses OpenReview to host submissions, reviews, author responses, and discussion. Proceedings submissions are reviewed double-blind; Recent Spotlight submissions are reviewed single-blind. See the Submission Tracks page for submission and review policies and the Key Dates page for the review calendar. ",
+    "url": "/cpal-website/openreview/",
+    
+    "relUrl": "/openreview/"
+  },"46": {
+    "doc": "CPAL OpenReview",
+    "title": "Proceedings LaTeX template",
+    "content": "Download CPAL 2027 LaTeX template (ZIP) . Open in Overleaf . Open the template in Overleaf to create your own project, or download the ZIP to compile locally. The ZIP contains the LaTeX source, style file, and example bibliography. For Proceedings Track submissions, keep the default anonymous submission mode, which hides author names and adds line numbers. Do not enable the final or preprint options for review. The main text is limited to nine pages, including figures and tables; references and appendices do not count toward the limit. For Recent Spotlight Track submissions, follow the separate submission requirements; reviewing is single-blind and submissions should not be anonymized. ",
+    "url": "/cpal-website/openreview/#proceedings-latex-template",
+    
+    "relUrl": "/openreview/#proceedings-latex-template"
+  },"47": {
+    "doc": "Oral Presentations",
+    "title": "Oral Presentations",
+    "content": "Oral presentation assignments will be posted after the CPAL 2027 program is finalized. ",
+    "url": "/cpal-website/orals/",
+    
+    "relUrl": "/orals/"
+  },"48": {
+    "doc": "Organizers",
+    "title": "Organization Committee",
+    "content": " ",
+    "url": "/cpal-website/organization_committee/#organization-committee",
+    
+    "relUrl": "/organization_committee/#organization-committee"
+  },"49": {
+    "doc": "Organizers",
+    "title": "General Chairs",
+    "content": "YM Yi Ma . The University of Hong Kong . General Chair . TS Taiji Suzuki . The University of Tokyo &amp; RIKEN AIP . General Chair . ",
+    "url": "/cpal-website/organization_committee/#organizer-general",
+    
+    "relUrl": "/organization_committee/#organizer-general"
+  },"50": {
+    "doc": "Organizers",
+    "title": "Program Chairs",
+    "content": "WH Wei Huang . RIKEN AIP &amp; ISM . Program Chair . TN Tan Minh Nguyen . National University of Singapore . Program Chair . GC Grigorios Chrysos . University of Wisconsin–Madison . Program Chair . SF Sara Fridovich-Keil . Georgia Institute of Technology . Program Chair . LS Liyue Shen . University of Michigan . Program Chair . ",
+    "url": "/cpal-website/organization_committee/#organizer-program",
+    
+    "relUrl": "/organization_committee/#organizer-program"
+  },"51": {
+    "doc": "Organizers",
+    "title": "Senior Advisors to Program Chairs",
+    "content": "QQ Qing Qu . University of Michigan . Senior Advisor to Program Chairs . AW Atlas Wang . The University of Texas at Austin . Senior Advisor to Program Chairs . SL Sijia Liu . Michigan State University . Senior Advisor to Program Chairs . JS Jere Sulam . Johns Hopkins University . Senior Advisor to Program Chairs . ",
+    "url": "/cpal-website/organization_committee/#organizer-advisor",
+    
+    "relUrl": "/organization_committee/#organizer-advisor"
+  },"52": {
+    "doc": "Organizers",
+    "title": "Local Chairs",
+    "content": "SS Sho Sonoda . RIKEN AIP &amp; CyberAgent . Local Chair . TW Tomoya Wakayama . RIKEN AIP . Local Chair . ",
+    "url": "/cpal-website/organization_committee/#organizer-local",
+    
+    "relUrl": "/organization_committee/#organizer-local"
+  },"53": {
+    "doc": "Organizers",
+    "title": "Tutorial Chairs",
+    "content": "YZ Yiqiao Zhong . University of Wisconsin–Madison . Tutorial Chair . RB Rebekka Burkholz . CISPA Helmholtz Center for Information Security . Tutorial Chair . ",
+    "url": "/cpal-website/organization_committee/#organizer-tutorial",
+    
+    "relUrl": "/organization_committee/#organizer-tutorial"
+  },"54": {
+    "doc": "Organizers",
+    "title": "Publication Chairs",
+    "content": "PW Peng Wang . University of Macau . Publication Chair . ZZ Zhihui Zhu . The Ohio State University . Publication Chair . MB Mingyuan Bai . A*STAR &amp; RIKEN AIP . Publication Chair . ",
+    "url": "/cpal-website/organization_committee/#organizer-publication",
+    
+    "relUrl": "/organization_committee/#organizer-publication"
+  },"55": {
+    "doc": "Organizers",
+    "title": "Industry Liaison Chairs",
+    "content": "AP Ambar Pal . Amazon . Industry Liaison Chair . JZ Joey Tianyi Zhou . Singapore Management University &amp; A*STAR . Industry Liaison Chair . AN Atsushi Nitanda . A*STAR CFAR &amp; Nanyang Technological University . Industry Liaison Chair . ",
+    "url": "/cpal-website/organization_committee/#organizer-industry",
+    
+    "relUrl": "/organization_committee/#organizer-industry"
+  },"56": {
+    "doc": "Organizers",
+    "title": "Publicity Chairs",
+    "content": "YI Yani Ioannou . University of Calgary . Publicity Chair . RX Renyuan Xu . Stanford University . Publicity Chair . TC Tianlong Chen . University of North Carolina at Chapel Hill . Publicity Chair . WR William T. Redman . Johns Hopkins University . Publicity Chair . ",
+    "url": "/cpal-website/organization_committee/#organizer-publicity",
+    
+    "relUrl": "/organization_committee/#organizer-publicity"
+  },"57": {
+    "doc": "Organizers",
+    "title": "Award Chair",
+    "content": "SL Shiwei Liu . ELLIS Institute Tübingen &amp; Max Planck Institute for Intelligent Systems . Award Chair . ",
+    "url": "/cpal-website/organization_committee/#organizer-award",
+    
+    "relUrl": "/organization_committee/#organizer-award"
+  },"58": {
+    "doc": "Organizers",
+    "title": "Web Chair",
+    "content": "DB Dake Bu . City University of Hong Kong . Web Chair . ",
+    "url": "/cpal-website/organization_committee/#organizer-web",
+    
+    "relUrl": "/organization_committee/#organizer-web"
+  },"59": {
+    "doc": "Organizers",
+    "title": "Organizers",
+    "content": " ",
+    "url": "/cpal-website/organization_committee/",
+    
+    "relUrl": "/organization_committee/"
+  },"60": {
+    "doc": "Past CPAL Websites",
+    "title": "Past CPAL Websites",
+    "content": ". | CPAL 2026 | CPAL 2025 | CPAL 2024 | . ",
+    "url": "/cpal-website/past/",
+    
+    "relUrl": "/past/"
+  },"61": {
+    "doc": "Past CPAL Websites",
+    "title": "Past CPAL Websites",
+    "content": "See Past CPAL Websites. ",
+    "url": "/cpal-website/other_years/",
+    
+    "relUrl": "/other_years/"
+  },"62": {
+    "doc": "Poster Presentations",
+    "title": "Poster Presentations",
+    "content": "Poster presentation details will be posted after the CPAL 2027 program is finalized. ",
+    "url": "/cpal-website/posters/",
+    
+    "relUrl": "/posters/"
+  },"63": {
+    "doc": "Proceedings Track",
+    "title": "Proceedings Track",
+    "content": "Accepted CPAL 2027 Proceedings Track papers will be listed here after decisions are released. ",
+    "url": "/cpal-website/proceedings_track/",
+    
+    "relUrl": "/proceedings_track/"
+  },"64": {
+    "doc": "Program at a Glance",
+    "title": "Program at a Glance",
+    "content": "The CPAL 2027 schedule will be posted here when finalized. ",
+    "url": "/cpal-website/program_schedule/",
+    
+    "relUrl": "/program_schedule/"
+  },"65": {
+    "doc": "Register & Attend",
+    "title": "Register &amp; Attend",
+    "content": "Registration, travel, visa, accommodation, and final venue logistics for CPAL 2027 will be published here as they are confirmed. ",
+    "url": "/cpal-website/register_and_attend/#register--attend",
+    
+    "relUrl": "/register_and_attend/#register--attend"
+  },"66": {
+    "doc": "Register & Attend",
+    "title": "Register & Attend",
+    "content": " ",
+    "url": "/cpal-website/register_and_attend/",
+    
+    "relUrl": "/register_and_attend/"
+  },"67": {
+    "doc": "Registration",
+    "title": "Registration",
+    "content": "CPAL 2027 is an in-person conference taking place March 23–26, 2027 at Hitotsubashi Hall in Tokyo, Japan. At least one author of each accepted Proceedings or Recent Spotlight contribution must register for CPAL 2027 and present the work in person. Venue and transportation information is available on the Logistics and Venue page. ",
+    "url": "/cpal-website/registration/",
+    
+    "relUrl": "/registration/"
+  },"68": {
+    "doc": "Rising Stars Award",
+    "title": "CPAL 2027 Rising Stars Award",
+    "content": "CPAL 2027 plans to continue the Rising Stars Award as a separate call for applications rather than a paper-submission track. Eligibility, application materials, support, and final dates will be announced separately after committee approval. ",
+    "url": "/cpal-website/rising_stars/#cpal-2027-rising-stars-award",
+    
+    "relUrl": "/rising_stars/#cpal-2027-rising-stars-award"
+  },"69": {
+    "doc": "Rising Stars Award",
+    "title": "Rising Stars Award",
+    "content": " ",
+    "url": "/cpal-website/rising_stars/",
+    
+    "relUrl": "/rising_stars/"
+  },"70": {
+    "doc": "Rising Stars Awardees",
+    "title": "Rising Stars Awardees",
+    "content": "The CPAL 2027 Rising Stars Awardees will be announced here after selection is complete. ",
+    "url": "/cpal-website/rising_stars_awardees/",
+    
+    "relUrl": "/rising_stars_awardees/"
+  },"71": {
+    "doc": "Call for Rising Stars Award",
+    "title": "CPAL 2027 Rising Stars Award",
+    "content": "The Conference on Parsimony and Learning (CPAL) continues its Rising Stars Award program to recognize exceptional researchers at an early and pivotal stage of their careers, connect them with the CPAL research community, and broaden participation in research on parsimonious learning. The Rising Stars Award is a separate call for applications, not a paper-submission or publication track. Applications are reviewed independently from Proceedings and Recent Spotlight submissions. ",
+    "url": "/cpal-website/rising_stars_guidelines/#cpal-2027-rising-stars-award",
+    
+    "relUrl": "/rising_stars_guidelines/#cpal-2027-rising-stars-award"
+  },"72": {
+    "doc": "Call for Rising Stars Award",
+    "title": "Key Dates",
+    "content": ". | Applications due: December 15, 2026 | Notification: January 21, 2027 | Conference: March 23–26, 2027, Tokyo, Japan | . ",
+    "url": "/cpal-website/rising_stars_guidelines/#key-dates",
+    
+    "relUrl": "/rising_stars_guidelines/#key-dates"
+  },"73": {
+    "doc": "Call for Rising Stars Award",
+    "title": "Program Format",
+    "content": "Selected Rising Stars are expected to participate in CPAL 2027 in person. The program will include: . | a dedicated research presentation or poster opportunity; | mentoring and career-development activities; | opportunities to meet senior researchers and other Rising Stars; and | community and networking activities during the conference. | . ",
+    "url": "/cpal-website/rising_stars_guidelines/#program-format",
+    
+    "relUrl": "/rising_stars_guidelines/#program-format"
+  },"74": {
+    "doc": "Call for Rising Stars Award",
+    "title": "Application Requirements",
+    "content": "The application will request: . | name and contact information; | a current CV/resume; | a tentative poster or presentation title; | a one-page research statement describing research goals, current or potential projects, and long-term career goals; and | the names and email addresses of one or two references. | . The application form will be linked from this page when submissions open. ",
+    "url": "/cpal-website/rising_stars_guidelines/#application-requirements",
+    
+    "relUrl": "/rising_stars_guidelines/#application-requirements"
+  },"75": {
+    "doc": "Call for Rising Stars Award",
+    "title": "Eligibility and Guidelines",
+    "content": "Eligible applicants include: . | full-time PhD students in the final year of their doctoral program; | current postdoctoral scholars or fellows; | first-year tenure-track faculty; and | industry researchers within two years of graduation. | . Applicants from institutions worldwide are encouraged to apply. We welcome researchers from a wide variety of fields and backgrounds whose work addresses parsimonious or low-dimensional structures in machine learning, signal processing, optimization, systems, scientific applications, and related areas. Each person may submit one application. ",
+    "url": "/cpal-website/rising_stars_guidelines/#eligibility-and-guidelines",
+    
+    "relUrl": "/rising_stars_guidelines/#eligibility-and-guidelines"
+  },"76": {
+    "doc": "Call for Rising Stars Award",
+    "title": "Review Criteria",
+    "content": "Applications will be reviewed by the CPAL Rising Stars Program Committee based on: . | research impact; | academic or professional progress, where applicable; | career potential; and | commitment to broadening participation in the scientific community. | . ",
+    "url": "/cpal-website/rising_stars_guidelines/#review-criteria",
+    
+    "relUrl": "/rising_stars_guidelines/#review-criteria"
+  },"77": {
+    "doc": "Call for Rising Stars Award",
+    "title": "Contact",
+    "content": "Questions may be sent to pcs@cpal.cc. ",
+    "url": "/cpal-website/rising_stars_guidelines/#contact",
+    
+    "relUrl": "/rising_stars_guidelines/#contact"
+  },"78": {
+    "doc": "Call for Rising Stars Award",
+    "title": "Call for Rising Stars Award",
+    "content": " ",
+    "url": "/cpal-website/rising_stars_guidelines/",
+    
+    "relUrl": "/rising_stars_guidelines/"
+  },"79": {
+    "doc": "Rising Stars Presentations",
+    "title": "Rising Stars Presentations",
+    "content": "The CPAL 2027 Rising Stars presentation schedule will be posted here. ",
+    "url": "/cpal-website/rising_stars_presentations/",
+    
+    "relUrl": "/rising_stars_presentations/"
+  },"80": {
+    "doc": "Keynote Speakers",
+    "title": "Keynote Speakers",
+    "content": "CPAL keynote sessions feature invited perspectives on fundamental and emerging questions in parsimonious learning, spanning theory, algorithms, systems, and applications. ",
+    "url": "/cpal-website/speakers/",
+    
+    "relUrl": "/speakers/"
+  },"81": {
+    "doc": "Keynote Speakers",
+    "title": "Mikhail Belkin",
+    "content": "University of California San Diego . Tentative . ",
+    "url": "/cpal-website/speakers/",
+    
+    "relUrl": "/speakers/"
+  },"82": {
+    "doc": "Keynote Speakers",
+    "title": "Yuejie Chi",
+    "content": "Yale University . ",
+    "url": "/cpal-website/speakers/",
+    
+    "relUrl": "/speakers/"
+  },"83": {
+    "doc": "Keynote Speakers",
+    "title": "Kenji Fukumizu",
+    "content": "The Institute of Statistical Mathematics (ISM) . ",
+    "url": "/cpal-website/speakers/",
+    
+    "relUrl": "/speakers/"
+  },"84": {
+    "doc": "Keynote Speakers",
+    "title": "Yew-Soon Ong",
+    "content": "Nanyang Technological University &amp; A*STAR . ",
+    "url": "/cpal-website/speakers/",
+    
+    "relUrl": "/speakers/"
+  },"85": {
+    "doc": "Keynote Speakers",
+    "title": "Weijie Su",
+    "content": "University of Pennsylvania . ",
+    "url": "/cpal-website/speakers/",
+    
+    "relUrl": "/speakers/"
+  },"86": {
+    "doc": "Keynote Speakers",
+    "title": "Masashi Sugiyama",
+    "content": "RIKEN AIP &amp; The University of Tokyo . ",
+    "url": "/cpal-website/speakers/",
+    
+    "relUrl": "/speakers/"
+  },"87": {
+    "doc": "Sponsors",
+    "title": "Sponsors",
+    "content": "CPAL 2027 welcomes sponsorship from industry, foundations, research organizations, and other partners who share the conference’s goal of advancing parsimonious learning across theory, algorithms, systems, and applications. Sponsorship supports travel grants and registration waivers, conference venue and poster-session costs, technical support, and travel and accommodation for keynote speakers. Organizations interested in supporting CPAL 2027 are invited to contact Wei Huang (wei.huang.vr@riken.jp) or Ambar Pal (ambarpal.cs@gmail.com). View the CPAL 2027 Sponsorship Prospectus and Tiers . ",
+    "url": "/cpal-website/sponsors/",
+    
+    "relUrl": "/sponsors/"
+  },"88": {
+    "doc": "Sponsorship Opportunities",
+    "title": "CPAL 2027 Sponsorship Prospectus",
+    "content": "The Conference on Parsimony and Learning (CPAL) will take place in Tokyo, Japan, March 23–26, 2027. CPAL brings together leading AI researchers and industry experts working on parsimonious and low-dimensional structures in machine learning, signal processing, and optimization. For sponsorship opportunities, contact Wei Huang (wei.huang.vr@riken.jp) or Ambar Pal (ambarpal.cs@gmail.com). ",
+    "url": "/cpal-website/sponsorship_opportunities/#cpal-2027-sponsorship-prospectus",
+    
+    "relUrl": "/sponsorship_opportunities/#cpal-2027-sponsorship-prospectus"
+  },"89": {
+    "doc": "Sponsorship Opportunities",
+    "title": "Diamond Tier ($20,000 and above)",
+    "content": ". | All Platinum benefits | Large exhibition space | Option to host an industry session or lunch talk | Logo in all conference advertising and event banners | . ",
+    "url": "/cpal-website/sponsorship_opportunities/#diamond-tier-20000-and-above",
+    
+    "relUrl": "/sponsorship_opportunities/#diamond-tier-20000-and-above"
+  },"90": {
+    "doc": "Sponsorship Opportunities",
+    "title": "Platinum ($10,000)",
+    "content": ". | All Gold benefits | Small exhibition space | Access to information of opted-in attendees (CV, contact) for recruiting | . ",
+    "url": "/cpal-website/sponsorship_opportunities/#platinum-10000",
+    
+    "relUrl": "/sponsorship_opportunities/#platinum-10000"
+  },"91": {
+    "doc": "Sponsorship Opportunities",
+    "title": "Gold ($5,000)",
+    "content": ". | Two complimentary registrations | Logo and acknowledgment on the conference website, schedule, and proceedings | Acknowledgment during opening remarks | . ",
+    "url": "/cpal-website/sponsorship_opportunities/#gold-5000",
+    
+    "relUrl": "/sponsorship_opportunities/#gold-5000"
+  },"92": {
+    "doc": "Sponsorship Opportunities",
+    "title": "Budget Allocation",
+    "content": "Sponsorship funds will be used for: . | Travel grants and registration waivers for students who are underrepresented minorities | Venue reservation, poster sessions, and technical support | Travel and accommodation for keynote speakers | . ",
+    "url": "/cpal-website/sponsorship_opportunities/#budget-allocation",
+    
+    "relUrl": "/sponsorship_opportunities/#budget-allocation"
+  },"93": {
+    "doc": "Sponsorship Opportunities",
+    "title": "Sponsorship Opportunities",
+    "content": " ",
+    "url": "/cpal-website/sponsorship_opportunities/",
+    
+    "relUrl": "/sponsorship_opportunities/"
+  },"94": {
+    "doc": "Spotlight Track",
+    "title": "Recent Spotlight Track",
+    "content": "Accepted CPAL 2027 Recent Spotlight contributions will be listed here after decisions are released. ",
+    "url": "/cpal-website/spotlight_track/#recent-spotlight-track",
+    
+    "relUrl": "/spotlight_track/#recent-spotlight-track"
+  },"95": {
+    "doc": "Spotlight Track",
+    "title": "Spotlight Track",
+    "content": " ",
+    "url": "/cpal-website/spotlight_track/",
+    
+    "relUrl": "/spotlight_track/"
+  },"96": {
+    "doc": "Tutorials",
+    "title": "Tutorials",
+    "content": "Tutorial information for CPAL 2027 will be announced here. ",
+    "url": "/cpal-website/tutorials/",
+    
+    "relUrl": "/tutorials/"
+  },"97": {
+    "doc": "Logistics and Venue",
+    "title": "Important Information",
+    "content": "CPAL 2027 will take place March 23–26, 2027 at Hitotsubashi Hall (一橋講堂) in central Tokyo. The hall is part of Hitotsubashi University’s Chiyoda Campus and is located inside the National Center of Sciences (学術総合センター). ",
+    "url": "/cpal-website/venue/#important-information",
+    
+    "relUrl": "/venue/#important-information"
+  },"98": {
+    "doc": "Logistics and Venue",
+    "title": "Conference Venue",
+    "content": "National Center of Sciences, home of Hitotsubashi Hall, in Chiyoda, Tokyo. Hitotsubashi Hall (Hitotsubashi University) National Center of Sciences Building, 2F 2-1-2 Hitotsubashi, Chiyoda-ku Tokyo 101-8439, Japan The National Center of Sciences sits in the Jimbocho / Takebashi area, immediately north of the Imperial Palace and close to Otemachi and Tokyo Station. Hitotsubashi Hall occupies the lower floors of the complex and is a purpose-built academic conference venue. Please check the address above when navigating. The destination is Hitotsubashi University’s Hitotsubashi Hall inside the National Center of Sciences, 2-1-2 Hitotsubashi. ",
+    "url": "/cpal-website/venue/#conference-venue",
+    
+    "relUrl": "/venue/#conference-venue"
+  },"99": {
+    "doc": "Logistics and Venue",
+    "title": "Transportation",
+    "content": "By subway . The venue is a short walk from two major subway stations: . | Jimbocho Station (神保町駅) — Tokyo Metro Hanzomon Line, Toei Mita Line, or Toei Shinjuku Line. Use Exit A8 or A9; the venue is approximately 4–5 minutes on foot. | Takebashi Station (竹橋駅) — Tokyo Metro Tozai Line. Use Exit 1b; the venue is approximately 4–5 minutes on foot. | . The official Hitotsubashi Hall access guide recommends Jimbocho Exit A9 or Takebashi Exit 1b. Both stations are convenient; Jimbocho is particularly useful if you are arriving from Shinjuku or southern Tokyo, while Takebashi provides a direct Tozai-line connection to Otemachi. From Tokyo Station . The simplest options are: . | walk through the underground/nearby connection to Otemachi Station, take the Tokyo Metro Tozai Line one stop to Takebashi, and walk from Exit 1b; or | take a taxi directly to Hitotsubashi Hall / National Center of Sciences (学術総合センター). | . From Haneda Airport (HND) . A convenient rail route is the Keikyu Line from Haneda Airport to Mita Station, followed by the Toei Mita Line to Jimbocho Station. From Jimbocho, walk from Exit A8/A9 to the venue. An alternative is an airport limousine or rail connection to Tokyo Station followed by a short taxi ride. From Narita Airport (NRT) . A convenient route is the Narita Express (N’EX) to Tokyo Station, then continue via Otemachi/Takebashi as above. From Tokyo Station, a taxi to the National Center of Sciences is also straightforward, especially with luggage. ",
+    "url": "/cpal-website/venue/#transportation",
+    
+    "relUrl": "/venue/#transportation"
+  },"100": {
+    "doc": "Logistics and Venue",
+    "title": "Official Hitotsubashi Hall Access Map",
+    "content": "Official Hitotsubashi University access map. Click the map to open the original English PDF. The university’s official access information is also available on the Hitotsubashi Hall access page and the Hitotsubashi University Chiyoda Campus directions page. ",
+    "url": "/cpal-website/venue/#official-hitotsubashi-hall-access-map",
+    
+    "relUrl": "/venue/#official-hitotsubashi-hall-access-map"
+  },"101": {
+    "doc": "Logistics and Venue",
+    "title": "Interactive Map",
+    "content": " ",
+    "url": "/cpal-website/venue/#interactive-map",
+    
+    "relUrl": "/venue/#interactive-map"
+  },"102": {
+    "doc": "Logistics and Venue",
+    "title": "Around the Venue",
+    "content": "The venue is in a highly walkable university and publishing district. Jimbocho is known for bookstores, cafés, curry shops, and casual restaurants; Takebashi borders the Imperial Palace grounds; and Otemachi / Tokyo Station are only a short subway or taxi ride away. Convenience stores, coffee shops, and restaurants are available throughout the surrounding blocks. ",
+    "url": "/cpal-website/venue/#around-the-venue",
+    
+    "relUrl": "/venue/#around-the-venue"
+  },"103": {
+    "doc": "Logistics and Venue",
+    "title": "Emergency Information",
+    "content": "For police assistance in Japan, call 110. For an ambulance or fire emergency, call 119. Hotel staff and venue staff can also assist with local medical and transportation questions. ",
+    "url": "/cpal-website/venue/#emergency-information",
+    
+    "relUrl": "/venue/#emergency-information"
+  },"104": {
+    "doc": "Logistics and Venue",
+    "title": "Logistics and Venue",
+    "content": " ",
+    "url": "/cpal-website/venue/",
+    
+    "relUrl": "/venue/"
+  },"105": {
+    "doc": "Travel: Visa Information",
+    "title": "Travel: Visa Information",
+    "content": "Visa guidance and invitation-letter procedures for CPAL 2027 will be published here when finalized. ",
+    "url": "/cpal-website/visa/",
+    
+    "relUrl": "/visa/"
+  },"106": {
+    "doc": "Conference Vision",
+    "title": "Conference Vision",
+    "content": "“Everything should be made as simple as possible, but not any simpler.” – Albert Einstein . One of the most fundamental reasons for the emergence of intelligence and science is that the world is not fully random: its observations, mechanisms, and laws exhibit structure and regularity. A central purpose of intelligence is therefore to discover parsimonious descriptions of those structures from data—models that capture what matters without reproducing every degree of freedom of the ambient world. Over the past decade, machine learning and large-scale computing have transformed how we process, interpret, and predict with data in engineering and science. Classical approaches were often built around explicit structural models—sparsity, low rank, subspaces, manifolds, symmetry, latent variables—and optimization algorithms designed to exploit them. Modern data-driven systems instead learn representations and mechanisms at very large scale, often through pretraining followed by adaptation to many downstream tasks. Yet the success of both paradigms continues to depend on finding and exploiting simpler structure inside apparently high-dimensional problems. For this reason, learning and compression are deeply connected. Structure may be assumed in advance, induced by an architecture or regularizer, discovered from data, or emerge implicitly from optimization dynamics. Parsimony can appear as sparsity, low intrinsic dimension, symmetry and invariance, modularity, compositionality, simple mechanisms, conditional computation, or other forms of compressibility. Understanding these structures can improve statistical efficiency, computation, memory, energy use, interpretability, robustness, and scientific understanding. Several rich research directions have developed around this theme. Some seek theoretical explanations for feature and representation learning, generalization, identifiability, and implicit bias. Others design interpretable architectures that explicitly incorporate known structure. A complementary line studies pruning, quantization, distillation, low-rank adaptation, mixtures of experts, and hardware/software co-design for efficient learning. Scientific machine learning, inverse problems, neuroscience, robotics, and control provide settings in which the right structure can be as important as model scale. The emergence of foundation, generative, multimodal, and agentic models makes these questions even more pressing. Modern systems operate in enormous parameter and data spaces, but their successful representations, reusable skills, reasoning patterns, and computational pathways may be far more structured than their raw dimensionality suggests. CPAL welcomes work that makes this connection explicit: what is the parsimonious structure, is it assumed, learned, or emergent, and what does it enable? . These communities have often developed in parallel despite sharing a common scientific purpose. CPAL is intended as a general forum where researchers in machine learning, applied mathematics, signal processing, statistics, optimization, intelligent systems, neuroscience, hardware, and the sciences can exchange ideas and work toward a modern theoretical and computational understanding of intelligence through the perspective of parsimony and learning. ",
+    "url": "/cpal-website/vision/",
+    
+    "relUrl": "/vision/"
+  },"107": {
+    "doc": "Tailored Wellness Sessions",
+    "title": "Tailored Wellness Sessions",
+    "content": "Any CPAL 2027 wellness-session information will be posted here when confirmed. ",
+    "url": "/cpal-website/wellness/",
+    
+    "relUrl": "/wellness/"
+  }
+}
