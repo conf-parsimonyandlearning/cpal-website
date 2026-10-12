@@ -10,6 +10,7 @@ This internal checklist records the public-facing information currently used on 
 - Proceedings and Recent Spotlight track definitions and review model.
 - Abstract, paper, tutorial, Rising Stars, Spotlight, notification, rebuttal/discussion, and camera-ready dates.
 - Proceedings/PMLR publication language.
+- CPAL 2027 Proceedings LaTeX template ZIP, linked from the homepage, Call for Papers, and CPAL OpenReview page.
 - Proceedings Track submission limit: at most 10 submissions per author, including all coauthors regardless of author order.
 - AI-assisted-tool responsibility and reviewer-confidentiality language.
 - Rising Stars eligibility, application materials, review criteria, and schedule.
@@ -23,9 +24,10 @@ This internal checklist records the public-facing information currently used on 
 ## Links/details still to insert when available
 
 - CPAL 2027 OpenReview group URL.
-- CPAL 2027 LaTeX/Overleaf template URLs.
+- CPAL 2027 Overleaf template URL (the ZIP download is available).
 - Tutorial proposal form URL.
 - Rising Stars application form URL.
 - Registration portal, fees, and cancellation policy.
 - Keynote talk titles, abstracts, speaker biographies, and final conference program.
 - Accommodation blocks, sponsors, institutional hosts, and detailed on-site room/catering instructions.
+
