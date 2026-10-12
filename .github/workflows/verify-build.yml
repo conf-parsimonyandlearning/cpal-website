@@ -1,0 +1,26 @@
+name: Verify website build
+on:
+  push:
+    branches: [main, codex/verify-linux-build]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    strategy:
+      fail-fast: false
+      matrix:
+        ruby: ['3.2.2']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: ${{ matrix.ruby }}
+          bundler: '2.4.22'
+      - run: bundle install
+      - run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+      - run: python3 scripts/check_site.py _site

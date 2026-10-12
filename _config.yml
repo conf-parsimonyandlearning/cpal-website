@@ -40,6 +40,9 @@ callouts:
 plugins:
   - jekyll-seo-tag
 
+include:
+  - 2026/assets/js/vendor
+
 exclude:
   - Gemfile
   - Gemfile.lock
