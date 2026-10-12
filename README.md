@@ -26,7 +26,9 @@ CPAL 2027 invites theoretical, methodological, empirical, and systems contributi
 
 [Read the full Call for Papers]({{ '/call_for_papers/' | relative_url }}) · [Submission Tracks]({{ '/call_for_papers/' | relative_url }}#submission-tracks) · [Key Dates]({{ '/deadlines/' | relative_url }})
 
-[Download Proceedings LaTeX template (ZIP)]({{ '/assets/CPAL-2027-template.zip' | relative_url }}){: .btn }
+[Download Proceedings LaTeX template (ZIP)](https://raw.githubusercontent.com/conf-parsimonyandlearning/cpal-website/main/assets/CPAL-2027-template.zip){: .btn }
+
+[Open in Overleaf](https://www.overleaf.com/docs?snip_uri=https%3A%2F%2Fraw.githubusercontent.com%2Fconf-parsimonyandlearning%2Fcpal-website%2Fmain%2Fassets%2FCPAL-2027-template.zip){: .btn }
 
 ## Important Dates
 
