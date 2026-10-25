@@ -34,7 +34,7 @@ CPAL 2027 invites theoretical, methodological, empirical, and systems contributi
 
 {% include home_dates.html %}
 
-All three deadlines are **23:59 Anywhere on Earth (AoE)**. [View the full schedule]({{ '/deadlines/' | relative_url }}) for review, notification, and other conference dates.
+Both deadlines are **23:59 Anywhere on Earth (AoE)**. [View the full schedule]({{ '/deadlines/' | relative_url }}) for review, notification, and other conference dates.
 
 ## Keynote Speakers
 
