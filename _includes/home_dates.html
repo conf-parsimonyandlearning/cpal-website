@@ -1,5 +1,5 @@
 <ul class="home-date-cards" aria-label="Important submission dates">
-  {% assign deadline_keys = "abstract,proceedings,spotlight" | split: "," %}
+  {% assign deadline_keys = "proceedings,spotlight" | split: "," %}
   {% for key in deadline_keys %}
   {% assign deadline = site.data.paper_deadlines[key] %}
   <li class="home-date-card">
