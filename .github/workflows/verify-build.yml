@@ -23,4 +23,6 @@ jobs:
       - run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
+          LANG: C
+          LC_ALL: C
       - run: python3 scripts/check_site.py _site
