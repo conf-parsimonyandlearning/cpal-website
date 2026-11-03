@@ -4,6 +4,8 @@ This internal checklist records the public-facing information currently used on 
 
 ## Published for CPAL 2027
 
+- Verified CPAL 2027 OpenReview Proceedings and Recent Spotlight Track links, with homepage quick-access buttons.
+
 - Conference: the Fourth Conference on Parsimony and Learning.
 - Dates: March 23–26, 2027.
 - Venue: Hitotsubashi Hall, National Center of Sciences, Tokyo, Japan.
@@ -23,7 +25,6 @@ This internal checklist records the public-facing information currently used on 
 
 ## Links/details still to insert when available
 
-- CPAL 2027 OpenReview group URL.
 - Tutorial proposal form URL.
 - Rising Stars application form URL.
 - Registration portal, fees, and cancellation policy.

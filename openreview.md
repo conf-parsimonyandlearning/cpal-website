@@ -11,6 +11,11 @@ CPAL 2027 uses **OpenReview** to host submissions, reviews, author responses, an
 
 See the [Submission Tracks]({{ site.baseurl }}/call_for_papers/#submission-tracks) page for submission and review policies and the [Key Dates]({{ site.baseurl }}/deadlines/) page for the review calendar.
 
+## Submission portals
+
+[Proceedings Track · OpenReview](https://openreview.net/group?id=CPAL.cc/2027/Proceedings_Track){: .btn .btn-primary }
+[Recent Spotlight Track · OpenReview](https://openreview.net/group?id=CPAL.cc/2027/Recent_Spotlight_Track){: .btn }
+
 ## Proceedings LaTeX template
 
 [Download CPAL 2027 LaTeX template (ZIP)](https://raw.githubusercontent.com/conf-parsimonyandlearning/cpal-website/main/assets/CPAL-2027-template.zip){: .btn .btn-primary }
