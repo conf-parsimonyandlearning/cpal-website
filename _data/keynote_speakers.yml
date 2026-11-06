@@ -1,3 +1,13 @@
+- name: "Yujin Tang"
+  surname: "Tang"
+  affiliation: "Sakana AI"
+  website: "https://lerrytang.github.io/"
+  photo: "yujin-tang.jpg"
+  photo_position: "50% 40%"
+  photo_scale: 1
+  photo_x: "0%"
+  photo_y: "0%"
+  source: "https://lerrytang.github.io/"
 - name: "Mikhail Belkin"
   surname: "Belkin"
   affiliation: "University of California San Diego"
