@@ -19,7 +19,7 @@ This internal checklist records the public-facing information currently used on 
 - Organizing committee supplied to the Web Chair.
 
 - Keynote portraits and affiliations verified against official personal pages; credits in `attribution.md`.
-- Confirmed keynote speakers: Masashi Sugiyama, Kenji Fukumizu, Yuejie Chi, Yew-Soon Ong, and Weijie Su.
+- Confirmed keynote speakers: Masashi Sugiyama, Kenji Fukumizu, Yuejie Chi, Yew-Soon Ong, Weijie Su, Yujin Tang, and Bruno A. Olshausen.
 - Tentative keynote speaker: Mikhail Belkin.
 - Confirmed Tutorial Chairs: Yiqiao Zhong and Rebekka Burkholz.
 

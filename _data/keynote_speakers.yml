@@ -1,3 +1,13 @@
+- name: "Bruno A. Olshausen"
+  surname: "Olshausen"
+  affiliation: "University of California, Berkeley"
+  website: "https://www.rctn.org/bruno/"
+  photo: "bruno-olshausen.jpg"
+  photo_position: "50% 40%"
+  photo_scale: 1
+  photo_x: "0%"
+  photo_y: "0%"
+  source: "https://redwood.berkeley.edu/people/bruno-olshausen/"
 - name: "Yujin Tang"
   surname: "Tang"
   affiliation: "Sakana AI"
