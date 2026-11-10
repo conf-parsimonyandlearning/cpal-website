@@ -113,9 +113,9 @@ Every Proceedings Track submission must have at least one author who serves as a
 
 A qualified reviewer has at least two publications at major machine learning, optimization, or signal processing conferences or journals (e.g., NeurIPS, ICML, ICLR, AISTATS, COLT, CPAL, JMLR, TMLR, IEEE Transactions on Signal Processing, SIAM journals).
 
-If no author is qualified, or all qualified authors already serve as CPAL 2027 Area Chairs or organizers, authors may request an exemption in the submission form.
+If no author is qualified, or all qualified authors already serve as CPAL 2027 Area Chairs or organizers, authors may request an exemption in the submission form. Exemptions will be granted to submissions in which no author meets the qualification criteria; we welcome submissions from researchers new to the field.
 
-Submissions with no author registered as a reviewer may be desk rejected at the discretion of the Program Chairs.
+Submissions that neither register a reviewer nor qualify for an exemption may be desk rejected at the discretion of the Program Chairs.
 
 Authors who submitted before this requirement was introduced should edit their submission on OpenReview and complete the new fields before the submission deadline (December 5, 2026, AoE).
 
