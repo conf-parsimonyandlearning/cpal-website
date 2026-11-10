@@ -33,6 +33,10 @@ CPAL 2027 invites theoretical, methodological, empirical, and systems contributi
 
 [Open in Overleaf](https://www.overleaf.com/docs?snip_uri=https%3A%2F%2Fraw.githubusercontent.com%2Fconf-parsimonyandlearning%2Fcpal-website%2Fmain%2Fassets%2FCPAL-2027-template.zip){: .btn }
 
+## News
+
+- **November 10, 2026:** [CPAL 2027 introduces a reciprocal reviewing requirement for the Proceedings Track.]({{ '/call_for_papers/' | relative_url }}#reciprocal-reviewing-requirement)
+
 ## Important Dates
 
 {% include home_dates.html %}

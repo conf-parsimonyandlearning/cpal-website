@@ -107,6 +107,18 @@ The Proceedings Track is intended for original, unpublished research. The submis
 - A submission must not be substantially similar to work already published, accepted, or simultaneously under review at another archival conference or journal.
 - Prior presentation at a non-archival workshop is permitted provided that the work did not appear in archival proceedings, a journal, or a book.
 
+#### Reciprocal Reviewing Requirement
+
+Every Proceedings Track submission must have at least one author who serves as a reviewer for up to 3 CPAL 2027 Proceedings Track papers. When submitting on OpenReview, authors must agree to this requirement and select, from the submission's author list, the author(s) who will review.
+
+A qualified reviewer has at least two publications at major machine learning, optimization, or signal processing conferences or journals (e.g., NeurIPS, ICML, ICLR, AISTATS, COLT, CPAL, JMLR, TMLR, IEEE Transactions on Signal Processing, SIAM journals).
+
+If no author is qualified, or all qualified authors already serve as CPAL 2027 Area Chairs or organizers, authors may request an exemption in the submission form.
+
+Submissions with no author registered as a reviewer may be desk rejected at the discretion of the Program Chairs.
+
+Authors who submitted before this requirement was introduced should edit their submission on OpenReview and complete the new fields before the submission deadline (December 5, 2026, AoE).
+
 ### Recent Spotlight Track (non-archival)
 
 The Recent Spotlight Track showcases timely research at different stages of development, from technically mature work in progress to recently accepted or published results. It is a **presentation track** and has no proceedings or DOI.
