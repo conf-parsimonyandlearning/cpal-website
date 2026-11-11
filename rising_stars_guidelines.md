@@ -12,6 +12,8 @@ The Conference on Parsimony and Learning (CPAL) continues its **Rising Stars Awa
 
 The Rising Stars Award is a **separate call for applications**, not a paper-submission or publication track. Applications are reviewed independently from Proceedings and Recent Spotlight submissions.
 
+[Apply for the Rising Stars Award · OpenReview](https://openreview.net/group?id=CPAL.cc/2027/Rising_Stars_Track){: .btn .btn-primary }
+
 ## Key Dates
 
 - **Applications due:** December 15, 2026
@@ -37,7 +39,7 @@ The application will request:
 - a **one-page research statement** describing research goals, current or potential projects, and long-term career goals; and
 - the names and email addresses of **one or two references**.
 
-The application form will be linked from this page when submissions open.
+Submit your application through the [Rising Stars OpenReview portal](https://openreview.net/group?id=CPAL.cc/2027/Rising_Stars_Track).
 
 ## Eligibility and Guidelines
 

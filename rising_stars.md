@@ -9,7 +9,8 @@ has_children: true
 
 # CPAL 2027 Rising Stars Award
 
-CPAL 2027 plans to continue the Rising Stars Award as a separate call for applications rather than a paper-submission track.
+CPAL 2027 Rising Stars Award applications are hosted on OpenReview.
 
-{: .forthcoming }
-Eligibility, application materials, support, and final dates will be announced separately after committee approval.
+[Apply for the Rising Stars Award · OpenReview](https://openreview.net/group?id=CPAL.cc/2027/Rising_Stars_Track){: .btn .btn-primary }
+
+See the [Call for Rising Stars Award]({{ '/rising_stars_guidelines/' | relative_url }}) for eligibility, application materials, review criteria, and key dates.
