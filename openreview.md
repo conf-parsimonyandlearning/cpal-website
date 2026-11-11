@@ -16,6 +16,12 @@ See the [Submission Tracks]({{ site.baseurl }}/call_for_papers/#submission-track
 [Proceedings Track · OpenReview](https://openreview.net/group?id=CPAL.cc/2027/Proceedings_Track){: .btn .btn-primary }
 [Recent Spotlight Track · OpenReview](https://openreview.net/group?id=CPAL.cc/2027/Recent_Spotlight_Track){: .btn }
 
+## Rising Stars Award applications
+
+[Rising Stars Award · OpenReview](https://openreview.net/group?id=CPAL.cc/2027/Rising_Stars_Track){: .btn }
+
+The Rising Stars Award is a separate call for applications. See the [application requirements and eligibility]({{ '/rising_stars_guidelines/' | relative_url }}).
+
 ## Proceedings LaTeX template
 
 [Download CPAL 2027 LaTeX template (ZIP)](https://raw.githubusercontent.com/conf-parsimonyandlearning/cpal-website/main/assets/CPAL-2027-template.zip){: .btn .btn-primary }
