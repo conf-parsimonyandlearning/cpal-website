@@ -4,7 +4,7 @@ This internal checklist records the public-facing information currently used on 
 
 ## Published for CPAL 2027
 
-- Verified CPAL 2027 OpenReview Proceedings, Recent Spotlight, and Rising Stars links, with homepage quick-access buttons.
+- Verified CPAL 2027 OpenReview Proceedings, Recent Spotlight, Tutorial, and Rising Stars links, with homepage quick-access buttons.
 
 - Conference: the Fourth Conference on Parsimony and Learning.
 - Dates: March 23–26, 2027.
@@ -25,7 +25,6 @@ This internal checklist records the public-facing information currently used on 
 
 ## Links/details still to insert when available
 
-- Tutorial proposal form URL.
 - Registration portal, fees, and cancellation policy.
 - Keynote talk titles, abstracts, speaker biographies, and final conference program.
 - Accommodation blocks, sponsors, institutional hosts, and detailed on-site room/catering instructions.

@@ -28,6 +28,10 @@ Tutorials should be broadly appealing to the CPAL community and accessible to Ph
 
 ## Submission Guidelines
 
+Submit your tutorial proposal through **OpenReview**:
+
+[Tutorial Track · Submit a Proposal](https://openreview.net/group?id=CPAL.cc/2027/Tutorial_Track){: .btn .btn-primary }
+
 Tutorial proposals should contain:
 
 - **Title**
@@ -36,7 +40,7 @@ Tutorial proposals should contain:
 - **Target audience:** the intended audience and expected background.
 - **Presenters:** for each presenter, name, affiliation, email address, and a short bio, together with an explanation of how presentation time will be divided.
 
-All presenters are expected to attend in person. The tutorial proposal form will be linked from this page and the CPAL 2027 website.
+All presenters are expected to attend in person. Proposals must be submitted through the Tutorial Track OpenReview portal linked above.
 
 ## Selection Criteria
 

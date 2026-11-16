@@ -24,6 +24,7 @@ to be held at **Hitotsubashi Hall in Tokyo, Japan**.
 [Recent Spotlight Track](https://openreview.net/group?id=CPAL.cc/2027/Recent_Spotlight_Track){: .btn .mb-4 }
 
 [Rising Stars Award · Apply on OpenReview](https://openreview.net/group?id=CPAL.cc/2027/Rising_Stars_Track){: .btn .mb-4 }
+[Tutorial Track · Submit a Proposal](https://openreview.net/group?id=CPAL.cc/2027/Tutorial_Track){: .btn .mb-4 }
 
 ## Call for Papers
 

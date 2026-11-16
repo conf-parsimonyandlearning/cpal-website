@@ -16,6 +16,12 @@ See the [Submission Tracks]({{ site.baseurl }}/call_for_papers/#submission-track
 [Proceedings Track · OpenReview](https://openreview.net/group?id=CPAL.cc/2027/Proceedings_Track){: .btn .btn-primary }
 [Recent Spotlight Track · OpenReview](https://openreview.net/group?id=CPAL.cc/2027/Recent_Spotlight_Track){: .btn }
 
+## Tutorial proposals
+
+[Tutorial Track · OpenReview](https://openreview.net/group?id=CPAL.cc/2027/Tutorial_Track){: .btn }
+
+See the [Call for Tutorials]({{ '/call_for_tutorials/' | relative_url }}) for proposal requirements and the tutorial timeline.
+
 ## Rising Stars Award applications
 
 [Rising Stars Award · OpenReview](https://openreview.net/group?id=CPAL.cc/2027/Rising_Stars_Track){: .btn }
