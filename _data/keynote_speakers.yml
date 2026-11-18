@@ -1,3 +1,13 @@
+- name: "Randall Balestriero"
+  surname: "Balestriero"
+  affiliation: "Brown University"
+  website: "https://cs.brown.edu/people/faculty/rbalestr/"
+  photo: "randall-balestriero.jpg"
+  photo_position: "50% 35%"
+  photo_scale: 1
+  photo_x: "0%"
+  photo_y: "0%"
+  source: "https://cs.brown.edu/people/faculty/rbalestr/"
 - name: "Bruno A. Olshausen"
   surname: "Olshausen"
   affiliation: "University of California, Berkeley"
